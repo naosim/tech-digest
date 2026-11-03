@@ -1,0 +1,22 @@
+[
+  {
+    "id": "zenn-typescript",
+    "name": "Zenn (TypeScript)",
+    "url": "https://zenn.dev/topics/typescript/feed"
+  },
+  {
+    "id": "qiita-popular",
+    "name": "Qiita Popular",
+    "url": "https://qiita.com/popular-items/feed"
+  },
+  {
+    "id": "aws-whats-new",
+    "name": "AWS What's New",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/"
+  },
+  {
+    "id": "hatena-hotentry-it",
+    "name": "はてなブックマーク IT 人気記事",
+    "url": "https://b.hatena.ne.jp/hotentry/it.rss"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "b536b8b6d4f72ae0",
+    "title": "シフト自動作成を3方式で作り直して分かった、貪欲法が破り続けていたルール",
+    "url": "https://zenn.dev/playpark/articles/shift-scheduling-llm-vs-greedy-vs-mip-solver",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-03T18:59:41.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "4ace2b7203e41867",
+    "title": "アカウント1つで70+モデルを選べる、OSSのデスクトップAIアシスタント AnyModelBot を作った",
+    "url": "https://zenn.dev/anymodelbot/articles/12846885317500",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-03T16:33:57.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "06249118f87ed2f8",
+    "title": "Goの関数をTypeScriptからimportする【Content Mapper実用編】",
+    "url": "https://zenn.dev/p_jzd/articles/go-ts-content-mapper",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-03T15:51:35.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "74e35d0831995642",
+    "title": "SVGで構成図エディタを作る：直角ルーティングとグループ移動の実装と踏んだ罠",
+    "url": "https://zenn.dev/a1221/articles/architecture-diagram-svg-orthogonal-routing",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-03T14:37:55.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1362fca56644d311",
+    "title": "人間がレビューしやすい型安全な状態フローの生成【Content Mapperで遊ぶ】",
+    "url": "https://zenn.dev/p_jzd/articles/mermaid-machine-content-mapper",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-03T13:49:50.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "2fc092194d72fcf2",
+    "title": "個人開発のモノレポ。iOS と Web と API を 1 つのリポジトリで育てて Cloudflare Workers に配備する",
+    "url": "https://zenn.dev/honeymarron/articles/oshitecho-monorepo-ios-web-api-cloudflare",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-03T10:38:09.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "07db959691b17617",
+    "title": "足せば劣化版、削れば伝わらないメモアプリの設計",
+    "url": "https://zenn.dev/xxxxholica/articles/8hour-ephemeral-memo-design",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-03T09:01:46.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1267116ebfdaf779",
+    "title": "Supabaseの匿名ログインで「登録なしで試す」を作って、登録時にそのまま引き継ぐ",
+    "url": "https://zenn.dev/tomoki_dojo/articles/kuwatan-guest-anonymous-login",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-03T03:39:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8fe839675c7311c0",
+    "title": "ブラウザで TB-303 作ってみたけど、やっぱり実機には勝てないなと思った話",
+    "url": "https://zenn.dev/verytired/articles/8971027ce7bdaa",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-03T02:29:51.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "c6b2e285c33a73e6",
+    "title": "デザインパターンのStrategyパターンを学ぶ:自動販売機の支払い差し替え",
+    "url": "https://zenn.dev/satoru_o/articles/559fc63c55fdf9",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-03T01:33:54.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "33bf20452d39120d",
+    "title": "片方だけ保存されても壊れない：処理IDと追記方式でPrismaと外部APIをまたぐ保存を設計する",
+    "url": "https://zenn.dev/elletech/articles/46b95a7f41efe3",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-02T22:51:33.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "de5dc5949ec179d8",
+    "title": "【総合テスト・E2Eテスト】Playwrightの使い方【自動テスト】",
+    "url": "https://zenn.dev/mshrynzw/articles/05ec8f94c1edc7",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-02T15:00:05.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "ca634f20ac6cab68",
+    "title": "EVM simulationが成功しても止める：AIエージェントのALLOW・WARN・BLOCK設計",
+    "url": "https://zenn.dev/rinku/articles/evm-simulation-policy-decisions",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-02T13:41:42.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "29f446015baa0d7e",
+    "title": "TSKaigi Sendai 2026の登壇にあたってのチャレンジ&工夫",
+    "url": "https://zenn.dev/tk_99510/articles/4da8c491984e27",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-02T10:24:02.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "08480c4b7811b4a9",
+    "title": "【LLMOps】FDEの開発を支えるトレーシング基盤の開発",
+    "url": "https://zenn.dev/aishift/articles/e761cff4f079cd",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-02T09:00:08.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "97da3b6c33b24e64",
+    "title": "テレメトリ駆動で開始直後の離脱を減らすゲーム設計",
+    "url": "https://zenn.dev/xxxxholica/articles/gamecenter-telemetry-gamedev",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-02T08:55:51.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "b574d3e01b73ad81",
+    "title": "Vercel AI Gateway入門：1つのキーで複数モデルを使い、エラーに強いAI機能を作る",
+    "url": "https://zenn.dev/mugend_ai/articles/4319eb0877822f",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-02T07:53:56.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1edc26ae76959ac5",
+    "title": "GitHub Copilot の過去のセッションをローカルで検索できる copilotview をリリースしました",
+    "url": "https://zenn.dev/mahata/articles/copilotview-release",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-02T06:41:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "5b2a3697fcaf2f37",
+    "title": "【Part4】【No.019】オブジェクトstateの部分更新 ― 一部だけ変えたつもりの失敗から学ぶスプレッドの落とし穴の最低限",
+    "url": "https://zenn.dev/penguinengineer/articles/9fb6df2c0a0dc3",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-02T06:07:18.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f137aeb91e5fa06b",
+    "title": "TanStack Chartsとは？グラフをクリックすると明細が変わるUIを作ってみた",
+    "url": "https://zenn.dev/gemcook/articles/about-tanstack-charts",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-02T03:39:06.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "3f599ff5a2872ea3",
+    "title": "営業こそコミュニティでは「No sell」でいよう",
+    "url": "https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T04:13:45.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "2f3a9826d577ff98",
+    "title": "生成 AI が進化する今こそ、「人材育成」が経営の重要課題ではないか",
+    "url": "https://qiita.com/Takashi_Masumori/items/3c3091a6142d3e05385b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-01T23:53:15.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "c1dfe0271feee289",
+    "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
+    "url": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-01T08:41:55.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "736ab6aaa6b3a0b1",
+    "title": "⚪︎⚪︎はしないで！AI エージェントの行動を制限する 5 つの方法を、守られる強さで比べた",
+    "url": "https://qiita.com/songchong/items/945479177d4dcbb80f69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T19:35:02.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f29e78b3e57da413",
+    "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜",
+    "url": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-01T14:05:25.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "6a08c6ce57253d2d",
+    "title": "[AWS]日本語OCRがついにきちゃー！ ~Textractにいろいろ読ませてみた~",
+    "url": "https://qiita.com/kikuziro/items/9aff0fefe89cfa13192e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T13:54:09.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "9e14b2c60ba12e9b",
+    "title": "ナレッジグラフを自動生成!?Oracle AI Database 26aiの23.26.4で追加されたGraphRAG機能を試してみた",
+    "url": "https://qiita.com/ssfujita/items/62b9502167c97f898b90?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T03:31:46.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "6eb87896eee1d44e",
+    "title": "S3への画像アップロード、署名付きPUTとPOSTはどう使い分ける？",
+    "url": "https://qiita.com/pengin_r/items/d3f3fbe1b4ba1e648ed7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T08:30:25.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "c4b4106707aae271",
+    "title": "【Vue.js_1時間入門⏰】1時間でローカル環境の構築からシンプルなカウンターアプリを作るまで🔢【初心者向け】",
+    "url": "https://qiita.com/saito_next/items/5c9c643228e33b3d6e3e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T08:58:47.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "3237a4d1901d9313",
+    "title": "Strataを使ってMac mini（32GB）でQwen3.8-Flash-Next（125B）を動かす",
+    "url": "https://qiita.com/eiji-noguchi/items/174b7557ffcdb932ca40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T21:47:01.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f1baccf10a710a5f",
+    "title": "Qiita Advent Calendar 2026のアップデートの紹介",
+    "url": "https://qiita.com/Qiita/items/64672279a5a83b739f7a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T06:10:19.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e5101c7e1eb1f9ed",
+    "title": "Claude CodeとArduino CLIは相性バツグン！時代はバイブIoTだー",
+    "url": "https://qiita.com/moritalous/items/744f13ec61892e9c520b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T02:14:37.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "23422e209eb7d5ad",
+    "title": "【AWS】GitHubのトラフィックを定期的に集計するダッシュボードを作ってみた",
+    "url": "https://qiita.com/yakumo_09/items/e3a3235210220486621d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T06:00:39.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "83f05f84ed0240a5",
+    "title": "インフラの開発環境構築を3ヶ月→1ヶ月にしたClaude Codeの使い方（AWS / ECS 9サービス）",
+    "url": "https://qiita.com/shainfra07/items/c149c06162ab1f3b136a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T12:25:03.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e2d6ff7672f0a543",
+    "title": "キャラに合う2D背景が見つからないので、Claude Codeにプロンプトを書かせてChatGPTで一から作った",
+    "url": "https://qiita.com/yasuharusmooth/items/450fe98c52ea6fc8b5a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T19:46:26.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "aca0f37ad0d78474",
+    "title": "AI から答えを取り上げた上長が、今度は評価から「コード」を取り上げることにした",
+    "url": "https://qiita.com/jksoft/items/e09426e5fbf291dcf146?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T12:54:50.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "cbec080aed669260",
+    "title": "防御側の LLM 活用：ログ分析・アラート一次対応・脅威インテリジェンスで「ログを入力として疑う」設計",
+    "url": "https://qiita.com/shalXXXX/items/5920c6ba75c2f1203f1b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T08:00:25.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8dea324ba6860507",
+    "title": "AIに証明を書かせてセキュアに開発できる言語 Tauto をリリースしました！",
+    "url": "https://qiita.com/ryo33/items/3a1a9d1ba2b289b23244?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-01T08:06:32.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "df1bb16c8368a9a1",
+    "title": "Claude Codeを導入して開発速度が5倍になったのに、なぜ私の疲労度は10倍になったのか",
+    "url": "https://qiita.com/xiaoy/items/c4340fda4f660e9c2e4b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T07:24:46.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "4f1a73e029c22616",
+    "title": "PHPの脆弱性「php2shell」が来たので、Amazonの公式パッケージを待たずにPHPを自分でビルドして本番に入れた話",
+    "url": "https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T11:05:13.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "a2cc1bf0912e2894",
+    "title": "Vitest, RTL導入メモ",
+    "url": "https://qiita.com/J-T_ky2g/items/711a6059a17a549edde0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T15:53:33.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "3accac97cba3dc89",
+    "title": "第5回 AIに頼みやすい単位で開発を分割するコツ（プロンプト設計の基本）",
+    "url": "https://qiita.com/oanda2/items/16ef492fb3daae0aabf7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T06:40:16.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "a6f422201aeb0c50",
+    "title": "第4回 Claude Code超入門：画面の見方とAIに「変えて」と頼む基本動作",
+    "url": "https://qiita.com/oanda2/items/c1a3ef6f21569dd56252?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T06:11:49.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "68d6eab481fd297e",
+    "title": "テストする側から創る側になって気づいたこと - 初めてSlackBotを制作した話",
+    "url": "https://qiita.com/Mihyang_Cho/items/498e916f68ea91b977c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T15:07:38.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "10c9477c854eeb70",
+    "title": "プロダクト検証基盤の整備に向けてテスト工程を支えるスキルを作成した",
+    "url": "https://qiita.com/Mihyang_Cho/items/dfa26f98b73326734943?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T15:06:48.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "9598f7921af6e34f",
+    "title": "OCI ロードバランサのドレインとオフラインでリクエストはどうなるか試してみた",
+    "url": "https://qiita.com/asahide/items/2be5e9495bb2ca8589f2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T09:02:14.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "ce721fff1b63bb93",
+    "title": "Claude Code でグラレコ風の「AWS構成管理 できることマップ」を作ってみた",
+    "url": "https://qiita.com/j_mori/items/98b075700d059b713aae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T15:02:51.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1b4bf4696bf11348",
+    "title": "Figma Motionで作ったUIアニメーションをCSSで再現してみた",
+    "url": "https://qiita.com/pengin_r/items/a13f3020137816bc532a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T08:30:40.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "02d55da360d6e3ab",
+    "title": "Microsoft Student Ambassadorsとは？ なり方を画面つきで解説！",
+    "url": "https://qiita.com/shahin0809/items/2365fbcb09411bb3e51c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T08:10:11.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "b3ef9d1d1bc69637",
+    "title": "テストが数十分かかる・固まる原因はiCloudだった",
+    "url": "https://qiita.com/hiroshi_buildup/items/4204953f2439f58425b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T02:08:22.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "c8310c9b7f20bf3a",
+    "title": "Amazon RDS for Oracle が 2026 年 9 月の月次推奨パッチをサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T21:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f6fc77a331bcabc5",
+    "title": "Amazon Bedrock AgentCore CLI バージョン 1.0 が利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T20:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "74fb064a8017c716",
+    "title": "AWS Lambda が Lambda Managed Instances で Seekable OCI (SOCI) による遅延読み込みをサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T18:44:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "a1c26244e0b5d7c2",
+    "title": "次世代の Amazon OpenSearch Serverless で時系列コレクションの提供を開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T18:35:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "4e1614a331330ff3",
+    "title": "Quick がエージェンティックアクションのスマート承認をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T18:28:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "45d45d2e5a2f606c",
+    "title": "Amazon EKS ダッシュボードでフリート全体の認証局 (CA) のローテーション状況を可視化可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T18:07:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "c7df7c7c703e8f5a",
+    "title": "Amazon ECS Managed Instances がクロスインスタンス統合とスポット統合を追加",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T18:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "42b0e6f6db56eac3",
+    "title": "AWS Lambda 永続関数が、実行に関するインサイトを得るためのライブテレメトリのエクスポートをサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/lambda-durable-telemetry/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T18:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1b8b04780d4b1704",
+    "title": "Amazon EKS Auto Mode が Kubernetes Gateway API をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T17:33:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "302e2f6f19238f68",
+    "title": "AWS Marketplace と Amazon Business の統合ストアフロントを発表",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/marketplace-business-storefront/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "6610905350917eb4",
+    "title": "AWS Backup が Amazon Redshift の復元テストをサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-backup-adds-redshift-restore-testing/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "206da9541bc3053c",
+    "title": "AWS IAM アイデンティティセンターのアイデンティティストアが Amazon EventBridge を通じた変更通知をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "29fef8ad310dec9f",
+    "title": "Amazon ECS が NVIDIA Multi-Process Service (MPS) による GPU 共有をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-27T23:31:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "3473c34dbb34d394",
+    "title": "Amazon Connect Customer が添付ファイルのインラインプレビューをサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/connect-attachment-previews/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-27T19:15:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e1ebe451bd42d15a",
+    "title": "Amazon ElastiCache のデータ階層化が欧州 (スペイン) とアジアパシフィック (ハイデラバード) の R8gd ノードと R7gd ノードに拡大",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/09/elasticache-data-tiering-spain/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-27T15:25:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "6d1579d9734f1789",
+    "title": "Amazon ElastiCache for Valkey が既存クラスターの耐久性設定の変更をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/elasticache-changing-durability/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-27T15:21:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "0b043c6556ead92b",
+    "title": "Amazon Neptune がストレージを回収するためのオンラインインデックス再構築をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/neptune-online-index-rebuild/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-27T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8d584f94c54d5a9c",
+    "title": "Amazon ECR が既存のコンテナイメージのレプリケーションバックフィルをサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-26T20:24:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "02205a577ae77858",
+    "title": "OpenAI の GPT-6.1 Terra が Amazon Bedrock で一般提供開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-26T18:27:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "6b7662ab9d9ab5f8",
+    "title": "Amazon WorkSpaces Core マネージドインスタンスが ModifyVolume API をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-26T18:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "fbe3b6aee103d398",
+    "title": "Amazon SageMaker Unified Studio に IDC ベースのドメインのライトモードサポートが追加",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/smus-light-mode",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-26T15:32:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "a10fde21b89157a9",
+    "title": "Amazon Connect Customer がテストとシミュレーションを拡張し、フローアクションの結果を検証可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-26T15:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "3dd9ca278842e14e",
+    "title": "Amazon Connect Customer で顧客ライフタイムバリューとリピート発信者のステータス別にメトリクスを表示可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/connect-customer-boma-segment/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-26T13:47:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "3d8add393560712f",
+    "title": "Amazon Connect Customer で顧客維持と収益につながる成果の測定が可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/connect-customer-boma-metrics/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-26T13:31:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "0a0e26c2033d19ab",
+    "title": "AWS IAM アイデンティティセンターがクロスリージョンの信頼できる ID の伝播をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-26T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1ac8a089c8a79477",
+    "title": "Amazon EC2 Auto Scaling がインスタンス置き換え時の「終了前の起動」をアカウントレベルでサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-26T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8aec5e07edeb8b9a",
+    "title": "AWS Elemental MediaConnect Router がエンドポイント接続管理をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/mediaconnect-cross-account-endpoints/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-26T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "9c12b2d7d2bc87a0",
+    "title": "AWS Key Management Service がポスト量子キーカプセル化のための ML-KEM をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-26T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "24a0b1f5b84ed811",
+    "title": "Amazon RDS が Microsoft SQL Server の最新の累積更新プログラムおよび GDR 更新プログラムをサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-26T07:30:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "7e6d73f12f998a79",
+    "title": "AWS Glue データカタログが Apache Iceberg REST Catalog API の OAuth をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/glue-catalog-oauth-iceberg-rest/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-26T04:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "c40d7bca8a775712",
+    "title": "AWS Bedrock でのウェブ検索向けにドメインフィルタリングとユーザーの場所機能をリリース",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-23T21:04:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "6dc67adb4d1bbb7a",
+    "title": "Amazon Connect Customer Global Resiliency が、連携された AWS リージョン間での永続的なチャットをサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-23T17:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "d1e8af3aac7aa5ae",
+    "title": "AWS Transit Gateway と AWS Cloud WAN が 1:1 NAT をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-23T15:43:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1fc570fdd05b4e0b",
+    "title": "Amazon Corretto の 2026 年 10 月における四半期更新情報",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-23T14:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "dd26b8cde326a274",
+    "title": "Amazon EMR on EKS が EMR の料金を 30% 削減",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-23T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "9c31da38b9c2004c",
+    "title": "Amazon MWAA がメキシコ (中部) リージョンで利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-23T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "055fe85acab12231",
+    "title": "Amazon Connect Customer でエージェントワークスペースにおける Customer Profiles アプリケーションのカスタマイズのサポートを開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/connect-customer-customize-cp",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-22T21:10:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "be26e2a0a08dadc8",
+    "title": "AWS Continuum for code vulnerabilities の一般提供を開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-22T21:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "2b749b00053e706f",
+    "title": "Amazon OpenSearch Service が Amazon S3 内のログおよびドキュメント向けのインテリジェントインジェストを導入",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-opensearch-intelligent-ingestion-logs-documents-s3",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-22T20:54:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "965a85a60ea7e4d7",
+    "title": "Amazon OpenSearch Serverless でデフォルトの更新間隔を 5 秒に設定可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-22T18:34:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e96aef34d92b4b85",
+    "title": "AWS CloudFormation がスタック更新のロールバック操作を簡素化",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-cloudformation-cdk/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-22T17:30:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "119b59a87c51f0a7",
+    "title": "Amazon SageMaker AI でサーバーレスモデルカスタマイズ向けのトレーニングセッション API の提供を開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-22T16:30:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "002f87829a8b43d5",
+    "title": "AWS Direct Connect がインドのバンガロールで 100G の拡張を発表",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-direct-connect-100g-bangalore/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-22T16:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "568c32782f298f6c",
+    "title": "Amazon MSK Connect がコネクタの一時停止と再開をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-msk-connect-pause-resume",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-22T15:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f2a1d69d8731c7af",
+    "title": "AWS が Megaport と連携した AWS Interconnect - last mile のプレビューを発表",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-22T12:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "0603650ddbc9b43d",
+    "title": "Amazon SageMaker AI で Muse Glimmer、Qwen 3.8、Ministral 3 モデルのサーバーレスモデルカスタマイズのサポートを開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-22T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "85577bc55fbe769e",
+    "title": "AgentCore Gateway で Bedrock InvokeModel API およびモデルフォールバックのサポートを開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/agentcore-gateway-invokemodel-fallback/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-22T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "394d1ccf69b94e7f",
+    "title": "AWS Lambda MicroVMs が、新たに 4 つの AWS リージョンで利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/lambda-microvms-4-additional-regions",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-22T07:06:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "d384122e931844cf",
+    "title": "Amazon Quick が AWS シンガポールリージョンで利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-quick-now-available-in-the-aws-singapore-region/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-22T07:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "fe07a86696c73d50",
+    "title": "AWS Transform が Amazon S3、EBS、EFS、FSx へのストレージ移行評価を追加",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-21T19:10:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "c1253c3e33d315ec",
+    "title": "AWS Service Reference Information でグローバル条件キー、サービス名、データプレーンの分類のサポートを開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-service-reference-information-global-condition-keys-service-names-data-plane/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-21T18:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "bb5ef01bb086d9eb",
+    "title": "AWS Direct Connect がイングランドのマンチェスターで 100G の拡張を発表",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-21T17:21:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "ab09439788a8de6d",
+    "title": "Amazon Cognito がマルチリージョンレプリケーションを AWS GovCloud (米国) リージョンに拡大",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-21T17:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "fd013ea02bedf26f",
+    "title": "Amazon Aurora と Amazon RDS がオンデマンドキャパシティ予約をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-21T17:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "4989e83bde4c404a",
+    "title": "Reflection が開発した Beam モデルを Amazon SageMaker JumpStart と AWS Trainium で提供開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-21T15:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "5659eb6b00c7b851",
+    "title": "AWS Neuron 2.33 がネイティブ PyTorch サポート、Neuron Observer、その他の新機能を追加",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-21T15:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8aaf410addae4e81",
+    "title": "Amazon Connect Customer がエージェントワークスペース向けに 2 つの新しいレイアウトを提供開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/connect-customer-new-layouts-agent-workspace",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-21T13:48:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e8497d5c4d726705",
+    "title": "Amazon CloudWatch Logs への Amazon S3 サーバーアクセスログの配信が新たに 5 つの AWS リージョンで利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-s3-server-access-logs-cloudwatch-logs-regions/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-21T13:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "56e405efda89907b",
+    "title": "AWS Network Firewall が Route 53 解決済み IP 検証をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-21T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "281290ab4835bcbb",
+    "title": "AWS Transform が新しいネットワークの構築とセキュリティグループのモダナイズに対応",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-transform-new-networks/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-21T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "9d1fa4f5946d1262",
+    "title": "Amazon SageMaker AI がサーバーレスモデルカスタマイズジョブでカスタムシーケンス長をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-21T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "06dfa9cbc489d3fc",
+    "title": "ECS サービス向けのマネージド型イングレスソリューションである Amazon ECS Gateway を発表",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T23:26:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e59b2aee1908344a",
+    "title": "Amazon DynamoDB グローバルテーブルでレプリカの関連付け解除をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/dynamodb-global-tables-disassociate/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T23:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "dae3c10be81ef7b9",
+    "title": "Amazon WorkSpaces が、エンタープライズクラウドデスクトップへの AI エージェントの安全なアクセスを簡素化し、運用および管理するインフラストラクチャを削減",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/workspaces-ai-agents-oauth-connection-management",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T17:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "a5e44667b133e8c5",
+    "title": "Polly Generative エンジンがアップグレードされ、より自然な話し方、14 種類の新しい音声、2 つの新言語が追加",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/polly-generative/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T15:32:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "a1a7adc1c9ec00a7",
+    "title": "AWS が TorchNeuron を発表: AWS Trainium のネイティブ PyTorch サポート (パブリックベータ版)",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T15:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "fb5001be0c5ebc72",
+    "title": "Amazon Bedrock で Claude モデルの構造化出力が利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T14:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8d951c1b6ff28d9e",
+    "title": "AWS Clean Rooms がデータソースとして Databricks のサポートを開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T12:23:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "d36284839900f958",
+    "title": "AWS Transform for migrations が既存のランディングゾーンに対するサポートを拡大",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-transform-migrations-landing-zones/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1cada468993fdd23",
+    "title": "AWS パートナーセントラルが Program Navigator、Case Study Generator、および簡素化された専門認定審査機能をリリース",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/partner-central-program-navigator/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "c433491d4fe89703",
+    "title": "AWS IAM アイデンティティセンターが Active Directory からの ID ソース変更を簡素化",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "0e566d740c596842",
+    "title": "Amazon Bedrock Guardrails がコンテキストグラウンディングチェックの Standard ティアをサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "c6640d82075039f9",
+    "title": "Amazon Bedrock Advanced Prompt Optimization がプロンプトの短縮をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e239bd42ecd3d3a1",
+    "title": "Amazon CloudWatch アラームがアラームアクションのペイロード内のタグをサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-cloudwatch-tags-on-alarm-actions-payload",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "d9c92ea293281955",
+    "title": "Amazon ElastiCache Serverless for Valkey がゼロダウンタイムのオンライン移行をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-20T07:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1c7c3c49ddbe88bd",
+    "title": "Amazon Connect Customer Global Resiliency で、ビジネスユーザーはリンクされたリージョン間における回復性の準備状況を可視化できるようになりました",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-19T21:45:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "d129b57d1e9a5d45",
+    "title": "Amazon CloudWatch Omni がいくつかの AWS リージョンで新たに提供開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-19T19:10:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "0132f6c2579eb737",
+    "title": "EC2 Image Builder が ASG と統合され、より高速なイメージビルドが可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ec2-image-builder-asg-faster-builds/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-19T17:30:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "b532f9017a6f8e67",
+    "title": "Amazon GuardDuty に Runtime Monitoring 用のオプションの脅威検出ルールが追加",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-19T16:01:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1cba186201d1dc2a",
+    "title": "Grok 4.7 が AWS GovCloud (米国) の Amazon Bedrock で利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-bedrock-grok-4-7-govcloud/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-19T13:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "6a20cd2598907ca5",
+    "title": "AWS Elemental MediaConnect Router が高ビットレートモードをサポート開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/mediaconnect-router-high-bitrate/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-19T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "0ca5114be5dc09af",
+    "title": "AWS IAM アイデンティティセンターがアイデンティティストアにおけるユーザーとグループの楽観的ロックをサポート開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/iam-identity-store-optimistic-locking/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-19T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8ef40abbc931f774",
+    "title": "Amazon RDS Custom で Microsoft SQL Server の最新の Cumulative Update および GDR 更新プログラムのサポートを開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-19T07:30:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "903fd6b978d62bb4",
+    "title": "Amazon RDS for SQL Server がリードレプリカでのスナップショット作成をサポート開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/rds-sqlserver-supports-snapshots-on-read-replicas",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-19T07:01:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "5137889a7afd4887",
+    "title": "AWS パートナーセントラルが Solution Matching Engine のパフォーマンスインサイトを追加",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/solution-matching-engine-performance",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-17T03:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "222174ab36c3f8d0",
+    "title": "AWS GovCloud と追加の商用リージョンで Amazon CloudWatch のログ一元化機能を提供開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-16T20:04:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "7c05b199399159ed",
+    "title": "Amazon EMR Serverless が IPv6 接続とデュアルスタック接続をサポート開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-emr-serverless/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-16T19:20:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "324ac913e0d80baf",
+    "title": "AWS Lambda 永続関数が新たに AWS GovCloud (米国) で利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/durablefunctions-govcloud/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-16T18:26:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "5615355b1e137e89",
+    "title": "Amazon SageMaker JumpStart で Nemotron 3.5 Super VL モデルの提供を開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-16T17:59:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "64dbdfc3775cdc2d",
+    "title": "AWS Transform で Azure から AWS へのクラウドネイティブコードの変換が可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-16T13:50:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "71b4eedd7a2fd194",
+    "title": "Amazon Braket が FedRAMP Class C の対象に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/braket-fedramp-class-c/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-16T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "35c85c23b2a7f643",
+    "title": "AWS メキシコ (中部) リージョンで第 2 世代の AWS Outposts ラックのサポートを開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-outposts-racks-mexico-central/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-16T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "dfdf79e729905f18",
+    "title": "AWS End User Messaging が Brand Profiles のサポートを開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-end-user-messaging-now-supports-brand-profiles",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-16T07:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "7b8937d12ad289ef",
+    "title": "AWS End User Messaging が登録機能を改善し、迅速かつ不備の少ない申請を支援",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-registration-improvements-for-faster-higher-quality-submissions",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-16T07:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "87da930d966e8cec",
+    "title": "AWS End User Messaging がエンドツーエンドのマネージド OTP 検証に対応",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-end-to-end-managed-OTP",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-16T07:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8bd3453c4f2ffa33",
+    "title": "AWS End User Messaging に RCS 登録用動画の作成手順を案内するウィザードが登場",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-guided-wizard-rcs-registration-videos",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-16T07:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1f7940565496a88d",
+    "title": "Amazon Bedrock AgentCore のウェブ検索が AWS GovCloud と 3 つのリージョンに拡大",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-15T20:40:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "29a64408f6f89f3b",
+    "title": "Amazon SageMaker Studio が新しいサインイン方法により、AI/機械学習の新規ビルダーの使用開始を簡素化",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-15T20:10:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "984c8de8e8527a1b",
+    "title": "Amazon EC2 T8i インスタンスが南米 (サンパウロ) で利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-15T20:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "ed571143373bb22d",
+    "title": "AWS Transform for migrations がアジアパシフィック (シンガポール) リージョンで利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-transform-singapore",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-15T19:24:00.000Z",
+    "status": "pending"
+  }
+]

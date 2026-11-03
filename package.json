@@ -1,0 +1,17 @@
+{
+  "name": "tech-digest",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch:rss": "tsx fetch-rss.ts",
+    "serve": "npx http-server . -p 8000"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}
