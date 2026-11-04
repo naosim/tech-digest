@@ -1,11 +1,553 @@
 [
   {
+    "id": "959e0b7850da497b",
+    "title": "ブラウザだけで動く360以上のファイルツール「OpenFile」を作りました",
+    "url": "https://zenn.dev/aniruddhaadak/articles/b792da6b825714",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-04T08:08:18.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--KkjHw2Sr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F360%25E4%25BB%25A5%25E4%25B8%258A%25E3%2581%25AE%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%258COpenFile%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Aniruddha%2520Adak%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E4OTk5ZjM3N2YuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "94a24c3673b7c3d0",
+    "title": "サーバーを持たずに、複数の Gmail を静かに通知する Chrome 拡張を作った",
+    "url": "https://zenn.dev/felixlyu/articles/87aec665d83bf2",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-04T07:57:03.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--MyNEdlhz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%2592%25E6%258C%2581%25E3%2581%259F%25E3%2581%259A%25E3%2581%25AB%25E3%2580%2581%25E8%25A4%2587%25E6%2595%25B0%25E3%2581%25AE%2520Gmail%2520%25E3%2582%2592%25E9%259D%2599%25E3%2581%258B%25E3%2581%25AB%25E9%2580%259A%25E7%259F%25A5%25E3%2581%2599%25E3%2582%258B%2520Chrome%2520%25E6%258B%25A1%25E5%25BC%25B5%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Felix%2520Lyu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlVuSVpiYjFURVJkZGVSLTIwVkk2WU1wMmNxNGE1NjRoQThmTnZNaVBlZWk4ZDMzVG09czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "5a78edba610e6050",
+    "title": "#208 コード上の依存関係を潰さず、推測を混ぜずに残す",
+    "url": "https://zenn.dev/nxted_sapporo/articles/ece798469b6845",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-04T04:46:28.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--JbzwDEX0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%2523208%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E4%25B8%258A%25E3%2581%25AE%25E4%25BE%259D%25E5%25AD%2598%25E9%2596%25A2%25E4%25BF%2582%25E3%2582%2592%25E6%25BD%25B0%25E3%2581%2595%25E3%2581%259A%25E3%2580%2581%25E6%258E%25A8%25E6%25B8%25AC%25E3%2582%2592%25E6%25B7%25B7%25E3%2581%259C%25E3%2581%259A%25E3%2581%25AB%25E6%25AE%258B%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:NXTEDCo.%252C%2520Ltd.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBmZjQzOTVhYzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "6ebd09f5d2d4a0ca",
+    "title": "【個人開発SaaS】Edge Functionsの「オープンメールリレー」と「cron認証バイパス」を塞いだ話",
+    "url": "https://zenn.dev/taski_app/articles/13-supabase-edge-functions-security-hardening",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-04T02:18:32.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--I2sJ9JWk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BASaaS%25E3%2580%2591Edge%2520Functions%25E3%2581%25AE%25E3%2580%258C%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%25AA%25E3%2583%25AC%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25A8%25E3%2580%258Ccron%25E8%25AA%258D%25E8%25A8%25BC%25E3%2583%2590%25E3%2582%25A4%25E3%2583%2591%25E3%2582%25B9%25E3%2580%258D%25E3%2582%2592%25E5%25A1%259E%25E3%2581%2584%25E3%2581%25A0%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A8%25E3%2582%2582%2520%252F%2520Taski%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhjNzFkMDUyNjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "205c4e04a350d036",
+    "title": "Astroのpublicに.htaccessを置かず、環境別のビルド先へ生成する",
+    "url": "https://zenn.dev/nadarakainc/articles/ceaecb2fdf5d33",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-04T01:52:49.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--8G0djVOH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Astro%25E3%2581%25AEpublic%25E3%2581%25AB.htaccess%25E3%2582%2592%25E7%25BD%25AE%25E3%2581%258B%25E3%2581%259A%25E3%2580%2581%25E7%2592%25B0%25E5%25A2%2583%25E5%2588%25A5%25E3%2581%25AE%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%25E5%2585%2588%25E3%2581%25B8%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:NADARAKAInc%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWRyZFd2em9tYk5VYnBwSXpTeXF1dmtVM09HSEJnbVpCSm5sSktMUC1Ua1cxT1hYN2I9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "adec265b51fa8050",
+    "title": "シフト表の自動作成を、貪欲法とシード固定の局所探索で作る",
+    "url": "https://zenn.dev/carecraft/articles/shift-schedule-local-search",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-04T00:00:06.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--AX5Qt_pG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2583%2595%25E3%2583%2588%25E8%25A1%25A8%25E3%2581%25AE%25E8%2587%25AA%25E5%258B%2595%25E4%25BD%259C%25E6%2588%2590%25E3%2582%2592%25E3%2580%2581%25E8%25B2%25AA%25E6%25AC%25B2%25E6%25B3%2595%25E3%2581%25A8%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%2589%25E5%259B%25BA%25E5%25AE%259A%25E3%2581%25AE%25E5%25B1%2580%25E6%2589%2580%25E6%258E%25A2%25E7%25B4%25A2%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B8%25AD%25E9%2587%258E%25EF%25BC%25A0CareCraft%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc3MDdiM2MzMmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "0b3999ffec2a6402",
+    "title": "oxlint 1.85とESLint 10を3,000ファイルで実測比較した結果",
+    "url": "https://zenn.dev/kurosaki_ren/articles/oxlint-eslint-3000-files-benchmark",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-03T22:54:52.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--GfBOoFit--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:oxlint%25201.85%25E3%2581%25A8ESLint%252010%25E3%2582%25923%252C000%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2581%25A7%25E5%25AE%259F%25E6%25B8%25AC%25E6%25AF%2594%25E8%25BC%2583%25E3%2581%2597%25E3%2581%259F%25E7%25B5%2590%25E6%259E%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%25BB%2592%25E5%25B4%258E%25E3%2582%258C%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhkMmM1Yzg4YTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "a7a9b79152562fcf",
+    "title": "どっちが人間？ AIで声をクローンして、本人と聞き比べてみた",
+    "url": "https://qiita.com/nakata-sapeet/items/f883c3cf009785c51bcc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-04T00:30:10.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "34792ac436cbe668",
+    "title": "2026年10月はパッチの魔女月だった。お化けが増えたのか、誰かが明かりをつけたのか",
+    "url": "https://qiita.com/figueiredoluiz/items/4021ff4e6281b73f2d86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-04T06:13:13.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "c5996ff275154ddb",
+    "title": "AWS IAMポリシーのAllowとDenyの違いを検証してみた",
+    "url": "https://qiita.com/AkiraTakasaki/items/e8f4f15d941a213a718f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-04T03:02:13.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "26dd970f23932a4b",
+    "title": "Oracle AI World 2026 振り返り：Larry Ellison、Sam Altmanらの6講演から、AIに仕事を任せる仕組みを整理してみてみた",
+    "url": "https://qiita.com/shirok/items/8225fd0ff29603549ab8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T22:40:08.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "a8f0665ae2252337",
+    "title": "そろそろ共通鍵暗号・公開鍵暗号についてちゃんと理解する",
+    "url": "https://qiita.com/tomo-ryo/items/7cbf2881a9c8c8cf3656?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-04T00:40:41.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e08dc531be70ebcc",
+    "title": "【Android】MapConductor で地図 SDK を 1 つの Compose コードで扱ってみた",
+    "url": "https://qiita.com/saitojo1106/items/f2fae92841948418e15e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-04T07:11:44.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "a0f5e4b8051422a3",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 40",
+    "url": "https://qiita.com/maskot1977/items/f7fdf091630675893b62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-04T04:52:01.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "41e4eafcb862f96d",
+    "title": "一つの糾弾が千の沈黙を生む ― チリングエフェクトの連鎖構造 : システム設計視点の行動経済学 (55)",
+    "url": "https://qiita.com/maskot1977/items/8f47d78ed86123298a6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-04T02:39:57.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "4680ebf3a6f7ada7",
+    "title": "「AIのレビューだけでマージ、正直まだ怖い」と思ってたけど、条件次第ならアリかもしれない話",
+    "url": "https://qiita.com/nobu34/items/a73129c6401ebae10960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T23:39:33.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "92034854c7814853",
+    "title": "【Curl】致命傷じゃないセキュリティ脆弱性はフルオープンにするわ",
+    "url": "https://qiita.com/rana_kualu/items/dd8e9a8e7d3759adf943?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-02T12:28:21.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "02045fea1734fe7e",
+    "title": "【心理的安全性】ギスギスした職場はなぜ危険か。AI企業で働く人の82%が会議で懸念を黙った経験があるらしい",
+    "url": "https://qiita.com/shinkai_/items/009e6bfbc5e44e2e535a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-03T23:02:30.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8145c496b268bde1",
+    "title": "2026年11月4日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "url": "https://qiita.com/ennagara128/items/07a86b6446de07491ecc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-04T01:30:47.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f0b7849b24f67f66",
+    "title": "2026年11月3日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+    "url": "https://qiita.com/ennagara128/items/ab995a8b9be2673bba2d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-04T01:30:27.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "abbe13270bd077ad",
+    "title": "AWS Marketplace ではパートナーが 1 回出品するだけで複数の子会社アカウントを通じて販売可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-29T20:12:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f88d06823d27004b",
+    "title": "Amazon RDS for Oracle/SQL Server が追加のストレージボリュームでのストレージの自動スケーリングをサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-29T18:06:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "24811cb29febb26c",
+    "title": "Amazon Aurora がポスト量子 TLS キー交換をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-29T16:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "a13d466dcc03139a",
+    "title": "Amazon MSK Connect がコネクタプラグインとワーカー設定の更新をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-29T15:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "2e509ae3e10c52c8",
+    "title": "Amazon SageMaker AI で SOCI インデックス付きイメージがサポートされ、トレーニングジョブを数秒で開始可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-29T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "d29a9577b3bbbf32",
+    "title": "AWS Backup が AWS European Sovereign Cloud でのクロスアカウント管理とクロスアカウントバックアップをサポート開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-backup-cross-account-esc/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-29T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "0fd66348cafd8404",
+    "title": "Amazon Managed Grafana が Grafana バージョン 13.2 へのインプレースアップグレードのサポートを開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-29T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "23ecbd25c3fdb9af",
+    "title": "AWS DataSync の拡張モードで Amazon FSx for Windows File Server、FSx for NetApp ONTAP、Red Hat OpenShift Virtualization のサポートが開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-29T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "20771640cfc03188",
+    "title": "ACM が AWS GovCloud (米国) でパブリック証明書の ACME をサポート開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-29T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "6ce53e5ef5a04b18",
+    "title": "AWS Step Functions ワークフローが AI エージェントツールとして利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-29T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "9666e7b7e69778ae",
+    "title": "Amazon DynamoDB Accelerator (DAX) が追加のリージョンで利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/dax-additional-regions/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-29T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "9a63d1f84efbaa13",
+    "title": "Amazon ElastiCache Serverless のパブリックエンドポイントが AWS GovCloud (米国) でサポート開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-elasticache-serverless-public-endpoints-govcloud/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T19:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "dc816e8eaa2ceff0",
+    "title": "AWS Agent Registry がさらに 4 つの AWS リージョンで利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-agent-registry-four-regions/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-28T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "d372364f7ff3901d",
+    "title": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261104de70494",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T09:17:59.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261104de70494"
+  },
+  {
+    "id": "49da81e783a40fde",
+    "title": "マッキンゼーが国に納品した資料2,446ページ、全部数えたらパターンは7つだけだった｜うちた",
+    "url": "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-03T15:24:33.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fuchita_success%2Fn%2Fnfc53d1ef5f81"
+  },
+  {
+    "id": "712bb0931f22a264",
+    "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か　Googleが取引停止",
+    "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T10:13:30.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F04%2F2000002884%2F"
+  },
+  {
+    "id": "a9f321cb339a3ebd",
+    "title": "ローカルAI最強エンジン「Strata」初心者向けガイド【チャットAIで動画やマンガを自動生成】 | ちもろぐ",
+    "url": "https://chimolog.co/strata-guide/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T09:44:17.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fchimolog.co%2Fstrata-guide%2F"
+  },
+  {
+    "id": "dc29d466fca56570",
+    "title": "RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に",
+    "url": "https://gigazine.net/news/20261104-ram-altman/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T07:56:21.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261104-ram-altman%2F"
+  },
+  {
+    "id": "ae464d9a4e435827",
+    "title": "E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み",
+    "url": "https://blog.kuniwak.com/entry/e2ebok",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-03T21:27:17.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.kuniwak.com%2Fentry%2Fe2ebok"
+  },
+  {
+    "id": "0de3a670e0b9e955",
+    "title": "Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。",
+    "url": "https://applech2.com/archives/20261104-hackers-compromised-homebrew-binance-attack.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T01:42:21.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fapplech2.com%2Farchives%2F20261104-hackers-compromised-homebrew-binance-attack.html"
+  },
+  {
+    "id": "1eb4bfffaa0668f6",
+    "title": "「ヘリの爆音で妻がノイローゼに」　GMO熊谷代表の「迷惑行為」を近隣住民が明かす　モデルを集めて「シャンパンパーティー」に「もう勘弁してほしい」 | デイリー新潮",
+    "url": "https://www.dailyshincho.jp/article/2026/11041149/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T05:17:34.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.dailyshincho.jp%2Farticle%2F2026%2F11041149%2F"
+  },
+  {
+    "id": "a59438ae79707030",
+    "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
+    "url": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T05:25:42.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fteam_zenn%2Farticles%2Fopencode-docker-actions-ai-pentest"
+  },
+  {
+    "id": "0f82c142af7d43b8",
+    "title": "日本語プログラミングフォント「Cyroit」とそのファミリー8種が一斉アップデート／「Inconsolata」＋「Circle M+」＋「BIZ UDゴシック」、コード特有の可読性にも配慮",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2153421.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T09:09:14.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2153421.html"
+  },
+  {
+    "id": "31a691b9b416f777",
+    "title": "ドコモ社長、5G基地局がKDDIやソフトバンクより少ない理由を説明",
+    "url": "https://japan.cnet.com/article/35254374/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T10:06:48.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254374%2F"
+  },
+  {
+    "id": "0eeddfca2d7bdb38",
+    "title": "アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う - Weekend Researcher Tsurezure Diary",
+    "url": "https://disconinja.hatenablog.com/entry/2026/11/03/230647",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-03T17:23:01.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdisconinja.hatenablog.com%2Fentry%2F2026%2F11%2F03%2F230647"
+  },
+  {
+    "id": "be56db241eca9ea7",
+    "title": "マスク氏、米中間選挙の民主党勝利に「肩すくめる」絵文字　共和党の巨額献金者",
+    "url": "https://www.cnn.co.jp/usa/35254380.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T09:10:35.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.cnn.co.jp%2Fusa%2F35254380.html"
+  },
+  {
+    "id": "1a9fedd23d9b0ef2",
+    "title": "MUJI Card 会員情報の流出の可能性に関するお知らせとお詫び | クレジットカードはセゾンカード",
+    "url": "https://www.saisoncard.co.jp/customer-support/information/20261104/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T09:21:10.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.saisoncard.co.jp%2Fcustomer-support%2Finformation%2F20261104%2F"
+  },
+  {
+    "id": "9761a7289d12a0ea",
+    "title": "無印良品の公式アプリの情報漏洩が、クレカの番号全桁などスケールが大きすぎるし、良品週間が終わったあとの報告にモヤモヤする",
+    "url": "https://togetter.com/li/2766561",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T09:38:49.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2766561"
+  },
+  {
+    "id": "b9652327188c3b68",
+    "title": "【やじうまPC Watch】 メモリ発言で物議のSam Altman氏、「Ram Altman」に改名",
+    "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2153619.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T08:45:28.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2Fyajiuma%2F2153619.html"
+  },
+  {
+    "id": "563a4a05e509c885",
+    "title": "【速報】グーグル、小中高で検索・AIの利用制限へ",
+    "url": "https://www.47news.jp/15183028.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T09:03:35.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.47news.jp%2F15183028.html"
+  },
+  {
+    "id": "99310cb6f433c820",
+    "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？　NECに聞いた",
+    "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002847/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-03T22:22:18.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F04%2F2000002847%2F"
+  },
+  {
+    "id": "47fe3603c058e6b7",
+    "title": "無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか　不正アクセスで続報",
+    "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002885/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T09:59:35.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F04%2F2000002885%2F"
+  },
+  {
+    "id": "d51e8184b0bb92be",
+    "title": "GPT-6 AstraでQwen3.5-0.8Bの重みを直接編集、数学スコアは約6倍に",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2153457.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T05:41:58.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2153457.html"
+  },
+  {
+    "id": "9fdc0628c0ff4deb",
+    "title": "優秀なテストエンジニアの特徴を調べた研究｜森崎 修司",
+    "url": "https://note.com/smorisaki/n/n8dd86d903e19",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T02:25:29.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fsmorisaki%2Fn%2Fn8dd86d903e19"
+  },
+  {
+    "id": "484a1632a2517432",
+    "title": "「海外モデルでも自前サーバで動かせば100％安全」ではない――チームみらい安野氏が指摘、国産モデルの必要性を強調",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002853/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T02:05:29.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Faiplus%2Farticle%2F2611%2F04%2F2000002853%2F"
+  },
+  {
+    "id": "fc17e1a8e6950ffe",
+    "title": "ビックカメラG、メールアドレスなど約1490万件漏えいの可能性　委託先への不正アクセスで",
+    "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002866/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T03:44:08.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F04%2F2000002866%2F"
+  },
+  {
+    "id": "a9a9a666e77b43b8",
+    "title": "回線悪用のサーバー無害化　警察庁、米グーグルと連携 | NEWSjp",
+    "url": "https://news.jp/i/1490641855482659408",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T09:55:58.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.jp%2Fi%2F1490641855482659408"
+  },
+  {
+    "id": "9513764f32587fe2",
+    "title": "情報漏えいの「おわびメール」が毎日届いてうんざり……漏れた情報別に“最低限やること”をまとめた",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2611/04/news087.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T10:40:47.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F04%2Fnews087.html"
+  },
+  {
+    "id": "f9ad2f2bbea59192",
+    "title": "【やじうまPC Watch】普通のドライブでCD/DVDの記録面に絵を焼く「Disc Image Studio」 - PC Watch",
+    "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2153436.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T04:01:10.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2Fyajiuma%2F2153436.html"
+  },
+  {
+    "id": "ef70237d1600ded1",
+    "title": "AIにQAの判断を任せる：AIによるトリアージ精度を2倍にするQAコンテキスト設計 - Tabelog Tech Blog",
+    "url": "https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T03:03:51.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftech-blog.tabelog.com%2Fentry%2Fconnecting-qa-data-for-ai-driven-test-repair"
+  },
+  {
+    "id": "6e799319139dca05",
+    "title": "ロシア企業がドローン攻撃を受けて地下データセンターの建設を計画",
+    "url": "https://gigazine.net/news/20261104-russia-underground-data-center/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T04:33:53.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261104-russia-underground-data-center%2F"
+  },
+  {
+    "id": "4e7840018d5829bb",
+    "title": "「GPT-6 AstraがQwen3.5-0.8Bの重みを書き換えて数学性能を約6倍に改善した」との研究結果、ただし「誤解を招く」との批判も",
+    "url": "https://gigazine.net/news/20261104-gpt-6-astra-qwen-weight-space-programming/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T03:46:44.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261104-gpt-6-astra-qwen-weight-space-programming%2F"
+  },
+  {
+    "id": "2e4a9332025fddf5",
+    "title": "高市早苗が細野豪志に手を重ねている画像はAIによる偽画像だよ - 電脳塵芥",
+    "url": "https://nou-yunyun.hatenablog.com/entry/2026/11/04/130000",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T04:29:55.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnou-yunyun.hatenablog.com%2Fentry%2F2026%2F11%2F04%2F130000"
+  },
+  {
     "id": "b536b8b6d4f72ae0",
     "title": "シフト自動作成を3方式で作り直して分かった、貪欲法が破り続けていたルール",
     "url": "https://zenn.dev/playpark/articles/shift-scheduling-llm-vs-greedy-vs-mip-solver",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-03T18:59:41.000Z",
-    "status": "pending"
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3m_duuGF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2583%2595%25E3%2583%2588%25E8%2587%25AA%25E5%258B%2595%25E4%25BD%259C%25E6%2588%2590%25E3%2582%25923%25E6%2596%25B9%25E5%25BC%258F%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258A%25E7%259B%25B4%25E3%2581%2597%25E3%2581%25A6%25E5%2588%2586%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2580%2581%25E8%25B2%25AA%25E6%25AC%25B2%25E6%25B3%2595%25E3%2581%258C%25E7%25A0%25B4%25E3%2582%258A%25E7%25B6%259A%25E3%2581%2591%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:playpark%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QyMjY2NmExMzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "4ace2b7203e41867",
@@ -13,7 +555,8 @@
     "url": "https://zenn.dev/anymodelbot/articles/12846885317500",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-03T16:33:57.000Z",
-    "status": "pending"
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ZzgStVbN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A2%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%25881%25E3%2581%25A4%25E3%2581%25A770%252B%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592%25E9%2581%25B8%25E3%2581%25B9%25E3%2582%258B%25E3%2580%2581OSS%25E3%2581%25AE%25E3%2583%2587%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2583%25E3%2583%2597AI%25E3%2582%25A2%25E3%2582%25B7%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2588%2520AnyModelBot%2520%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:AnyModelBot%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvYS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "06249118f87ed2f8",
@@ -21,7 +564,8 @@
     "url": "https://zenn.dev/p_jzd/articles/go-ts-content-mapper",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-03T15:51:35.000Z",
-    "status": "pending"
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--jJNYrrvI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Go%25E3%2581%25AE%25E9%2596%25A2%25E6%2595%25B0%25E3%2582%2592TypeScript%25E3%2581%258B%25E3%2582%2589import%25E3%2581%2599%25E3%2582%258B%25E3%2580%2590Content%2520Mapper%25E5%25AE%259F%25E7%2594%25A8%25E7%25B7%25A8%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:himetan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM2ZGY5YjI0YzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "74e35d0831995642",
@@ -29,7 +573,8 @@
     "url": "https://zenn.dev/a1221/articles/architecture-diagram-svg-orthogonal-routing",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-03T14:37:55.000Z",
-    "status": "pending"
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ldmJlhtt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SVG%25E3%2581%25A7%25E6%25A7%258B%25E6%2588%2590%25E5%259B%25B3%25E3%2582%25A8%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BF%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25EF%25BC%259A%25E7%259B%25B4%25E8%25A7%2592%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A8%25E3%2582%25B0%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E7%25A7%25BB%25E5%258B%2595%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%25A8%25E8%25B8%258F%25E3%2582%2593%25E3%2581%25A0%25E7%25BD%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "1362fca56644d311",
@@ -37,7 +582,8 @@
     "url": "https://zenn.dev/p_jzd/articles/mermaid-machine-content-mapper",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-03T13:49:50.000Z",
-    "status": "pending"
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vPUliX7Y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%258C%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2597%25E3%2582%2584%25E3%2581%2599%25E3%2581%2584%25E5%259E%258B%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25AA%25E7%258A%25B6%25E6%2585%258B%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2581%25AE%25E7%2594%259F%25E6%2588%2590%25E3%2580%2590Content%2520Mapper%25E3%2581%25A7%25E9%2581%258A%25E3%2581%25B6%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:himetan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM2ZGY5YjI0YzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "2fc092194d72fcf2",
@@ -45,7 +591,8 @@
     "url": "https://zenn.dev/honeymarron/articles/oshitecho-monorepo-ios-web-api-cloudflare",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-03T10:38:09.000Z",
-    "status": "pending"
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--maAEfU4c--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E3%2583%25A2%25E3%2583%258E%25E3%2583%25AC%25E3%2583%259D%25E3%2580%2582iOS%2520%25E3%2581%25A8%2520Web%2520%25E3%2581%25A8%2520API%2520%25E3%2582%2592%25201%2520%25E3%2581%25A4%25E3%2581%25AE%25E3%2583%25AA%25E3%2583%259D%25E3%2582%25B8%25E3%2583%2588%25E3%2583%25AA%25E3%2581%25A7%25E8%2582%25B2%25E3%2581%25A6%25E3%2581%25A6%2520Cloudflare%2520Work...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:honeymarron%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxMTJlNmY3ODkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "07db959691b17617",
@@ -53,7 +600,8 @@
     "url": "https://zenn.dev/xxxxholica/articles/8hour-ephemeral-memo-design",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-03T09:01:46.000Z",
-    "status": "pending"
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--OIkjbxCk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25B6%25B3%25E3%2581%259B%25E3%2581%25B0%25E5%258A%25A3%25E5%258C%2596%25E7%2589%2588%25E3%2580%2581%25E5%2589%258A%25E3%2582%258C%25E3%2581%25B0%25E4%25BC%259D%25E3%2582%258F%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2583%25A1%25E3%2583%25A2%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:xxxxholica%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxM2YwMDQ1YTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "1267116ebfdaf779",
@@ -61,7 +609,8 @@
     "url": "https://zenn.dev/tomoki_dojo/articles/kuwatan-guest-anonymous-login",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-03T03:39:00.000Z",
-    "status": "pending"
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--WnGKdZxe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Supabase%25E3%2581%25AE%25E5%258C%25BF%25E5%2590%258D%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25A7%25E3%2580%258C%25E7%2599%25BB%25E9%258C%25B2%25E3%2581%25AA%25E3%2581%2597%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2599%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581%25E7%2599%25BB%25E9%258C%25B2%25E6%2599%2582%25E3%2581%25AB%25E3%2581%259D%25E3%2581%25AE%25E3%2581%25BE%25E3%2581%25BE%25E5%25BC%2595%25E3%2581%258D%25E7%25B6%2599%25E3%2581%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A9%25E3%2583%25BC%25E3%2581%2598%25E3%2582%2587%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRjYTQxNTJjZjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "8fe839675c7311c0",
@@ -69,7 +618,8 @@
     "url": "https://zenn.dev/verytired/articles/8971027ce7bdaa",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-03T02:29:51.000Z",
-    "status": "pending"
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--7RuHhDv9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A7%2520TB-303%2520%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2581%2591%25E3%2581%25A9%25E3%2580%2581%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25B1%25E3%2582%258A%25E5%25AE%259F%25E6%25A9%259F%25E3%2581%25AB%25E3%2581%25AF%25E5%258B%259D%25E3%2581%25A6%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AA%25E3%2581%25A8%25E6%2580%259D%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:very%2520tired%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2ptTUR2MjJ3UXM0cG9SQnZ4Z0lla2F3dENWaDZkakhSdk5aRF9YPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "c6b2e285c33a73e6",
@@ -77,7 +627,8 @@
     "url": "https://zenn.dev/satoru_o/articles/559fc63c55fdf9",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-03T01:33:54.000Z",
-    "status": "pending"
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--JkNDCCSW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E3%2581%25AEStrategy%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%2592%25E5%25AD%25A6%25E3%2581%25B6%253A%25E8%2587%25AA%25E5%258B%2595%25E8%25B2%25A9%25E5%25A3%25B2%25E6%25A9%259F%25E3%2581%25AE%25E6%2594%25AF%25E6%2589%2595%25E3%2581%2584%25E5%25B7%25AE%25E3%2581%2597%25E6%259B%25BF%25E3%2581%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:satoru_o%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTZpS2VVcFp6SUUwaUlZdGtRaWpoY2VVbTJ4Yk5WYm9RSjNnSGR1V0ZJZ3Z4V0d3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "33bf20452d39120d",
@@ -85,7 +636,8 @@
     "url": "https://zenn.dev/elletech/articles/46b95a7f41efe3",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-02T22:51:33.000Z",
-    "status": "pending"
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--mssuixT9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2589%2587%25E6%2596%25B9%25E3%2581%25A0%25E3%2581%2591%25E4%25BF%259D%25E5%25AD%2598%25E3%2581%2595%25E3%2582%258C%25E3%2581%25A6%25E3%2582%2582%25E5%25A3%258A%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259A%25E5%2587%25A6%25E7%2590%2586ID%25E3%2581%25A8%25E8%25BF%25BD%25E8%25A8%2598%25E6%2596%25B9%25E5%25BC%258F%25E3%2581%25A7Prisma%25E3%2581%25A8%25E5%25A4%2596%25E9%2583%25A8API%25E3%2582%2592%25E3%2581%25BE%25E3%2581%259F%25E3%2581%2590%25E4%25BF%259D%25E5%25AD%2598%25E3%2582%2592%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:elletech%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hhcVlkT2NHQU5xemQ3VTVDY1pjMWZNby1jTk5RcE1PZTAtVW9tUnc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "de5dc5949ec179d8",
@@ -93,7 +645,8 @@
     "url": "https://zenn.dev/mshrynzw/articles/05ec8f94c1edc7",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-02T15:00:05.000Z",
-    "status": "pending"
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ceOnLBZe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E7%25B7%258F%25E5%2590%2588%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BBE2E%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2580%2591Playwright%25E3%2581%25AE%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9%25E3%2580%2590%25E8%2587%25AA%25E5%258B%2595%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%25B1%25B3%25E6%25B2%25A2%25E6%25AD%25A3%25E5%25AF%259B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxNzIwYTFjNDIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "ca634f20ac6cab68",
@@ -101,7 +654,8 @@
     "url": "https://zenn.dev/rinku/articles/evm-simulation-policy-decisions",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-02T13:41:42.000Z",
-    "status": "pending"
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--U_7QiV9R--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:EVM%2520simulation%25E3%2581%258C%25E6%2588%2590%25E5%258A%259F%25E3%2581%2597%25E3%2581%25A6%25E3%2582%2582%25E6%25AD%25A2%25E3%2582%2581%25E3%2582%258B%25EF%25BC%259AAI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AEALLOW%25E3%2583%25BBWARN%25E3%2583%25BBBLOCK%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tar%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSjVhQjZjQWlwVkNmRFJvbXZrQXVYQ0o0eG1lOG82M3Jfd1ZUTFdYUDNKVU1WSmFlWT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "29f446015baa0d7e",

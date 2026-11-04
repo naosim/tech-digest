@@ -10,6 +10,8 @@ IT技術記事のRSSフィードを定期収集し、GitHub Pages で一覧表�
 - `index.html`: GitHub Pages 用の静的UI
 - `.github/workflows/rss-cron.yml`: 6時間おきの自動更新ジョブ
 
+RSS項目に enclosure、Media RSS、または本文内画像が含まれる場合、画像URLを `imageUrl` として保存し、記事カードにサムネイルを表示します。既存記事の画像情報もRSS同期時に補完されます。
+
 ## セットアップ
 
 ```bash
