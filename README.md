@@ -41,4 +41,4 @@ npm run summarize:local
 
 ## GitHub Actions
 
-GitHub Actions で `rss-cron.yml` を有効化すると、6時間ごとに RSS を取得し、`articles.json` の更新を自動コミットします。
+GitHub Actions で `rss-cron.yml` を有効化すると、6時間ごとに RSS を取得し、`articles.json` の更新を自動コミットします。このワークフローには `contents: write` 権限を設定しています。プッシュが403で拒否される場合は、リポジトリの Settings → Actions → General → Workflow permissions で書き込み権限が許可されているか確認してください（組織ポリシーによって制限されている場合もあります）。
