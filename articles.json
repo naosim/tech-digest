@@ -1,5 +1,213 @@
 [
   {
+    "id": "e6f22a6a200a1589",
+    "title": "ChatGPT無料ユーザー、10月29日から返事がそっけなく――褒め言葉も減らす仕様変更に – shiritomo",
+    "url": "https://hashout.jp/ai/13689/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T04:57:27.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fhashout.jp%2Fai%2F13689%2F"
+  },
+  {
+    "id": "81bcf59adbc8d949",
+    "title": "30周年を迎えて | お知らせ | Mac OTAKARA",
+    "url": "https://www.macotakara.jp/etc/category-49/entry-52233.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T15:36:38.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.macotakara.jp%2Fetc%2Fcategory-49%2Fentry-52233.html"
+  },
+  {
+    "id": "272f3eb4432916ad",
+    "title": "エンジニアはAIのせいで燃え尽き、働く意欲を失い、アイデンティティ喪失の危機に直面している【3万人調査】 | Business Insider Japan",
+    "url": "https://www.businessinsider.jp/article/2610-developers-are-burned-out-as-ai-coding-reshapes-work-survey/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T10:51:18.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.businessinsider.jp%2Farticle%2F2610-developers-are-burned-out-as-ai-coding-reshapes-work-survey%2F"
+  },
+  {
+    "id": "353984bab37de50c",
+    "title": "GitHubで最も使われている言語は2年連続TypeScript、プルリクの増加率はRust。急成長したOSSはCC Switch、Omarchyなど。GitHub Octoverse 2026",
+    "url": "https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T15:07:49.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fgithub2typescriptrustosscc_switchomarchygithub_octoverse_2026.html"
+  },
+  {
+    "id": "a2dc1cd6fd3e085e",
+    "title": "無印良品「MUJIアプリ」情報流出は2726万件に、セゾン発行「MUJI Card」全桁も対象",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2153688.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T10:39:08.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fnews%2F2153688.html"
+  },
+  {
+    "id": "eb2ede289228bbc3",
+    "title": "macOSには単語が冒涜的かどうかを識別する仕組みがある",
+    "url": "https://gigazine.net/news/20261105-macos-vulgar-word-flags/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T22:24:31.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261105-macos-vulgar-word-flags%2F"
+  },
+  {
+    "id": "01d3a6173659a4c0",
+    "title": "クラウドインフラのシェア、AWSが26％に後退、Google Cloudは16％に上昇。クラウドインフラ市場全体は過去最大の高成長率へ。2026年第3四半期、Synergy Research",
+    "url": "https://www.publickey1.jp/blog/26/aws26google_cloud1620263synergy_research.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T15:03:39.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Faws26google_cloud1620263synergy_research.html"
+  },
+  {
+    "id": "ece955328063fee7",
+    "title": "「JAXA Earth API」で地球観測データを容易に取得可能。QGIS用プラグインもあるので地図上への可視化も簡単にできる【地図と位置情報】",
+    "url": "https://internet.watch.impress.co.jp/docs/column/chizu3/2152304.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-03T23:00:57.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Finternet.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fchizu3%2F2152304.html"
+  },
+  {
+    "id": "61164b197fc58330",
+    "title": "配送プラットフォーム「ピックゴー」に不正アクセス、導入法人の顧客と配送ドライバーの情報が流出の可能性　7NOW、出前館が影響を発表",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2153737.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T22:35:39.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Finternet.watch.impress.co.jp%2Fdocs%2Fnews%2F2153737.html"
+  },
+  {
+    "id": "b60128f1f93d513c",
+    "title": "“コーヒー香る”PC＆スマホスタンドがMOFTから登場　新「Coffee Collection」2製品の実用性をチェックした",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news059.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T06:11:47.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fpcuser%2Farticles%2F2611%2F04%2Fnews059.html"
+  },
+  {
+    "id": "dfbed0cceda219a9",
+    "title": "富士フイルムが「磁気テープ」の製造能力を5倍に増強すると発表、AIブームによるデータアーカイブ需要増加に対応",
+    "url": "https://gigazine.net/news/20261104-fujifilm-boost-tape-production-ai-fuels/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T11:15:09.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261104-fujifilm-boost-tape-production-ai-fuels%2F"
+  },
+  {
+    "id": "58a7ae599e99e59d",
+    "title": "コーディングだけでなく日々の判断にもAIが役立つか測定可能なベンチマークテスト「LifeVal」をOpenAIが発表",
+    "url": "https://gigazine.net/news/20261104-openai-lifeval/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T08:41:26.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261104-openai-lifeval%2F"
+  },
+  {
+    "id": "b70b456b04aa6536",
+    "title": "https://www.dennys.jp/pdf/261103.pdf",
+    "url": "https://www.dennys.jp/pdf/261103.pdf",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T05:08:50.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.dennys.jp%2Fpdf%2F261103.pdf"
+  },
+  {
+    "id": "6abf079f75f6761f",
+    "title": "声を出さずに口を軽く動かすだけで文章を認識させるスマートグラス「Subvocal」",
+    "url": "https://gigazine.net/news/20261104-subvocal-smart-glasse/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T07:03:15.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261104-subvocal-smart-glasse%2F"
+  },
+  {
+    "id": "6c02067a5ceed594",
+    "title": "「中国がインフラ攻撃にAI利用」 英報告書に中国が不快感",
+    "url": "https://www.afpbb.com/articles/-/3660843",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T11:22:31.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.afpbb.com%2Farticles%2F-%2F3660843"
+  },
+  {
+    "id": "145bddb9deb846f5",
+    "title": "PayPay、セキュリティ対策は「万全を期すべく総点検している最中」と中山社長",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2611/04/news061.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T07:21:34.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F04%2Fnews061.html"
+  },
+  {
+    "id": "6a02483ec1f6b83a",
+    "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+    "url": "https://icode4.coffee/?p=1746",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-04T22:01:49.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "ecc8f412394b0e73",
+    "title": "Less Popular Than Coal",
+    "url": "https://www.argmin.net/p/less-popular-than-coal",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-04T22:26:24.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "ec83dead23fd1d4a",
+    "title": "Is Curiosity Good for Us?",
+    "url": "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-03T19:16:23.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f9e8e29d2f542150",
+    "title": "Successful People (2013)",
+    "url": "https://blog.samaltman.com/successful-people",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-04T23:01:19.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "5257b03a9b14b152",
+    "title": "Ask HN: What your experience with the monthly \"who wants to be hired\" thread?",
+    "url": "https://news.ycombinator.com/item?id=50372294",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-04T22:18:21.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "443825d3006ea51d",
+    "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
+    "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-02T16:23:37.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f106f87baecce349",
+    "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+    "url": "https://github.com/gauge-sh/gauge-cli",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-04T20:31:30.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "dfa39b146e5e46e6",
+    "title": "Death Comes for XSLT",
+    "url": "https://dbushell.com/2026/11/03/xslt-rip/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-04T20:57:10.000Z",
+    "status": "pending"
+  },
+  {
     "id": "a77e7d1d04ae8d09",
     "title": "JushoAI v0.1.30 をリリースしました: ダークモード追従、英語フォームの語彙、パターン不一致の警告",
     "url": "https://zenn.dev/ar1/articles/jushoai-v0130",
