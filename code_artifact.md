@@ -225,7 +225,7 @@ import { Readability } from '@mozilla/readability';
 import fetch from 'node-fetch';
 
 const OLLAMA_URL = 'http://localhost:11434/api/generate';
-const MODEL_NAME = 'gemma2:2b'; // 2Bモデル指定
+const MODEL_NAME = 'bonsai-2:2b'; // 2Bモデル指定
 
 async function callOllama(prompt: string, maxTokens: number = 400): Promise<string> {
   const res = await fetch(OLLAMA_URL, {

@@ -22,9 +22,19 @@
       <div id="articles" class="grid gap-5 md:grid-cols-2 xl:grid-cols-3"></div>
     </main>
 
+    <dialog id="image-dialog" class="max-h-[90vh] max-w-[90vw] rounded-2xl bg-slate-950 p-2 shadow-2xl backdrop:bg-slate-950/80">
+      <div class="flex items-center justify-end p-1">
+        <button id="close-image-dialog" type="button" class="rounded-lg px-3 py-1.5 text-sm font-medium text-white hover:bg-white/10">閉じる</button>
+      </div>
+      <img id="dialog-image" alt="" class="max-h-[78vh] max-w-[86vw] rounded-xl object-contain" />
+    </dialog>
+
     <script>
       const articleContainer = document.getElementById('articles');
       const statusNode = document.getElementById('status');
+      const imageDialog = document.getElementById('image-dialog');
+      const dialogImage = document.getElementById('dialog-image');
+      const closeImageDialog = document.getElementById('close-image-dialog');
 
       const formatDate = (dateString) => {
         if (!dateString) return '日時不明';
@@ -70,6 +80,19 @@
             const thumbnail = imageUrl
               ? `<img data-thumbnail src="${escapeHtml(imageUrl)}" alt="${escapeHtml(article.title ?? '記事のサムネイル')}" class="mb-4 aspect-video w-full rounded-xl object-cover" loading="lazy" />`
               : '';
+            const imageUrls = Array.isArray(article.imageUrls)
+              ? [...new Set(article.imageUrls.map(safeHttpUrl).filter((url) => url && url !== imageUrl))]
+              : [];
+            const imageGallery = imageUrls.length
+              ? `<div class="mb-4 grid grid-cols-3 gap-2">${imageUrls.map((url, index) => `
+                  <button type="button" data-lightbox-image="${escapeHtml(url)}" data-lightbox-alt="${escapeHtml(`${article.title ?? '記事'}の画像 ${index + 1}`)}" class="overflow-hidden rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500">
+                    <img data-thumbnail src="${escapeHtml(url)}" alt="${escapeHtml(`${article.title ?? '記事'}の画像 ${index + 1}`)}" class="aspect-video w-full object-cover transition hover:scale-105" loading="lazy" />
+                  </button>
+                `).join('')}</div>`
+              : '';
+            const summary = typeof article.summary === 'string' && article.summary.trim()
+              ? `<p class="mb-4 whitespace-pre-line text-sm leading-relaxed text-slate-700">${escapeHtml(article.summary)}</p>`
+              : '';
 
             return `
               <article class="flex h-full flex-col rounded-2xl border border-slate-200 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
@@ -80,6 +103,9 @@
 
                 ${thumbnail}
                 <h2 class="mb-3 line-clamp-3 text-lg font-semibold leading-snug text-slate-900">${escapeHtml(article.title ?? '無題')}</h2>
+                ${article.category ? `<p class="mb-2 text-xs font-semibold tracking-wide text-indigo-600">${escapeHtml(article.category)}</p>` : ''}
+                ${summary}
+                ${imageGallery}
                 <p class="mb-4 text-sm text-slate-500">${formatDate(article.publishedAt)}</p>
 
                 <div class="mt-auto flex items-center justify-between gap-3 pt-3">
@@ -99,7 +125,21 @@
           .join('');
 
         articleContainer.querySelectorAll('img[data-thumbnail]').forEach((image) => {
-          image.addEventListener('error', () => image.remove(), { once: true });
+          image.addEventListener('error', () => {
+            const galleryButton = image.closest('[data-lightbox-image]');
+            if (galleryButton) {
+              galleryButton.remove();
+            } else {
+              image.remove();
+            }
+          }, { once: true });
+        });
+        articleContainer.querySelectorAll('[data-lightbox-image]').forEach((button) => {
+          button.addEventListener('click', () => {
+            dialogImage.src = button.dataset.lightboxImage;
+            dialogImage.alt = button.dataset.lightboxAlt ?? '';
+            imageDialog.showModal();
+          });
         });
       };
 
@@ -123,6 +163,13 @@
       };
 
       fetchArticles();
+
+      closeImageDialog.addEventListener('click', () => imageDialog.close());
+      imageDialog.addEventListener('click', (event) => {
+        if (event.target === imageDialog) {
+          imageDialog.close();
+        }
+      });
     </script>
   </body>
 </html>

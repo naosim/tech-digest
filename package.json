@@ -5,12 +5,17 @@
   "type": "module",
   "scripts": {
     "fetch:rss": "tsx fetch-rss.ts",
+    "summarize:local": "tsx summarize-local.ts",
     "serve": "npx http-server . -p 8000"
   },
   "dependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "jsdom": "^29.1.1",
+    "playwright": "^1.64.1",
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {
+    "@types/jsdom": "^30.0.0",
     "@types/node": "^26.6.6",
     "tsx": "^4.19.4",
     "typescript": "^5.8.3"
