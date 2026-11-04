@@ -13,7 +13,7 @@ IT技術記事のRSSフィードを定期収集し、GitHub Pages で一覧表�
 - `scripts/summarize-and-push.ps1`: 要約後に `articles.json` だけをコミット・プッシュする手動実行スクリプト
 
 RSS項目に enclosure、Media RSS、または本文内画像が含まれる場合、画像URLを `imageUrl` として保存し、記事カードにサムネイルを表示します。既存記事の画像情報もRSS同期時に補完されます。
-ステップ2ではローカル処理で記事本文を抽出し、カテゴリ・約400文字の要約・本文内の画像URLを `articles.json` に保存します。GitHub Pages上では要約と画像ギャラリーを表示します。
+ステップ2ではローカル処理で記事本文を抽出し、カテゴリ・テーマ、結論、方法を明示した約400文字の日本語要約・本文内の画像URLを `articles.json` に保存します。GitHub Pages上では要約と画像ギャラリーを表示します。
 
 ## セットアップ
 

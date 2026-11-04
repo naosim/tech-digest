@@ -18,5 +18,10 @@
     "id": "hatena-hotentry-it",
     "name": "はてなブックマーク IT 人気記事",
     "url": "https://b.hatena.ne.jp/hotentry/it.rss"
+  },
+  {
+    "id": "hacker-news",
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com/rss"
   }
 ]
