@@ -1,0 +1,10 @@
+{
+  "archives": [
+    {
+      "file": "articles-0001.json",
+      "count": 238,
+      "oldestPublishedAt": "2026-10-15T19:24:00.000Z",
+      "newestPublishedAt": "2026-11-04T08:41:26.000Z"
+    }
+  ]
+}

@@ -29,6 +29,7 @@ const ROOT_DIR = path.dirname(fileURLToPath(import.meta.url));
 const ARTICLES_PATH = process.env.ARTICLES_PATH ?? path.join(ROOT_DIR, 'articles.json');
 const OLLAMA_URL = process.env.OLLAMA_URL ?? 'http://localhost:11434/api/generate';
 const MODEL_NAME = process.env.OLLAMA_MODEL ?? 'bonsai-2:2b';
+const MAX_ACTIVE_ARTICLES = 100;
 const CATEGORIES: Category[] = ['TUTORIAL', 'RELEASE', 'TROUBLESHOOT', 'GENERAL'];
 const CATEGORY_PERSPECTIVES: Record<Category, string> = {
   TUTORIAL: '解決する課題、手順や仕組み、実践時の注意点を中心にまとめてください。',
@@ -206,7 +207,7 @@ ${bodyText.slice(0, 4000)}
 
 async function main(): Promise<void> {
   const articles = readArticles();
-  const pendingArticles = articles.filter((article) => article.status === 'pending');
+  const pendingArticles = articles.slice(0, MAX_ACTIVE_ARTICLES).filter((article) => article.status === 'pending');
   const limitArgument = process.argv.find((argument) => argument.startsWith('--limit='));
   const limit = limitArgument ? Number(limitArgument.slice('--limit='.length)) : Number.POSITIVE_INFINITY;
   if (!(limit > 0) || (!Number.isInteger(limit) && limit !== Number.POSITIVE_INFINITY)) {

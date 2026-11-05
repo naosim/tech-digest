@@ -5,15 +5,17 @@ IT技術記事のRSSフィードを定期収集し、GitHub Pages で一覧表�
 ## 主要ファイル
 
 - `feeds.json`: RSSフィードの登録一覧
-- `fetch-rss.ts`: フィードを取得して `articles.json` を更新するスクリプト
-- `articles.json`: 収集済み記事一覧
+- `fetch-rss.ts`: フィードを取得し、最新100件とアーカイブを更新するスクリプト
+- `articles.json`: 表示・要約対象の最新100件
+- `archives/`: 101件目以降の記事を1000件ずつ保存するJSONと一覧 (`index.json`)
 - `index.html`: GitHub Pages 用の静的UI
 - `.github/workflows/rss-cron.yml`: 6時間おきの自動更新ジョブ
 - `summarize-local.ts`: ローカル Playwright / Ollama による本文抽出・分類・要約
 - `scripts/summarize-and-push.ps1`: 要約後に `articles.json` だけをコミット・プッシュする手動実行スクリプト
 
 RSS項目に enclosure、Media RSS、または本文内画像が含まれる場合、画像URLを `imageUrl` として保存し、記事カードにサムネイルを表示します。既存記事の画像情報もRSS同期時に補完されます。
-ステップ2ではローカル処理で記事本文を抽出し、カテゴリ・テーマ、結論、方法を明示した約400文字の日本語要約・本文内の画像URLを `articles.json` に保存します。GitHub Pages上では要約と画像ギャラリーを表示します。
+一覧には最新100件を表示し、それより古い記事は削除せず `archives/articles-0001.json` から1000件単位で保存します。画面上部の選択メニューから各アーカイブを選び、ページ送りで100件ずつ閲覧できます。
+ステップ2では最新100件だけを対象にローカル処理で記事本文を抽出し、カテゴリ・テーマ、結論、方法を明示した約400文字の日本語要約・本文内の画像URLを `articles.json` に保存します。GitHub Pages上では要約と画像ギャラリーを表示します。
 
 ## セットアップ
 
@@ -35,10 +37,10 @@ ollama pull bonsai-2:2b
 npm run summarize:local
 ```
 
-未処理 (`pending`) の記事を順番に処理し、成功した記事ごとに `articles.json` を保存します。Ollama接続とモデルを先に確認し、失敗した記事は `pending` のまま残してエラー終了します。最初の数件だけ試す場合は `npx tsx summarize-local.ts --limit=3` を実行できます。モデルやOllama APIのURLは `OLLAMA_MODEL`、`OLLAMA_URL` 環境変数で変更できます。
+最新100件内の未処理 (`pending`) 記事を順番に処理し、成功した記事ごとに `articles.json` を保存します。アーカイブは要約対象になりません。Ollama接続とモデルを先に確認し、失敗した記事は `pending` のまま残してエラー終了します。最初の数件だけ試す場合は `npx tsx summarize-local.ts --limit=3` を実行できます。モデルやOllama APIのURLは `OLLAMA_MODEL`、`OLLAMA_URL` 環境変数で変更できます。
 
 処理結果をGitHubへ反映する場合は、内容を確認してから PowerShell で `.\scripts\summarize-and-push.ps1` を実行します。要約が成功した場合に限り `articles.json` のみをコミットしてプッシュします。ステージ済みの変更がある場合は誤コミット防止のため中断します。
 
 ## GitHub Actions
 
-GitHub Actions で `rss-cron.yml` を有効化すると、6時間ごとに RSS を取得し、`articles.json` の更新を自動コミットします。このワークフローには `contents: write` 権限を設定しています。プッシュが403で拒否される場合は、リポジトリの Settings → Actions → General → Workflow permissions で書き込み権限が許可されているか確認してください（組織ポリシーによって制限されている場合もあります）。
+GitHub Actions で `rss-cron.yml` を有効化すると、6時間ごとに RSS を取得し、`articles.json` と `archives/` の更新を自動コミットします。このワークフローには `contents: write` 権限を設定しています。プッシュが403で拒否される場合は、リポジトリの Settings → Actions → General → Workflow permissions で書き込み権限が許可されているか確認してください（組織ポリシーによって制限されている場合もあります）。
