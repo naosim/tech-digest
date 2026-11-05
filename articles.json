@@ -1,5 +1,420 @@
 [
   {
+    "id": "2f9b491c5f00be70",
+    "title": "Amazon Bedrock が AWS GovCloud (米国) における OpenAI モデルの API サポートを拡張し、クロスリージョン推論を導入",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-30T20:43:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "b8164c65e45939a1",
+    "title": "AWS GovCloud (米国) の Kiro でウェブ検索が利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-30T19:40:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "c936121c36631068",
+    "title": "Amazon Connect Customer で作成中の E メールを下書きとして自動保存可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-connect-email-draft-save/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-30T19:30:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "ed9383f525d66210",
+    "title": "OpenAI の Daybreak Red が AWS GovCloud (米国東部) の Amazon Bedrock で利用資格を満たすお客様向けに提供開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-30T18:20:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f59c6ddb0ebaf060",
+    "title": "Amazon CloudFront でビューワーの ISP とポスト量子 TLS の詳細情報を提供開始",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/cloudfront-viewer-isp-post-quantum-visbility/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-30T18:15:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "fd8a49ae7274d1d1",
+    "title": "Amazon RDS for Oracle で JVM、Spatial、Locator、OLAP の各オプションにマイナーバージョンの自動アップグレードが不要に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/oracle-jvm-spatial-locator-olap-options-amvu-optional/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-30T17:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "0ff611375c93308a",
+    "title": "Amazon MSK が転送中のデータの暗号化で TLS 1.3 をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-msk-tls/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-30T17:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "a37a169dc2fd51d1",
+    "title": "AWS WAF が Amazon CloudFront ディストリビューション向けの SDK 自動統合機能を発表",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-30T15:57:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "99e94af73275d2f6",
+    "title": "AWS Glue データカタログが米国西部 (北カリフォルニア) リージョンで Apache Iceberg テーブルの最適化をサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-30T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "abb257f334733fdf",
+    "title": "マネージド Prometheus コレクターで Amazon MSK のコンシューマーグループメトリクスをサポート",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-30T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "67af14ac601b8dbe",
+    "title": "Amazon SageMaker AI 推論でリアルタイムエンドポイントの GPU パーティショニングが利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-30T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1c81f81800845a31",
+    "title": "Amazon SageMaker Unified Studio でカスタム designation が利用可能に",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/sagemaker-custom-designations/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-29T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "cbba3e135c43aa84",
+    "title": "Amazon Redshift が手動操作不要の自動クロスリージョンバックアップを発表",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/redshift-automated-cross-region-backups/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-29T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "294baff6210c361f",
+    "title": "Amazon Bedrock が Claude Haiku 5.5 向けのカナダ国内クロスリージョン推論に対応",
+    "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/claude-haiku-5-5-canada-cris/",
+    "source": "AWS What's New",
+    "publishedAt": "2026-10-27T08:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "2765a7ba54af503d",
+    "title": "日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T23:02:29.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fserial%2Fyajiuma%2F2153621.html"
+  },
+  {
+    "id": "c8d390d352ba5a7a",
+    "title": "メーカー自身がバックドアを仕込み、犯罪集団に“販売”　乗っ取られたTV用端末130万台超、Googleが遮断　日本の警察庁も参加",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T22:58:52.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fpcuser%2Farticles%2F2611%2F05%2Fnews045.html"
+  },
+  {
+    "id": "8f25a112cbf64a76",
+    "title": "【レビュー】 使わなくなったAndroidスマホが音楽プレーヤーに、無料アプリ「reTONE」使ってみた",
+    "url": "https://av.watch.impress.co.jp/docs/review/review/2152900.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-05T00:06:50.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fav.watch.impress.co.jp%2Fdocs%2Freview%2Freview%2F2152900.html"
+  },
+  {
+    "id": "81a14e552c90c270",
+    "title": "AI駆動開発の次の段階: ソフトウェアファクトリー - Qiita",
+    "url": "https://qiita.com/Syoitu/items/9364a0a175893bb15219",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T12:39:35.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2FSyoitu%2Fitems%2F9364a0a175893bb15219"
+  },
+  {
+    "id": "f6a7c38ead033015",
+    "title": "PLaMo 3 Translate：世界最高クラスの翻訳特化LLMの重み公開と開発秘話｜株式会社Preferred Networks",
+    "url": "https://www.preferred.jp/ja/blog/tech/plamo-3-translate-weight-release",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-05T01:24:42.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.preferred.jp%2Fja%2Fblog%2Ftech%2Fplamo-3-translate-weight-release"
+  },
+  {
+    "id": "4d58d88851e22719",
+    "title": "AIと「聖杯」は似ている。",
+    "url": "https://blog.tinect.jp/?p=91573",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T23:22:25.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.tinect.jp%2F%3Fp%3D91573"
+  },
+  {
+    "id": "995e24740d49423f",
+    "title": "イーロン・マスクは中間選挙に700億円以上を費やしたが応援した候補はほぼ敗北",
+    "url": "https://gigazine.net/news/20261105-elon-musk-wasted-446-million-usd/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-05T03:24:21.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261105-elon-musk-wasted-446-million-usd%2F"
+  },
+  {
+    "id": "4d7800a7f808c8e1",
+    "title": "仏銀行にサイバー攻撃、約177億円流出 顧客に損失なし",
+    "url": "https://www.afpbb.com/articles/-/3660864",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T23:53:11.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.afpbb.com%2Farticles%2F-%2F3660864"
+  },
+  {
+    "id": "96e8a6111151dbc8",
+    "title": "国税庁、「年末調整控除申告書の作成用ソフト（年調ソフト）」パソコン版の廃止を明言し波紋【やじうまWatch】",
+    "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2153770.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-05T02:19:13.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Finternet.watch.impress.co.jp%2Fdocs%2Fyajiuma%2F2153770.html"
+  },
+  {
+    "id": "0939c5feab523add",
+    "title": "AI時代に求められるペネトレーションテスト - ラック・セキュリティごった煮ブログ",
+    "url": "https://devblog.lac.co.jp/entry/20261104",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T12:33:19.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdevblog.lac.co.jp%2Fentry%2F20261104"
+  },
+  {
+    "id": "2f98b7246bf0d2d3",
+    "title": "第933回　Ubuntuが特定のCVEに対応できているかの確認方法 | gihyo.jp",
+    "url": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0933",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-05T01:44:29.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgihyo.jp%2Fadmin%2Fserial%2F01%2Fubuntu-recipe%2F0933"
+  },
+  {
+    "id": "013df88ecca57de9",
+    "title": "技術カンファレンスの登壇動画・資料を集約｜Findy Knowledge",
+    "url": "https://knowledge.findy-code.io/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-05T03:33:43.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fknowledge.findy-code.io%2F"
+  },
+  {
+    "id": "e64264f1a1ab6018",
+    "title": "Codexのセキュリティの仕組み - Sandbox・Trust・Approvalを理解する｜npaka",
+    "url": "https://note.com/npaka/n/n00dcc54360eb",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T13:16:31.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fnpaka%2Fn%2Fn00dcc54360eb"
+  },
+  {
+    "id": "d0fb0b5e7e54c679",
+    "title": "相次ぐWEBシステムからの情報漏洩事案について（第2報） | セキュリティ研究センターブログ",
+    "url": "https://security.macnica.co.jp/blog/2026/11/web-incidents2026-oct2.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T05:00:30.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsecurity.macnica.co.jp%2Fblog%2F2026%2F11%2Fweb-incidents2026-oct2.html"
+  },
+  {
+    "id": "0043d4585f0b816e",
+    "title": "AIデータセンター建設にブレーキ　テキサス州で反対派勝利、全米に波及 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN04BNW0U6A101C2000000/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T22:48:51.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOGN04BNW0U6A101C2000000%2F"
+  },
+  {
+    "id": "535e5969ab0bf99a",
+    "title": "アララのメール配信サービス「アララ メッセージ」への不正アクセスについてまとめてみた - piyolog",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/05/015717",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T21:03:10.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F05%2F015717"
+  },
+  {
+    "id": "c8b800022e48017f",
+    "title": "ドコモに不正アクセスの可能性 オンラインサービス停止 | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261105de70776",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-05T02:38:53.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261105de70776"
+  },
+  {
+    "id": "e03e6da83164e666",
+    "title": "GMOインターネットの情報漏えい事案で総務省が業界団体に「ブロッキング要請」との報道　NTTは動いた？",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2611/05/news060.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-05T02:42:21.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F05%2Fnews060.html"
+  },
+  {
+    "id": "e5428a9d1ae69f88",
+    "title": "Discord、“イマドキ”な言語「Rust」でアプリ全面刷新へ。メモリ使用量がっつり減りそう - AUTOMATON",
+    "url": "https://automaton-media.com/articles/newsjp/20261105-477644/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-05T04:59:55.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fautomaton-media.com%2Farticles%2Fnewsjp%2F20261105-477644%2F"
+  },
+  {
+    "id": "045e6a9e02810dbf",
+    "title": "仏血液センターの冷蔵設備にサイバー攻撃　温度設定を不正変更、血液製剤への被害は回避",
+    "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002890/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-05T00:55:08.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F05%2F2000002890%2F"
+  },
+  {
+    "id": "748d6967c608b7c1",
+    "title": "Leanで書く証明付きの日付と税計算",
+    "url": "https://s.conao3.com/blog/2026/5499a8",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-05T03:15:48.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fs.conao3.com%2Fblog%2F2026%2F5499a8"
+  },
+  {
+    "id": "cd7c28a910807e4a",
+    "title": "OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に",
+    "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-05T02:19:37.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F05%2F2000002894%2F"
+  },
+  {
+    "id": "f5749942411f82f2",
+    "title": "GitHub Universe2026 全アップデートおさらい",
+    "url": "https://zenn.dev/microsoft/articles/github-universe-2026-all-updates",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-04T01:49:46.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fmicrosoft%2Farticles%2Fgithub-universe-2026-all-updates"
+  },
+  {
+    "id": "a5ebd0a813d931b5",
+    "title": "Lemmings CSS Animation",
+    "url": "https://markblah.github.io/lemmings/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-05T04:54:10.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "9320bcda5f3af821",
+    "title": "Images 2.6",
+    "url": "https://openai.com/index/introducing-images-2-6/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-04T23:35:44.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f730feda13ee92a3",
+    "title": "A thousand fewer paths to root",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-04T23:33:14.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f630e990dbf00778",
+    "title": "Starfall – Affordable, routine access to microgravity",
+    "url": "https://www.spacex.com/starfall",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-05T00:18:18.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "bce0e1e1b695c30c",
+    "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+    "url": "https://www.altera.com/newsroom/agilex-2x",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-05T05:47:14.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "ddfd40b1f6e575a8",
+    "title": "Spreading Liquid with Three.js",
+    "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-02T18:45:54.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "793baf0e54548bea",
+    "title": "Ask HN: What's your current AI agentic setup?",
+    "url": "https://news.ycombinator.com/item?id=50366117",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-04T14:37:22.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "0885a77fff2eaf9f",
+    "title": "So my ISP was hijacking my DNS",
+    "url": "https://www.karthihegde.dev/posts/dns_tampering",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-04T12:51:51.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "538ea1326a6a8ff9",
+    "title": "Basically no one is using AI agents for their DoorDash orders",
+    "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-02T15:48:45.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "3433a1f0c22ff7bc",
+    "title": "A wave of plastic-free coffee pods and machines",
+    "url": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-04T15:20:49.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "be088a0db53da952",
+    "title": "11 Nanoseconds per Word: Over-Optimizing Anagrams",
+    "url": "https://wiredream.com/anagram-fun/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-04T09:57:43.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "70cb9f0365ddc4f8",
+    "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+    "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-04T16:11:33.000Z",
+    "status": "pending"
+  },
+  {
     "id": "e6f22a6a200a1589",
     "title": "ChatGPT無料ユーザー、10月29日から返事がそっけなく――褒め言葉も減らす仕様変更に – shiritomo",
     "url": "https://hashout.jp/ai/13689/",
