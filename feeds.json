@@ -5,14 +5,14 @@
     "url": "https://zenn.dev/topics/typescript/feed"
   },
   {
+    "id": "zenn-playwright",
+    "name": "Zenn (playwright)",
+    "url": "https://zenn.dev/topics/playwright/feed"
+  },
+  {
     "id": "qiita-popular",
     "name": "Qiita Popular",
     "url": "https://qiita.com/popular-items/feed"
-  },
-  {
-    "id": "aws-whats-new",
-    "name": "AWS What's New",
-    "url": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/"
   },
   {
     "id": "hatena-hotentry-it",
