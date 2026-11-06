@@ -20,8 +20,8 @@
     "url": "https://b.hatena.ne.jp/hotentry/it.rss"
   },
   {
-    "id": "hacker-news",
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com/rss"
+    "id": "github-js",
+    "name": "GitHub JavaScript Monthly Trending Repositories",
+    "url": "https://mshibanami.github.io/GitHubTrendingRSS/monthly/javascript.xml"
   }
 ]

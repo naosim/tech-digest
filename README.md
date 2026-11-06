@@ -11,7 +11,7 @@ IT技術記事のRSSフィードを定期収集し、GitHub Pages で一覧表�
 - `index.html`: GitHub Pages 用の静的UI
 - `.github/workflows/rss-cron.yml`: 6時間おきの自動更新ジョブ
 - `summarize-local.ts`: ローカル Playwright / Ollama による本文抽出・分類・要約
-- `scripts/summarize-and-push.ps1`: 要約後に `articles.json` だけをコミット・プッシュする手動実行スクリプト
+- `scripts/summarize-and-push.sh`: 要約後に `articles.json` だけをコミット・プッシュする Git Bash 用手動実行スクリプト
 
 RSS項目に enclosure、Media RSS、または本文内画像が含まれる場合、画像URLを `imageUrl` として保存し、記事カードにサムネイルを表示します。既存記事の画像情報もRSS同期時に補完されます。
 一覧には最新100件を表示し、それより古い記事は削除せず `archives/articles-0001.json` から1000件単位で保存します。画面上部の選択メニューから各アーカイブを選び、ページ送りで100件ずつ閲覧できます。
@@ -39,7 +39,7 @@ npm run summarize:local
 
 最新100件内の未処理 (`pending`) 記事を順番に処理し、成功した記事ごとに `articles.json` を保存します。アーカイブは要約対象になりません。Ollama接続とモデルを先に確認し、失敗した記事は `pending` のまま残してエラー終了します。最初の数件だけ試す場合は `npx tsx summarize-local.ts --limit=3` を実行できます。モデルやOllama APIのURLは `OLLAMA_MODEL`、`OLLAMA_URL` 環境変数で変更できます。
 
-処理結果をGitHubへ反映する場合は、内容を確認してから PowerShell で `.\scripts\summarize-and-push.ps1` を実行します。要約が成功した場合に限り `articles.json` のみをコミットしてプッシュします。ステージ済みの変更がある場合は誤コミット防止のため中断します。
+処理結果をGitHubへ反映する場合は、内容を確認してから Git Bash で `bash ./scripts/summarize-and-push.sh` を実行します。要約が成功した場合に限り `articles.json` のみをコミットしてプッシュします。ステージ済みの変更がある場合は誤コミット防止のため中断します。
 
 ## GitHub Actions
 
