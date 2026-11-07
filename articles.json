@@ -1,5 +1,75 @@
 [
   {
+    "id": "5c022348e81cb512",
+    "title": "ReactのDOM UIとPhaser Canvasを同期して「選んだ部品」を光らせる",
+    "url": "https://zenn.dev/shige7000/articles/72095b024343b0",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-07T18:23:50.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--IJHbq_Y9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E3%2581%25AEDOM%2520UI%25E3%2581%25A8Phaser%2520Canvas%25E3%2582%2592%25E5%2590%258C%25E6%259C%259F%25E3%2581%2597%25E3%2581%25A6%25E3%2580%258C%25E9%2581%25B8%25E3%2582%2593%25E3%2581%25A0%25E9%2583%25A8%25E5%2593%2581%25E3%2580%258D%25E3%2582%2592%25E5%2585%2589%25E3%2582%2589%25E3%2581%259B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2595%25B7%25E6%25B4%25B2%25E6%25B8%25AF%25E7%2594%25BA%25E9%259B%25BB%25E6%25B0%2597%25E5%25B7%25A5%25E4%25BA%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjODk2OTBhMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "0755b45787fb5a1b",
+    "title": "Astro 7 + Hono + D1 で作るRSSリーダー「feedge」：離脱を防ぐスターターパック設計",
+    "url": "https://zenn.dev/feedge/articles/starter-pack-onboarding-design",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-07T14:14:49.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--NVbTgdAA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Astro%25207%2520%252B%2520Hono%2520%252B%2520D1%2520%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258BRSS%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2580%258Cfeedge%25E3%2580%258D%25EF%25BC%259A%25E9%259B%25A2%25E8%2584%25B1%25E3%2582%2592%25E9%2598%25B2%25E3%2581%2590%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%2591%25E3%2583%2583%25E3%2582%25AF%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:feedge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvZi5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "61e64d83e22d231e",
+    "title": "Excel管理を見直す5つの兆候：運用で直す問題とシステム化する問題",
+    "url": "https://qiita.com/TechStudioLab/items/db058aab3207b115ed8f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-07T13:03:02.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "aece560f5c2f8a43",
+    "title": "シーリングライトの様子がおかしいので蓋開けて中を見てみたらこの有様「みたらし団子かと」「何がどうしてそうなった？」",
+    "url": "https://togetter.com/li/2767778",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T12:12:25.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2767778"
+  },
+  {
+    "id": "635097de1fe605b5",
+    "title": "AI時代に求められる優秀なTechLeadの振る舞い",
+    "url": "https://speakerdeck.com/pospome/ai-jidai-ni-motomerareru-yuushuuna-techlead-no-furumai-2",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T11:25:01.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fpospome%2Fai-jidai-ni-motomerareru-yuushuuna-techlead-no-furumai-2"
+  },
+  {
+    "id": "9873d45856ab41c4",
+    "title": "React学習過程整理tips(備考)",
+    "url": "https://qiita.com/polymetisoutis/items/9e6a8e16f11e7e8f834c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-07T11:14:30.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "68be897c8b54bcd7",
+    "title": "Libghostty 1.0",
+    "url": "https://mitchellh.com/writing/libghostty-1-0",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T11:09:17.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmitchellh.com%2Fwriting%2Flibghostty-1-0"
+  },
+  {
+    "id": "8231c02b0e929d21",
+    "title": "kintone プラグインから GitHub API を叩いて、迷ったところと踏んだところ",
+    "url": "https://zenn.dev/ueshoma/articles/fdef348b89e057",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-07T10:23:57.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--sArfwmCy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:kintone%2520%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%258B%25E3%2582%2589%2520GitHub%2520API%2520%25E3%2582%2592%25E5%258F%25A9%25E3%2581%2584%25E3%2581%25A6%25E3%2580%2581%25E8%25BF%25B7%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25A8%25E3%2581%2593%25E3%2582%258D%25E3%2581%25A8%25E8%25B8%258F%25E3%2582%2593%25E3%2581%25A0%25E3%2581%25A8%25E3%2581%2593%25E3%2582%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2586%25E3%2581%2588%25E3%2581%2597%25E3%2582%2587%25E3%2581%25BE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U1YmJhZTUxOWQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
     "id": "ca6143d1ab1ae794",
     "title": "AI時代に求められる優秀なTechLeadの振る舞い - pospomeのプログラミング日記",
     "url": "https://www.pospome.work/entry/2026/11/07/192125",
@@ -18,12 +88,72 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsizu.me%2Flaiso%2Fposts%2Fk59is4cnd77f"
   },
   {
+    "id": "611fb402e82bb3e2",
+    "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com",
+    "url": "https://www.famitsu.com/article/202611/93352",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T09:49:08.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.famitsu.com%2Farticle%2F202611%2F93352"
+  },
+  {
     "id": "2c75a342a2e036ca",
     "title": "【連載まとめ②】YouTube の BGM チャンネルを AI で回す｜公開とショート編（第11回〜第17回）",
     "url": "https://zenn.dev/claire_ai/books/fukei-rensai-matome-2",
     "source": "Zenn (playwright)",
     "publishedAt": "2026-11-07T09:41:44.000Z",
     "status": "pending"
+  },
+  {
+    "id": "314e74a52c9587b7",
+    "title": "Reactで学習記録アプリを作ってみた",
+    "url": "https://qiita.com/Tukirukiki/items/caf31e82f1fb28affa4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-07T09:32:35.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e44aef755d9d1c14",
+    "title": "ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例",
+    "url": "https://gibberishlab.com/blog/oss-ai-agent-harness-philosophy",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T09:20:09.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgibberishlab.com%2Fblog%2Foss-ai-agent-harness-philosophy"
+  },
+  {
+    "id": "9edc32efc8811ec0",
+    "title": "【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！",
+    "url": "https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-07T09:11:57.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "a82361c08299da20",
+    "title": "Uncaught ReferenceError: Link is not defined",
+    "url": "https://qiita.com/polymetisoutis/items/7e8e8dee73ed3b58bed4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-07T08:28:42.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "39c140690d57bdc8",
+    "title": "パブリックサブネットを持たない Web配信基盤の現在地 | ドクセル",
+    "url": "https://www.docswell.com/s/suzryo/KDMX88-2026-11-07-160134",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T07:55:03.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.docswell.com%2Fs%2Fsuzryo%2FKDMX88-2026-11-07-160134"
+  },
+  {
+    "id": "a207a50d9348317b",
+    "title": "LDRライクなRSSリーダのIrodrをReact 19 + Vite+で書き直して、iPhone Duoにも対応した",
+    "url": "https://efcl.info/2026/11/07/irodr-2/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T07:36:08.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fefcl.info%2F2026%2F11%2F07%2Firodr-2%2F"
   },
   {
     "id": "b257c2f30e488c5d",
@@ -35,6 +165,32 @@
     "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--85D6N8rV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25ABGitHub%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E6%2593%258D%25E4%25BD%259C%25E3%2581%2595%25E3%2581%259B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2582%25892FA%25E3%2581%25A7%25E8%25A9%25B0%25E3%2582%2593%25E3%2581%25A0%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581Gmail%25E3%2582%2592IMAP%25E6%258E%258C%25E6%258F%25A1%25E3%2581%2597%25E3%2581%25A6OTP%25E5%2585%25A8%25E8%2587%25AA%25E5%258B%2595%25E7%25AA%2581%25E7%25A0%25B4%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:D.F.Blogger%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvZC5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
+    "id": "6d0fb8ef26879305",
+    "title": "SSA ベースの .NET IL 最適化コンパイラーを作ってみた",
+    "url": "https://qiita.com/hez2010/items/70fe879c1a37379f020c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-07T07:25:48.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8cd553711194c1ad",
+    "title": "VoidでWebアプリを作ろう！",
+    "url": "https://void-workshop.yusuke.run/phpmatsuri",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T07:15:20.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fvoid-workshop.yusuke.run%2Fphpmatsuri"
+  },
+  {
+    "id": "1e8b08f1d8dbc5db",
+    "title": "レシート整理をAIに任せるためのローカルMCPを作った: 読み取りはAI、ファイル操作は狭く固いツールで",
+    "url": "https://zenn.dev/hachihou_system/articles/df8531674b3d86",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-07T06:52:04.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--6zAtH98C--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AC%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%2588%25E6%2595%25B4%25E7%2590%2586%25E3%2582%2592AI%25E3%2581%25AB%25E4%25BB%25BB%25E3%2581%259B%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABMCP%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%253A%2520%25E8%25AA%25AD%25E3%2581%25BF%25E5%258F%2596%25E3%2582%258A%25E3%2581%25AFAI%25E3%2580%2581%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E6%2593%258D%25E4%25BD%259C%25E3%2581%25AF%25E7%258B%25AD%25E3%2581%258F%25E5%259B%25BA%25E3%2581%2584%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25AD%25E3%2583%25A7%25E3%2582%25A6%25E3%2582%25B9%25E3%2582%25B1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnJNaUtXN3pnVFdrdklhUTVNWnVJZlpDT1pKbVltMF9oTnk3blN0eklsNjNvOHVkQmU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
     "id": "980d57695710636e",
     "title": "120FPS達成が大変だった話。",
     "url": "https://project-asura.com/blog/archives/14007",
@@ -42,6 +198,15 @@
     "publishedAt": "2026-11-07T06:12:43.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fproject-asura.com%2Fblog%2Farchives%2F14007"
+  },
+  {
+    "id": "239ecab66f2ec1e9",
+    "title": "Microsoft Entra Kerberos で実現するクラウド デバイス管理",
+    "url": "https://speakerdeck.com/tamaiyutaro/microsoft-entra-kerberos-de-jitsugen-suru-kura-udo-debaisu-kanri",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T06:10:01.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Ftamaiyutaro%2Fmicrosoft-entra-kerberos-de-jitsugen-suru-kura-udo-debaisu-kanri"
   },
   {
     "id": "6426decba2ef7b96",
@@ -250,6 +415,15 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fstock_inc%2Farticles%2Fai-daily-security-check-criteria"
   },
   {
+    "id": "c41bc7222356aee4",
+    "title": "証明駆動開発（PDD Kit）とは｜エージェントのコードを行ごとに読まずに信頼する GitHub Next の試み",
+    "url": "https://ai-heartland.com/explain/proof-driven-development/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T00:15:27.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fai-heartland.com%2Fexplain%2Fproof-driven-development%2F"
+  },
+  {
     "id": "ed136fd5bcb01da3",
     "title": "ベテランのツアコン「最近のiPhoneでピサの斜塔を撮影すると、ピサの斜塔が真っ直ぐに写る」どんなに頑張って撮影しても勝手に真っ直ぐに補正されるらしい？",
     "url": "https://togetter.com/li/2767589",
@@ -311,6 +485,15 @@
     "publishedAt": "2026-11-06T22:42:38.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.planned-obsolescence.org%2Fp%2Fai-is-dramatically-accelerating-ai"
+  },
+  {
+    "id": "e8ad3aaf9c4e3939",
+    "title": "Inside GitHub's new Git storage architecture",
+    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T22:30:33.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.blog%2Fengineering%2Farchitecture-optimization%2Finside-githubs-new-git-storage-architecture%2F"
   },
   {
     "id": "e56b8178998b10d8",
@@ -471,6 +654,14 @@
     "imageUrls": []
   },
   {
+    "id": "81869d0175b8ce01",
+    "title": "Gemini を主力エージェントから外して、Claude に移った（全 3 回）",
+    "url": "https://qiita.com/kassyi/items/c134f3b244368d913f09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-06T17:04:24.000Z",
+    "status": "pending"
+  },
+  {
     "id": "a29884804e746f98",
     "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
     "url": "https://up.codes/careers?utm_source=HN",
@@ -629,6 +820,15 @@
     ]
   },
   {
+    "id": "2a1ac62f979bc27a",
+    "title": "Active Directory と Entra ID のむむむな関係",
+    "url": "https://speakerdeck.com/murachiakira/entraidandaddc-20261106",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T14:52:40.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fmurachiakira%2Fentraidandaddc-20261106"
+  },
+  {
     "id": "255a39d766325238",
     "title": "MTG-I2 First Images",
     "url": "https://www.eumetsat.int/mtg-i2-first-images",
@@ -717,6 +917,14 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.t.u-tokyo.ac.jp%2Fpress%2Fpr2026-11-06-001"
   },
   {
+    "id": "f0e27bd1714620d2",
+    "title": "【Mac】React の環境構築をして、GitHub に最初のコミットを上げてPRを作るまで",
+    "url": "https://qiita.com/Tukirukiki/items/2a9d046a5d79e605e62d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-06T11:41:39.000Z",
+    "status": "pending"
+  },
+  {
     "id": "9aec028e6994ab24",
     "title": "ドコモ不正アクセス、「料金プラン」などの情報も流出　29.5万件",
     "url": "https://www.watch.impress.co.jp/docs/news/2154508.html",
@@ -776,441 +984,5 @@
     "category": "RELEASE",
     "summary": "ドコモは、外部からの不正アクセスにより、一部のお客さまの個人情報や契約情報などが流出した緊急メンテナンスを継続しています。この対策は、11 月 5 日午前 1 時 5 分頃から業務停止を開始し、最大約 30 万件のデータが流出しました。\n\n流出された情報は、個人確認書類、連絡先、料金プラン、金融機関名などを含む詳細な情報です。これらは悪用される可能性があり、URL にアクセスしない、ファイルを開かない、個人情報を入力しないなどの注意が必要です。また、特設ダイヤルで対応する電話も設置されています。\n\n本件は、外部からの不正アクセス対策の継続と、顧客への保護を優先しています。今後の調査結果や修正については、関係者から確認することが推奨されます。",
     "imageUrls": []
-  },
-  {
-    "id": "feae6a47e061bc9c",
-    "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-    "url": "https://jhr.pensoft.net/articles.php?id=9096",
-    "source": "Hacker News",
-    "publishedAt": "2026-11-06T10:21:15.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "本記事は、紅木蜂の熱調節と Colony の構造に関する研究を報告しています。主要な課題として、紅木蜂が秋に活動停止し、熱調節をオフにするという現象の発見です。また、この現象は、蜂の寿命延長や Colony の進化において重要な役割を果たしていることが示されています。研究結果では、特定の環境条件下での熱調節の制御が重要であることが明確になりました。\n\n結論として、紅木蜂の熱調節戦略は、環境変化に適応し、 Colony の安定性を保つための重要な技術要素であることが結論付けられています。これにより、生物の進化や生態系の理解において新たな視点を提供する可能性があります。\n\n方法として、実験条件での熱調節の制御と、蜂の寿命延長に関する研究が実施されました。専門用語は必要に応じて簡潔に説明されており、本文の主要な内容に基づき、要約されています。",
-    "imageUrls": []
-  },
-  {
-    "id": "ff530356612a9cb3",
-    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 全40回総復習",
-    "url": "https://qiita.com/maskot1977/items/1580f010f2a43225c0f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-06T09:46:19.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "a25156cc30eef2d4",
-    "title": "「お値打ちAI銘柄」太陽誘電が逆行高　悲観一色に差す光明 - 日本経済新聞",
-    "url": "https://www.nikkei.com/article/DGXZQOUB064NX0W6A101C2000000/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T09:39:24.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUB064NX0W6A101C2000000%2F"
-  },
-  {
-    "id": "25a6a123ca912b95",
-    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-    "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-    "source": "Hacker News",
-    "publishedAt": "2026-11-06T09:27:12.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：直訳調の避けた自然な要約\n\n**テーマ：技術課題と解決方法**\n開発者は、アプリの安全性確保について、Play Integrity の使用について議論しています。この記事では、エビデンスベースの検証方法と Google の根拠を比較し、セキュリティ上のリスクを分析しています。特に、Android 仕様に基づいた検証プロセスについて詳細な説明が提供されています。\n\n**結論：推奨されるアプローチ**\n開発者は、Play Integrity を使用し、Google の認証フローを適切に理解することが重要です。現在の検証方法では、より低い安全性レベルの検証が採用されることが多い現状を認識しています。セキュリティ上のリスクを低くするため、適切な検証フローを採用することが推奨されます。\n\n**方法：解決アプローチと技術的実装**\n課題は、アプリの信頼性を確保する問題です。解決方法は、Android の仕様に基づいた検証フローの理解と、サーバー側の認証処理の調整です。具体的な技術的な手順は、キー生成プロセスの解析や、Google の根拠の接受方法について説明されています。\n\n本文には、特定の機能追加やバージョン変更などの詳細情報は記載されていませんが、一般的な検証フローの概要として推測できます。専門用語は必要に応じて短く説明しています。",
-    "imageUrls": []
-  },
-  {
-    "id": "81596b50382140c3",
-    "title": "【重要】280blocker Android版の新規販売停止について | 280blocker",
-    "url": "https://280blocker.net/blog/20261106/20261106082700/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T09:24:26.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2F280blocker.net%2Fblog%2F20261106%2F20261106082700%2F"
-  },
-  {
-    "id": "b22e61c7601b8af0",
-    "title": "KDDIの通信品質、「横浜・福岡でパケ止まり約3割減」　楽天ローミング縮小で",
-    "url": "https://k-tai.watch.impress.co.jp/docs/news/2154433.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T08:59:25.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fnews%2F2154433.html"
-  },
-  {
-    "id": "de8843048aa511d9",
-    "title": "年末調整の書類、どこから書けばいい？ 基礎控除申告書の収入・所得を算出するには？【2026年(令和8年分)年末調整の書き方ガイド 前編】",
-    "url": "https://internet.watch.impress.co.jp/docs/special/2154000.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T08:50:13.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Finternet.watch.impress.co.jp%2Fdocs%2Fspecial%2F2154000.html"
-  },
-  {
-    "id": "d8062bea8dd56691",
-    "title": "Claude Code で WPF 業務アプリに単体テストを作成した話 ― 意識した 3 つのこと",
-    "url": "https://qiita.com/kazutoyamaura/items/d63520304cca26f033d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-06T08:45:40.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "fa3ada964d427555",
-    "title": "「Discord」がクライアント全体を「Rust」で書き直し、「Electron」から脱却へ／「Zed」のUIフレームワーク「GPUI」を採用、モバイル版とコードを共有",
-    "url": "https://forest.watch.impress.co.jp/docs/news/2154396.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T08:44:46.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2154396.html"
-  },
-  {
-    "id": "f64b19370ed898cc",
-    "title": "セキュリティ啓発団体に不正アクセス　個人情報最大1.5万件漏えいか",
-    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002978/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T08:41:42.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F06%2F2000002978%2F",
-    "category": "TROUBLESHOOT",
-    "summary": "# 課題と解決方法：情報セキュリティ理解度チェックサービス停止と対策\n\n**結論**\n情報セキュリティ理解度チェックサービスは、漏えい可能な個人情報を管理する役割を担う重要なツールであり、現在停止している。このサービスが不正アクセスを受け、1万5128件の個人情報が漏れたと発表した結果により、被害拡大を防ぐための即時対応が求められている。\n\n**方法**\nJNSA は、このサービスの停止と原因調査を主導している。外部専門事業者との協力により、攻撃経路の特定や影響範囲の調査を進めている。現時点では侵入経路が判明していないため、漏え件数の変動を予測する必要がある。個人情報は特定でき次第個別に連絡される方針を採用しており、個人情報保護委員会への報告も予定されている。\n\n**本文に記載なし**\n具体的な攻撃手法や対策の詳細については、記事には記載されていないため、専門用語は短く説明している。\n\n要約の視点：発生した問題、原因、解決方法、再発防止の要点をまとめると、情報セキュリティの普及啓発において、適切な理解度を確保することが不可欠であることが示されている。",
-    "imageUrls": [
-      "https://www.itmedia.co.jp/news/article/image/2611/06/2000002978/10011539/728",
-      "https://www.itmedia.co.jp/news/article/image/2611/06/2000002978/10011540/728"
-    ]
-  },
-  {
-    "id": "8607a02a6f033099",
-    "title": "「プロンプトを書くClaude」と「実装するClaude」を分けたら開発が回り始めた話",
-    "url": "https://qiita.com/kazutoyamaura/items/5a0874965d892a5acdb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-06T08:34:33.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "5099739bf6b783e4",
-    "title": "「Microsoft Access」でIEベースのWebブラウザーコントロールが廃止へ、2027年5月に／対象フォームは手作業で洗い出し。「Edge」版への置き換えを",
-    "url": "https://forest.watch.impress.co.jp/docs/news/2154137.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T08:07:03.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2154137.html",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：Microsoft Access データベースアプリにおける Web ブラザーコントロールの廃止計画\n\n**テーマ**: Microsoft はデータベースアプリ「Access」において、従来の「Internet Explorer」ベースのWeb ブラザーコントロールを廃止する計画を明らかにした。\n\n**結論**: 2027 年 5 月 18 日までにバージョン 2705 で廃止される予定であり、長期サポート版でも同様の対応が実施される。従来のフォームでの Web コンテンツ表示は機能しないため、移行が必要となる。\n\n**方法**: データベースアプリのデザインビューで「Change To」ボタンを操作し、Microsoft Edge ブラザーコントロールへ移行する手順と、既存コントロールの変換可能性について注意すべき点がある。\n\n本文には、従来のコントロールの自動読み込みオプションが設定されていないため、VBA コードの書き直しが必要であるという重要な技術的な注意点が含まれている。ページ内でのJavaScript実行や認証・ナビゲーションなどの機能もテストされる必要がある。",
-    "imageUrls": [
-      "https://asset.watch.impress.co.jp/img/wf/docs/2154/137/image1_l.png",
-      "https://asset.watch.impress.co.jp/img/wf/docs/2154/137/image2_l.png",
-      "https://images-na.ssl-images-amazon.com/images/P/B00I3W8LM6.09._SCTZZZZZZZ_PE.jpg"
-    ]
-  },
-  {
-    "id": "c45b3795871e5006",
-    "title": "PHPは使っておりません - megamouthの葬列",
-    "url": "https://www.megamouth.info/entry/2026/11/06/165305",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T08:05:48.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.megamouth.info%2Fentry%2F2026%2F11%2F06%2F165305",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：PHP の廃止と Web 開発への対応\n\n**テーマ**: 記事が扱う課題は、企業内の PHP を停止し、新しい技術環境を構築することです。\n**結論**: 従来のレンタルサーバーでの PHP 依存は困難であり、AI によるダンプ利用や Docker コンテナ化により、カスタムサーバー環境で Web アプリを構築することが可能となりました。\n**方法**: 顧客の専用サーバーへの対応と、PHP のバージョン管理、MySQL と Postgres の組み合わせ、および AI を活用した CGI スクリプトの作成を踏まえています。\n\n本文では、開発者自身は PHP を完全に停止し、WordPress をベースにしたカスタムサーバー環境で新しい Web サイトを作成することを推奨しています。従来のレンタルサーバーでの PHP 依存は困難であり、MySQL と Postgres の組み合わせを構築する必要があるため、顧客への明確な対応が必要です。AI を活用したダンプ利用や Docker コンテナ化により、古い PHP 環境を置き換えることが可能となりました。このプロセスは、顧客の初期費用とランニングコストを考慮し、適切なサーバー環境を選択することが重要です。",
-    "imageUrls": [
-      "https://m.media-amazon.com/images/I/41zh9snD0oL._SL500_.jpg"
-    ]
-  },
-  {
-    "id": "52afbecc9ee90da8",
-    "title": "月間はてなブックマーク数ランキング（2026年10月） - はてなブックマーク開発ブログ",
-    "url": "https://bookmark.hatenastaff.com/entry/2026/11/06/170402",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T08:04:36.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fbookmark.hatenastaff.com%2Fentry%2F2026%2F11%2F06%2F170402",
-    "category": "RELEASE",
-    "summary": "# はてなブックマーク数ランキングの解説\n\n本記事は「はてなブックマーク数ランキング」を基に、2026 年 10 月のトップ 50 の記事を紹介しています。このリストは、特定のジャンルやトレンドに基づき、人気を測るものです。\n\n## テーマ：記事が扱う課題や技術は何か\nこのランキングは、インターネット上のコンテンツの質と人気を反映したものであり、特定のテーマや技術の重要性を示しています。特に、オープンソースソフトウェアやセキュリティ問題、教育方法などに関する話題が多数含まれています。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nトップ 50 の中で、最も高い順位には「人生シミュレーション」や「オープンソースソフトウェア」の無料利用が挙げられます。また、セキュリティリスクや情報漏洩などの課題についても重要な注意喚起が行われています。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\nランキングは、特定のコンテンツの人気を評価する指標であり、実際の解決策や推奨事項は明確ではありません。ただし、オープンソースソフトウェアの利用やセキュリティ対策について、いくつかの注意点や推奨される方法が記載されています。\n\n本文には、具体的な機能追加や変更情報、対象バージョン、利用者への影響の詳細な情報は含まれていません。そのため、これらの情報は推測または補足として扱われています。",
-    "imageUrls": [
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2F1in8b.life%2Fja%2F",
-      "https://b.hatena.ne.jp/entry/image/https://1in8b.life/ja/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fcoliss.com%2Farticles%2Fbuild-websites%2Foperation%2Fwork%2F7-adobe-apps-open-sourced.html",
-      "https://b.hatena.ne.jp/entry/image/https://coliss.com/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fjustylifememo.hatenablog.com%2Fentry%2F2026%2F09%2F17%2F200408",
-      "https://b.hatena.ne.jp/entry/image/https://justylifememo.hatenablog.com/entry/2026/09/17/200408",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fnote.com%2Ffromheaven%2Fn%2Fnecb99e77079f",
-      "https://b.hatena.ne.jp/entry/image/https://note.com/fromheaven/n/necb99e77079f",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fiwashi.co%2F2026%2F10%2F01%2Fhow-to-study-in-ai-era",
-      "https://b.hatena.ne.jp/entry/image/https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fai.itokoba.com%2Fsecurity-tier%2F",
-      "https://b.hatena.ne.jp/entry/image/https://ai.itokoba.com/security-tier/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fanond.hatelabo.jp%2F20261001212553",
-      "https://b.hatena.ne.jp/entry/image/https://anond.hatelabo.jp/20261001212553",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fnote.com%2Fsahoobb%2Fn%2Fn16ac73d5b85b",
-      "https://b.hatena.ne.jp/entry/image/https://note.com/sahoobb/n/n16ac73d5b85b",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fezo-cl.jp%2Fsymptom%2F3016%2F",
-      "https://b.hatena.ne.jp/entry/image/https://ezo-cl.jp/symptom/3016/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fcocolog-nifty.hatenablog.com%2Fentry%2F2026%2F10%2F26%2F124431",
-      "https://b.hatena.ne.jp/entry/image/https://cocolog-nifty.hatenablog.com/entry/2026/10/26/124431",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fwww.haradaeigo.com%2Ftadokubest%2F",
-      "https://b.hatena.ne.jp/entry/image/https://www.haradaeigo.com/tadokubest/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Ftogetter.com%2Fli%2F2762993",
-      "https://b.hatena.ne.jp/entry/image/https://togetter.com/li/2762993",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fblog.flatt.tech%2Fentry%2Fphp2shell",
-      "https://b.hatena.ne.jp/entry/image/https://blog.flatt.tech/entry/php2shell",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Ftogetter.com%2Fli%2F2755262",
-      "https://b.hatena.ne.jp/entry/image/https://togetter.com/li/2755262",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fwww.jiji.com%2Fjc%2Farticle%3Fk%3D2026100600559%26g%3Deco",
-      "https://b.hatena.ne.jp/entry/image/https://www.jiji.com/jc/article?k=2026100600559&g=eco",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fsecurity.macnica.co.jp%2Fblog%2F2026%2F10%2Fweb-incidents2026.html",
-      "https://b.hatena.ne.jp/entry/image/https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fewomiru.yamashitataihei.org%2F",
-      "https://b.hatena.ne.jp/entry/image/https://ewomiru.yamashitataihei.org/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fzenn.dev%2Fblackmose%2Farticles%2Fde0170a13be930",
-      "https://b.hatena.ne.jp/entry/image/https://zenn.dev/blackmose/articles/de0170a13be930",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Frocketnews24.com%2F2026%2F10%2F11%2F2809403%2F",
-      "https://b.hatena.ne.jp/entry/image/https://rocketnews24.com/2026/10/11/2809403/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F10%2F21%2F174516",
-      "https://b.hatena.ne.jp/entry/image/https://piyolog.hatenadiary.jp/entry/2026/10/21/174516",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Finside.pixiv.blog%2F2026%2F10%2F22%2F193321",
-      "https://b.hatena.ne.jp/entry/image/https://inside.pixiv.blog/2026/10/22/193321",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Flpi.or.jp%2Fnews%2Fpress%2Fpage%2F20261001_01%2F",
-      "https://b.hatena.ne.jp/entry/image/https://lpi.or.jp/news/press/page/20261001_01/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Ftechblog.kazaneya.com%2F20261030-agent-skills%2F",
-      "https://b.hatena.ne.jp/entry/image/https://techblog.kazaneya.com/20261030-agent-skills/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Ftogetter.com%2Fli%2F2763721",
-      "https://b.hatena.ne.jp/entry/image/https://togetter.com/li/2763721",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fnkworks-games.com%2Fshusshin-ken%2F",
-      "https://b.hatena.ne.jp/entry/image/https://nkworks-games.com/shusshin-ken/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fwww.jpcert.or.jp%2Fat%2F2026%2Fat260030.html",
-      "https://b.hatena.ne.jp/entry/image/https://www.jpcert.or.jp/at/2026/at260030.html",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Ftogetter.com%2Fli%2F2764219",
-      "https://b.hatena.ne.jp/entry/image/https://togetter.com/li/2764219",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fnote.com%2Fenglishbusy%2Fn%2Fn40943f3c89ab",
-      "https://b.hatena.ne.jp/entry/image/https://note.com/englishbusy/n/n40943f3c89ab",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fanond.hatelabo.jp%2F20261002151015",
-      "https://b.hatena.ne.jp/entry/image/https://anond.hatelabo.jp/20261002151015",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fnote.com%2Fgamou_mushoku%2Fn%2Fn8d6438f58f30",
-      "https://b.hatena.ne.jp/entry/image/https://note.com/gamou_mushoku/n/n8d6438f58f30",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fzenn.dev%2Fexplaza%2Farticles%2Fc749042ecbe232",
-      "https://b.hatena.ne.jp/entry/image/https://zenn.dev/explaza/articles/c749042ecbe232",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fwww.afpbb.com%2Farticles%2F-%2F3656790",
-      "https://b.hatena.ne.jp/entry/image/https://www.afpbb.com/articles/-/3656790",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fwww.nict.go.jp%2Fpress%2F2026%2F10%2F13-1.html",
-      "https://b.hatena.ne.jp/entry/image/https://www.nict.go.jp/press/2026/10/13-1.html",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fsan-tatsu.jp%2Farticles%2F555485%2F",
-      "https://b.hatena.ne.jp/entry/image/https://san-tatsu.jp/articles/555485/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fthe-shashi.com%2Fissue%2F",
-      "https://b.hatena.ne.jp/entry/image/https://the-shashi.com/issue/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fwww.kyoto-u.ac.jp%2Fja%2Fresearch-news%2F2026-10-09",
-      "https://b.hatena.ne.jp/entry/image/https://www.kyoto-u.ac.jp/ja/research-news/2026-10-09",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fnote.com%2Fmizumachanx%2Fn%2Fna0d0305451d6",
-      "https://b.hatena.ne.jp/entry/image/https://note.com/mizumachanx/n/na0d0305451d6",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fheyatsukuri.pages.dev%2F",
-      "https://b.hatena.ne.jp/entry/image/https://heyatsukuri.pages.dev/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fwww.47news.jp%2F15143807.html",
-      "https://b.hatena.ne.jp/entry/image/https://www.47news.jp/15143807.html",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fblog.nishimu.land%2Fentry%2F2026%2F10%2F20%2F123916",
-      "https://b.hatena.ne.jp/entry/image/https://blog.nishimu.land/entry/2026/10/20/123916",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Ftogetter.com%2Fli%2F2754581",
-      "https://b.hatena.ne.jp/entry/image/https://togetter.com/li/2754581",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fnote.com%2Fmizumachanx%2Fn%2Fncbf0fd5545aa",
-      "https://b.hatena.ne.jp/entry/image/https://note.com/mizumachanx/n/ncbf0fd5545aa",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fnote.com%2Fsrt_taka%2Fn%2Fnff6c2d40c11b",
-      "https://b.hatena.ne.jp/entry/image/https://note.com/srt_taka/n/nff6c2d40c11b",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fp.hatena.ne.jp%2Fp%2F1557229530244976640%2Ft%2F1564809683624005632",
-      "https://b.hatena.ne.jp/entry/image/https://p.hatena.ne.jp/p/1557229530244976640/t/1564809683624005632",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261023de64176",
-      "https://b.hatena.ne.jp/entry/image/https://news.web.nhk/newsweb/na/nd-20261023de64176",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Flocal-historia.jp%2F",
-      "https://b.hatena.ne.jp/entry/image/https://local-historia.jp/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fomocoro.jp%2Fkiji%2F589782%2F",
-      "https://b.hatena.ne.jp/entry/image/https://omocoro.jp/kiji/589782/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fmkms0822-ops.github.io%2Fcyberattack-response-guide%2F",
-      "https://b.hatena.ne.jp/entry/image/https://mkms0822-ops.github.io/cyberattack-response-guide/",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fwww.ben54.jp%2Fnews%2F3978",
-      "https://b.hatena.ne.jp/entry/image/https://www.ben54.jp/news/3978",
-      "https://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Ftogetter.com%2Fli%2F2754744",
-      "https://b.hatena.ne.jp/entry/image/https://togetter.com/li/2754744"
-    ]
-  },
-  {
-    "id": "442b150d486db30b",
-    "title": "DockerでPlaywrightのChromium Sandboxを有効化するためにはseccompプロファイルを作る必要がある",
-    "url": "https://zenn.dev/okayurisotto/articles/8a3dc02d9092a7",
-    "source": "Zenn (playwright)",
-    "publishedAt": "2026-11-06T08:03:37.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--hJfaP82t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Docker%25E3%2581%25A7Playwright%25E3%2581%25AEChromium%2520Sandbox%25E3%2582%2592%25E6%259C%2589%25E5%258A%25B9%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%25E3%2581%25AFseccomp%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2581%258B%25E3%2582%2586%25E3%2582%258A%25E3%2581%259E%25E3%2581%25A3%25E3%2581%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk3Y2NlZDI1ODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：Docker で Chromium Sandbox を有効化する手順と注意点\n\nPlaywright は Node.js の自動化ライブラリであり、Web テストやスクレイピングに使用されます。しかし、Sandbox の機能を利用する際に Docker のセキュリティ設定が影響します。\n\n## 課題\nDocker コンテナ内で Chromium を起動し、Sandbox を有効化するには、デフォルトの seccomp プロファイルを制限する必要があります。この設定により、プロセスが実行できるシステムコールが拒否され、異常終了が発生します。\n\n## 結論\nPlaywright の公式ドキュメントに基づき、Docker で sandbox を有効化する手順と、セキュリティ設定の追加ルールを推奨します。\n\n## 方法\n1. Docker コンテナ内で `seccomp=seccomp_profile.json` を指定し、環境変数やコマンドラインに設定します。\n2. Playwright の公式の `seccomp_profile.json` を取得し、トップレベルの `syscalls` パーソンの許可ルールを追加します。\n   - 許可項目：`create user namespaces`（`clone`, `setns`, `unshare`）\n   - 動作：`SCMP_ACT_ALLOW`\n3. Docker のデフォルト設定をベースに、必要な設定を調整します。\n\n本文には、この手順の具体的な実行例や、最新のドキュメントへの指針はありませんが、上記の推奨ルールに基づき導入することが可能です。",
-    "imageUrls": []
-  },
-  {
-    "id": "2c002245da202074",
-    "title": "総務省｜個人情報の漏えい等につながる不正アクセスへの対策について（事業者向け注意喚起）",
-    "url": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000683.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T07:55:54.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.soumu.go.jp%2Fmenu_kyotsuu%2Fimportant%2Fkinkyu02_000683.html",
-    "category": "RELEASE",
-    "summary": "# 課題と対策の重要性\n\nこの記事は、不正アクセスによる情報漏洩やウェブサイトの設定不備など、セキュリティ対策不足が原因の事例を調査し、攻撃手法の進化を指摘しています。特に、AIを活用した標的調査や、事業規模の拡大により広範囲に被害が及ぶリスクが高まっています。これらを解決するため、内閣官房国家サイバー統括室および総務省から、ウェブサイトやモバイルアプリにおける基本的な対策の徹底と継続的な監視強化を推奨しています。\n\n## 結論\n\n事業者は、個人情報を保護する重要な責任を担うべきであり、経営層の下でサイバーセキュリティ対策の強化を行うことが求められています。\n\n## 方法\n\n課題解決の具体的な方法は、ウェブサイトやモバイルアプリのセキュリティ設計からスタートし、サプライチェーン全体の対策強化を徹底することです。これにより、既存の脆弱性を補完し、継続的な監視を強化することで、攻撃者の侵入を防ぐことができます。\n\n## 本文の要約\n\n本文では、不正アクセスによる情報漏洩事例の多様性と、AIを活用した攻撃手法の進化を指摘しています。これらを解決するため、国家サイバー統括室と総務省から、セキュリティ対策の徹底と継続的な監視強化を推奨しています。事業者は、個人情報を保護する責任を強く意識し、経営層の下で対策を講じることが重要です。",
-    "imageUrls": []
-  },
-  {
-    "id": "cee411f0362265be",
-    "title": "無人で動かす claude -p に渡す道具を絞る(--allowedTools で git をサブコマンドごとに・専用の --settings でフックだけ足す)",
-    "url": "https://qiita.com/takamatt_ai/items/d9c67f245a794e659f30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-06T07:52:31.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "df89720934dec725",
-    "title": "Kugelblitz – Mac-Native Google Earth Alternative",
-    "url": "https://apps.metaebene.me/en/kugelblitz",
-    "source": "Hacker News",
-    "publishedAt": "2026-11-06T07:47:38.000Z",
-    "status": "completed",
-    "category": "TUTORIAL",
-    "summary": "# 開発者向け：Mac で地球を3D グローブで遊べるツール\n\n**テーマ**: 開発者向けに、直訳調を避けた自然な日本語で要約\n\n結論：本ツールは、Mac のM1 に搭載された環境で、地球と周辺地域を3D グローブとして視覚化し、 freely available のデータを活用した高速な移動が可能です。\n\n方法：\n開発者は「Kugelblitz」というツールを使用して、開拓された地理データ（OpenStreetMap など）をキャッシュで保存し、ネットワーク内で共有する仕組みを採用しています。また、3D コンソール「SpaceMouse」を使用することで、指の動きに合わせてスムーズに移動できます。Mac のM1 と組み合わせると、視覚化と高速な動作が両立します。\n\n本文には具体的な手順や技術の詳細は記載されていませんが、キャッシュベースのデータ利用とネットワーク連携の仕組みが明確です。ユーザーは「Kugelblitz」アプリをインストールし、指定された場所から地球を視覚化できます。また、Apple Vision Pro の対応も確認可能です。\n\n要約本文：\n開発者向けツールとして、「Kugelblitz」というアプリが利用されています。このツールは、Mac のM1 に搭載されており、地球と周辺地域を3D グローブとして視覚化し、 freely available の地理データを活用します。キャッシュベースのデータ利用とネットワーク連携により、高速な移動が可能です。また、3D コンソール「SpaceMouse」を使用することで、指の動きに合わせてスムーズに移動できます。ユーザーは指定された場所から地球を視覚化し、Apple Vision Pro の対応も確認可能です。",
-    "imageUrls": [
-      "https://apps.metaebene.me/media/4f0db9eb4fb9867834827fc6c42fca1a2dbec18027c8f03efb4c587277b52111/medium.webp",
-      "https://apps.metaebene.me/media/f0a41230748fce3ab364281d54577fb8e9c3169d6b520bccd687396d2f75da36/medium.webp",
-      "https://apps.metaebene.me/media/5ba3052cb198a52638800084135cceb21845f2f8b6939788b3ca840ebe204cde/medium.webp",
-      "https://apps.metaebene.me/media/f077b03c459fd0e81c352321755253225b914a4db4cda3d78983e8afaa6ba97f/medium.webp",
-      "https://apps.metaebene.me/media/f0ce2b65a31cf8b2786e1fbff87830464ff6cb8fabcf3d01847245393e2ba275/medium.webp",
-      "https://apps.metaebene.me/media/be93d5ee6dd028b3fd332c64122dce6d0567562e708d2cd635404172d42de027/medium.webp",
-      "https://apps.metaebene.me/media/25cd6ab73773e42e556f580717b5e39766a264af30015a9cf94e50e0134c5566/medium.webp",
-      "https://apps.metaebene.me/media/65db6315984d39bff77affbf659345584c42a00c857edd261a91ac99e67ad3fd/medium.webp",
-      "https://apps.metaebene.me/media/f285e9127897dd830beb5b8db94727213a4ac22152e527db202500c6a2bc6f90/medium.webp",
-      "https://apps.metaebene.me/media/c948618b211c86202f45e8eb9ab6242c7a740b76582b278d44eab3f522cfbd4c/medium.webp",
-      "https://apps.metaebene.me/media/5ed2b4d4b188be3115ac80ac046dfde831400a3fb9aeaff82ad110bfeefd4dee/medium.webp",
-      "https://apps.metaebene.me/media/87b757c18f934ad3f137eb9377a9e1c7ef04284b1dad23215a665b08b17286a5/medium.webp",
-      "https://apps.metaebene.me/media/33c3a7e5cb3283c5a0e03c0506f73a849e9e3673adf2d882622c31375d1ab33f/medium.webp",
-      "https://apps.metaebene.me/media/971bac9d18a292d181277aba6c5cef52bda387692f470478a2997b8b40939a82/medium.webp",
-      "https://apps.metaebene.me/media/bf0a97755557e9255b62837d4cc6f828a8343cf4dbb6b6f4852f6dbae155a8f1/medium.webp",
-      "https://apps.metaebene.me/media/f5b168cc1dbb3b16008adaead5d6aa156ee4a163d772b19751b1db9b7a6c603c/medium.webp"
-    ]
-  },
-  {
-    "id": "3a41e347243261e3",
-    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-    "url": "https://github.com/ppmpreetham/BUI",
-    "source": "Hacker News",
-    "publishedAt": "2026-11-06T07:40:35.000Z",
-    "status": "completed",
-    "category": "TUTORIAL",
-    "summary": "# 開発者向け BUI の自然な日本語要約\n\n**テーマ：課題と技術**\nBlender のユーザーインターフェースをライブラリとして利用し、Python、Rust、JavaScript など複数の言語で構築可能にする新しいツール BUI を発表しました。数 decades の経験に基づき、バッテリーやメモリ効率が高く超速な GUI を設計しました。これにより、異なるフレームワークと言語で製品を構築する機会を提供しています。\n\n**結論：推奨事項**\nBUI は、Blender のような自然で使いやすいインターフェースを維持しつつ、高性能かつ低消費電力の特性を維持します。すべてのアプリや言語に対応可能であり、開発者にとって重要なツールとして推奨されます。\n\n**方法：解決手順と仕組み**\n課題は、既存の GUI を効率化し、異なる環境（Python, Rust, JavaScript など）で動作させることです。BUI は、Blender の Widget 構造を基に、CPU や GPU でネイティブコードで描画を行います。キーボードやマウスイベントをリアルタイム処理し、変更を自動的に反映させます。各言語のインターフェースは HTML と CSS をベースに設計されていますが、ブラウザ環境には依存せず、独立したシステムです。\n\n本文では、BUI の機能と仕組みの詳細が詳しく説明されています。特に、Python や Rust の導入方法や、各フレームワークとの連携方法が明確に記述されています。性能の最適化と、開発時の注意点も含まれています。",
-    "imageUrls": [
-      "https://camo.githubusercontent.com/908fdc08319d3b69122931ba4639590e193b497e023917e9622191f2071ba4ad/68747470733a2f2f696d672e736869656c64732e696f2f707970692f762f626c656e64657275693f6c6162656c3d70797069253230626c656e6465727569",
-      "https://camo.githubusercontent.com/128768a4f09ec073ab7df23dd275907aa43a2f415714a59ca10c22a58aa3c93d/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f626c656e6465727569",
-      "https://camo.githubusercontent.com/a3a1be0ad3323a1dc977961d5bc59155d93d6885b155a292c384b22096c00496/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f762f626c656e64657275693f6c6162656c3d6372617465732e696f253230626c656e6465727569",
-      "https://camo.githubusercontent.com/1a9c735a548a2f39ecde5210fda6bffb8a90c9f4db75fa859769a6c6adec9064/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f40626c656e6465722d75692f72656163743f6c6162656c3d253430626c656e6465722d75692532467265616374",
-      "https://camo.githubusercontent.com/00f8780f887a26ae2503e554891cc28a2476fbacac0c81d7c528a9c457dc691b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d47504c2d2d332e302d2d6f722d2d6c617465722d626c7565",
-      "https://camo.githubusercontent.com/8d97c48292430107ef43a7c3cd20c4cea0d683c37f67ba8e30d37994ef10be88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706c6174666f726d732d57696e646f77732532302537432532304c696e75782532302537432532306d61634f532d6c6967687467726579",
-      "https://camo.githubusercontent.com/85a0af93c0f1006e0d11ac9fe29ed37b57cf27812f7a3027b5902d6e6cf4f328/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d3538363546323f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/docs/images/components.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/docs/images/tkinter_items.png",
-      "https://github.com/ppmpreetham/BUI/raw/main/public/Advertisement.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/feature-node-editor-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/feature-pie-menu-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/feature-menu-search-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/feature-color-picker-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/feature-tooltip-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/feature-html-effects-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/feature-css-grid-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/feature-animation-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/docs/images/rust-showcase.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/docs/images/imgui-stock.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/docs/images/qt.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/docs/images/tkinter_notes.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/docs/images/tkinter_canvas.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/docs/images/tkinter_messagebox.png",
-      "https://camo.githubusercontent.com/cfb94e39f3cad42164161a92b63dbcec1108fde260852102763693f772f0e82b/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f40626c656e6465722d75692f6e61746976653f6c6162656c3d253430626c656e6465722d75692532466e6174697665",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/python-tkinter-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/python-ttk-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/python-components-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/python-qt-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/docs/images/rust-hello.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/rust-rsx-dashboard-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/js-react-tasks-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/docs/images/imgui-blender.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/imgui-cpp-stock-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/imgui-cpp-blender-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/c-kit-app-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/docs/images/rust-forms.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/rust-html-plain-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/rust-html-styled-dark.png",
-      "https://raw.githubusercontent.com/ppmpreetham/BUI/main/website/public/images/shots/rust-components-dark.png",
-      "https://camo.githubusercontent.com/6a35c3da354c3afe256cff36a946c93f280738a6f612fca76f2dcada90f1df71/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f63686172743f7265706f733d70706d707265657468616d2f62756926747970653d64617465266c6567656e643d626f74746f6d2d7269676874"
-    ],
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.com%2Fppmpreetham%2FBUI"
-  },
-  {
-    "id": "a9c6b7c84848af75",
-    "title": "リモートのエージェントが起動した dev server を手元でプレビュー：VS Code 1.145 の Remote browser proxy を試した",
-    "url": "https://qiita.com/shahin0809/items/a1bd931855f392806ee6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-06T07:28:29.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：VS Code 1.145 の変更とエージェント統合ブラウザ機能\n\n**テーマ**: VS Code のアップデートにおける重要な機能変更と環境設定について\n\n**結論**: 従来の代理機能の制限を回避し、リモートエージェントホスト経由で統合ブラウザ通信が可能になるようリリースされました。これにより、開発環境でのエージェント運用がスムーズになります。\n\n**方法**:\n2026年11月4日にリリースされた VS Code 1.145 では、Agents ウィンドウの統合ブラウザがリモートエージェントホスト経由で通信できるようになり、ポート転送なしで手元のウィンドウに開ける機能を実装しました。これは、従来の代理機能の制限を回避するためのもので、開発環境でのエージェント運用を簡素化します。\n\n本文では、Azure VM + SSH で検証した結果、Agents ウィンドウから VM に接続し、リモートのフォルダーでセッションを開始できたことが確認されました。また、Playwright で入力エラー・正常登録・重複登録の3ケースを確認し、ページ自動表示機能も実装されています。\n\n### 主な変更点\n- **workbench.browser.enableRemoteProxy のオン化**: 統合ブラウザの通信をリモート接続経由で流す機能を実装。\n- **ポート転送なし**: 従来の代理機能の制限を回避し、エージェントが伝えた URL と異なる場合も対応可能。\n- **検証環境**: Azure に Linux VM を設置し、実装を確認しました。\n\n### 対象情報\n- **バージョン**: VS Code 1.145以降のAgentsウィンドウ\n- **接続方法**: SSH / Dev Tunnels / WSL / Dev Containers（今回は SSH）\n- **対応環境**: Azure Cloud セッションのみサポートあり、他のエージェントホストは未サポート\n\nこの機能は、開発者がリモート環境でのエージェント運用をスムーズに行えるよう設計されています。",
-    "imageUrls": [
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fimg-00-tldr-overview.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a9787acaff4831f30986ea3eb9baaf0e",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fimg-01-before-after.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d354b42ce3c6fb07279191ca227d6336",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fimg-02-how-it-works.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=394e437f7a474ff1a2161823d038ff83",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-01-setting-description.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=644ce8ed4bc643f6880ccd96f52eac22",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-01-enable-remote-proxy.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ba4157e472c7a266a5eafab25f9780b9",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-01-data-storage.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=c0f0658fe41d8fddbc3ec2e01b595e00",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-02a-environment-picker.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=cc5ad6d6fc82f0d8ce317c1fe3929a27",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-02b-connect-via-ssh.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=35454a75211de00b704a1da0ba48a37e",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-02c-select-folder.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=30ba49018171269ac3a42bae3cf1ab2f",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-03-prompt-start-app.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=15984bd2ac62c62f071f7d6e53cc2535",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-04a-agent-working.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=345acb29efe71d650614186f2cfe7969",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-04-browser-remote-preview.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=fa2f13a90e152712e54e58ea57e0852b",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-05-playwright-duplicate-check.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=cf030d7072e06fcef83163952d1a665d",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-06-share-with-agent.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=0a2d54f142da453ab65ded0e170d8183",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-07-agent-summary.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d5371f4dd3448a0df9ba64ade2226604",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fimg-03-feedback-loop.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=794616d5c39d42151e304437acde0150",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-08-chat-canvases-enabled.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7aec81de40007bebfe33d408557a1625",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fshahin99991%2FQiita-github%2Fmain%2Fvscode-1-145-remote-browser-proxy%2Fimages%2Fdemo-08-canvases-and-remote-proxy.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b9d54aade172aef989c9699fef9a757b"
-    ]
-  },
-  {
-    "id": "2887f8f55eb2c1e7",
-    "title": "Claude Code は、あなたのメールアドレスを知っている。User-Agent に入れて送るかを Claude Code・Codex・Gemini CLI で試した",
-    "url": "https://qiita.com/suwa_nobu/items/314fb8cf661ef05046d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-06T07:26:15.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "16b894ed6e653fae",
-    "title": "ヤマハ、ルーターにDNSセキュリティ機能を追加する拡張ライセンスを発売　中小企業・SOHOのセキュリティ強化を支援",
-    "url": "https://cloud.watch.impress.co.jp/docs/news/2154335.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T07:24:31.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcloud.watch.impress.co.jp%2Fdocs%2Fnews%2F2154335.html",
-    "category": "RELEASE",
-    "summary": "ヤマハ株式会社は、自社のルーターにDNSセキュリティ機能を追加する拡張ライセンス「YSL-CLDDNS」を販売開始します。この機能は通信性能に影響せず、社内でのマルウェア感染や情報漏洩を防ぐことで、中小企業・SOHO を対象にセキュリティを強化するものです。\n\n主な特徴は、オープンテキストの脅威エンジンと連携し、ルーター配下に存在するすべての端末からのDNSトラフィックを監視・制御することです。購入後、Web GUI や CLI から設定が可能です。また、デフォルトポリシーを利用するための設定も両方のシステムで行えるため、導入が容易です。\n\n導入後は専用サポート窓口が設置され、初期設定やポリシー変更の支援も可能です。価格はルーターによって異なりますが、RTX840 向けは1年ライセンス3万3000円、5年ライセンス16万5000円などです。\n\n多層防御の考え方として、DNSセキュリティとファイアウォールやウイルス対策ソフトの組み合わせにより、入り口・内部・出口の各段階で対策を講じるメリットが強調されています。対象機種は現在追加を検討中ですが、今後のリリース予定となっています。",
-    "imageUrls": [
-      "https://asset.watch.impress.co.jp/img/clw/docs/2154/335/01_l.jpg",
-      "https://asset.watch.impress.co.jp/img/clw/docs/2154/335/02_l.jpg",
-      "https://asset.watch.impress.co.jp/img/clw/docs/2154/335/03_l.jpg"
-    ]
-  },
-  {
-    "id": "d80955001d31d55e",
-    "title": "Claude Certified Developer - Foundations (CCDV-F) 昨日受けてきました。【日本語受験】",
-    "url": "https://qiita.com/takeshi_Qiita/items/f8298084825898921cb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-06T07:20:39.000Z",
-    "status": "completed",
-    "category": "TUTORIAL",
-    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\n2026 年 11 月 5 日に合格したテストセンターの試験記録です。試験は 120 分ですが、10 時間以内で 896 点で合格しました。主な課題は AI 技術の基礎知識とシナリオの解釈能力です。\n\n学習方法として、問題集を 2 周程度で参考資料として利用し、正解率を 80% 達成しました。誤った問題を復習するのではなく、問題文のシナリオを読み解くことで効率的に済んだという体験です。試験時間は約 1.5 時間と、時間切れの心配はありませんでした。\n\n日本語での受験も可能であり、読みやすさが重要視されています。ただし、改訂前の試験対策として、11 月中に問題集を再度確認することが推奨されます。AWS 認定資格を持つ方は、1 周で合格圏内であることが予想されます。生成 AI を使っている人は、より多くの時間が必要になる可能性があります。\n\n最終的に、試験の改訂情報は 12 月 7 日です。引き続き続報をお待ちください。",
-    "imageUrls": []
-  },
-  {
-    "id": "da0c8f09dbccea99",
-    "title": "EC2 がダウンしていてもメンテナンス画面を出せるようにした（ALB の固定レスポンス）",
-    "url": "https://qiita.com/Tukirukiki/items/c8ee91004e6d47c5f0a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-06T07:03:57.000Z",
-    "status": "pending"
   }
 ]
