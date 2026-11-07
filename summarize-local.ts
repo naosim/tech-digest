@@ -1,4 +1,5 @@
 import { Readability } from '@mozilla/readability';
+import { spawn } from 'node:child_process';
 import { chromium, type Browser } from 'playwright';
 import * as fs from 'node:fs';
 import * as path from 'node:path';
@@ -25,11 +26,16 @@ interface ExtractedContent {
   imageUrls: string[];
 }
 
+type SummaryProvider = 'ollama' | 'gemini-cli';
+
 const ROOT_DIR = path.dirname(fileURLToPath(import.meta.url));
 const ARTICLES_PATH = process.env.ARTICLES_PATH ?? path.join(ROOT_DIR, 'articles.json');
 const OLLAMA_URL = process.env.OLLAMA_URL ?? 'http://localhost:11434/api/generate';
 const MODEL_NAME = process.env.OLLAMA_MODEL ?? 'bonsai-2:2b';
+const SUMMARY_PROVIDER = process.env.SUMMARY_PROVIDER ?? 'ollama';
 const MAX_ACTIVE_ARTICLES = 100;
+const GEMINI_TIMEOUT_MS = 180_000;
+const GEMINI_MAX_OUTPUT_BYTES = 1_048_576;
 const CATEGORIES: Category[] = ['TUTORIAL', 'RELEASE', 'TROUBLESHOOT', 'GENERAL'];
 const CATEGORY_PERSPECTIVES: Record<Category, string> = {
   TUTORIAL: '解決する課題、手順や仕組み、実践時の注意点を中心にまとめてください。',
@@ -164,6 +170,92 @@ async function callOllama(prompt: string, maxTokens: number): Promise<string> {
   return result.response.trim();
 }
 
+function getSummaryProvider(): SummaryProvider {
+  if (SUMMARY_PROVIDER === 'ollama' || SUMMARY_PROVIDER === 'gemini-cli') {
+    return SUMMARY_PROVIDER;
+  }
+
+  throw new Error(`Unsupported SUMMARY_PROVIDER: ${SUMMARY_PROVIDER}. Use "ollama" or "gemini-cli".`);
+}
+
+async function callGeminiCli(prompt: string): Promise<string> {
+  return new Promise((resolve, reject) => {
+    let stdout = '';
+    let stderr = '';
+    let settled = false;
+    const command = process.platform === 'win32' ? process.env.ComSpec ?? 'cmd.exe' : 'gemini';
+    const args = process.platform === 'win32'
+      ? ['/d', '/s', '/c', 'gemini.cmd -p "Follow the complete instruction provided via stdin."']
+      : ['-p', 'Follow the complete instruction provided via stdin.'];
+    const child = spawn(command, args, {
+      windowsHide: true,
+      stdio: ['pipe', 'pipe', 'pipe']
+    });
+
+    const fail = (error: Error): void => {
+      if (settled) {
+        return;
+      }
+
+      settled = true;
+      clearTimeout(timeout);
+      child.kill();
+      reject(error);
+    };
+
+    const timeout = setTimeout(() => {
+      fail(new Error(`Gemini CLI timed out after ${GEMINI_TIMEOUT_MS / 1000} seconds.`));
+    }, GEMINI_TIMEOUT_MS);
+
+    child.stdout.setEncoding('utf8');
+    child.stderr.setEncoding('utf8');
+    child.stdout.on('data', (chunk: string) => {
+      stdout += chunk;
+      if (Buffer.byteLength(stdout, 'utf8') > GEMINI_MAX_OUTPUT_BYTES) {
+        fail(new Error('Gemini CLI output exceeded the 1 MiB limit.'));
+      }
+    });
+    child.stderr.on('data', (chunk: string) => {
+      stderr = `${stderr}${chunk}`.slice(-GEMINI_MAX_OUTPUT_BYTES);
+    });
+    child.stdin.on('error', (error: Error) => {
+      fail(new Error(`Unable to send the prompt to Gemini CLI: ${error.message}`));
+    });
+    child.on('error', (error) => {
+      fail(new Error(`Unable to start Gemini CLI: ${error.message}`));
+    });
+    child.on('close', (code) => {
+      if (settled) {
+        return;
+      }
+
+      settled = true;
+      clearTimeout(timeout);
+      if (code !== 0) {
+        reject(new Error(`Gemini CLI failed (${code}): ${stderr.trim().slice(-500)}`));
+        return;
+      }
+
+      if (!stdout.trim()) {
+        reject(new Error('Gemini CLI returned an empty response.'));
+        return;
+      }
+
+      resolve(stdout.trim());
+    });
+    child.stdin.end(prompt, 'utf8');
+  });
+}
+
+async function callSummaryModel(prompt: string, maxTokens: number): Promise<string> {
+  switch (getSummaryProvider()) {
+    case 'ollama':
+      return callOllama(prompt, maxTokens);
+    case 'gemini-cli':
+      return callGeminiCli(prompt);
+  }
+}
+
 async function classify(title: string, bodyText: string): Promise<Category> {
   const prompt = `あなたは技術記事の分類器です。次のタイトルと冒頭文を参考に、カテゴリを1つだけ大文字で返してください。
 カテゴリ: TUTORIAL, RELEASE, TROUBLESHOOT, GENERAL
@@ -190,15 +282,15 @@ async function summarize(category: Category, bodyText: string): Promise<string> 
 ${bodyText.slice(0, 4000)}
 
 要約本文:`;
-  let summary = await callOllama(prompt, 600);
+  let summary = await callSummaryModel(prompt, 600);
   if (!summary) {
-    throw new Error('Ollama returned an empty summary.');
+    throw new Error(`${SUMMARY_PROVIDER} returned an empty summary.`);
   }
 
   if (bodyText.length > 500 && summary.length < 300) {
-    summary = await callOllama(`次の要約を、テーマ・結論・方法の3項目をこの順に見出し付きで保ち、記事にない情報を追加せず、重要な説明を保ったまま自然でわかりやすい日本語で350〜450文字を目安に書き直してください。情報がない項目は推測せず「本文に記載なし」としてください。挨拶や前置きは不要です。\n\n要約:\n${summary}`, 600);
+    summary = await callSummaryModel(`次の要約を、テーマ・結論・方法の3項目をこの順に見出し付きで保ち、記事にない情報を追加せず、重要な説明を保ったまま自然でわかりやすい日本語で350〜450文字を目安に書き直してください。情報がない項目は推測せず「本文に記載なし」としてください。挨拶や前置きは不要です。\n\n要約:\n${summary}`, 600);
     if (!summary) {
-      throw new Error('Ollama returned an empty expanded summary.');
+      throw new Error(`${SUMMARY_PROVIDER} returned an empty expanded summary.`);
     }
   }
 
@@ -206,6 +298,7 @@ ${bodyText.slice(0, 4000)}
 }
 
 async function main(): Promise<void> {
+  const summaryProvider = getSummaryProvider();
   const articles = readArticles();
   const pendingArticles = articles.slice(0, MAX_ACTIVE_ARTICLES).filter((article) => article.status === 'pending');
   const limitArgument = process.argv.find((argument) => argument.startsWith('--limit='));
@@ -225,7 +318,7 @@ async function main(): Promise<void> {
   const failures: string[] = [];
   try {
     browser = await chromium.launch({ headless: true });
-    console.log(`要約を開始します: 今回 ${toProcess.length} 件（未処理 ${pendingArticles.length} 件）`);
+    console.log(`要約を開始します: 今回 ${toProcess.length} 件（未処理 ${pendingArticles.length} 件、要約AI ${summaryProvider}）`);
 
     for (const [index, article] of toProcess.entries()) {
       const progress = `[${index + 1}/${toProcess.length}]`;

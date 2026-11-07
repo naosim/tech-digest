@@ -30,14 +30,21 @@ npm run serve
 
 ## ローカル要約（ステップ2）
 
-Ollama を起動し、設定したモデルを取得してから実行します。
+本文の取得には Playwright、カテゴリ判定には従来どおり Ollama を使用します。Ollama を起動し、設定したモデルを取得してから実行してください。最終的な日本語要約の生成先は `SUMMARY_PROVIDER` で選べ、既定値は `ollama` です。
 
 ```bash
 ollama pull bonsai-2:2b
 npm run summarize:local
 ```
 
-最新100件内の未処理 (`pending`) 記事を順番に処理し、成功した記事ごとに `articles.json` を保存します。アーカイブは要約対象になりません。Ollama接続とモデルを先に確認し、失敗した記事は `pending` のまま残してエラー終了します。最初の数件だけ試す場合は `npx tsx summarize-local.ts --limit=3` を実行できます。モデルやOllama APIのURLは `OLLAMA_MODEL`、`OLLAMA_URL` 環境変数で変更できます。
+Gemini CLI で要約を生成する場合は、CLIをインストールして認証したうえで `SUMMARY_PROVIDER=gemini-cli` を指定します。Windows PowerShell では次のように実行できます。
+
+```powershell
+$env:SUMMARY_PROVIDER = "gemini-cli"
+npm run summarize:local
+```
+
+この場合も、本文取得とカテゴリ判定のため Ollama は必要です。最新100件内の未処理 (`pending`) 記事を順番に処理し、成功した記事ごとに `articles.json` を保存します。アーカイブは要約対象になりません。Ollama接続とモデルを先に確認し、失敗した記事は `pending` のまま残してエラー終了します。最初の数件だけ試す場合は `npx tsx summarize-local.ts --limit=3` を実行できます。モデルやOllama APIのURLは `OLLAMA_MODEL`、`OLLAMA_URL` 環境変数で変更できます。
 
 処理結果をGitHubへ反映する場合は、内容を確認してから Git Bash で `bash ./scripts/summarize-and-push.sh` を実行します。要約が成功した場合に限り `articles.json` のみをコミットしてプッシュします。ステージ済みの変更がある場合は誤コミット防止のため中断します。
 
