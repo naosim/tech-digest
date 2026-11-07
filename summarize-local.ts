@@ -113,7 +113,6 @@ async function extractContent(browser: Browser, url: string): Promise<ExtractedC
   const page = await browser.newPage();
   try {
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45_000 });
-    await page.waitForFunction(() => document.readyState === 'complete', undefined, { timeout: 15_000 });
     await page.waitForTimeout(500);
 
     const html = await page.content();
@@ -316,6 +315,7 @@ async function main(): Promise<void> {
   await callOllama('準備確認です。OKのみ返してください。', 10);
   let browser: Browser | undefined;
   const failures: string[] = [];
+  let succeededCount = 0;
   try {
     browser = await chromium.launch({ headless: true });
     console.log(`要約を開始します: 今回 ${toProcess.length} 件（未処理 ${pendingArticles.length} 件、要約AI ${summaryProvider}）`);
@@ -333,6 +333,7 @@ async function main(): Promise<void> {
         article.imageUrls = content.imageUrls;
         article.status = 'completed';
         writeArticles(articles);
+        succeededCount += 1;
         console.log(`${progress} 完了: ${article.title} (画像 ${content.imageUrls.length}件)`);
       } catch (error) {
         const message = error instanceof Error ? error.message : String(error);
@@ -345,9 +346,9 @@ async function main(): Promise<void> {
   }
 
   if (failures.length > 0) {
-    throw new Error(`${failures.length}件の記事の処理に失敗しました。失敗記事は pending のままです。\n${failures.join('\n')}`);
+    console.warn(`${failures.length}件の記事は処理できず pending のままです。次回の実行で再試行します。`);
   }
-  console.log(`${toProcess.length}件の記事の要約が完了しました。`);
+  console.log(`${succeededCount}件の記事の要約が完了しました。今回の失敗: ${failures.length}件`);
 }
 
 await main();
