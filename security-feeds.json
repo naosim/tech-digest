@@ -1,0 +1,17 @@
+[
+  {
+    "id": "jpcert-alerts",
+    "name": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "url": "https://www.jpcert.or.jp/rss/jpcert.rdf"
+  },
+  {
+    "id": "ipa-security-alerts",
+    "name": "IPA 重要なセキュリティ情報",
+    "url": "https://www.ipa.go.jp/security/rss/alert.rdf"
+  },
+  {
+    "id": "jvn-updates",
+    "name": "JVN 新着・更新情報",
+    "url": "https://jvn.jp/rss/jvn.rdf"
+  }
+]

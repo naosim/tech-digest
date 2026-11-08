@@ -31,11 +31,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if [ -z "$(git status --porcelain -- articles.json archives/)" ]; then
+          if [ -z "$(git status --porcelain -- articles.json archives/ security-articles.json)" ]; then
             echo "No article updates detected."
             exit 0
           fi
 
-          git add articles.json archives/
-          git commit -m "chore: update RSS articles"
+          git add articles.json archives/ security-articles.json
+          git commit -m "chore: update RSS feeds"
           git push

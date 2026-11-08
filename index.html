@@ -19,10 +19,17 @@
       </header>
 
       <div class="mb-4 flex flex-wrap items-center gap-3">
+        <label for="article-list" class="text-sm font-semibold text-slate-700">リスト</label>
+        <select id="article-list" class="max-w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm text-slate-700 shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-2 focus:ring-indigo-200">
+          <option value="technology">技術記事</option>
+          <option value="security">セキュリティ情報</option>
+        </select>
+        <div id="article-set-controls" class="flex flex-wrap items-center gap-3">
         <label for="article-set" class="text-sm font-semibold text-slate-700">表示する記事</label>
         <select id="article-set" class="max-w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm text-slate-700 shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-2 focus:ring-indigo-200">
           <option value="latest">最新の100件</option>
         </select>
+        </div>
       </div>
       <div id="status" class="mb-6 rounded-xl border border-slate-200 bg-white/80 px-4 py-3 text-sm text-slate-600 shadow-sm"></div>
       <nav id="article-pagination" class="mb-5 flex items-center justify-center gap-4" aria-label="記事一覧ページ" hidden>
@@ -46,13 +53,16 @@
       const imageDialog = document.getElementById('image-dialog');
       const dialogImage = document.getElementById('dialog-image');
       const closeImageDialog = document.getElementById('close-image-dialog');
+      const articleListSelector = document.getElementById('article-list');
       const articleSetSelector = document.getElementById('article-set');
+      const articleSetControls = document.getElementById('article-set-controls');
       const articlePagination = document.getElementById('article-pagination');
       const previousPageButton = document.getElementById('previous-page');
       const nextPageButton = document.getElementById('next-page');
       const pageInfo = document.getElementById('page-info');
       const pageSize = 100;
       let activeArticles = [];
+      let securityArticles = [];
       let archiveEntries = [];
       let selectedArticles = [];
       let selectedLabel = '';
@@ -87,7 +97,7 @@
         }
       };
 
-      const renderArticles = (articles) => {
+      const renderArticles = (articles, isSecurityList = false) => {
         if (!articles.length) {
           articleContainer.innerHTML = '<div class="col-span-full rounded-2xl border border-dashed border-slate-300 bg-white/70 p-8 text-center text-slate-500">記事はまだありません。</div>';
           return;
@@ -95,7 +105,7 @@
 
         articleContainer.innerHTML = articles
           .map((article) => {
-            const badgeClass = article.status === 'completed'
+            const badgeClass = isSecurityList || article.status === 'completed'
               ? 'bg-emerald-100 text-emerald-700'
               : 'bg-amber-100 text-amber-700';
             const imageUrl = safeHttpUrl(article.imageUrl);
@@ -120,15 +130,15 @@
             return `
               <article class="flex h-full flex-col rounded-2xl border border-slate-200 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
                 <div class="mb-3 flex items-start justify-between gap-3">
-                  <span class="inline-flex rounded-full px-2.5 py-1 text-xs font-semibold ${badgeClass}">${article.status === 'completed' ? '要約済み' : '未処理'}</span>
+                  <span class="inline-flex rounded-full px-2.5 py-1 text-xs font-semibold ${badgeClass}">${isSecurityList ? 'セキュリティ情報' : article.status === 'completed' ? '要約済み' : '未処理'}</span>
                   <span class="rounded-full bg-slate-100 px-2.5 py-1 text-xs font-medium text-slate-600">${escapeHtml(article.source ?? 'Unknown')}</span>
                 </div>
 
                 ${thumbnail}
                 <h2 class="mb-3 line-clamp-3 text-lg font-semibold leading-snug text-slate-900">${escapeHtml(article.title ?? '無題')}</h2>
-                ${article.category ? `<p class="mb-2 text-xs font-semibold tracking-wide text-indigo-600">${escapeHtml(article.category)}</p>` : ''}
-                ${summary}
-                ${imageGallery}
+                ${!isSecurityList && article.category ? `<p class="mb-2 text-xs font-semibold tracking-wide text-indigo-600">${escapeHtml(article.category)}</p>` : ''}
+                ${isSecurityList ? '' : summary}
+                ${isSecurityList ? '' : imageGallery}
                 <p class="mb-4 text-sm text-slate-500">${formatDate(article.publishedAt)}</p>
 
                 <div class="mt-auto flex items-center justify-between gap-3 pt-3">
@@ -170,23 +180,26 @@
         statusNode.textContent = '記事を読み込み中...';
 
         try {
-          const [articlesResponse, archivesResponse] = await Promise.all([
+          const [articlesResponse, archivesResponse, securityArticlesResponse] = await Promise.all([
             fetch('./articles.json'),
-            fetch('./archives/index.json')
+            fetch('./archives/index.json'),
+            fetch('./security-articles.json')
           ]);
-          if (!articlesResponse.ok || !archivesResponse.ok) {
-            throw new Error(`Failed to fetch article data: ${articlesResponse.status}, ${archivesResponse.status}`);
+          if (!articlesResponse.ok || !archivesResponse.ok || !securityArticlesResponse.ok) {
+            throw new Error(`Failed to fetch article data: ${articlesResponse.status}, ${archivesResponse.status}, ${securityArticlesResponse.status}`);
           }
 
-          const [articles, archiveIndex] = await Promise.all([
+          const [articles, archiveIndex, securityArticleData] = await Promise.all([
             articlesResponse.json(),
-            archivesResponse.json()
+            archivesResponse.json(),
+            securityArticlesResponse.json()
           ]);
-          if (!Array.isArray(articles) || !archiveIndex || !Array.isArray(archiveIndex.archives)) {
+          if (!Array.isArray(articles) || !archiveIndex || !Array.isArray(archiveIndex.archives) || !Array.isArray(securityArticleData)) {
             throw new Error('Article data has an invalid format.');
           }
 
           activeArticles = articles.slice(0, 100);
+          securityArticles = securityArticleData.slice(0, 500);
           archiveEntries = archiveIndex.archives.filter((entry) =>
             entry
             && typeof entry.file === 'string'
@@ -211,7 +224,7 @@
       const renderCurrentPage = () => {
         const pageCount = Math.max(1, Math.ceil(selectedArticles.length / pageSize));
         const pageArticles = selectedArticles.slice(currentPage * pageSize, (currentPage + 1) * pageSize);
-        renderArticles(pageArticles);
+        renderArticles(pageArticles, articleListSelector.value === 'security');
         articlePagination.hidden = pageCount <= 1;
         pageInfo.textContent = `${currentPage + 1} / ${pageCount}`;
         previousPageButton.disabled = currentPage === 0;
@@ -227,7 +240,10 @@
         try {
           let articles = activeArticles;
           let label = '最新記事';
-          if (selectedFile !== 'latest') {
+          if (articleListSelector.value === 'security') {
+            articles = securityArticles;
+            label = 'セキュリティ情報';
+          } else if (selectedFile !== 'latest') {
             const entry = archiveEntries.find((archive) => archive.file === selectedFile);
             if (!entry) {
               throw new Error(`Unknown archive selected: ${selectedFile}`);
@@ -263,6 +279,11 @@
 
       fetchArticles();
       articleSetSelector.addEventListener('change', renderSelectedArticles);
+      articleListSelector.addEventListener('change', () => {
+        const isSecurityList = articleListSelector.value === 'security';
+        articleSetControls.classList.toggle('hidden', isSecurityList);
+        renderSelectedArticles();
+      });
       previousPageButton.addEventListener('click', () => {
         if (currentPage > 0) {
           currentPage -= 1;

@@ -5,8 +5,10 @@ IT技術記事のRSSフィードを定期収集し、GitHub Pages で一覧表�
 ## 主要ファイル
 
 - `feeds.json`: RSSフィードの登録一覧
+- `security-feeds.json`: セキュリティ情報用RSSフィードの登録一覧
 - `fetch-rss.ts`: フィードを取得し、最新100件とアーカイブを更新するスクリプト
 - `articles.json`: 表示・要約対象の最新100件
+- `security-articles.json`: 要約せずに表示する最新500件のセキュリティ情報
 - `archives/`: 101件目以降の記事を1000件ずつ保存するJSONと一覧 (`index.json`)
 - `index.html`: GitHub Pages 用の静的UI
 - `.github/workflows/rss-cron.yml`: 6時間おきの自動更新ジョブ
@@ -16,6 +18,7 @@ IT技術記事のRSSフィードを定期収集し、GitHub Pages で一覧表�
 RSS項目に enclosure、Media RSS、または本文内画像が含まれる場合、画像URLを `imageUrl` として保存し、記事カードにサムネイルを表示します。既存記事の画像情報もRSS同期時に補完されます。
 一覧には最新100件を表示し、それより古い記事は削除せず `archives/articles-0001.json` から1000件単位で保存します。画面上部の選択メニューから各アーカイブを選び、ページ送りで100件ずつ閲覧できます。
 ステップ2では最新100件だけを対象にローカル処理で記事本文を抽出し、カテゴリ・テーマ、結論、方法を明示した約400文字の日本語要約・本文内の画像URLを `articles.json` に保存します。GitHub Pages上では要約と画像ギャラリーを表示します。
+「セキュリティ情報」リストには JPCERT/CC、IPA、JVN の公式 RSS を表示します。技術記事とは別の `security-articles.json` に保存し、本文取得やAI要約は行いません。セキュリティ情報は新しい順に最大500件を保持します。
 
 ## セットアップ
 
@@ -27,6 +30,8 @@ npm run serve
 ```
 
 ローカルでは `http://localhost:8000` でページを確認できます。
+
+セキュリティ情報だけを更新する場合は `npm run fetch:security` を実行します。通常の `npm run fetch:rss` と GitHub Actions の定期実行では、両方のリストを更新します。
 
 ## ローカル要約（ステップ2）
 

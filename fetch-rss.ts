@@ -23,6 +23,14 @@ interface Article {
   imageUrl?: string;
 }
 
+interface SecurityArticle {
+  id: string;
+  url: string;
+  title: string;
+  source: string;
+  publishedAt: string;
+}
+
 interface RssItemWithImages extends Parser.Item {
   'media:content'?: unknown;
   'media:thumbnail'?: unknown;
@@ -41,9 +49,12 @@ const parser = new Parser<Record<string, unknown>, RssItemWithImages>({
 const ROOT_DIR = __dirname;
 const FEEDS_PATH = path.join(ROOT_DIR, 'feeds.json');
 const ARTICLES_PATH = path.join(ROOT_DIR, 'articles.json');
+const SECURITY_FEEDS_PATH = path.join(ROOT_DIR, 'security-feeds.json');
+const SECURITY_ARTICLES_PATH = path.join(ROOT_DIR, 'security-articles.json');
 const ARCHIVES_DIR = path.join(ROOT_DIR, 'archives');
 const ARCHIVES_INDEX_PATH = path.join(ARCHIVES_DIR, 'index.json');
 const MAX_ACTIVE_ARTICLES = 100;
+const MAX_SECURITY_ARTICLES = 500;
 const ARCHIVE_BATCH_SIZE = 1000;
 
 interface ArchiveEntry {
@@ -136,6 +147,54 @@ function comparePublishedAtNewestFirst(left: Article, right: Article): number {
   return (Number.isNaN(rightTime) ? 0 : rightTime) - (Number.isNaN(leftTime) ? 0 : leftTime);
 }
 
+function compareSecurityArticlesNewestFirst(left: SecurityArticle, right: SecurityArticle): number {
+  const leftTime = Date.parse(left.publishedAt);
+  const rightTime = Date.parse(right.publishedAt);
+  return (Number.isNaN(rightTime) ? 0 : rightTime) - (Number.isNaN(leftTime) ? 0 : leftTime);
+}
+
+async function syncSecurityRss(): Promise<void> {
+  const feeds = readJson<FeedConfig[]>(SECURITY_FEEDS_PATH, []);
+  const existingArticles = readJson<SecurityArticle[]>(SECURITY_ARTICLES_PATH, []);
+  const existingUrls = new Set(existingArticles.map((article) => article.url));
+  const newArticles: SecurityArticle[] = [];
+
+  for (const feed of feeds) {
+    if (!feed.url) {
+      continue;
+    }
+
+    try {
+      const feedData = await parser.parseURL(feed.url);
+      for (const item of feedData.items ?? []) {
+        const url = item.link ?? item.guid;
+        if (!url || existingUrls.has(url)) {
+          continue;
+        }
+
+        newArticles.push({
+          id: buildArticleId(url),
+          title: item.title?.trim() || '無題',
+          url,
+          source: feed.name,
+          publishedAt: item.isoDate || item.pubDate || new Date().toISOString()
+        });
+        existingUrls.add(url);
+      }
+    } catch (error) {
+      console.error(`Failed to fetch security feed: ${feed.name}`, error);
+    }
+  }
+
+  const allArticles = [...existingArticles, ...newArticles]
+    .sort(compareSecurityArticlesNewestFirst)
+    .slice(0, MAX_SECURITY_ARTICLES);
+  const changed = writeJsonIfChanged(SECURITY_ARTICLES_PATH, allArticles);
+  console.log(
+    `セキュリティ情報: ${newArticles.length}件を追加しました（保存 ${allArticles.length}件${changed ? '' : '、変更なし'}）。`
+  );
+}
+
 function saveArticleSets(allArticles: Article[], previousArchiveFiles: string[]): {
   activeChanged: boolean;
   archiveFilesChanged: boolean;
@@ -221,6 +280,11 @@ function getImageUrl(item: RssItemWithImages): string | undefined {
 }
 
 async function syncRss() {
+  if (process.argv.includes('--security-only')) {
+    await syncSecurityRss();
+    return;
+  }
+
   const feeds = process.argv.includes('--archive-only')
     ? []
     : readJson<FeedConfig[]>(FEEDS_PATH, []);
@@ -286,6 +350,7 @@ async function syncRss() {
     [...allArticles, ...newArticles],
     previousArchiveFiles
   );
+  await syncSecurityRss();
   if (newArticles.length === 0 && !enrichedExistingArticles && !activeChanged && !archiveFilesChanged) {
     console.log('新着記事はありませんでした。');
     return;

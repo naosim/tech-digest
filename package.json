@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "fetch:rss": "tsx fetch-rss.ts",
+    "fetch:security": "tsx fetch-rss.ts --security-only",
     "summarize:local": "tsx summarize-local.ts",
     "serve": "npx http-server . -p 8000"
   },

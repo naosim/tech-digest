@@ -1,0 +1,1738 @@
+[
+  {
+    "id": "70023e37a84f6cca",
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）",
+    "url": "https://jvn.jp/vu/JVNVU90841469/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-06T00:30:00.000Z"
+  },
+  {
+    "id": "09312f94a19c30a5",
+    "title": "Siemens製品に対するアップデート（2026年11月）",
+    "url": "https://jvn.jp/vu/JVNVU98354779/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-06T00:00:00.000Z"
+  },
+  {
+    "id": "b9e35e5ea2a52a44",
+    "title": "SHIRASAGIにおける複数の脆弱性",
+    "url": "https://jvn.jp/jp/JVN55454512/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-05T05:00:00.000Z"
+  },
+  {
+    "id": "144883f94561fdf2",
+    "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#1",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "ca105ef8d245a232",
+    "title": "Weekly Report: Sophos UTMに任意のコード実行につながる脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#2",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "64157a8e70a82a34",
+    "title": "Weekly Report: Cisco Secure Firewall ASAおよびFTD Softwareにサービス運用妨害（DoS）の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#3",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "480ee5fd2cd00673",
+    "title": "Weekly Report: Jenkinsに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#4",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "6fc994a64424a2b6",
+    "title": "Weekly Report: WordPressに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#5",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "81368fa9d8060cd5",
+    "title": "Weekly Report: 複数のAdobe製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#6",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "74424a45049aa07a",
+    "title": "Weekly Report: ヤマハ製NWR100に複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#7",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "6d4c626e36c2efe2",
+    "title": "Weekly Report: 複数のWatchGuard製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#8",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "45456c7b5e8e2a69",
+    "title": "Weekly Report: 複数のVeeam製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#9",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "05524afa797e565b",
+    "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#10",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "0971136c12057273",
+    "title": "Weekly Report: Google Chromeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#11",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "9ae54ce1038403aa",
+    "title": "Weekly Report: Joomla!およびWordPress向けの拡張機能YOOtheme Proにリモートコード実行につながる脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#12",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "80c52509546bdf98",
+    "title": "Weekly Report: 複数のApple製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#13",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "44dc2bce3d2b2ef5",
+    "title": "Weekly Report: Rubyに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#14",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "bbd7cadf88c4e179",
+    "title": "Weekly Report: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#15",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-05T00:52:00.000Z"
+  },
+  {
+    "id": "06e20df2f7deac21",
+    "title": "Hinemosにおける不適切な権限の割り当ての脆弱性",
+    "url": "https://jvn.jp/jp/JVN46901199/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-04T07:00:00.000Z"
+  },
+  {
+    "id": "cee23539da54b06c",
+    "title": "Airbyteにおける任意のコードが実行可能な脆弱性",
+    "url": "https://jvn.jp/jp/JVN12040144/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-04T03:00:15.000Z"
+  },
+  {
+    "id": "77499259e9107a59",
+    "title": "複数のAkeeba製品におけるクロスサイトリクエストフォージェリの脆弱性",
+    "url": "https://jvn.jp/jp/JVN44272550/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-04T03:00:00.000Z"
+  },
+  {
+    "id": "23171016508f0ee3",
+    "title": "INFINITT Healthcare製INFINITT PACS System Managerにおける複数の任意コード実行の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU99859918/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-04T01:15:30.000Z"
+  },
+  {
+    "id": "85c54f76e8b7f4ef",
+    "title": "Androidアプリ「BaseChat - Audio Dating App」における複数の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU92281274/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-04T01:15:15.000Z"
+  },
+  {
+    "id": "adc9e2ea1da9d494",
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月03日）",
+    "url": "https://jvn.jp/vu/JVNVU91151184/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-04T01:15:00.000Z"
+  },
+  {
+    "id": "02de377c41cac075",
+    "title": "Core TempのカーネルドライバにおけるIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
+    "url": "https://jvn.jp/jp/JVN23328936/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-02T03:00:00.000Z"
+  },
+  {
+    "id": "da2f45cc0ee46804",
+    "title": "Siemens製品に対するアップデート（2026年10月）",
+    "url": "https://jvn.jp/vu/JVNVU90141693/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-02T00:15:00.000Z"
+  },
+  {
+    "id": "d060a03f2b5a9e02",
+    "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-11-01T15:00:00.000Z"
+  },
+  {
+    "id": "36f91f2afce23b71",
+    "title": "三菱電機製の複数製品における複数の脆弱性（2026-006）",
+    "url": "https://jvn.jp/vu/JVNVU93251594/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-10-30T05:00:00.000Z"
+  },
+  {
+    "id": "4135da1a2920f566",
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月29日）",
+    "url": "https://jvn.jp/vu/JVNVU95856220/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-10-30T00:15:00.000Z"
+  },
+  {
+    "id": "31b8b3e9ba1b5f37",
+    "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起  (更新)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-10-29T06:43:00.000Z"
+  },
+  {
+    "id": "f724a2be32191872",
+    "title": "Apache Struts 2 RESTプラグインにおける、@StrutsParameterの制限が@JsonAnySetterに適用されない問題",
+    "url": "https://jvn.jp/jp/JVN82782759/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-10-29T03:00:00.000Z"
+  },
+  {
+    "id": "1c36747b5dcaddec",
+    "title": "PHPにおける複数の任意のコードが実行可能な脆弱性（CVE-2026-109618、CVE-2026-109619）",
+    "url": "https://jvn.jp/vu/JVNVU99905564/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-10-28T07:30:00.000Z"
+  },
+  {
+    "id": "15be147934c77fb5",
+    "title": "ヤマハ製NWR100における複数の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU91027179/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-10-28T05:15:00.000Z"
+  },
+  {
+    "id": "b3d4d2c02c998fe2",
+    "title": "Yamaha LAN Monitor for WindowsのインストーラにおけるDLL読み込みに関する脆弱性",
+    "url": "https://jvn.jp/jp/JVN23695234/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-10-28T05:00:15.000Z"
+  },
+  {
+    "id": "4f1ca65b21903ca2",
+    "title": "ヤマハ製YMS-VPN8およびYMS-VPN8-CPにおける引用符で囲まれていないファイルパスの脆弱性",
+    "url": "https://jvn.jp/jp/JVN30675482/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-10-28T05:00:00.000Z"
+  },
+  {
+    "id": "018455230fc5bd1a",
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年10月27日）",
+    "url": "https://jvn.jp/vu/JVNVU96093239/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "f4a0056d6680ceb4",
+    "title": "GROWIにおける複数の脆弱性",
+    "url": "https://jvn.jp/jp/JVN51223238/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-10-27T06:00:00.000Z"
+  },
+  {
+    "id": "ae2898f665e29e0d",
+    "title": "注意喚起: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起  (公開)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260034.html",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-10-26T07:25:00.000Z"
+  },
+  {
+    "id": "c5e5094b0931ea13",
+    "title": "注意喚起: 直近で相次いでいる国内組織における不正アクセスに関する注意喚起  (更新)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260030.html",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-10-23T02:37:00.000Z"
+  },
+  {
+    "id": "b79c8e3d78f81624",
+    "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261021.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-10-20T15:00:00.000Z"
+  },
+  {
+    "id": "f55564867d76f974",
+    "title": "Oracle Java の脆弱性対策について(2026年10月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/1021-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-10-20T15:00:00.000Z"
+  },
+  {
+    "id": "4e855a46dcd0db89",
+    "title": "注意喚起: SiteGuard Server EditionにおけるOSコマンドインジェクションの脆弱性（CVE-2026-106931）に関する注意喚起  (公開)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260032.html",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-10-14T05:18:00.000Z"
+  },
+  {
+    "id": "fbcc6b1475e37cea",
+    "title": "注意喚起: 2026年10月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260031.html",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-10-14T02:25:00.000Z"
+  },
+  {
+    "id": "de5dfbeb3e65c3a0",
+    "title": "Microsoft 製品の脆弱性対策について(2026年10月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/1014-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-10-13T15:00:00.000Z"
+  },
+  {
+    "id": "e43b81e0b9deb1df",
+    "title": "不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-10-08T15:00:00.000Z"
+  },
+  {
+    "id": "fee4b0d9df468761",
+    "title": "「Movable Type」における複数の脆弱性について（JVN#91153973）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/20261007-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-10-06T15:00:00.000Z"
+  },
+  {
+    "id": "55122e4c3c3299bc",
+    "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起  (更新)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-10-02T05:15:00.000Z"
+  },
+  {
+    "id": "3d274c4c72997fc3",
+    "title": "NetScaler ADCおよびNetScaler Gatewayの脆弱性について(CVE-2026-88771、CVE-2026-88772等)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20260928.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-09-27T15:00:00.000Z"
+  },
+  {
+    "id": "472601d5f331ade8",
+    "title": "Microsoft 製品の脆弱性対策について(2026年9月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/0909-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-09-08T15:00:00.000Z"
+  },
+  {
+    "id": "b21ab329f2f4bf75",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(2026年9月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/0909-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-09-08T15:00:00.000Z"
+  },
+  {
+    "id": "1d6e6c16f79650ea",
+    "title": "Microsoft 製品の脆弱性対策について(2026年8月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/0812-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-08-11T15:00:00.000Z"
+  },
+  {
+    "id": "4b991ec6062ce62e",
+    "title": "Oracle Java の脆弱性対策について(2026年7月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/0722-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-07-21T15:00:00.000Z"
+  },
+  {
+    "id": "54c6dc45f16bdc33",
+    "title": "WordPressの脆弱性対策について(CVE-2026-60137、CVE-2026-63030：wp2shell)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20260722.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-07-21T15:00:00.000Z"
+  },
+  {
+    "id": "7ee22df7f72a82db",
+    "title": "Microsoft 製品の脆弱性対策について(2026年7月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/0715-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-07-14T15:00:00.000Z"
+  },
+  {
+    "id": "a25c8b27846a1776",
+    "title": "更新：Windows 10のサポート終了に伴う注意喚起",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/win10_eos.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-06-25T15:00:00.000Z"
+  },
+  {
+    "id": "492154cbf8c89e27",
+    "title": "Check Point Software Technologies製品の脆弱性対策について(CVE-2026-50751)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20260610.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-06-09T15:00:00.000Z"
+  },
+  {
+    "id": "4e747d5fb633c8e1",
+    "title": "Microsoft 製品の脆弱性対策について(2026年6月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/0610-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-06-09T15:00:00.000Z"
+  },
+  {
+    "id": "8d8025aee756d692",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(2026年6月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/0610-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-06-09T15:00:00.000Z"
+  },
+  {
+    "id": "ce59078a1364cc86",
+    "title": "「GUARDIANWALL MailSuite」におけるスタックベースのバッファオーバーフローの脆弱性について（JVN#35567473）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/20260513-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-05-12T15:00:00.000Z"
+  },
+  {
+    "id": "a98ac578a3ffdca9",
+    "title": "Microsoft 製品の脆弱性対策について(2026年5月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/0513-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-05-12T15:00:00.000Z"
+  },
+  {
+    "id": "df087256082b4165",
+    "title": "Palo Alto Networks製PAN-OSの脆弱性対策について(CVE-2026-0300)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20260508.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-05-07T15:00:00.000Z"
+  },
+  {
+    "id": "9cfbe13995fd4389",
+    "title": "更新：Linuxの脆弱性対策について(CVE-2026-31431、Copy Fail)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20260501.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-05-06T15:00:00.000Z"
+  },
+  {
+    "id": "1e5c9b2441e39099",
+    "title": "更新：Cisco Secure Firewall ASAおよびCisco Secure FTDの脆弱性について (CVE-2025-20333等)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/alert20251106.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-04-26T15:00:00.000Z"
+  },
+  {
+    "id": "b49a3b6e9e02bc96",
+    "title": "Oracle Java の脆弱性対策について(2026年4月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/0422-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-04-21T15:00:00.000Z"
+  },
+  {
+    "id": "7881d7c4f10fc066",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(2026年4月)_2",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/0415-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-04-14T15:00:00.000Z"
+  },
+  {
+    "id": "e9dfef21f43fba93",
+    "title": "Microsoft 製品の脆弱性対策について(2026年4月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/0415-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-04-14T15:00:00.000Z"
+  },
+  {
+    "id": "9e51fbfe952a8a7d",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(2026年4月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/0413-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-04-12T15:00:00.000Z"
+  },
+  {
+    "id": "3f56238a89a59a7d",
+    "title": "「Movable Type」における複数の脆弱性について（JVN#66473735）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/20260408-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-04-07T15:00:00.000Z"
+  },
+  {
+    "id": "2546b6c3cfcbb150",
+    "title": "Microsoft 製品の脆弱性対策について(2026年3月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0311-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-03-10T15:00:00.000Z"
+  },
+  {
+    "id": "010352c587a920d8",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(2026年3月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0311-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-03-10T15:00:00.000Z"
+  },
+  {
+    "id": "e4bb7c76ba57ac8f",
+    "title": "「LANSCOPE エンドポイントマネージャー オンプレミス版」におけるパストラバーサルの脆弱性について（JVN#79096585）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/20260225-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-02-24T15:00:00.000Z"
+  },
+  {
+    "id": "622d3162c15290b7",
+    "title": "「FileZen」におけるOSコマンドインジェクションの脆弱性について（JVN#84622767）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/20260213-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-02-12T15:00:00.000Z"
+  },
+  {
+    "id": "06c3ea25a4bf52b1",
+    "title": "Microsoft 製品の脆弱性対策について(2026年2月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0212-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-02-11T15:00:00.000Z"
+  },
+  {
+    "id": "2f8cfe56b1b44eb6",
+    "title": "BIND 9の脆弱性対策について（CVE-2025-13878）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/alert20260123.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-01-22T15:00:00.000Z"
+  },
+  {
+    "id": "340a1f04f4d20a87",
+    "title": "Oracle Java の脆弱性対策について(2026年1月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0121-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-01-20T15:00:00.000Z"
+  },
+  {
+    "id": "9262731ad221f823",
+    "title": "Cisco Secure Email Gatewayの脆弱性対策について(CVE-2025-20393)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/alert20260119.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-01-18T15:00:00.000Z"
+  },
+  {
+    "id": "f75400b0c71fefa3",
+    "title": "Microsoft 製品の脆弱性対策について(2026年1月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0114-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-01-13T15:00:00.000Z"
+  },
+  {
+    "id": "f8bfb66fcdb4c7e9",
+    "title": "WatchGuard Fireboxの脆弱性対策について(CVE-2025-14733)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/alert20251223.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-12-22T15:00:00.000Z"
+  },
+  {
+    "id": "1e868193e3956b66",
+    "title": "Fortinet製品における認証回避の脆弱性について（CVE-2025-59718等）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/alert20251217.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-12-16T15:00:00.000Z"
+  },
+  {
+    "id": "bfd566610e3e15cf",
+    "title": "更新：React Server Componentsにおける脆弱性について（CVE-2025-55182）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/alert20251209.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-12-11T15:00:00.000Z"
+  },
+  {
+    "id": "40c3e58a60bbdf80",
+    "title": "Adobe ColdFusionの脆弱性対策について(CVE-2025-61809)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/alert20251211.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-12-10T15:00:00.000Z"
+  },
+  {
+    "id": "de993d7dd8802465",
+    "title": "Microsoft 製品の脆弱性対策について(2025年12月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/1210-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-12-09T15:00:00.000Z"
+  },
+  {
+    "id": "9f1a37849124e048",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(2025年12月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/1210-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-12-09T15:00:00.000Z"
+  },
+  {
+    "id": "1c63dc6516e2ae87",
+    "title": "Array Networks製Array AGシリーズにおけるコマンドインジェクションの脆弱性について",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/20251208.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-12-07T15:00:00.000Z"
+  },
+  {
+    "id": "ba89d7b3cb31b99c",
+    "title": "Microsoft 製品の脆弱性対策について(2025年11月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/1112-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-11-11T15:00:00.000Z"
+  },
+  {
+    "id": "3f3df482a6a56dd8",
+    "title": "「CLUSTERPRO X」および「EXPRESSCLUSTER X」におけるOSコマンドインジェクションの脆弱性（JVN#59387134）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/20251107-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-11-06T15:00:00.000Z"
+  },
+  {
+    "id": "df1b5791c818acd5",
+    "title": "VPN機器等に対するORB（Operational Relay Box）化を伴うネットワーク貫通型攻撃のおそれについて",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/alert20251031_vpn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-10-30T15:00:00.000Z"
+  },
+  {
+    "id": "b624cac61fe70044",
+    "title": "家庭用ルータ・IoTルータ等、ネットワーク境界のORB（Operational Relay Box）化のおそれについて",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/alert20251031_router.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-10-30T15:00:00.000Z"
+  },
+  {
+    "id": "0ebf8bdbfe7cd262",
+    "title": "更新：Microsoft 製品の脆弱性対策について(2025年10月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/1015-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-10-26T15:00:00.000Z"
+  },
+  {
+    "id": "729cad52b844a177",
+    "title": "Oracle Java の脆弱性対策について(2025年10月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/1022-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-10-21T15:00:00.000Z"
+  },
+  {
+    "id": "ae33e691cc24ed4b",
+    "title": "「LANSCOPE エンドポイントマネージャー オンプレミス版」における通信チャネルの送信元検証不備の脆弱性について（JVN#86318557）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/20251020-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-10-19T15:00:00.000Z"
+  },
+  {
+    "id": "fb51671086ad0c1c",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(2025年9月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0910-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-09-09T15:00:00.000Z"
+  },
+  {
+    "id": "2431102a619942cf",
+    "title": "Microsoft 製品の脆弱性対策について(2025年9月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0910-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-09-09T15:00:00.000Z"
+  },
+  {
+    "id": "0bfd5dba35efc28f",
+    "title": "「SS1」における複数の脆弱性について（JVN#99577552）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/20250827-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-08-26T15:00:00.000Z"
+  },
+  {
+    "id": "7a8f17c2f90cbfb1",
+    "title": "NetScaler ADCおよびNetScaler Gatewayの脆弱性について (CVE-2025-7775等)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/alert20250827.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-08-26T15:00:00.000Z"
+  },
+  {
+    "id": "90b1163ce3d7bfea",
+    "title": "更新：Trend Micro 製品の脆弱性対策について（CVE-2025-54948等）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/alert20250807.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-08-18T15:00:00.000Z"
+  },
+  {
+    "id": "bae75e3045e128de",
+    "title": "Microsoft 製品の脆弱性対策について(2025年8月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0813-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-08-12T15:00:00.000Z"
+  },
+  {
+    "id": "cae9123ea6eea3ed",
+    "title": "Oracle Java の脆弱性対策について(2025年7月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0716-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-07-15T15:00:00.000Z"
+  },
+  {
+    "id": "5692dbb497f60e3b",
+    "title": "Microsoft 製品の脆弱性対策について(2025年7月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0709-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-07-08T15:00:00.000Z"
+  },
+  {
+    "id": "10e41d76999a2049",
+    "title": "Microsoft 製品の脆弱性対策について(2025年6月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0611-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-06-10T15:00:00.000Z"
+  },
+  {
+    "id": "d0ab54facbfaa6b5",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(2025年6月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0611-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-06-10T15:00:00.000Z"
+  },
+  {
+    "id": "09c1824b54c85003",
+    "title": "BIND 9の脆弱性対策について（CVE-2025-40775）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/alert20250523.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-05-22T15:00:00.000Z"
+  },
+  {
+    "id": "2c726cb3a018ffe7",
+    "title": "Microsoft 製品の脆弱性対策について(2025年5月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0514-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-05-13T15:00:00.000Z"
+  },
+  {
+    "id": "c7b3aef8e5e91951",
+    "title": "更新：Fortinet 製 FortiOS の脆弱性対策について(CVE-2024-55591)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/alert20250115.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-05-11T15:00:00.000Z"
+  },
+  {
+    "id": "29af47249d1a5913",
+    "title": "「Active! mail」におけるスタックベースのバッファオーバーフローの脆弱性について（JVN#22348866）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/20250418-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-04-17T15:00:00.000Z"
+  },
+  {
+    "id": "d6b2a49f7dd75250",
+    "title": "Oracle Java の脆弱性対策について(2025年4月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0416-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-04-15T15:00:00.000Z"
+  },
+  {
+    "id": "5ec77aa2cc5ad1d8",
+    "title": "Microsoft 製品の脆弱性対策について(2025年4月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2025/0409-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-04-08T15:00:00.000Z"
+  },
+  {
+    "id": "a8f861b8e0d06bf8",
+    "title": "Microsoft 製品の脆弱性対策について(2025年3月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0312-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-03-11T15:00:00.000Z"
+  },
+  {
+    "id": "001815142abbfc8b",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(2025年3月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0312-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-03-11T15:00:00.000Z"
+  },
+  {
+    "id": "112db43d948baec9",
+    "title": "Microsoft 製品の脆弱性対策について(2025年2月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0212-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-02-11T15:00:00.000Z"
+  },
+  {
+    "id": "1e85cbc861e53faa",
+    "title": "「UD-LT2」における複数の脆弱性について（JVN#15293958）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/20250122-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-01-21T15:00:00.000Z"
+  },
+  {
+    "id": "2c2c2a7c9b214368",
+    "title": "Oracle Java の脆弱性対策について(2025年1月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0122-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-01-21T15:00:00.000Z"
+  },
+  {
+    "id": "d6f23c991ecae4fa",
+    "title": "Microsoft 製品の脆弱性対策について(2025年1月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0115-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2025-01-14T15:00:00.000Z"
+  },
+  {
+    "id": "291ca00324cf805f",
+    "title": "Adobe ColdFusionの脆弱性対策について(CVE-2024-53961)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/alert20241224.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-12-23T15:00:00.000Z"
+  },
+  {
+    "id": "e8d94f421af862e1",
+    "title": "更新：「UD-LT1」および「UD-LT1/EX」における複数の脆弱性について（JVN#46615026）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/20241204-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-12-17T15:00:00.000Z"
+  },
+  {
+    "id": "37d1bdb5695e6a73",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(2024年12月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/1211-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-12-10T15:00:00.000Z"
+  },
+  {
+    "id": "31fc52f80c1248d2",
+    "title": "Microsoft 製品の脆弱性対策について(2024年12月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/1211-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-12-10T15:00:00.000Z"
+  },
+  {
+    "id": "574943937a018a4c",
+    "title": "Palo Alto Networks 製 PAN-OS の脆弱性対策について(CVE-2024-0012等)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/alert20241119.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-11-18T15:00:00.000Z"
+  },
+  {
+    "id": "435f354ae073e783",
+    "title": "Microsoft 製品の脆弱性対策について(2024年11月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/1113-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-11-12T15:00:00.000Z"
+  },
+  {
+    "id": "cf7be0c71e890494",
+    "title": "更新：VMware 製品の脆弱性対策について(CVE-2024-38812 等)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/alert20240918.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-10-21T15:00:00.000Z"
+  },
+  {
+    "id": "6d61a3c0fb012c32",
+    "title": "Oracle Java の脆弱性対策について(2024年10月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/1016-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-10-15T15:00:00.000Z"
+  },
+  {
+    "id": "257f75b8ef4d9206",
+    "title": "Microsoft 製品の脆弱性対策について(2024年10月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/1009-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-10-08T15:00:00.000Z"
+  },
+  {
+    "id": "19451036526f0fad",
+    "title": "Adobe ColdFusion の脆弱性対策について(CVE-2024-41874)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/alert20240911.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-09-10T15:00:00.000Z"
+  },
+  {
+    "id": "d4bc199ad1b163d4",
+    "title": "Microsoft 製品の脆弱性対策について(2024年9月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0911-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-09-10T15:00:00.000Z"
+  },
+  {
+    "id": "ffc2f9eb7ed9b971",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(2024年9月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0911-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-09-10T15:00:00.000Z"
+  },
+  {
+    "id": "f090e87831c32da6",
+    "title": "Microsoft 製品の脆弱性対策について(2024年8月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0814-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-08-13T15:00:00.000Z"
+  },
+  {
+    "id": "dab942437cdf4729",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(2024年8月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0814-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-08-13T15:00:00.000Z"
+  },
+  {
+    "id": "f3e17c0320580475",
+    "title": "センチュリー・システムズ製FutureNet NXRシリーズ、VXRシリーズおよびWXRシリーズにおける複数の脆弱性（CVE-2024-31070等）について",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/alert20240801.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-07-31T15:00:00.000Z"
+  },
+  {
+    "id": "2df073dbde7a98fa",
+    "title": "Oracle Java の脆弱性対策について(2024年7月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0717-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-07-16T15:00:00.000Z"
+  },
+  {
+    "id": "b2865a4ba2ef7096",
+    "title": "Microsoft 製品の脆弱性対策について(2024年7月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0710-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-07-09T15:00:00.000Z"
+  },
+  {
+    "id": "764f3661b8061979",
+    "title": "PHPの脆弱性（CVE-2024-4577）を狙う攻撃について",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/alert_20240705.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-07-04T15:00:00.000Z"
+  },
+  {
+    "id": "a19c719ba931d360",
+    "title": "VMware 製品の脆弱性対策について(CVE-2024-37079 等)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/alert20240619.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-06-18T15:00:00.000Z"
+  },
+  {
+    "id": "3cb5a18742c33d56",
+    "title": "Microsoft 製品の脆弱性対策について(2024年6月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0612-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-06-11T15:00:00.000Z"
+  },
+  {
+    "id": "2d79f3316c7e88c6",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(2024年5月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0515-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-05-14T15:00:00.000Z"
+  },
+  {
+    "id": "44d6e166d5de70b5",
+    "title": "Microsoft 製品の脆弱性対策について(2024年5月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0515-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-05-14T15:00:00.000Z"
+  },
+  {
+    "id": "01f30c4e7786f97a",
+    "title": "更新：Palo Alto Networks 製 PAN-OS の脆弱性対策について(CVE-2024-3400)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/alert20240415.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-04-18T15:00:00.000Z"
+  },
+  {
+    "id": "c445561e66369efb",
+    "title": "アタックサーフェスの Operational Relay Box 化を伴うネットワーク貫通型攻撃について ～Adobe ColdFusion の脆弱性（CVE-2023-29300）を狙う攻撃～",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/alert_orb.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-04-17T15:00:00.000Z"
+  },
+  {
+    "id": "37f522c3d30ebbd6",
+    "title": "Oracle Java の脆弱性対策について(CVE-2023-41993等)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0417-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-04-16T15:00:00.000Z"
+  },
+  {
+    "id": "3a511fda8b57b9b9",
+    "title": "Microsoft 製品の脆弱性対策について(2024年4月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2024/0410-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-04-09T15:00:00.000Z"
+  },
+  {
+    "id": "b61cb21f6c4c7fd1",
+    "title": "Microsoft 製品の脆弱性対策について(2024年3月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0313-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-03-12T15:00:00.000Z"
+  },
+  {
+    "id": "f76e71194ae4561e",
+    "title": "更新：Fortinet 製 FortiOS SSL VPN の脆弱性対策について(CVE-2024-21762)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/alert20240209.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-02-25T15:00:00.000Z"
+  },
+  {
+    "id": "8fe82488a947e20c",
+    "title": "更新：Microsoft 製品の脆弱性対策について(2024年2月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0214-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-02-18T15:00:00.000Z"
+  },
+  {
+    "id": "7fd5d51b714a5298",
+    "title": "更新：Ivanti Connect Secure（旧Pulse Connect Secure）および Ivanti Policy Secure Gateways の脆弱性対策について(CVE-2023-46805 等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/20240111.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-02-15T15:00:00.000Z"
+  },
+  {
+    "id": "4d3c73408b1beb1a",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB24-07)(CVE-2024-20731等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0214-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-02-13T15:00:00.000Z"
+  },
+  {
+    "id": "b7e804fb8b6866f1",
+    "title": "Oracle Java の脆弱性対策について(CVE-2024-20932等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0117-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-01-16T15:00:00.000Z"
+  },
+  {
+    "id": "e9e2bca3b7975d3d",
+    "title": "Microsoft 製品の脆弱性対策について(2024年1月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0110-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-01-09T15:00:00.000Z"
+  },
+  {
+    "id": "fcdbc87a0695b856",
+    "title": "更新：Barracuda 製 Email Security Gateway Appliance (ESG) の脆弱性について(CVE-2023-7102)(CVE-2023-7101)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/alert20231225.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2024-01-04T15:00:00.000Z"
+  },
+  {
+    "id": "fdabf1f430074a55",
+    "title": "Microsoft 製品の脆弱性対策について(2023年12月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/1213-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-12-12T15:00:00.000Z"
+  },
+  {
+    "id": "9e5f6204e632119d",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB23-54)(CVE-2023-44336等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/1115-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-11-14T15:00:00.000Z"
+  },
+  {
+    "id": "cc95c11def6f625e",
+    "title": "Microsoft 製品の脆弱性対策について(2023年11月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/1115-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-11-14T15:00:00.000Z"
+  },
+  {
+    "id": "612ed30ae69b0bac",
+    "title": "更新：Cisco 製 Cisco IOS XE の Web UI の脆弱性について(CVE-2023-20198 等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/alert20231023-1.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-11-01T15:00:00.000Z"
+  },
+  {
+    "id": "e5e749712bffc386",
+    "title": "更新：「Proself」における XML 外部実体参照 (XXE) に関する脆弱性について（JVN#95981460）",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/20231018-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-10-25T15:00:00.000Z"
+  },
+  {
+    "id": "1f699b531d56734e",
+    "title": "Citrix ADC および Citrix Gateway の脆弱性について (CVE-2023-4966 等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/alert20231023-2.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-10-22T15:00:00.000Z"
+  },
+  {
+    "id": "714090a2166a0744",
+    "title": "オンラインストレージの脆弱性対策について",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/alert20231019.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-10-18T15:00:00.000Z"
+  },
+  {
+    "id": "4d4f864e749c4443",
+    "title": "Oracle Java の脆弱性対策について(CVE-2023-30589等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/1018-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-10-17T15:00:00.000Z"
+  },
+  {
+    "id": "04a3cf3268be522e",
+    "title": "更新：Windows Server 2012 および 2012 R2 のサポート終了に伴う注意喚起",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/win2k12_eos.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-10-12T15:00:00.000Z"
+  },
+  {
+    "id": "5e4b623c0c296c7e",
+    "title": "Microsoft 製品の脆弱性対策について(2023年10月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/1011-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "f3e92962cca51eb2",
+    "title": "Microsoft 製品の脆弱性対策について(2023年9月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0913-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-09-12T15:00:00.000Z"
+  },
+  {
+    "id": "e0c2feffd963bbe5",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB23-34)(CVE-2023-26369)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0913-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-09-12T15:00:00.000Z"
+  },
+  {
+    "id": "33261e0f281a6b48",
+    "title": "セイコーソリューションズ製 SkyBridge MB-A100/A110/A200/A130 および SkySpider MB-R210 における脆弱性対策について(CVE-2023-22441 等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/alert20230830.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-08-29T15:00:00.000Z"
+  },
+  {
+    "id": "68a5e097f6b3f568",
+    "title": "更新：Proself の脆弱性対策について",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/alert20230803.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-08-21T15:00:00.000Z"
+  },
+  {
+    "id": "b26eece0a1beb263",
+    "title": "Microsoft 製品の脆弱性対策について(2023年8月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0809-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-08-08T15:00:00.000Z"
+  },
+  {
+    "id": "e2438a09f2066553",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB23-30)(CVE-2023-29320等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0809-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-08-08T15:00:00.000Z"
+  },
+  {
+    "id": "5659f9b2f266b5fb",
+    "title": "インターネット境界に設置された装置に対するサイバー攻撃について～ネットワーク貫通型攻撃に注意しましょう～",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/alert20230801.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-07-31T15:00:00.000Z"
+  },
+  {
+    "id": "dda08784fe927554",
+    "title": "Citrix ADC および Citrix Gateway の脆弱性対策について(CVE-2023-3519 等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/alert20230719.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-07-18T15:00:00.000Z"
+  },
+  {
+    "id": "5cc314b7caf07a8a",
+    "title": "Oracle Java の脆弱性対策について(CVE-2023-22043等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0719-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-07-18T15:00:00.000Z"
+  },
+  {
+    "id": "839d5a01a04fb839",
+    "title": "Microsoft 製品の脆弱性対策について(2023年7月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0712-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-07-11T15:00:00.000Z"
+  },
+  {
+    "id": "8e35cafa7bb5c523",
+    "title": "更新：Fortinet 製 FortiOS および FortiProxy の脆弱性対策について(CVE-2023-27997)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/alert20230613.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-06-13T15:00:00.000Z"
+  },
+  {
+    "id": "24566157fd2249c3",
+    "title": "Microsoft 製品の脆弱性対策について(2023年6月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0614-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-06-13T15:00:00.000Z"
+  },
+  {
+    "id": "0e9bc6c38e96dda2",
+    "title": "Microsoft 製品の脆弱性対策について(2023年5月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0510-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-05-09T15:00:00.000Z"
+  },
+  {
+    "id": "56fbf57cab94e72c",
+    "title": "Oracle Java の脆弱性対策について(CVE-2023-21930等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0419-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-04-18T15:00:00.000Z"
+  },
+  {
+    "id": "aa6662f0af1a5907",
+    "title": "Microsoft 製品の脆弱性対策について(2023年4月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0412-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-04-11T15:00:00.000Z"
+  },
+  {
+    "id": "34eb1aea9c11fa75",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB23-24)(CVE-2023-26405等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2023/0412-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-04-11T15:00:00.000Z"
+  },
+  {
+    "id": "3723a2274ef95202",
+    "title": "更新：Fortinet 製 FortiOS および FortiProxy の脆弱性対策について(CVE-2023-25610)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/alert20230309.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-04-11T15:00:00.000Z"
+  },
+  {
+    "id": "b3243f74765c3f7d",
+    "title": "Microsoft 製品の脆弱性対策について(2023年3月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20230315-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-03-14T15:00:00.000Z"
+  },
+  {
+    "id": "14171ff9630b1c33",
+    "title": "Microsoft 製品の脆弱性対策について(2023年2月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/0215-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-02-14T15:00:00.000Z"
+  },
+  {
+    "id": "d468fce317d2739c",
+    "title": "DNS サーバ BIND の脆弱性対策について（CVE-2022-3924等）",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/alert20230126.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-01-25T15:00:00.000Z"
+  },
+  {
+    "id": "630cbfbb96f91642",
+    "title": "Oracle Java の脆弱性対策について(CVE-2023-21835等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/0118-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-01-17T15:00:00.000Z"
+  },
+  {
+    "id": "bf710168b1b6d6dc",
+    "title": "再告知：Windows 8.1 のサポート終了に伴う注意喚起",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/win8_1_eos.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-01-11T15:00:00.000Z"
+  },
+  {
+    "id": "09916dd956c96690",
+    "title": "Microsoft 製品の脆弱性対策について(2023年1月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20230111-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-01-10T15:00:00.000Z"
+  },
+  {
+    "id": "d88ebf584162f466",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB23-01)(CVE-2023-21579等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20230111-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2023-01-10T15:00:00.000Z"
+  },
+  {
+    "id": "4d337a7f125f6469",
+    "title": "更新：FortiOS SSL-VPN の脆弱性対策について(CVE-2022-42475)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/alert20221213.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-12-13T15:00:00.000Z"
+  },
+  {
+    "id": "23e4be7615a14d99",
+    "title": "Microsoft 製品の脆弱性対策について(2022年12月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/1214-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-12-13T15:00:00.000Z"
+  },
+  {
+    "id": "8bd04c0a9c98d94e",
+    "title": "Citrix ADC および Citrix Gateway の脆弱性について（CVE-2022-27518）",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/alert20221214.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-12-13T15:00:00.000Z"
+  },
+  {
+    "id": "044cae7ab01191e9",
+    "title": "Microsoft 製品の脆弱性対策について(2022年11月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/1109-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-11-08T15:00:00.000Z"
+  },
+  {
+    "id": "02fb16d770a94c5c",
+    "title": "OpenSSL の脆弱性対策について(CVE-2022-3602、CVE-2022-3786)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/alert20221102.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-11-01T15:00:00.000Z"
+  },
+  {
+    "id": "7a0151b7cd75f7e2",
+    "title": "Oracle Java の脆弱性対策について(CVE-2022-21628等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/1019-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-10-18T15:00:00.000Z"
+  },
+  {
+    "id": "b3cb025347e012fb",
+    "title": "Microsoft 製品の脆弱性対策について(2022年10月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/1012-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-10-11T15:00:00.000Z"
+  },
+  {
+    "id": "a3042a57a605062a",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB22-46)(CVE-2022-38450等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20221012-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-10-11T15:00:00.000Z"
+  },
+  {
+    "id": "080efee89ce0448a",
+    "title": "「bingo!CMS」における認証回避の脆弱性について（JVN#74592196）",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20221011-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "31d1887bb4a2d4c1",
+    "title": "Fortinet 製 FortiOS、FortiProxy および FortiSwitchManager の脆弱性対策について(CVE-2022-40684)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/alert20221011.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-10-10T15:00:00.000Z"
+  },
+  {
+    "id": "88bf408d68fb0cac",
+    "title": "Microsoft 製品の脆弱性対策について(2022年9月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20220914-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-09-13T15:00:00.000Z"
+  },
+  {
+    "id": "7b976492fd21d57a",
+    "title": "「Trend Micro Apex One」および「Trend Micro Apex One SaaS」における複数の脆弱性について（JVN#36454862）",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20220913-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-09-12T15:00:00.000Z"
+  },
+  {
+    "id": "36d9ee37522c64ee",
+    "title": "更新：「Movable Type」の XMLRPC API におけるコマンド・インジェクションの脆弱性について（JVN#57728859）",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20220824-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-09-01T15:00:00.000Z"
+  },
+  {
+    "id": "7de562f2ced31087",
+    "title": "Microsoft 製品の脆弱性対策について(2022年8月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20220810-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-08-09T15:00:00.000Z"
+  },
+  {
+    "id": "008ec71baf24ecb0",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB22-39)(CVE-2022-35665等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20220810-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-08-09T15:00:00.000Z"
+  },
+  {
+    "id": "16a00bc57a59a101",
+    "title": "Oracle Java の脆弱性対策について(CVE-2022-34169等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20220720-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-07-19T15:00:00.000Z"
+  },
+  {
+    "id": "c0562897b6c16b15",
+    "title": "Microsoft 製品の脆弱性対策について(2022年7月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20220713-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-07-12T15:00:00.000Z"
+  },
+  {
+    "id": "f4029943584cf1eb",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB22-32)(CVE-2022-34230等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20220713-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-07-12T15:00:00.000Z"
+  },
+  {
+    "id": "980f16bc54f622b9",
+    "title": "再告知：Microsoft 社 Internet Explorer のサポート終了について",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/ie-eos.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-06-15T15:00:00.000Z"
+  },
+  {
+    "id": "5c1b232a5ff80a51",
+    "title": "Microsoft 製品の脆弱性対策について(2022年6月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20220615-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-06-14T15:00:00.000Z"
+  },
+  {
+    "id": "ba03d1bc89e5c957",
+    "title": "Microsoft 製品の脆弱性対策について(2022年5月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20220511-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-05-10T15:00:00.000Z"
+  },
+  {
+    "id": "899eb73864adb388",
+    "title": "Oracle Java の脆弱性対策について(CVE-2022-21449等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20220420-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-04-19T15:00:00.000Z"
+  },
+  {
+    "id": "d8b48ce4771e4e75",
+    "title": "Microsoft 製品の脆弱性対策について(2022年4月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20220413-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-04-12T15:00:00.000Z"
+  },
+  {
+    "id": "4a2f8c8be5452ebc",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB22-16)(CVE-2022-24103等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2022/20220413-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-04-12T15:00:00.000Z"
+  },
+  {
+    "id": "fd0ff8c7ae05bb76",
+    "title": "Trend Micro Apex Central 製品の脆弱性について(CVE-2022-26871)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/alert20220330.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-03-29T15:00:00.000Z"
+  },
+  {
+    "id": "897e30b88b16b72d",
+    "title": "Microsoft 製品の脆弱性対策について(2022年3月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20220309-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-03-08T15:00:00.000Z"
+  },
+  {
+    "id": "2eb3e30812622062",
+    "title": "Microsoft 製品の脆弱性対策について(2022年2月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20220209-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-02-08T15:00:00.000Z"
+  },
+  {
+    "id": "4a243e6d71430674",
+    "title": "Oracle Java の脆弱性対策について(CVE-2022-21349等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20220119-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-01-18T15:00:00.000Z"
+  },
+  {
+    "id": "e76fc58bc86820be",
+    "title": "Microsoft 製品の脆弱性対策について(2022年1月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20220112-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-01-11T15:00:00.000Z"
+  },
+  {
+    "id": "3b710d919b4fa095",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB22-01)(CVE-2021-44701等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20220112-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2022-01-11T15:00:00.000Z"
+  },
+  {
+    "id": "2232c31b0bdee661",
+    "title": "更新：「Movable Type」の XMLRPC API における OS コマンド・インジェクションの脆弱性について（JVN#41119755）",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20211020-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-12-15T15:00:00.000Z"
+  },
+  {
+    "id": "4bc1655c3347c5ce",
+    "title": "Microsoft 製品の脆弱性対策について(2021年12月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20211215-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-12-14T15:00:00.000Z"
+  },
+  {
+    "id": "bfd8fcc928ef519e",
+    "title": "更新：Apache Log4j の脆弱性対策について(CVE-2021-44228)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/alert20211213.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-12-13T15:00:00.000Z"
+  },
+  {
+    "id": "3cc43d38116b4b6d",
+    "title": "Microsoft 製品の脆弱性対策について(2021年11月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20211110-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-11-09T15:00:00.000Z"
+  },
+  {
+    "id": "6f3bf77ac100944a",
+    "title": "Oracle Java の脆弱性対策について(CVE-2021-3517等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20211020-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-10-19T15:00:00.000Z"
+  },
+  {
+    "id": "b15bb4455d6de7d3",
+    "title": "Microsoft 製品の脆弱性対策について(2021年10月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20211013-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-10-12T15:00:00.000Z"
+  },
+  {
+    "id": "aa553785e48a074a",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB21-104)(CVE-2021-40728等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20211013-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-10-12T15:00:00.000Z"
+  },
+  {
+    "id": "ad54716d68f08a59",
+    "title": "更新：Apache HTTP Server の脆弱性対策について(CVE-2021-41773, CVE-2021-42013)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/alert20211006.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-10-07T15:00:00.000Z"
+  },
+  {
+    "id": "689a59ef4ed093c8",
+    "title": "SonicWall 製の SMA100シリーズの脆弱性について(CVE-2021-20034)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/alert20211001.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-09-30T15:00:00.000Z"
+  },
+  {
+    "id": "740f77a5d8528aca",
+    "title": "更新：Microsoft Windows 製品の Microsoft MSHTML の脆弱性対策について(CVE-2021-40444)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210908-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-09-14T15:00:00.000Z"
+  },
+  {
+    "id": "1b30bf8eb34deb2c",
+    "title": "Microsoft 製品の脆弱性対策について(2021年9月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210915-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-09-14T15:00:00.000Z"
+  },
+  {
+    "id": "c1d40b7ea8575961",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB21-55)(CVE-2021-39863等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210915-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-09-14T15:00:00.000Z"
+  },
+  {
+    "id": "17cd834fb04d16d5",
+    "title": "Microsoft 製品の脆弱性対策について(2021年8月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210811-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-08-10T15:00:00.000Z"
+  },
+  {
+    "id": "7fe018246dbab626",
+    "title": "Oracle Java の脆弱性対策について(CVE-2021-2388等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210721-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-07-20T15:00:00.000Z"
+  },
+  {
+    "id": "07c2ca12096f5d5e",
+    "title": "Microsoft 製品の脆弱性対策について(2021年7月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210714-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-07-13T15:00:00.000Z"
+  },
+  {
+    "id": "6a5cf12e72c2eb10",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB21-51)(CVE-2021-35980等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210714-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-07-13T15:00:00.000Z"
+  },
+  {
+    "id": "6af4be73a1bc8b0a",
+    "title": "更新：Microsoft Windows 製品の Windows Print Spooler の脆弱性対策について(CVE-2021-34527)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210705-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-07-06T15:00:00.000Z"
+  },
+  {
+    "id": "a265df8a2a5876b3",
+    "title": "Microsoft 製品の脆弱性対策について(2021年6月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210609-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-06-08T15:00:00.000Z"
+  },
+  {
+    "id": "5a964b7439265f90",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB21-37)(CVE-2021-28554等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210609-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-06-08T15:00:00.000Z"
+  },
+  {
+    "id": "b3140ab1e4610441",
+    "title": "Microsoft 製品の脆弱性対策について(2021年5月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210512-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-05-11T15:00:00.000Z"
+  },
+  {
+    "id": "f4510cbd82519d29",
+    "title": "Adobe Acrobat および Reader の脆弱性対策について(APSB21-29)(CVE-2021-28550等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210512-adobereader.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-05-11T15:00:00.000Z"
+  },
+  {
+    "id": "c1a2c4e7f143ae64",
+    "title": "「EC-CUBE」におけるクロスサイトスクリプティングの脆弱性について（JVN#97554111）",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210510-jvn.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-05-09T15:00:00.000Z"
+  },
+  {
+    "id": "a63db8e085e4a58d",
+    "title": "更新：Pulse Connect Secure の脆弱性対策について（CVE-2021-22893）",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/alert20210421.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-05-06T15:00:00.000Z"
+  },
+  {
+    "id": "6dc1d5d953ed5114",
+    "title": "Oracle Java の脆弱性対策について(CVE-2021-2161等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210421-jre.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-04-20T15:00:00.000Z"
+  },
+  {
+    "id": "ee94391baefdf386",
+    "title": "Microsoft 製品の脆弱性対策について(2021年4月)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2021/20210414-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-04-13T15:00:00.000Z"
+  },
+  {
+    "id": "5358128de6553c52",
+    "title": "複数の Microsoft 社製品のサポート終了に伴う注意喚起",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2020/win7_eos.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2021-03-09T15:00:00.000Z"
+  },
+  {
+    "id": "464aae92906b8cde",
+    "title": "WordPress 用プラグイン「File Manager」の脆弱性対策について(CVE-2020-25213)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2020/alert20200918.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2020-09-17T15:00:00.000Z"
+  },
+  {
+    "id": "8f20314fb668c9db",
+    "title": "Web会議サービスを使用する際のセキュリティ上の注意事項",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2020/webmeeting.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2020-07-13T15:00:00.000Z"
+  },
+  {
+    "id": "bfa781abda2d6d57",
+    "title": "DNS サーバ BIND の脆弱性対策について(CVE-2020-8616)(CVE-2020-8617)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2020/alert20200520.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2020-05-19T15:00:00.000Z"
+  },
+  {
+    "id": "c0265c018cb2bc9e",
+    "title": "OpenSSL の脆弱性対策について(CVE-2020-1967)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2020/alert20200423.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2020-04-22T15:00:00.000Z"
+  },
+  {
+    "id": "94ce61c73928c085",
+    "title": "Zoom の脆弱性対策について",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2020/alert20200403.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2020-04-02T15:00:00.000Z"
+  },
+  {
+    "id": "9e987e9a979f1def",
+    "title": "トレンドマイクロ株式会社製の製品における複数の脆弱性について(CVE-2020-8467等)",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2019/alert20200316.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2020-03-15T15:00:00.000Z"
+  },
+  {
+    "id": "f1adb5087988f9c9",
+    "title": "Apache Tomcat における脆弱性（CVE-2020-1938）について",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2019/alert20200225.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2020-02-24T15:00:00.000Z"
+  },
+  {
+    "id": "43f79ec5fc1e1c3d",
+    "title": "更新：Citrix ADC および Citrix Gateway における任意のコード実行の脆弱性（CVE-2019-19781）について",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2019/alert20200117.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2020-01-16T15:00:00.000Z"
+  },
+  {
+    "id": "ae81382b02ea74ad",
+    "title": "更新：vBulletin における任意のコード実行の脆弱性(CVE-2019-16759)について",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2019/alert20190927.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2019-09-26T15:00:00.000Z"
+  },
+  {
+    "id": "df38028e741f38cf",
+    "title": "ウイルスバスターコーポレートエディションの脆弱性(CVE-2019-9489) について",
+    "url": "https://www.ipa.go.jp/archive/security/security-alert/2019/alert20190910.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2019-09-09T15:00:00.000Z"
+  },
+  {
+    "id": "96b5a124f19b5281",
+    "title": "Apache Struts2 の脆弱性対策情報一覧",
+    "url": "https://www.ipa.go.jp/security/vuln/oss/struts2_list.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2018-08-17T15:00:00.000Z"
+  }
+]
