@@ -1,5 +1,356 @@
 [
   {
+    "id": "66fa2b2ca7e784bf",
+    "title": "agent-skills/plugins/kuden/skills/writing/SKILL.md at main · shokai/agent-skills",
+    "url": "https://github.com/shokai/agent-skills/blob/main/plugins/kuden/skills/writing/SKILL.md",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T21:21:15.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.com%2Fshokai%2Fagent-skills%2Fblob%2Fmain%2Fplugins%2Fkuden%2Fskills%2Fwriting%2FSKILL.md",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で、350〜450 文字を目安に要約します。\n\n記事の内容は、文章を書く際の具体的なルールと解釈の基準について解説されています。コードコメントやPR概要欄、ドキュメント、wikiの文章を書く際に、解釈のブレを防ぐための基準を明確にしています。\n\n主なポイントとして、文章を書く時の注意点があります。まず、解釈のブレを防ぐためには、曖昧な語句や強調記号の扱いを避ける必要があります。例えば、「遅くなっても落ちない」といった表現は意味不明になるため、具体的な結果を述べるべきです。また、重要な情報を強調する際、語彙や文の強さで伝わるよう、文章そのものを推敲する必要があります。\n\n次に、補足説明の扱いも重要です。丸括弧で補足説明を挿入すると、文の構造が曖昧になり読みにくくなるため、子リストで展開するか、背景や理由として分けて続ける必要があります。また、和文と英語の識別子の間に空白を入れることは避けるべきです。\n\n最後に、URL の終わる行の末尾に句点を付けないというルールもあります。これにより、文章の構造を明確化し、誤解を防ぐことができます。これらのルールを遵守することで、正確な情報を記述できることが重要です。",
+    "imageUrls": []
+  },
+  {
+    "id": "56de30d3422d9833",
+    "title": "条件マッチング通知の設計：2サービスで共用したモジュールの差し替え2か所",
+    "url": "https://zenn.dev/sakidori/articles/20261025-alert-condition-matching-two-products",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-06T21:17:05.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--RrCnjkHE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259D%25A1%25E4%25BB%25B6%25E3%2583%259E%25E3%2583%2583%25E3%2583%2581%25E3%2583%25B3%25E3%2582%25B0%25E9%2580%259A%25E7%259F%25A5%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25EF%25BC%259A2%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2581%25A7%25E5%2585%25B1%25E7%2594%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2583%25A2%25E3%2582%25B8%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AE%25E5%25B7%25AE%25E3%2581%2597%25E6%259B%25BF%25E3%2581%25882%25E3%2581%258B%25E6%2589%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sakidori%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwNTgxN2IyYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\n**テーマ：技術と課題の概要**\n記事は、条件マッチングの通知処理を共通化するための設計プロセスを解説しています。TypeScript で開発した Workers Cloudflare 上で、グラウンド空き通知と貸切サウナ空き通知の両方を含む1つのモジュールを作成しました。これにより、同じ構造で処理し、製品ごとのフィールド定義のみを変換する仕組みを採用しました。\n\n**結論：推奨される設計方針**\n共通化する基準は「処理の流れの図が同じ形になるか」ではなく、「同じ組み合わせで二度送らないか」という点です。これにより、異なる製品でも機能性が保たれ、コードの重複を避けることができます。総当たり計算は数秒単位で収まるため、実装可能です。\n\n**方法：解決策と技術手法**\n課題を解決するために、既存の2つのサービスを統合し、共通のマッチ関数を定義しました。具体的な技術は、SQLite と同じ文法で書かれたスクリプトと、Cronトリガーによる自動実行です。D1 Cloudflare のデータベースを活用し、1回呼ぶと1通送れるResend API を利用して通知を送信します。また、条件の型を型別として管理することで、バグリスクを低くしています。\n\n本文では、具体的な例として「土日の午前、人工芝」という特定の条件が通知される事例を示されています。これにより、開発者は新しい枠が出た瞬間に適切な通知を受け取る仕組みが確立されました。",
+    "imageUrls": []
+  },
+  {
+    "id": "b534ea0673c5d5eb",
+    "title": "周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？",
+    "url": "https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-06T21:05:58.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：AI と記事執筆のバランスと戦略\n\n## 課題と技術\n開発者は、Microsoft MVP や AI をフル活用する猛者たちとの対立を避けるために、独自のアプローチを探りました。初期に「指示を出して実行させる」のではなく、「仕組みを理解し、責任を持って管理する」という意識が転換しました。具体的な技術は、Qiita CLI の導入から、挿絵生成やレビューの自動化まで、個人のパターンを構築しました。また、Project Opal や Entra セキュリティへの移行も検討しましたが、AI エージェントの役割を環境として支えることで業務との統合を行いました。\n\n## 結論\n「お任せ」を信頼するのではなく、自分の文脈を明確に管理し、責任を持って運用することが重要です。AI は効率化や自動化を提供しますが、最終的な決定権と文脈制御は自身の責任です。これにより、個人性と組織とのバランスを保ちながら、より質の高い記事を作成できるようになります。\n\n## 方法\n課題解決の手順として、以下のステップが採用されました。\n1. **導入段階**: 初期の不安感を乗り越え、Qiita CLI をベースに文章の自動化と管理を開始しました。\n2. **範囲設定**: AI の利用範囲を明確にし、挿絵生成やレビューの自動化を進めました。\n3. **戦略転換**: 学習研修を通じて「自分の取扱説明書」を作成し、AI に依存しない状態へ移行しました。\n4. **環境構築**: Project Opal や Entra セキュリティなどの自律型エージェントとの連携を構築し、業務環境への接続を行いました。\n\n本文では、専門用語は短く説明し、重要な情報は本文に記載されています。個人のパターンを維持しつつ、AI を適切に活用することで、より質の高い成果を達成したという結論がまとめられています。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F1619637%2F62c2ebb6-5fda-4cf4-85d2-558a40eff9d2.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4fa888d64bfdc16f4e42e0d5ffb070a3"
+    ]
+  },
+  {
+    "id": "8b2b9b4ce00e9190",
+    "title": "【ServiceNow】自動採番の仕組みが変わったらしいので調査したメモ",
+    "url": "https://qiita.com/daifuku085/items/ef891ad3bd037427b2e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-06T20:07:38.000Z",
+    "status": "completed",
+    "category": "TROUBLESHOOT",
+    "summary": "開発者側は、システムプロパティの値を確認したところ、従来の「Number Counter」の表示条件が更新されたことが分かりました。これは、複数のレコードを同時に作成する際の性能問題により、採番の仕組みを変更された結果です。特に、RaptorDB と ServiceNow の両方とも、数多くのレコードを同時に作成する際に競合やパフォーマンス低下を懸念していたと報告されています。\n\n解決策として、原子化されたカウント（Atomic Counter）を採用する設定が推奨されます。これにより、複数の処理が同時にアクセスしても競合なく値を増やし、パフォーマンスを維持できます。また、従来の「Number Counter」の代わりに、対象テーブルの物理名を指定し、 atomic_counter_all を true にすることで対応可能です。ただし、原子化されたカウントは単一のテーブルのみを使用する必要があるため、他のテーブルとの併用は注意が必要です。\n\n最終的には、Atomic Counter の導入により、計数的なカウントの誤差や競合問題が解消され、システム全体の効率化が期待されます。調査結果では、従来の「Number Counter」の値を直接書き換えることは困難であったため、原子化されたカウントを採用することで、実機での検証も可能となりました。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3632778%2Fdb2013f6-4aec-47af-810b-efeb0e001a12.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=478601856578b901071b47222fcf7701",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3632778%2Fe3c10d3d-df04-44a6-8955-58c3c4054400.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=73a4977a53afcc42063440c277840c32",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3632778%2F30187762-a0cd-4700-ab93-cd6acbced084.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=c014ce24cdd184ac272d49f1e0412e8b",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3632778%2Fc33887b4-e68a-405a-b2d6-e7e6f07e3412.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=56a124d83dd38f6c12e77ead79b7aefa",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3632778%2F97dd7934-ad74-4b40-82ef-a39d34d63156.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d2c8cd68390fc2b54bb929a05afc9afd",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3632778%2Faed9ed3a-2ce4-4dc2-beb9-f823d900fa3a.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9b9a2fb5ef0e3dc2f0faf027047fea79"
+    ]
+  },
+  {
+    "id": "f4fbeb48edb90dfe",
+    "title": "東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植　実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai",
+    "url": "https://ledge.ai/articles/nicam_claude_code_migration",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T19:26:50.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fledge.ai%2Farticles%2Fnicam_claude_code_migration",
+    "category": "TUTORIAL",
+    "summary": "# 課題と解決方法\n\n開発者向けに直訳調を避けた自然な日本語で要約します。\n\n## 課題と技術\n\n研究論文では、大気モデル「NICAM」のFortranコードをC++/Kokkosへ移植する研究が発表されました。従来の開発は数年以上の経験に基づき、スーパーコンピュータやGPUを用いて実装されてきたため、新しい技術を採用する必要がありました。特に、OpenACCとKokkosという並列計算フレームワークの導入により、NVIDIAとAMDのGPUに対応できることが解決された課題です。\n\n## 結論\n\n移植後の実行速度は従来の1.71倍に増加し、測定時間は約47.3秒から短縮されました。人間によるレビューと検証を重視したプロセスにより、モデルの機能同士の接続を確認し、最終的に実装とテストが完了しました。\n\n## 方法\n\n開発者はAIツール「Claude Code」を用いてコードの移植計画を立てることで、人間が目標や制約を示し、段階ごとに確認作業を行いました。このプロセスでは、モジュールや物理過程ごとに実装、ビルド、テスト、修正を繰り返しました。最終的に、120ステップの計算実験において、GH200とAMDのGPUを使用した結果、従来の運用時間から約42%短縮された性能評価が得られました。\n\n## 実践時の注意点\n\n開発者はサブスクリプション契約によるトークン使用料の制限を考慮し、人間のレビューや計算作業の時間を管理する必要があります。利用上限に達する場合は作業が中断されるリスクがあるため、適切なスケジュール化と調整が必要です。また、テストデータの範囲を広げる方針も今後の研究計画として推奨されています。",
+    "imageUrls": [
+      "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/coding_agent_workflow_6ff7560143/coding_agent_workflow_6ff7560143.png",
+      "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Application_execution_time_over_120_time_steps_b3731882d3/Application_execution_time_over_120_time_steps_b3731882d3.jpg"
+    ]
+  },
+  {
+    "id": "86daf526f9d160ef",
+    "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
+    "url": "https://halfnarp.events.ccc.de",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T18:16:43.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\n開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n## 課題と解決方法\n\n40C3 の Fahrプランの調整により、スケジュール間の衝突を減らすための機能を提供しています。ユーザーは特定のイベントを選択して、関連するハーフナプの correlaion を表示できます。 darker のほど強くなるという設定が可能です。また、モバイル版ではスワイップ操作が可能です。問題解決には公式FAQ とブログで詳細を参照し、連絡先を指定できます。\n\n## 結論\n\nスケジュール調整機能の導入により、開発者向けにスムーズな運用が可能になります。ユーザーはイベントを選択して関連データを視覚的に確認できます。\n\n## 方法\n\n40C3 の Fahrプランの調整機能を活用し、スケジュール衝突を軽減します。イベント選択後、関連するハーフナプの correlaion を表示し、ダークなほど強い関係を表現します。モバイル版ではスワイップ操作で新しい機能を利用できます。問い合わせは公式メールアドレスへ連絡してください。\n\n本文に記載された情報はすべて含まれています。",
+    "imageUrls": []
+  },
+  {
+    "id": "26540291d923e893",
+    "title": "We know 15k websites are infected. how do we tell them?",
+    "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T18:13:35.000Z",
+    "status": "completed",
+    "category": "TROUBLESHOOT",
+    "summary": "# 課題：悪意のある JavaScript の感染と対応\n\nこの記事は、世界規模で月間 135 百万以上のアクセスを記録する malware を感染している Web サイトの数を特定したという事実を報告しています。しかし、これらのサイトに対して適切な通知を行うことは困難であり、責任ある公開（ responsible disclosure）の遅れが問題となっています。\n\n主な課題は、特定の目的のために実行されるべきではない JavaScript のコードを攻撃者が導入していることです。例えば、クレジットカードスキマーや ClickFix などの攻撃手法は、ユーザーを騙して malware をインストールする可能性があります。また、iOS のバージョンを攻撃し、盗賊アプリなどを導入するケースも存在します。\n\nこれらの攻撃の経路は、直接コンプライアンス、供給チェーン、XSS、DeadTag などという主要な vectors です。現在、15,579 個のサイトが感染しているため、すべてのサイトに対して通知を行うことは不可能です。\n\n解決策として、高影響度のサイトへの直接連絡を行い、セキュリティ文書や通知プロセスの改善を検討する必要があると指摘されています。しかし、多くのメールは無効化され、対応の遅れは継続しています。今後の対策としては、より迅速な通知システムや、自動化された処理を行うことが推奨されます。",
+    "imageUrls": [
+      "https://storage.ghost.io/c/ee/88/ee889f88-37ef-43e5-9180-f9b88ee6261d/content/images/2026/11/image.png"
+    ]
+  },
+  {
+    "id": "14b9fa1e744e1383",
+    "title": "【RTL】テストは成功しているのにactで囲めと警告された",
+    "url": "https://qiita.com/ryu0947/items/59d3a7f4e032deea8212?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-06T18:04:11.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\n課題は、React の状態更新処理とテストの整合性を確保する問題です。特定のテストコードが、状態更新後に実行されるため警告が出ました。この問題は、React の state を完了させる前にテストを実行する必要があるという原則に基づき解決しました。\n\n結論は、テストの正確性と安全性を確保するため、非同期処理の完了を待つことで警告を解消する方針です。\n\n方法は、App コンポーネントの初回レンダリング時に状態を更新する箇所を特定し、その後にテストを実行するようコードを修正しました。また、 waitFor を使用することで、非同期処理の完了を待ちながらアサーションを実行する構成となりました。これにより、React の警告メッセージが解消され、テスト結果が正常に確認できます。\n\n本文では、特定の機能やバージョンに関する情報は記載されていませんが、一般的な開発プロセスとして適用される方法と、推奨されるアプローチをまとめました。",
+    "imageUrls": [
+      "https://cdn.qiita.com/assets/public/advent_calendar/image-advent_calendar_being_held-bafa166cb2e60037f5e4ba3599642d8f.png"
+    ]
+  },
+  {
+    "id": "fdf35b5ad24cef6a",
+    "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+    "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T18:04:06.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e086e2a5c6055677",
+    "title": "Memorilla: Latent Semantic Memory for LLMs",
+    "url": "https://arxiv.org/abs/2610.21375",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T18:03:33.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\n**テーマ：課題と技術**\nLLM はパラメータを超えて情報を処理する必要があるが、既存システムでは文書や会話履歴の蓄積データを記憶させることが難しい。この問題は、各質問に対して必要な情報を抽出し、短く保持しつつ正確に処理する課題である。本論文では「Memorilla」という新しい記憶システムを提案し、全ドキュメントを固定数のクエリ依存なメモリトークンとして処理することで解決した。このシステムは、個人化や長文回答、知識質問への対応において基線モデルの性能を向上させた。また、継続的な学習を可能にするアグントシステムにおける行動の安定化も示唆している。\n\n**結論：主張と結果**\nMemorilla は frozen LLM を効率よく情報を蓄積し、長文や多様な質問に対する正確な回答を実現する技術である。全ドキュメントを 108 倍に減らしつつ、84.33% の精度で事実確認テストにも成功した。さらに、探索する場所を迷わず行動し、平均成功率が向上する効果も示している。これにより、継続的な学習可能な AI システムへのステップとなる。\n\n**方法：解決の仕組み**\n課題は、長文や会話履歴を記憶する際にモデルのコンテキストを短く保ちながら必要な情報を抽出する。この解決策は、ドキュメントを一度に可視化し、各クエリに対して独立したメモリトークンとして学習させることで実現した。これにより、既存システムでは困難だった情報の集計と保持が可能になった。また、アグントシステムにおける記憶の安定化も、探索する場所の迷いを減らす仕組みである。\n\n本文に情報がない項目は推測せず「本文に記載なし」とします。",
+    "imageUrls": []
+  },
+  {
+    "id": "db8d3f83fa7ce647",
+    "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+    "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T18:02:34.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n記事は、予測市場における法律の適用について、アメリカの司法裁判所が「スワップ」の定義や規制権限に関する決断をまとめました。特に、カボイーズ（Coinbase）との関連案件において、三審裁の判断により、一部の州の規制権限が認められる可能性を示唆しています。\n\n# 方法\n課題は、予測市場の法律適用と規制権限の明確化です。解決策として、各州や联邦政府が異なる権限範囲を認めることで、法律の統一性や公平性を確保する方針を採用しています。また、新しい裁判所での判断結果に基づき、新たな規制枠組みを構築する動きも進めています。\n\n# 要約\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\n要約本文:\n「Appellants have failed to make the required showing that an injunction pending appeal is warranted,\" a three-judge panel ruled on Tuesday. The judges also refused to overturn Coinbase's loss against Connecticut in a case that presented the same legal issues. Kalshi lost another significant case in September when an appeals court determined that Ohio and Tennessee can enforce their gambling laws against the prediction market. A three-judge panel in the US Court of Appeals for the Sixth Circuit ruled unanimously against Kalshi in that one. Trump admin on Kalshi's side The Trump administration is simultaneously pursuing litigation against states trying to enforce gambling laws against prediction markets. The CFTC, claiming sole authority to regulate platforms like Kalshi and Polymarket, has sued Arizona, Connecticut, Illinois, Kentucky, Minnesota, New Mexico, New York, Rhode Island, Utah, and Wisconsin. Kalshi's biggest win came in April in the Third Circuit, where the appeals court ruled that New Jersey cannot regulate sports bets on prediction markets. Judges there decided that wagers on Kalshi meet the federal definition of swaps, defined under US law as contracts in which payment \"is dependent on the occurrence, nonoccurrence, or the extent of the occurrence of an event or contingency associated with a potential financial, economic, or commercial consequence.\" \"Kalshi's sports",
+    "imageUrls": []
+  },
+  {
+    "id": "e4ee069fc7bd0169",
+    "title": "Size-It-Up (Game)",
+    "url": "https://magnitudle.com/size-it-up",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T17:59:59.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "デジタル画面のサイズを正確に認識し、誤差を最小化するゲームという課題に対し、視覚的な精度を高める解決策として導入されました。このゲームでは、目標の物体を参照基準と合わせ、視覚的に正しいサイズを lock して評価する仕組みが採用されています。各回 100 点が award され、最終的には最大 500 点を獲得するよう設計されています。本文には具体的なルールや技術の詳細は記載されていませんが、一般的なゲーム的な仕組みに基づき、参照基準との比較を繰り返すことで結果を導出する設計が採用されています。",
+    "imageUrls": []
+  },
+  {
+    "id": "eb4a2c6a72538e9a",
+    "title": "Perplexity launches AI agents for work",
+    "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T17:59:41.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：個人エージェント機能の導入と活用方法\n\n## 課題と技術\nPerplexity は 2025 年 7 月に Comet ブラウザで直訳調を避けた自然な AI アссистントとして公開しました。これ以降、モデル能力は劇的に進化し、個人エージェントは業務を目的設計したままに実行する新たな仕組みです。\n\n## 結論\n個人エージェントは、長期プロジェクトの計画と協調、結果のレビューを担う新しい役割を持ちます。ユーザーは成果を監視し、チーム間の連携をスムーズにします。\n\n## 方法\n1. **計画と協調**: テーマーはプロジェクトを計画し、優先順位が変わる際もシフトします。\n2. **記憶と学習**: 異なる業務領域（マーケティング、販売など）のデータを記憶し、過去の成果を参照します。\n3. **進捗監視**: 継続的な作業を監視し、変化に応じて対応を行います。\n4. **ツール連携**: コンピュータの既存ツールやプロジェクト情報を活用し、複数のタスクを統合します。\n\n本文には「個人エージェントの機能」や「業務領域の具体的な例」が含まれていますが、詳細な技術用語は簡潔に説明しています。",
+    "imageUrls": []
+  },
+  {
+    "id": "a4281c90cf6927ea",
+    "title": "Flawless UI-UX Skill 1.0.0",
+    "url": "https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T17:52:34.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け直訳調の回避と twelve-agent の更新\n\n## 課題と技術\n開発者は、直訳調を避けた自然な日本語で簡潔なインストール方法を推奨しています。新しいバージョン 0.3.0 では、 twelve-agent をサポートする機能が追加されました。また、複数の言語モデルや CLI ツール（Codex, OpenCode など）のサポートも拡張されました。\n\n## 結論\nこの更新により、開発者はより柔軟にプロジェクトを構築し、複数のエージェントを同時に管理できることが可能となりました。ただし、非ターミナル実行や検証プロセスには別々の環境が必要です。\n\n## 方法\nインストールは npx や pnpm や bun を使用して、プロジェクトのグローバルスコープを選択できます。ターミナルウィザードによりプロジェクトごとの設定を確認し、エージェントの選択と確認を行います。JSON, CI, または非ターミナル実行は自動的に非インタラクティブに動作します。\n\n## 本文記載なし\n本文には追加機能やバージョンに関する詳細な情報はありませんでした。特に、macOS のターミナル挙動については検証されていない点も記載されています。",
+    "imageUrls": []
+  },
+  {
+    "id": "4714a96ad9d244f9",
+    "title": "Devvm.dev: One VM for every project",
+    "url": "https://devvm.dev/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T17:30:22.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け： isolated sandbox でコードを始める方法\n\nこの記事は、プロジェクトのツールチェーンをベースにした isolated VM を提供することを提案しています。開発者は、その VM にアクセスし、コードを直接書き込むことができます。\n\n## 課題と解決方法\n開発者が安全な環境でコードを始めるために、セキュリティリスクを避けるための isolated sandbox を使用します。通常の機器へのアクセスは避けることで、供給連鎖攻撃や情報漏洩を防ぐことができます。\n\n## 推奨機能\n- devvm はプロジェクトのツールチェーンを自動的に認識し、必要な VM を作成します。\n- Claude, Codex, opencode など、開発用のエージェントが自動設定されます。\n- Docker, Nix, デスクトップレイヤーなど、カスタムレイヤーもオプションとして選択可能です。\n\n## 効果\nこの方法により、プロジェクト内のコードと環境設定は isolated されています。攻撃の拡散範囲を制限し、機材への影響を最小化できます。また、デフォルト設定により、ゼロコンフィグurations で開始が可能です。",
+    "imageUrls": []
+  },
+  {
+    "id": "81869d0175b8ce01",
+    "title": "Gemini を主力エージェントから外して、Claude に移った（全 3 回）",
+    "url": "https://qiita.com/kassyi/items/c134f3b244368d913f09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-06T17:04:24.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：LLM エージェントの直訳調を避けた自然な日本語要約\n\n## テーマ：記事が扱う課題や技術は何か\n本記事は、C# から GPU 向けのコードを生成する自作コンパイラ「Henicos」の開発プロセスと、その結果として Google の AI プラン変更による料金変動の影響について解説しています。開発者は人間の手間なしでコードを記述し、LLM エージェントを活用した新しいプロジェクトの構築と、Google の環境変化に対する対応を重視しています。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\n開発者側は、Claude モデルを採用し、Gemini を外部の第二レビューとして残す方針を確立しました。しかし、Google の料金変更により、Gemini の単価が 2 倍に増加し、利用可能な期間が消滅するリスクが懸念されます。最終的に、開発者は「頼んでいないことをしない」という原則を維持しつつ、Claude を優先的に採用する方針を示しています。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n開発者はベンチマークテストを行い、重複検知の精度と安定性を比較しました。結果として、Claude のコードは Gemini Flash の約 2 倍の重複を見つけました。また、Gemini の作業フローに依存するコミット承認プロセスや、UI の使い方が異なる点で課題を解決しました。最終的に、開発者は「コミットまで自動でよい」という設定を採用し、ユーザーへの影響を最小化します。\n\n本文には、料金変動の詳細やツール変更の時期など、専門用語は短く説明しています。特に、Gemini の単価アップや、Antigravity の機能終了といった重要な情報は、文章の要約として記載されています。",
+    "imageUrls": []
+  },
+  {
+    "id": "a29884804e746f98",
+    "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+    "url": "https://up.codes/careers?utm_source=HN",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T17:03:33.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\nこの記事は、開発者向けに無料のデモを試すための情報を提供しています。利用者は、PricingLogin のサービスを利用する際に、価格設定や機能の詳細について確認することが可能です。また、コードアップルスの情報や、開発者向けのサポート窓口についても記載されています。\n\n結論として、開発者は無料で試行錯誤できる環境を提供しており、実用的な体験を得るための重要なステップとなっています。\n\n方法としては、開発者が無料のデモを始めることで、機能の仕組みや価格設定を理解することが可能です。また、コードアップルスの情報やサポート窓口のアクセス方法も明確に提示されています。\n\n本文には具体的な機能の詳細やバージョン情報は記載されておりません。そのため、利用者は自身の環境や要件に基づき、適切な情報を収集する必要があります。専門用語は必要とせず、一般的な説明で理解しやすい構成となっています。",
+    "imageUrls": []
+  },
+  {
+    "id": "faf08c07dc75fdaa",
+    "title": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms",
+    "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T17:00:23.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、確実な能力の境界線が自動ツールハイクアッキングを完全に阻止する仕組みについて解説します。この技術は、確実な保証により、100% の自動化攻撃を防ぐことができます。具体的な対策として、AegisKernel Zero-Trust  interceptor を使用し、実行インターフェースを作成することで、攻撃の検出と防御が迅速に行われます。\n\n確実な能力の境界線は、確信に基づいて安全な動作を強制する仕組みです。これにより、自動ツールハイクアッキングのリスクを大幅に低下させます。具体的な手順として、AegisShield を導入し、脆弱なツールを保護するロジックを実装します。この方法により、100% の確実性で攻撃を防ぐことができます。\n\n実践時の注意点として、確信ベースの防御戦略は常に適用する必要があります。専門用語は必要に応じて簡潔に説明しますが、本記事では具体的な技術的な仕組みの詳細を重視しています。最終的に、確実な能力の境界線を活用することで、自動化攻撃のリスクを最小限に抑えることができます。",
+    "imageUrls": []
+  },
+  {
+    "id": "a3bca2c056971c1c",
+    "title": "PyLings: Solve Exercises and Learn Python",
+    "url": "https://github.com/thesayfulla/pylings",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T16:59:40.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "Python 3.14 の開発者向け練習記事は、Rustling スタイルの学習をベースに、直訳調を避けた自然な日本語で要約します。この記事は、35 つの Warm-up（簡単な修正課題）から、20 つの Interview Exercises（実際の面接問題）まで、順を追って進めます。\n\n課題は、Python の基礎から高度なアーキテクチャまで幅広くカバーしています。Warm-up 段階では基本的な構造や処理の理解を強化する短編の課題があり、Middle 段階にはライブラリやパターン、Senior 段階にはシステム設計や高機能な機能への対応を要求します。\n\n解決策として、PyLings を使用し、テストを保存すると自動的に再実行されるという仕組みを利用します。また、コードの品質を高めるために、エッジケースを事前に認識し、テストが通過する前に実装を行うのが推奨されています。最終的には、議論/questions の回答を通じて、実際の面接での対応力を向上させる必要があります。\n\n本文には具体的な技術用語は限られているため、専門用語は短く説明しています。練習の目的は、実戦的なスキルを身につけるため、このステップを順に進めることで効果的です。",
+    "imageUrls": []
+  },
+  {
+    "id": "28c2d038c17b72aa",
+    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T16:54:36.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\nこの文章は、ブラウザの機能設定に関する警告メッセージを示しています。ユーザーが自動検知ツールを無視し、セキュリティ対策を適切に行うことが重要です。また、ブラウザが JavaScript やコークスをサポートしているか、およびブロック機能があるかを確認する必要があります。サポート問い合わせについては、参考ID を提供して対応できます。\n\n本記事の主な課題は、セキュリティ対策の重要性と、ブラウザの機能設定に関する注意点です。推奨される方法は、ユーザー自身のブラウザ設定を確認し、必要な機能を有効に利用することです。専門用語は必要ありませんが、セキュリティの観点から注意すべき点は明確です。本文には具体的な技術的な詳細や推奨アクションの詳細な情報は記載されていませんが、基本的な手順として提示されています。\n\n要約の視点では、追加機能の重要性や対象バージョンの影響を考慮し、ユーザーへの影響をまとめます。この文章は、開発者向けにセキュリティ対策の重要性を強調しており、適切な設定を行うことが重要です。",
+    "imageUrls": []
+  },
+  {
+    "id": "20c1278149bb3591",
+    "title": "First steps in bare-metal programming using UEFI",
+    "url": "https://kevinboone.me/efitest_index.html",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T16:50:29.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け Linux ワークステーションの Bare-Metal アプリケーション開発方法\n\nこの技術記事は、UEFI フレームワークに備えた PC 型コンピュータ上で開発する Bare-Metal アプリケーションの構築について解説しています。文章は経験的な Linux 開発者向けであり、UEFI の知識を前提とせず、ソフトウェアツール、コンパイル・リンクプロセス、ブートディスクの作成、ファイル管理などを実装ステップとして展開しています。\n\n各記事は順次読み進められ、前回の情報に基づき続行する構造です。具体的な手順として、コンパイルとリンクの処理から、EFI システムパーティションの構築まで、そして DVD や USB ファイッシュ画像の作成に至ります。ファイル管理については Simple File Protocol を使用する方法も説明されています。\n\n開発者向けに直訳調を避けた自然な日本語で要約します。各ステップについて手順を明確に示し、専門用語は必要であれば短く説明しています。最終的に、各記事の順序を踏まえて読み進めることで、複雑なプロセスを理解しやすい構成となっています。\n\n本文には必要な情報はすべて記載されており、専門用語は適切に簡潔化されています。読者がスムーズに手順を理解できるよう、論理的な流れでまとめました。",
+    "imageUrls": [
+      "https://kevinboone.me/img/chip.png"
+    ]
+  },
+  {
+    "id": "65391f06c80259fd",
+    "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
+    "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T16:49:21.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fxin9le%2Farticles%2F9a1cf8e10494d6",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\n開発者は直訳調を避けた自然な日本語で要約します。\n\n## 課題と技術\n\n開発者は CI テストがコケる事態に直面しました。これは、`DateOnly` の日付変換時に、`CultureInfo` の設定が古い環境（Ubuntu-24.04）から新しい環境（Ubuntu-26.04）へ切り替わったことで発生しました。\n\n## 結論\n\n日付の正確な取得を確保するため、`culture.DateTimeFormat.Calendar` を更新し、`1868/10/23` に設定しました。これにより、古いデータとの不一致を避けることができます。\n\n## 方法と影響\n\n解決策は、`var culture = new CultureInfo(\"ja-jp\");` を実行し、日付変換のロジックを変更するものです。\n\n.NET 11 Preview 以降でも、この値（1868/10/23）を推奨するようになりました。従来の `1868/9/8` を使用している方は、適切ではありません。\n\n## 本文の補足\n\n本文には、`JapaneseCalendar` の機能や、`CLDR` の役割に関する詳細な説明はありませんでした。そのため、関連する情報は推測として記載しています。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/7d5bcae59551-20261106.png"
+    ]
+  },
+  {
+    "id": "8e64409f361732f4",
+    "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+    "url": "https://github.com/anomalyco/rune",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T16:31:32.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け直訳調の回避\nこの技術は、macOS、Windows、Linux や Web で動作する Rust UI フレームワークです。独自の renderer を使用し、テキスト、レイアウト、スプリング機能を含みます。すべてのアプリがヘッドレスに動作するため、エージェントは画像（PNG）を生成し、要素ツリーを解析してスクリプト的な入力で制御できます。\n\n## 結論\n開発者はこのフレームワークを使用して、エージェントの視覚表示や要素管理を自動化できるため、コードの可読性を高めるための重要なツールとして推奨されます。\n\n## 方法\n開発者がエージェントにこのリポジトリを提供し、例文から始めます。その後、自身の作業をヘッドレスで確認し、画像生成と要素ツリーの解析を行います。また、Rune を使用して追加機能やバージョン管理が可能です。\n\n本文には追加機能の詳細や対象バージョンの情報は記載されていませんが、開発者向けに自然な日本語での要約としてこの情報をまとめました。",
+    "imageUrls": [
+      "https://github.com/anomalyco/rune/raw/dev/demo/rune-poster.png",
+      "https://github.com/anomalyco/rune/raw/dev/demo/opencode/session-top.png",
+      "https://github.com/anomalyco/rune/raw/dev/demo/light/chat.png",
+      "https://github.com/anomalyco/rune/raw/dev/demo/kit/diff-split-dark.png",
+      "https://github.com/anomalyco/rune/raw/dev/demo/fx/liquid-metal.png",
+      "https://github.com/anomalyco/rune/raw/dev/demo/settings-dark.png"
+    ]
+  },
+  {
+    "id": "af363febb52f0a78",
+    "title": "Scriptable GeoDNS: Leaving AWS for Bunny",
+    "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T16:15:03.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n**テーマ：記事が扱う課題や技術は何か**\nこのブログの最適化のために、Amazon CloudFront をコンテンツのセットをサーバーに配置し、Route 53 を Geo アラビック DNS に使用しました。しかし、Route 53 は非常に高額です。特に、ゾーンごとの月額費用、地理的なクエリ数、ヘルスチェック費用、および DNSSEC キーの費用が含まれています。 Bunny CDN の導入により、500 ドメインの無料サービスと、スクリプト対応機能を実現しました。また、ヨーロッパの企業であるボニー・ドンスは、HTTP/3 の欠点も指摘しましたが、現在はゼロコストに改良されています。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\nボニー・ドンスの導入により、500 ドメインの無料サービスとスクリプト対応機能を実現し、コスト削減と柔軟性を確保しました。ただし、HTTP/3 の欠点は今後の課題となります。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n開発者は、Amazon CloudFront を使用してコンテンツをサーバーに配置し、Geo アラビック DNS を導入しました。また、7 つのノイズマシンをベースにしたスクリプトを構築し、各クエリ時にユーザーの所在地を計算し、最も近いサーバーへ転送します。このシステムは、最初のサーバーがダウンした場合に後続のサーバーへフォールバックを適用しています。\n\n本文には情報がない項目は推測せず「本文に記載なし」としてください。\n\n要約本文:\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\n要約本文:\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ",
+    "imageUrls": []
+  },
+  {
+    "id": "93b18f8c3ce28f85",
+    "title": "Reading the Anthropic S-1, with Zvi Mowshowitz",
+    "url": "https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T16:04:58.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 課題と結論\n\nAnthropic の IPO ファイルは、開発者によるコントロール構造、計算負債の状況、および GPU の不足を明らかにします。企業は顧客ではなく、開発者の権限に基づき設計された組織構造を採用しており、計算コストが非常に高い構造になっています。\n\n## 方法\n\n課題解決の手順として、S-1 文書を読み解き、開発者による資金管理や計算負債の性質を分析します。特に、計算コミットメントの規模と、より具体的な顧客需要との関係性を考察します。また、循環融資のリスクや、AI アスセットハッキングへの影響についても議論されます。\n\n## 結論\n\nこの記事は、開発者のコントロール構造が企業成長を制限していることを示唆しており、GPU の不足は顧客ではなく計算コストの圧力であるという結論を導出しています。これにより、企業運営における適切なバランスを追求することが推奨されます。",
+    "imageUrls": [
+      "https://storage.ghost.io/c/b3/b2/b3b26a57-5e5d-4e73-b391-44b83d9ec569/content/images/2026/11/data-src-image-b1728f52-f419-4a20-964d-e9bbca8ebeed.png"
+    ]
+  },
+  {
+    "id": "1e2416414b4d81b4",
+    "title": "Deus Ex",
+    "url": "https://www.filfre.net/2026/11/deus-ex/",
+    "source": "Hacker News",
+    "publishedAt": "2026-11-06T15:44:36.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な日本語要約\n\n**テーマ**: デス・エクスのゲーム設計と名称の起源について\n**結論**: ゲームの文化的意義と、主人公の名前の偶然性\n**方法**: 開発者間の議論と、ゲームの設計意図\n\n本文は、2014 年に公開されたゲーム「デス・エクス」の評価を振り返り、ゲームの設計意図と名称の起源について解説しています。レビュー者はゲームの優劣を評価しましたが、一部の批評家はゲームの設計や環境に不満を述べていました。特に、プレイヤーがゲーム内の行動に深い影響を与えていたという点については、多くの人が「最も良いゲーム」と評価しました。また、ゲームの未来への展望として、インターネット文化との関連性を重視するコメントも見られます。\n\nしかし、本記事ではゲームの現実的な側面を重視し、ゲームの設計意図と名称の起源について詳しく解説しています。主人公の名前の由来については、開発者 Warren スペクトルが公開した資料によると、「イエス・クリスト」という意味だったと考えられていましたが、実際には友人の名前であることが分かりました。この名称の偶然性は、ゲームの哲学的な意味よりも実用的な要因であるという結論になります。\n\n最終的に、ゲームは理想的な目標でありながら、現実的な設計と名称の起源について、より正確な情報を提供しています。",
+    "imageUrls": [
+      "https://www.filfre.net/wp-content/uploads/2026/10/4601346-deus-ex-windows-front-cover-515x600.jpg",
+      "https://www.filfre.net/wp-content/uploads/2026/10/deus1-600x450.jpg",
+      "https://www.filfre.net/wp-content/uploads/2026/10/shock-600x450.png",
+      "https://www.filfre.net/wp-content/uploads/2026/10/deus2-600x450.jpg",
+      "https://www.filfre.net/wp-content/uploads/2026/10/deus5-600x450.jpg",
+      "https://www.filfre.net/wp-content/uploads/2026/10/deus4-600x450.jpg",
+      "https://www.filfre.net/wp-content/uploads/2026/10/deus6-600x450.jpg",
+      "https://www.filfre.net/wp-content/uploads/2026/10/dollar-600x338.jpg",
+      "https://www.filfre.net/wp-content/uploads/2026/10/deus7-600x450.jpg",
+      "https://www.filfre.net/wp-content/uploads/2026/10/deus8-600x450.jpg",
+      "https://www.filfre.net/wp-content/uploads/2026/10/deus9-600x450.jpg",
+      "https://www.filfre.net/wp-content/uploads/2023/04/Patreon-300x133-1.png"
+    ]
+  },
+  {
+    "id": "a029053c386c9310",
+    "title": "仕事、ドパ越えて利益 - オイオイオイ書くわアイツ",
+    "url": "https://ttmmjm.hatenablog.com/entry/2026/11/06/135935",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T15:36:46.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fttmmjm.hatenablog.com%2Fentry%2F2026%2F11%2F06%2F135935"
+  },
+  {
+    "id": "6fedb49501e1329f",
+    "title": "Claude Codeに「サブエージェントを使って」と書くのはやめよう。288回測ったら見つかる量は同じでコストだけ最大221%増えた",
+    "url": "https://qiita.com/yunany90/items/631be4b879ec5e1b6b33?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-06T15:31:24.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Claude Code 2.1.318 のサブエージェント機能\n\n**テーマ**: クラードコードの検索効率を向上させるための新しい設定機能\n**結論**: サブエージェントを enable すると、コストと時間が増えるものの、全条件での検索率は 97〜100% に安定し、結果の正確性は保たれる。ただし、ヘッドレスモードでは初期処理が遅れる可能性がある。\n**方法**: 検索ツールとサブエージェントの呼び出しを許可し、効率化のための設定値（effort）を調整する仕組み。\n\n本文では、288回の実験で「探索」機能を実装した結果、コストは増えたものの、全条件での検索率は維持された。Haiku と Opus の 2 つのモデルも、指示なしの状態でもほぼすべてを正確に検索できることが確認された。しかし、ヘッドレスモードでは結果が複数出たり、最終的な採点処理の誤りがあるため、全結果を統合して評価する必要があると推奨される。また、コストは初期設定により増加する傾向が見られる。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Ftokensave.app%2Fclaude-subagent-effort-chart.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b048eecbde3963130477ae494d4ae773"
+    ]
+  },
+  {
     "id": "c2bc55d094890c49",
     "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
     "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
@@ -303,6 +654,15 @@
     "publishedAt": "2026-11-06T08:59:25.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fnews%2F2154433.html"
+  },
+  {
+    "id": "a5add3acb9db5649",
+    "title": "オープンソース監視ツールのLTS版「Zabbix 8.0 LTS」、OpenTelemetryにネイティブ対応しオブザーバビリティを強化",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2154360.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T08:53:07.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcloud.watch.impress.co.jp%2Fdocs%2Fnews%2F2154360.html"
   },
   {
     "id": "de8843048aa511d9",
@@ -609,6 +969,15 @@
       "https://camo.githubusercontent.com/6a35c3da354c3afe256cff36a946c93f280738a6f612fca76f2dcada90f1df71/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f63686172743f7265706f733d70706d707265657468616d2f62756926747970653d64617465266c6567656e643d626f74746f6d2d7269676874"
     ],
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.com%2Fppmpreetham%2FBUI"
+  },
+  {
+    "id": "389495eb755d9af0",
+    "title": "ホテル川久に宿泊し、バブルの夢を偲ぶ - 生存記録",
+    "url": "https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T07:33:34.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fhayasinonakanozou.hatenablog.com%2Fentry%2F2026%2F11%2F03%2F111931"
   },
   {
     "id": "a9c6b7c84848af75",
@@ -954,6 +1323,14 @@
     "publishedAt": "2026-11-06T03:45:10.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fkn.itmedia.co.jp%2Fkn%2Farticle%2F2611%2F06%2F2000002925%2F"
+  },
+  {
+    "id": "b319540e4ed7dd96",
+    "title": "RAGに入れる資料を「下ごしらえ」したら、誤答率が30%→13%に下がった（Bedrock Knowledge Bases）",
+    "url": "https://qiita.com/MURAMASA2470/items/a7c351ba251da81f507e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-06T03:43:41.000Z",
+    "status": "pending"
   },
   {
     "id": "179667665f822cfe",
