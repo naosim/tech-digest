@@ -1,5 +1,59 @@
 [
   {
+    "id": "aacc6a6ad1bb51e4",
+    "title": "AI生成の証拠「透かし」がユーザー追跡の「スパイマーク」と化している",
+    "url": "https://gigazine.net/news/20261108-spymarks-not-watermarks/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-08T03:02:29.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261108-spymarks-not-watermarks%2F"
+  },
+  {
+    "id": "907b09a8e3e5835c",
+    "title": "AIが書いたテスト24件、バグありアプリで全部『成功』。直したら9件『失敗』した",
+    "url": "https://zenn.dev/sumumu26/articles/b1afde3b0e06f2",
+    "source": "Zenn (playwright)",
+    "publishedAt": "2026-11-08T02:29:31.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--z78j7l-W--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%258C%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2583%2586%25E3%2582%25B9%25E3%2583%258824%25E4%25BB%25B6%25E3%2580%2581%25E3%2583%2590%25E3%2582%25B0%25E3%2581%2582%25E3%2582%258A%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25A7%25E5%2585%25A8%25E9%2583%25A8%25E3%2580%258E%25E6%2588%2590%25E5%258A%259F%25E3%2580%258F%25E3%2580%2582%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%25E3%2582%25899%25E4%25BB%25B6%25E3%2580%258E%25E5%25A4%25B1%25E6%2595%2597%25E3%2580%258F%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:miharuba_jp%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQyMTViMWFiZWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "5a04e1c307b16ac5",
+    "title": "Amazonで買える大容量モバイルバッテリー4選｜20,000〜25,000mAhを用途別に比較｜スプリー | 軽やかノート",
+    "url": "https://note.com/spry_bounce_note/n/nf4797e592942",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-08T02:14:28.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fspry_bounce_note%2Fn%2Fnf4797e592942"
+  },
+  {
+    "id": "b2c66fa8a4921d4d",
+    "title": "Amazonで探す、ChatGPTが使いやすいノートパソコン10選｜持ち歩きと自宅作業で選ぶ｜スプリー | 軽やかノート",
+    "url": "https://note.com/spry_bounce_note/n/n130dd232030e",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-08T01:06:33.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fspry_bounce_note%2Fn%2Fn130dd232030e"
+  },
+  {
+    "id": "acdab7687273c934",
+    "title": "リストラします。会社のMacBookは引き続き使えます",
+    "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T22:20:32.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Ftopic%2Fwatchplus%2F2154253.html"
+  },
+  {
+    "id": "2bc4587bf52a4289",
+    "title": "NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も",
+    "url": "https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T21:13:41.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgazlog.jp%2Fentry%2Fnvidia-southeast-asia-location-tracking-for-gpu%2F"
+  },
+  {
     "id": "5c022348e81cb512",
     "title": "ReactのDOM UIとPhaser Canvasを同期して「選んだ部品」を光らせる",
     "url": "https://zenn.dev/shige7000/articles/72095b024343b0",
@@ -12,6 +66,15 @@
     "imageUrls": []
   },
   {
+    "id": "96c2d88e5cbe85ba",
+    "title": "Sakutto - Local AI translation - Chrome Web Store",
+    "url": "https://chromewebstore.google.com/detail/sakutto-local-ai-translat/mhlbjjijfkoghmcjndgdimhdlfkhadfl",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T15:32:29.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fchromewebstore.google.com%2Fdetail%2Fsakutto-local-ai-translat%2Fmhlbjjijfkoghmcjndgdimhdlfkhadfl"
+  },
+  {
     "id": "0755b45787fb5a1b",
     "title": "Astro 7 + Hono + D1 で作るRSSリーダー「feedge」：離脱を防ぐスターターパック設計",
     "url": "https://zenn.dev/feedge/articles/starter-pack-onboarding-design",
@@ -22,6 +85,24 @@
     "category": "RELEASE",
     "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n**テーマ：記事が扱う課題や技術は何か**\n個人開発や B2C SaaS プロダクトにおいて、ユーザー登録直後の離脱率が高い「コールドスタート問題」を解決する技術スタックの構築です。このプロジェクトでは、Astro 7 のハイブリッド設計と Cloudflare のエッジアーキテクチャを活かし、高速・セキュア・非同期かつストレスフリーなオンボーディング体験を実現しました。特に、登録直後のダッシュボードに「フィード数 0 件」の明確な状態を提示し、ユーザーが関心のあるジャンルを選択して一括購読する「スターターパック機能」を設計・実装しました。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\n登録直後の離脱を防ぐために、「スターターパック機能」を採用し、ユーザーの選択を直感的にサポートします。また、無料プランの制限を事前バリデーションで保護し、重複フィードの安全な処理とバックグラウンド同期によるレスポンス高速化を実現することで、新しいユーザーへの安心感と効率性を確保しています。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n課題は、新規ユーザーが登録直後のダッシュボードに「何の RSS URL を登録すればいいのか分からない」という壁です。これを解決するために、バックエンド側で「スターターパック」の定義を一元管理し、API 経由で取得します。ユーザーが選択した複数のジャンルに対して、既存のフィードの重複を排除し、新しいフィードのみを差分購読する仕組みを採用しました。また、Hono のバッチ購読 API を活用し、プラン上限（無料プラン 20 件・アプリ版 10 件）の厳格な検証を行い、登録上限を超えないよう guard を設置しています。ユーザー体験の流れでは、ダッシュボードが自動リロードされ、最新記事一覧が展開するプロセスを重視しました。\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。要約の視点：追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\nこの文章は、開発者向けに直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約しました。",
     "imageUrls": []
+  },
+  {
+    "id": "de2437584baf0955",
+    "title": "AWSを利用する上で知っておきたい名前解決の話 2026",
+    "url": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T13:51:49.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fnagisa53%2Faws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026"
+  },
+  {
+    "id": "5e4899dea06ce263",
+    "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+    "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T13:18:14.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Ftomipetit%2Farticles%2Fzero-wire-github-actions"
   },
   {
     "id": "61e64d83e22d231e",
@@ -194,6 +275,24 @@
       "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fkitao%2Fpyxel%2Fv3.0.0%2Fdocs%2Fimages%2Fc04_mesh_and_motion.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=077033a2332f2b228fbcd9221045a986",
       "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fkitao%2Fpyxel%2Fv3.0.0%2Fdocs%2Fimages%2Fc06_3d_physics.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=36168d6ea0a0a8ace3f259f14d843399"
     ]
+  },
+  {
+    "id": "746e1027aaffaa4f",
+    "title": "無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能",
+    "url": "https://gigazine.net/news/20261107-harmony/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T09:05:57.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261107-harmony%2F"
+  },
+  {
+    "id": "addd4a54b280f471",
+    "title": "FMV Display V2403(CF)（USB-C/HDMI×2入力） | K0AK0025JF",
+    "url": "https://www.fmv.com/store/p/accessories/monitor/vt_f/k0ak0025jf",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T09:00:19.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.fmv.com%2Fstore%2Fp%2Faccessories%2Fmonitor%2Fvt_f%2Fk0ak0025jf"
   },
   {
     "id": "a82361c08299da20",
@@ -558,6 +657,15 @@
     ]
   },
   {
+    "id": "9f650ce972e58014",
+    "title": "WordPress 7.2からランダムなページにリダイレクトする謎機能が実装されることに – Capital P – WordPressメディア",
+    "url": "https://capitalp.jp/2026/11/06/wordpress-7-2-random-redirect/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T05:03:35.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcapitalp.jp%2F2026%2F11%2F06%2Fwordpress-7-2-random-redirect%2F"
+  },
+  {
     "id": "9c1ce1e9195e8201",
     "title": "OCI Database ServicesのマネージドMCPサーバーをCodexから使ってみた",
     "url": "https://qiita.com/mo__mo/items/4a8b7100b6b65a582889?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -699,6 +807,15 @@
     ]
   },
   {
+    "id": "b9a384bb8fb04c80",
+    "title": "生成AI時代のIAMのマニアックな話",
+    "url": "https://speakerdeck.com/takuros/jaws-festa-2026-public",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T02:15:16.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Ftakuros%2Fjaws-festa-2026-public"
+  },
+  {
     "id": "7f50be955e3ae65a",
     "title": "ロート製薬、約280万人分の個人情報漏えい　9715件は通話音声データとクレカ情報が流出",
     "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002984/",
@@ -712,6 +829,24 @@
       "https://www.itmedia.co.jp/news/article/image/2611/06/2000002984/10011556/728",
       "https://www.itmedia.co.jp/news/article/image/2611/06/2000002984/10011557/728"
     ]
+  },
+  {
+    "id": "94d9de217ccc1c40",
+    "title": "ワークマンの新リカバリーウェアを着てみた　温度調節が快適【いつモノコト】",
+    "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2153603.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T00:50:45.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fseries%2Fitsmo%2F2153603.html"
+  },
+  {
+    "id": "b89e83247b66b34e",
+    "title": "数百ページのPDF文書を一括解析できるローカルAI「Unlimited OCR 2」、NVIDIA開発の文字起こし音声AI「Nemotron 3.5 Transcribe」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+    "url": "https://www.techno-edge.net/article/2026/11/06/5679.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T00:46:51.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.techno-edge.net%2Farticle%2F2026%2F11%2F06%2F5679.html"
   },
   {
     "id": "6764d4947d8ba47a",
@@ -738,6 +873,15 @@
     "category": "RELEASE",
     "summary": "# 開発者向け：PDD Kit の仕組みと信頼戦略\n\n**テーマ**: 開発ツールを探すための新しいアプローチ\n**結論**: PDD Kit は「証明」ではなく「仕様」として、エージェントのコードを信頼する仕組みを提供します。\n**方法**: 人間の意図を平易な言葉で記述し、機械が形式証明（Verus）を行い、テストで裏づけします。\n\n本文では、開発ツールを探すための新しいプロトタイプ「PDD Kit」について解説します。従来の全行レビューは回らない状況下、AI 開発者にとって重要な課題として注目されています。PDD Kit は、コードの信頼性を直接扱います。\n\n開発ツールを探す変換ツールを試す OSS に貢献する情報科学を学ぶ。この話題の土台には、Vibe Coding と AI コードを書く開発の広がりがあります。書く速さが上がったぶん、「出てきたコードをどう信頼するか」が次の課題になりました。PDD Kit は、その「信頼」を正面から扱います。\n\n開発ツールを探す詳細を見る変換ツールを試す OSS に貢献する情報科学を学ぶ。この話題の土台には、Vibe Coding と AI コードを書く開発の広がりがあります。書く速さが上がったぶん、本番環境で Vibe Coding の実践戦略として知られる 2.2 万行 PR 成功の実践戦略 のように、「出てきたコードをどう信頼するか」が次の課題になりました。PDD Kit は、その「信頼」を正面から扱います。\n\n開発ツールを探す詳細を見る変換ツールを試す OSS に貢献する情報科学を学ぶ。この話題の土台には、Vibe Coding と AI コードを書く開発の広がりがあります。書く速さが上がったぶん、本番環境で Vibe Coding の実践戦略として知られる 2.2 万行 PR 成功の実践戦略 のように、「出てきたコードをどう信頼するか」が次の課題になりました。PDD Kit は、その「信頼」を正面から扱います。\n\n開発ツールを探す詳細を見る変換ツールを試す OSS に貢献する情報科学を学ぶ。この話題の土台には、Vibe Coding と AI コードを書く開発の広がりがあります。書く速さが上がったぶん、本番環境で Vibe Coding の実践戦略として知られる 2.2 万行 PR 成功の実践戦略 のように、「出てきたコードをどう信頼するか」が次の課題になりました。PDD Kit は、その「信頼」を正面から扱います。\n\n本文には情報がない項目は推測せず「本文に記載なし」とします。重要な情報は、開発ツールを探す変換ツールを試す OSS に貢献する情報科学を学ぶという背景と、PDD Kit の仕組みと信頼戦略について説明されています。",
     "imageUrls": []
+  },
+  {
+    "id": "0b32fbc2b19fc320",
+    "title": "「燃やす」ってなに？",
+    "url": "https://anond.hatelabo.jp/20261107090533",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T00:14:43.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fanond.hatelabo.jp%2F20261107090533"
   },
   {
     "id": "ed136fd5bcb01da3",
@@ -1230,235 +1374,5 @@
     "imageUrls": [
       "https://qiita-user-contents.imgix.net/https%3A%2F%2Ftokensave.app%2Fclaude-subagent-effort-chart.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b048eecbde3963130477ae494d4ae773"
     ]
-  },
-  {
-    "id": "c2bc55d094890c49",
-    "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
-    "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
-    "source": "Hacker News",
-    "publishedAt": "2026-11-06T14:57:16.000Z",
-    "status": "completed",
-    "category": "GENERAL",
-    "summary": "# 課題と解決方法\n\n**テーマ**: Lippitt-Knoster モデルは、複雑な組織変化や長期的プロジェクトの管理を支援する理論です。\n\n**結論**: このモデルは、6 つの要素（ビジョン、コンセンス、インセンティブ、アクションプラン、リソース、スキル）を考慮してプロジェクトを成功させるための重要な枠組みを示しています。\n\n**方法**: 戦略的な課題解決と実践的な計画策定を組み合わせることで、チームの合意形成と進捗確保を図ります。特にビジョンの欠如やコンセンス不足により、失敗や抵抗が生じるため、各要素を適切に設計することが重要です。\n\n本文では、開発者向けに直訳調を避けた自然な日本語で要約しました。専門用語は短く説明し、重要な技術的ポイントと開発者の意味をまとめました。",
-    "imageUrls": [
-      "https://sharedphysics.com/content/images/2026/11/image.png"
-    ]
-  },
-  {
-    "id": "2a1ac62f979bc27a",
-    "title": "Active Directory と Entra ID のむむむな関係",
-    "url": "https://speakerdeck.com/murachiakira/entraidandaddc-20261106",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T14:52:40.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fmurachiakira%2Fentraidandaddc-20261106",
-    "category": "TUTORIAL",
-    "summary": "# 開発者向け：直訳調を避けた自然な日本語要約\n\n**テーマ：課題と技術の概要**\n Entra ID の「同期」機能は、Microsoft Entra ID と AD（Active Directory）間のデータ同步を明確にします。ID を同期させることで、両方のシステム間で一致を保ち、セキュリティ上のリスクを低減します。この仕組みは、開発者にとって重要な基礎知識となります。\n\n**結論：推奨事項と結果**\n「同期」機能は、 Entra ID の機能を正確に理解し、適切な運用を行うために重要です。将来の製品やサービスとの連携については、最新の情報を確認する必要があります。これにより、組織全体のセキュリティ対策を強化することが可能です。\n\n**方法：手順と仕組み**\n課題解決のステップとして、ID を同期する操作を行います。Microsoft Learn のドキュメントに基づき、具体的な手順は参照できます。また、ハイブリッド ID のドキュメントやクラウド同期の概要も参考となります。このプロセスを通じて、データの整合性を確保することが可能です。\n\n本文には詳細な技術用語は含まれていませんが、専門用語は必要に応じて短く説明しています。要約の視点として、解決する課題はデータ同步の正確性であり、手順はID を同期する操作です。実践時の注意点として、最新の製品情報を確認することをお勧めします。",
-    "imageUrls": []
-  },
-  {
-    "id": "255a39d766325238",
-    "title": "MTG-I2 First Images",
-    "url": "https://www.eumetsat.int/mtg-i2-first-images",
-    "source": "Hacker News",
-    "publishedAt": "2026-11-06T14:35:29.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "# 課題と技術の概要\n\nEUMETSAT の Meteosat Third Generation Imager 2 (MTG-I2) は、直訳調を避けた自然な日本語で約350〜450 文字の要約です。\n\n## 課題と技術の概要\nこの技術は、衛星運用において、直訳調を避けた自然な日本語で約350〜450 文字の要約を行います。\n\n## 結論\nEUMETSAT は、より早い警告が可能になることで、急激な気象変化を早々に見つけることで、災害対策を強化する方針です。\n\n## 方法\n衛星運用において、2.5 分間の頻度で高解像度の観測を行うことで、気象システムの進化をリアルタイムに追跡します。この技術は、雲の形成や気象システムの進化を視覚化し、より早い警告を提供する仕組みです。",
-    "imageUrls": []
-  },
-  {
-    "id": "63c3d56bc72bc9e8",
-    "title": "Gemini Omni 1.2 Flash",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "source": "Hacker News",
-    "publishedAt": "2026-11-06T13:35:27.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：Gemini Omni 1.2 Flash の主な変更と機能\n\n## テーマ：記事が扱う課題や技術は何か\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約してください。次の 3 項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n## 結論：記事が伝える主張、結果、または推奨は何か\n Gemini Omni 1.2 Flash は、生成コストを下げつつ、より自然で正確な動画生成を実現しました。15 秒の短く短い動画を作成し、多段階の編集や参考画像の正確な追従が可能になりました。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n価格を 30% 削減し、720p で 72 秒分あたり 0.07 円/秒で販売しました。動画の長さや品質を調整する際に、15 秒の分割単位で設定可能となり、ストーリーや広告制作に便利になりました。参考画像の正確な追従も強化され、キャラクターやブランド色が保持されます。また、多段階の編集機能により、一度生成された動画から再構成する手間を省き、自然な会話や多言語表現を実現します。\n\n本文には情報がない項目は推測せず「本文に記載なし」としてください。",
-    "imageUrls": [
-      "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-200.format-webp.webp"
-    ]
-  },
-  {
-    "id": "2d1ae6658a139c3b",
-    "title": "ドコモ最大29万件超の顧客情報流出、「システム連携の隙」狙われる",
-    "url": "https://k-tai.watch.impress.co.jp/docs/news/2154538.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T13:25:34.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fnews%2F2154538.html",
-    "category": "RELEASE",
-    "summary": "# NTTドコモの不正アクセス対策\n\nNTTドコモは、外部からの不正アクセスにより最大29万4839件の顧客情報が流出した事態について、直訳調を避けた自然な日本語で要約します。\n\n## テーマ：技術課題と対策\nNTTドコモは、システム間連携の悪用によるデータ流出事件が発生しました。監視システムが異常な負荷アラートを検知し、攻撃対応を開始しました。国内も含めて特定のIPアドレスを順次遮断する対応 took 日14時30分に実施されました。しかし、攻撃は止まらず、翌5日に再度閉鎖し、最終的に顧客情報の流出を確認しました。\n\n## 結論：推奨される対策\nこの事件では、システム間のデータ解釈・処理プロセスの隙間を狙った攻撃手法が正体でした。セキュリティ対策として、暗号化やマスキングの範囲を拡大し、復旧ルールやITガバナンスを高度化する体制強化が必要です。\n\n## 方法：解決策と技術\n1. **監視システムによる早期検知**: 大量アクセスによる異常なシステム負荷アラートを検知。\n2. **IPアドレス遮断**: 攻撃の疑いが高まった際は、海外IPや国内IPアドレスを順次遮断。\n3. **運用再開の管理**: 「My docomo」の停止と再開鎖のタイミングを厳格に管理。\n4. **ログ解析**: 流出範囲の特定を目的として通信を分析し、事前アクセスの確認。\n\n## 本文の補足情報\n対象ユーザーにはSMS通知が実施され、不審な連絡への注意喚起が行われています。また、被害を受けたユーザーへの対応も検討中です。今後の展開では、予防的措置として「ahamo新規受付サイト」の運用を停止し、システム安全改修を実施する方針を示しています。",
-    "imageUrls": [
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2154/538/005_l.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2154/538/004_l.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2154/538/650_l.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2154/538/003_l.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2154/538/006_l.jpg"
-    ]
-  },
-  {
-    "id": "c88ee74a389e1684",
-    "title": "GitHub - soudai/postgresql-use-improve-agents-skill",
-    "url": "https://github.com/soudai/postgresql-use-improve-agents-skill",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T13:14:37.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.com%2Fsoudai%2Fpostgresql-use-improve-agents-skill",
-    "category": "RELEASE",
-    "summary": "# 課題と解決方法\n\nこの記事は、PostgreSQL のパフォーマンス調査と設定調整の技術記事を提示しています。開発者は、直訳調を避けた自然な日本語で要約します。\n\n## 課題と解決方法\n\n主な課題は、PostgreSQL のパフォーマンス問題の診断、配置の確認、スケーラビリティ設計、セキュリティ検証などです。これらの問題を解決するために、複数のスキルを使用します。\n\nまず、Slow SQL や waits、I/O、locks を分析する「性能診断スキル」を適用します。その結果として、 missing evidence や proposed changes が得られます。また、スコープされた変更の準備と検証ステップを踏まえます。\n\n次に、スケーラビリティ設計やセキュリティレビューを行うスキルも利用します。例として、スナップショットの比較や、リソース使用量の確認を行います。\n\n最終的に、複数のスキルを組み合わせて、症状診断から提案した変更まで進めます。具体的な例として、Python 3.10 を使用したコマンドを実行し、結果を確認します。\n\n## 結論\n\nこの記事は、PostgreSQL のパフォーマンス問題を解決するための具体的な技術手法を提示しています。開発者は、直訳調を避けた自然な日本語で、必要な情報を正確に要約します。推奨されるアプローチは、複数のスキルを組み合わせて、検証と確認を徹底することです。\n\n## 方法\n\n課題を解決するために、以下の手順に従います。\n\n1. 具体的なパフォーマンス問題の診断を行うスキルを使用します。\n2. 結果に基づき、スナップショットの比較や変更提案を行います。\n3. 検証ステップとロールバックステップを明確にします。\n4. 必要な証拠やデータを確認し、最終的な結論を下します。\n\n本文には、具体的な技術用語や詳細な手順は記載されていますが、専門用語は短く説明しています。要約の視点では、追加機能や対象バージョン、利用者への影響を中心にまとめました。",
-    "imageUrls": []
-  },
-  {
-    "id": "aa70ef1db0bec149",
-    "title": "私は Gemini ですが、 GeoAI と LLM / 生成AI は特段関係がなさそうです｜ゆいせき",
-    "url": "https://note.com/yuiseki/n/n048539c60690",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T13:07:06.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fyuiseki%2Fn%2Fn048539c60690",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：LLM と GIS の誤解と自律型 GIS の実装\n\n## 課題と技術の概要\n記事は、AIモデル（LLM）を直接使う GeoGIS を操作する技術について解説しています。従来の「GeoAI」という用語は、計算地理学の基礎となる「空間明示性」の概念を踏まえて定義されています。実際には、LLM が自然言語プロンプトを使って QGIS や GeoPandas のコードを自動実行する「自律型 GIS（Autonomous GIS）」という技術です。この技術は、従来の専門的な分析エンジンや空間グラフニューラルネットワークなどを外部に呼び出すことで、人間の作業を自動化します。\n\n## 結論\n本記事では、「GeoAI」という用語の誤解が原因で、LLM が GIS を操作する行為を認識していることが指摘されています。正確には、計算地理学の理論と実装の層が異なるため、この技術は「自律型 GIS」であり、従来の GeoAI とは明確な区別が必要です。\n\n## 方法\n課題として、地理空間情報科学における空間的相関や非線性構造を AI モデルに埋め込むべきかという理論的な問題について議論されています。具体的な解決策としては、計算機科学の理論基盤と GIS の実装層の分離が重要であることが示されています。また、国交省のジオ AI 研究会の存在も、行政側の技術的認識の進化を示しています。\n\n本文には専門用語は少量含まれていますが、重要な概念は「空間的相関」「空間的不均質性」「自律型 GIS」といったものが説明されています。",
-    "imageUrls": []
-  },
-  {
-    "id": "119dda2f4fb777b9",
-    "title": "Tesla to wind down Cybertruck production",
-    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-    "source": "Hacker News",
-    "publishedAt": "2026-11-06T12:13:51.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "# 課題と結論\n\nTesla は、直訳調を避けた自然な日本語で350〜450 文字の要約です。\n\n## 課題と結論\n\nテサラは、未来のモデルである「Cybertruck」の生産を中期 2027 年まで停止する方針を示しました。この決定は、過去に期待されていた競合車としての売数を大幅に低下させた結果であり、売上目標を達成しなかったためです。また、その販売数では、過去 48% の減少を伴うことが明確です。\n\n## 方法\n\n生産終了後は、新しいモデルである「Cybercab」の生産量を増やすために対応します。また、自動車業界の専門家らは、この設計が欧州などの市場で採用されにくい理由として警告しています。特に、欧州では歩行者への衝突規制により承認が不可能とされるためです。\n\n## 結論\n\nテサラは、直訳調を避けた自然な日本語で要約します。Cybertruck の販売数と生産終了の決定は、売上の低下と設計上の課題を反映しています。今後の展開については、Cybercab の導入や、自動運転技術への移行を目指しています。",
-    "imageUrls": []
-  },
-  {
-    "id": "5b4decc7a0ffa6cc",
-    "title": "ドコモ、不正アクセスで最大29.5万件の情報が流出",
-    "url": "https://k-tai.watch.impress.co.jp/docs/news/2154506.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T12:04:58.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fnews%2F2154506.html",
-    "category": "RELEASE",
-    "summary": "NTTドコモは、11 月 4 日からの不正アクセスにより最大 29 万 4839 件の顧客情報を流出したと発表しました。攻撃経路の特定を進め、オンラインショップなどのサービスを緊急停止し、安全性を確保するよう主要サービスを停止させました。同社は、被害拡大を防ぐため、新しいサイト（ahamo）を停止し、システム改修を実施します。\n\n対応の観点では、外部からのアクセス制御やセキュリティシステムの強化が実施されました。個人ユーザーに対して SMS やダイレクトメールによる追加案内が行われ、法人ユーザーへの連絡も進められています。また、不審なメールや SMS に記載された URL を避けるよう呼びかけられ、専用問い合わせ窓口を開設しました。今後の対応は、被害拡大を防ぐための継続的な対策として見込まれています。\n\n本文には具体的な技術的な詳細情報は含まれていないため、専門用語の説明は省略しています。推奨される対策は、外部からのアクセス制御やセキュリティシステムの強化に基づいています。",
-    "imageUrls": [
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2154/506/003_l.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2154/506/004_l.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2154/506/005_l.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2154/506/006_l.jpg"
-    ]
-  },
-  {
-    "id": "3afa2996c7c1f5a1",
-    "title": "自己回帰生成モデルの熱力学を構築 ―大規模言語モデルに内在する「世界モデル」の定量的理解に向けて―",
-    "url": "https://www.t.u-tokyo.ac.jp/press/pr2026-11-06-001",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T11:53:33.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.t.u-tokyo.ac.jp%2Fpress%2Fpr2026-11-06-001",
-    "category": "RELEASE",
-    "summary": "東京大学研究チームは、大規模言語モデルの生成過程を熱力学理論に基づき解析した新たなアプローチを示しました。研究者は、自己回帰生成モデルにおける「エントロピー生成」という概念を構築し、過去履歴から次の出力を推定する仕組みを効率化しました。従来の直訳調や一方向性の問題に対し、非マルコフ過程の性質を考慮した熱力学モデルを用いて、生成確率を効率的に推定する理論を提案しました。実験では、GPT-2 と Qwen3-4B-Base を用い、順序関係の正確さを検証し、文章の生成確率とエントロピー生成値を比較しました。この研究は、AI 内部に形成される「世界モデル」を定量的に理解する手がかりを提供し、将来の因果関係や順序関係の理論的な定義に基づきより正確な文章構築方法への応用を期待しています。",
-    "imageUrls": [
-      "https://www.t.u-tokyo.ac.jp/hs-fs/hubfs/press-release/2026/1106/001/fig1.png?width=500&height=500&name=fig1.png",
-      "https://www.t.u-tokyo.ac.jp/hs-fs/hubfs/press-release/2026/1106/001/fig1.png?width=600&height=600&name=fig1.png",
-      "https://www.t.u-tokyo.ac.jp/hs-fs/hubfs/press-release/2026/1106/001/fig2.png?width=700&height=245&name=fig2.png"
-    ]
-  },
-  {
-    "id": "f0e27bd1714620d2",
-    "title": "【Mac】React の環境構築をして、GitHub に最初のコミットを上げてPRを作るまで",
-    "url": "https://qiita.com/Tukirukiki/items/2a9d046a5d79e605e62d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-06T11:41:39.000Z",
-    "status": "completed",
-    "category": "TUTORIAL",
-    "summary": "# 開発環境構築と Git の手順\n\nこの記事は、Mac で React を開発する手順を解説しています。GitHub のリポジトリ作成からブランチ作成まで、すべてコマンドで行うことが明確です。Homebrew を使用してツールをインストールし、nodenv と GitHub CLI を設定します。\n\nプロジェクトを作成するには、`npm create vite@latest . --template react-ts` で開発サーバーを起動します。依存パッケージを入れることで、React や Vite の機能を効率的に利用できます。\n\nGit の操作は、ローカル環境の構築からリポジトリ作成までコマンドで進めます。空のリポジトリにはコミットがないため、`git commit --allow-empty` を使用して最初のコミットを作成します。その後、`git push` で GitHub にアップロードします。\n\n開発時の注意点として、バージョン管理ツールとしての役割を正確に理解することが重要です。これにより、プロジェクトの安定性と開発効率を向上させることができます。",
-    "imageUrls": [
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F239612%2Fac3267bf-6abf-4916-8041-76090b045bf0.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=2e4ff9e43bedd94c8f248461c6e133de",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F239612%2F123128fd-b414-4be8-9848-ba961c93c110.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=6297ba555d570d50c1f423845788a6f3",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F239612%2F34f60f1a-9b52-4903-aae2-181bfe4ff191.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4bc493547ada86714df041a60070d696",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F239612%2F30cdf364-c449-4f0c-8596-b8e7e83d1730.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=909b591c322b7b5597bc2ed5b48a4527"
-    ]
-  },
-  {
-    "id": "9aec028e6994ab24",
-    "title": "ドコモ不正アクセス、「料金プラン」などの情報も流出　29.5万件",
-    "url": "https://www.watch.impress.co.jp/docs/news/2154508.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T11:22:32.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fnews%2F2154508.html",
-    "category": "RELEASE",
-    "summary": "# NTTドコモの不正アクセスと5G問題について\n\nNTTドコモは会員サービス「My docomo」において不正なアクセスが発生し、個人情報が流出した問題について謝罪した。5 日の発表では、個人確認書類の番号や料金プラン、利用者の氏名、住所、連絡先などを含む詳細情報を公表した。影響ユーザ数は最大 294,839 件であり、個人は約 204,157 件、法人は 90,682 件である。外部の攻撃者がインターネットから不正アクセスを行い、利用者の情報を機械的に検索・取得する仕組みを悪用した。停止前の時間で流出してしまったという点も指摘された。\n\n対策として、不正アクセスの判明後、ドコモオンラインショップおよび My docomo をメンテナンスモードとし、特定攻撃経路を遮断した。ただし、システム自体の脆弱性ではなく、複数のシステムを連動させた仕組みの悪用であるという判断を導出している。AI エージェントを活用した確認では、API 攻撃とは異なることを説明したが、対応は比較的早いと見なされている。\n\n個人の利用者に対し、SMS を送付し、事象の概要を案内し、不審なメール・添付ファイルへの注意を呼びかけた。法人にも営業担当者やダイレクトメールによる案内を行なった。個人・法人の利用者に「お見舞金」の支払いについて検討を進めている。\n\nまた、5G SA の保守作業により、音声通話・データ通信・SMS が利用しづらくなった問題が発生した。核網網内の保守作業の影響により処理遅延が生じ、影響は全国の 5G SA サービス契約者約 158.7 万人に及ぶ。この問題は長期化を招く要因となり、今後の再発防止にはメモリ異常の発生を防ぐ暫定対処が実施されている。",
-    "imageUrls": [
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/508/d01_s.jpg",
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/508/d03_s.jpg",
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/508/d04_s.jpg",
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/508/d05_s.jpg",
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/508/d07_s.jpg",
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/508/d09_s.jpg"
-    ]
-  },
-  {
-    "id": "9ee7440f790173ba",
-    "title": "「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。",
-    "url": "https://posfie.com/@Acg3C2/p/NF0FdOe",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T11:09:56.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fposfie.com%2F%40Acg3C2%2Fp%2FNF0FdOe",
-    "category": "TUTORIAL",
-    "summary": "本記事は、BL（性愛倫理学）関連の店舗や書籍の「ゾーニング」問題について、開発者向けに自然な日本語で要約します。\n\nまず、記事の主題として、特定の書店やオンラインショップが男性向け創作を「子供向け」として販売し、それが女性向けのBL市場を歪めたり、児童への加害を招いたりする問題について触れています。また、これは単なる誤解ではなく、本屋の運営方針や店舗の管理方法に起因する現象であることが明確です。\n\n次に、解決策として、店舗やオンラインショップは「児童向け」の区切りを明確にすべきであると提案されています。特に、BLの商品や書籍の配置には配慮し、児童への配慮を徹底することが重要です。また、店舗の運営方針や顧客対応の質も、児童への安全性と倫理的な配慮を優先する必要があると示唆されています。\n\n最後に、実践的な注意点として、店舗やオンラインショップは「児童への加害」や「性倫理学的な誤解」を防ぐために、適切な管理を行うことが推奨されます。特に、子供向けの書籍の配置や販売方法には慎重な注意が必要です。",
-    "imageUrls": [
-      "https://s.tgstc.com/static/web/p.gif"
-    ]
-  },
-  {
-    "id": "b1c6b35ef969d5e4",
-    "title": "ドコモの顧客情報流出、本人確認書類の番号も　見舞金の支払い検討 - 日本経済新聞",
-    "url": "https://www.nikkei.com/article/DGXZQOUC0663J0W6A101C2000000/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T11:04:33.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUC0663J0W6A101C2000000%2F",
-    "category": "RELEASE",
-    "summary": "# 顧客情報流出とセキュリティ対策の検討\n\nNTTドコモは、外部からの不正アクセスにより顧客情報の流出が発生したことを明らかにしました。対象顧客には個人・法人の最大29万4839回が影響され、氏名、住所、電話番号、メールアドレスなどの詳細情報が含まれています。ただし、本人確認書類の番号の具体的な種類は不明であり、マイナンバーについては画像を保存しておらず流出対象外としています。\n\nドコモは、顧客情報の流出原因を特定するのではなく、不安や心配を踏まえて対応を検討しました。6日に記者会見を開き、前田義晃社長が謝罪しました。しかし、攻撃経路の特定は困難であり、再開は既存の復旧ルールに基づく判断でしたが、今後の判断方法を見直す方針です。\n\n専門家は「迅速な詳細調査」を要請し、システムへの影響を評価する上で慎重に判断を進めています。また、オンラインショップや「My docomo」の運用も一時休止されました。新しいセキュリティ技術の導入を含む対策強化が検討されています。最終的には顧客情報の安全確保とシステムの安定化を目的としています。",
-    "imageUrls": [
-      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3842711006112026000000-1.jpg?ixlib=js-3.8.0&w=638&h=399&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=0d361f273629d0bc4b5e7f00cf63f576",
-      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3842842006112026000000-1.jpg?ixlib=js-3.8.0&w=425&h=266&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=4e9b95bebeafb570e84daf8dc41fde22",
-      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3842941006112026000000-3.jpg?ixlib=js-3.8.0&w=425&h=394&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=2d4ca8161272380057d4f97b0d5ebff4",
-      "https://www.nikkei.com/edit/topic/banner_business_daily_by_nikkei.jpg",
-      "https://article-image-ix.nikkei.com/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252Ftopic%252Fog%252F19022000-2.jpg%3Fixlib%3Djs-2.3.2%26auto%3Dformat%252Ccompress%26fit%3Dmax%26ch%3DWidth%252CDPR%26s%3Df272960e34aacb937a74ec61c1d2b148?ixlib=js-3.8.0&w=380&h=237&auto=format%2Ccompress&fit=crop&bg=FFFFFF&crop=faces%252Cedges&s=c35a983299a3022606b30dc2f14050d1",
-      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3831097005112026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=40634addcaaaa444c04063388f8c7356",
-      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3677643003102026000000-2.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=2aba069aa3d3d38b3891a0a957851e24",
-      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3820460002112026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=947f29afbd04f7e4ef7fdccb04493254",
-      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3766637022102026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.82&fp-y=0.68&fp-z=1&crop=focalpoint&s=3604aa071024c950a9068d965a50f83d"
-    ]
-  },
-  {
-    "id": "c942cf137dd872cc",
-    "title": "総務省｜報道資料｜株式会社NTTドコモに対する特定利用者情報の保護に向けた措置（指導）",
-    "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban18_01000300.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T10:38:58.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.soumu.go.jp%2Fmenu_news%2Fs-news%2F01kiban18_01000300.html",
-    "category": "GENERAL",
-    "summary": "総務省は、株式会社NTTドコモが提供しているドコモMAXの契約における利用者の電話番号や識別子を漏らす問題について、行政指導を行いました。この問題は、電気通信事業法第27条の5条に基づき、特定利用者情報の適正な管理が求められています。NTTドコモは、アマゾンジャパン合同会社に対する利用者の第三者提供に関する記載が欠落していたため、契約手続導線を修正し、有効な同意を得ずに情報漏洩を防止する措置を講じました。総務省は、利用者情報の保護を継続的に強化し、再発防止策の徹底を要請しています。\n\n結論：総務省は、特定利用者情報の漏えいを防ぐために、適正な管理と再発防止策の徹底を求め、NTTドコモに対し行政指導を行いました。\n\n方法：総務省は、契約手続導線を修正し、利用者の第三者提供に関する記載を補完し、有効な同意を得ずに情報漏洩を防止する措置を講じました。また、利用者情報の保護を継続的に監督し、再発防止策の徹底を要請しています。\n\n本文に情報がない項目は「本文に記載なし」とします。",
-    "imageUrls": []
-  },
-  {
-    "id": "e509e4384b4e8969",
-    "title": "ドコモからのお知らせ : 【お詫び】ドコモオンラインショップ、My docomoの緊急メンテナンス実施について/当社サーバーへの不正アクセスによるお客さま情報流出に関するお知らせ（第三報：11月6日 午後6時00分時点） | お知らせ | NTTドコモ",
-    "url": "https://www.docomo.ne.jp/info/notice/page/261106_00_m.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-06T10:35:57.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.docomo.ne.jp%2Finfo%2Fnotice%2Fpage%2F261106_00_m.html",
-    "category": "RELEASE",
-    "summary": "ドコモは、外部からの不正アクセスにより、一部のお客さまの個人情報や契約情報などが流出した緊急メンテナンスを継続しています。この対策は、11 月 5 日午前 1 時 5 分頃から業務停止を開始し、最大約 30 万件のデータが流出しました。\n\n流出された情報は、個人確認書類、連絡先、料金プラン、金融機関名などを含む詳細な情報です。これらは悪用される可能性があり、URL にアクセスしない、ファイルを開かない、個人情報を入力しないなどの注意が必要です。また、特設ダイヤルで対応する電話も設置されています。\n\n本件は、外部からの不正アクセス対策の継続と、顧客への保護を優先しています。今後の調査結果や修正については、関係者から確認することが推奨されます。",
-    "imageUrls": []
   }
 ]
