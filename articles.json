@@ -886,8 +886,14 @@
     "url": "https://forest.watch.impress.co.jp/docs/news/2154439.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-06T21:50:31.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2154439.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2154439.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：OpenSSH のパスワード認証脆弱性\n\n## 課題と技術\n発見者による解説サイト「sshole」が報告し、OpenSSH（sshd）に関連する脆弱性が発生しました。この問題は、パスワード欄が『*』になっている鍵認証専用のユーザーに対して、257～1,024 バイトの長いパスワードを送るとログイン可能になります。根本原因是「musl libc」の「crypt()」関数と、PAM 無効化された環境における複雑な連携です。特に、SHA-512 方式が超過するパスワードを受け付けないという問題が発生します。\n\n## 結論\nOpenSSH の開発チームは、この脆弱性の根本原因是「sshd」そのものではなく、Linux 環境の PAM 設定や musl libc の挙動に依存しているためです。修正版の OpenSSH 10.6p2 は既に公開されており、対象環境では更新後に再起動する必要があります。\n\n## 方法\n対象環境は、Alpine Linux（3.16 以降の root）などです。この環境では、PAM を無効化して鍵認証を有効に設定している場合のみ影響します。修正版への更新後、スリドマックを再起動する必要があります。根ユーザーへのパスワードログインは既定設定により制限されていますが、直接ログインには特別な設定が必要です。\n\n本文には追加機能や変更された機能の詳細はありませんが、公開された情報に基づき、適切な対応策を推奨しています。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/wf/docs/2154/439/image1_l.png",
+      "https://images-na.ssl-images-amazon.com/images/P/B00P7SKB40.09._SCTZZZZZZZ_PE.jpg"
+    ]
   },
   {
     "id": "66fa2b2ca7e784bf",
