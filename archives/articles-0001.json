@@ -1,5 +1,449 @@
 [
   {
+    "id": "7bbfaf2fda27e34a",
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "source": "GitHub JavaScript Monthly Trending Repositories",
+    "publishedAt": "2026-11-07T05:38:34.708Z",
+    "status": "completed",
+    "imageUrl": "https://opengraph.githubassets.com/205d6f7e977057df90229b07e788754fe3ca67367522938e2bf9a7b2f1adc471/algorithm-visualizer/algorithm-visualizer",
+    "category": "TUTORIAL",
+    "summary": "Algorithm Visualizer は、コードを視覚化することでアルゴリズムを理解しやすさを高めるオンラインプラットフォームです。開発者向けに自然な日本語で簡潔に説明します。\n\n**テーマ：課題と技術**\nこのプロジェクトは、コードベースのアルゴリズムを視覚化するツールを提供しています。言語やフレームワークを多様なプログラミング言語に適用することで、アルゴリズムの動作を直接観察できます。また、リポジトリを通じて学習コンテンツの質を向上させる仕組みです。\n\n**結論：主張と推奨**\nこのプラットフォームは、アルゴリズムの理解を深めるために効果的なツールとして推奨されます。貢献者には多様なリポジトリを通じてコミュニティに貢献する機会があります。\n\n**方法：解決手順**\n1. コードを視覚化する機能を利用し、アルゴリズムを実装する様子を見る。\n2. 学習コンテンツ（チュートリアルや動画）を活用して知識を深める。\n3. 各言語のライブラリを使用してコードから視覚化コマンドを抽出する仕組み。\n4. リポジトリに貢献することで、新しいコンテンツを作成できる。\n\n本文には具体的な手順の詳細な技術用語は含まれていませんが、一般的なツールとしての機能と利用方法が説明されています。",
+    "imageUrls": [
+      "https://camo.githubusercontent.com/6ea72e22c230020fa0c64e033ec2d1e707cda1bbdd6f2b19b243ca8d972522cd/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f616c676f726974686d2d76697375616c697a65722f616c676f726974686d2d76697375616c697a65722e7376673f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/b80ebc10b345a7125857baac89ad8e32e7017bc2ac31fe287a1d3e15968cc600/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f616c676f726974686d2d76697375616c697a65722f616c676f726974686d2d76697375616c697a65722e7376673f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/940e67ffbc26cbc58d7c56bbb67f86583042271cacacb632276e0b0c9cfea3bb/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c72656163742c6e6f64656a732c7265647578",
+      "https://raw.githubusercontent.com/algorithm-visualizer/algorithm-visualizer/master/branding/screenshot.png"
+    ]
+  },
+  {
+    "id": "42959b605ad98666",
+    "title": "plugin87/ux-ui-agent-skills",
+    "url": "https://github.com/plugin87/ux-ui-agent-skills",
+    "source": "GitHub JavaScript Monthly Trending Repositories",
+    "publishedAt": "2026-11-07T05:38:34.708Z",
+    "status": "completed",
+    "imageUrl": "https://repository-images.githubusercontent.com/1183286798/4e03a47d-69d5-4a8b-84c8-2128351bab41",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な設計システム解説\n\nこの記事は、AI アグентыの設計システムを構築する際に、直訳調や機械的な表現を避けるための原則を説明しています。開発者は、自身のコードや出力に依存せず、設計トークンやスキルを適切に設定し、最終的な結果を検証する仕組みを採用しています。\n\n## 課題と解決方法\n課題は、AI アグентыが設計した成果を信頼しすぎないことと、実際の設計システムとの一致を確認することです。解決方法は、52 つのチェックゲート（gate）を導入し、各ゲートが設計された成果と実装されたコンテンツを比較する仕組みです。これにより、設計の品質や意図の正確性が保証されます。\n\n## 結論\nこのアプローチは、AI アグентыの設計システムを「 senior standard」に達させるための基礎となるものです。特に、直訳調を避けた自然な日本語表現と、具体的な設計トークンを活用した実装が推奨されています。\n\n## 方法\n課題解決の技術は、CLAUDE.md のルールに基づき、ゲートがチェックする項目を定義します。具体的には、インライン SVG の作成や、テーマの切り替え、デストロティブアクションの扱いなど、各要素の正確な設定が重要です。これにより、設計システム全体が統一され、信頼性が高まります。",
+    "imageUrls": [
+      "https://github.com/plugin87/ux-ui-agent-skills/raw/main/.github/images/hero.png",
+      "https://camo.githubusercontent.com/aa1c9cdbd55e780b82bbf9c8c34a99bef558dc837de9e66e04657240ee260036/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d332e302e302d3633363666313f7374796c653d666f722d7468652d6261646765",
+      "https://camo.githubusercontent.com/081685c7d3db50a86489c425216d49a4885107e3de217b7749d77d1b99a81c0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d3232633535653f7374796c653d666f722d7468652d6261646765",
+      "https://camo.githubusercontent.com/4fa9460a1da1dffdc1cd3f1f33a0e2be0554d6ab788077716cf4440dbe83bd25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f574341472d322e325f41412545322538362539324141412d6138353566373f7374796c653d666f722d7468652d6261646765",
+      "https://camo.githubusercontent.com/7e26b1b774bd7d435af93dd68df87ced90912b53198e992475317581223c4dcf/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f75782d75692d6167656e742d736b696c6c733f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d776869746526636f6c6f723d636233383337",
+      "https://camo.githubusercontent.com/47f59af01137956587cc62fe1564ffc578efa645df59a48f2ceddb129ae6397f/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f75782d75692d6167656e742d736b696c6c733f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d776869746526636f6c6f723d636233383337",
+      "https://camo.githubusercontent.com/215679353891fec2733bff01cc32ac8f615d691fa0aa61ed356fb6b74754cf1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44657369676e5f546f6b656e732d445443472d6662626632343f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/80439d3db8cca0ca542c0e792608b12ec9186fc01e9eddb3256ee72e3755072c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72756e6e61626c655f736b696c6c732d32362d3134623861363f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/941090c7ee57f3972ce5eee16cd01efbf053a7abe5d7a5275d51dab99b9eb9dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f626a6563746976655f67617465732d35322d3136613334613f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/940047c3008d2d5ea710c9a4d1f8b5c83284a311842b71271c895dc3998146c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6976655f64656d6f2d6f70656e2d3065613565393f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/24de65e5aa60c7d3af655b1f11f279a04f10a725ed7a18f2427a77bf565bf2b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64657369676e5f73797374656d732d323134342d6639373331363f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/e5481342a4c8f467cfe0364339b960af4ea46f51d3d3437b87e93da2753b49b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6672616d65776f726b732d616e792d3862356366363f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/868f509e65dc68a376407b239401213d2a92d9b6548cfc7d8ca9217ff17d6574/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6672616d65776f726b5f61646170746572732d31362d3232643365653f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/0b59051edd03459dd93beb93a6471849c0a894d889b29ca513a74879a91f7364/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d31392d3630613566613f7374796c653d666c61742d737175617265266c6f676f3d7265616374",
+      "https://camo.githubusercontent.com/54697584bf45f92d0b809134dcdbc8dc29ac5425cb54f972924670bc3ea76347/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d31352d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d6e657874646f746a73",
+      "https://camo.githubusercontent.com/4fd69a96b67b5e527e4bf86c04bb7d2a31e703141eb0efbe93ca2618da51288c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537769667455492d362d6634373262363f7374796c653d666c61742d737175617265266c6f676f3d7377696674",
+      "https://camo.githubusercontent.com/3ab1f56c69d9f90e985adbbd7267a17d15db751928c5656986481f71806473cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e642d76342d3338626466383f7374796c653d666c61742d737175617265266c6f676f3d7461696c77696e64637373",
+      "https://github.com/plugin87/ux-ui-agent-skills/raw/main/.github/images/dashboard-light.png",
+      "https://github.com/plugin87/ux-ui-agent-skills/raw/main/.github/images/dashboard-dark.png",
+      "https://github.com/plugin87/ux-ui-agent-skills/raw/main/.github/images/terminal-dark.png"
+    ]
+  },
+  {
+    "id": "9f650ce972e58014",
+    "title": "WordPress 7.2からランダムなページにリダイレクトする謎機能が実装されることに – Capital P – WordPressメディア",
+    "url": "https://capitalp.jp/2026/11/06/wordpress-7-2-random-redirect/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T05:03:35.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcapitalp.jp%2F2026%2F11%2F06%2Fwordpress-7-2-random-redirect%2F"
+  },
+  {
+    "id": "9c1ce1e9195e8201",
+    "title": "OCI Database ServicesのマネージドMCPサーバーをCodexから使ってみた",
+    "url": "https://qiita.com/mo__mo/items/4a8b7100b6b65a582889?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-07T04:47:45.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け機能拡張と検証方法\n\nOCI Database Services に機能拡張により、マネージド MCP サーバーが利用可能となりました。ユーザーは自然言語で依頼し、データベース環境の構成を確認する機能を導入しました。本記事では大阪リージョンでの実装例と手順を説明します。\n\n## 課題と技術\n\nMCP サーバーは AI クライアントとの制御・プレーンAPI を接続します。認証は OCI Identity を介した OAuth を使用し、既存の IAM パロリが適用されます。ただし、この機能は読み取り専用であり、作成・更新・削除の操作はできません。検証では、DB 一覧を取得し、サービス別・状態別に集計する処理を行います。\n\n## 結論\n\n機能拡張により、MCP サーバーの構築と認証フローを簡略化しました。ただし、作成・管理権限の正確な設定と、Codex の登録手順を踏まえて運用する必要があります。\n\n## 方法\n\n1. **機能利用**: AI クライアントから自然言語で依頼し、必要な MCP ツールを選択します。\n2. **検証環境準備**: 検証日 2026 年 11 月 6 日に、Codex デスクトップアプリと CLI を登録します。\n3. **権限設定**: MCP サーバーの作成・管理権限、ドメイン参照権限、コンパートメントの OCID 権限を分けて確認します。\n4. **セットアップ**: OCI コンソールから AI サービスを開き、MCP サーバーを作成し、エンドポイントを取得します。\n5. **Codex 接続**: Codex CLI をインストールし、サーバー登録と認証フローを実行します。\n6. **検証実行**: DB 一覧を取得し、結果を分析します。\n\n本文には詳細な設定手順が含まれていませんが、公式ドキュメントを参照することで正確な運用が可能です。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3489148%2F7f9dd02c-6b3d-4262-8e00-6087204fb538.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=82d83cd76a1e9d867ed5538fe5aaad8d",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3489148%2F915ded36-629d-42f6-8860-679fc601a988.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=dc71ff98eac22c2672084a1b100a1eb5",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3489148%2Fc240a1b8-0e0b-48c8-8160-a93a92a30e71.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8ab8b228e2213e7d88db4cdb837271a5",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3489148%2F22dcba52-a497-439e-9dbb-856d96f4a646.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=093d6be1618e51cd9cabed3ac071ddfe",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3489148%2F5976153c-f247-4ec6-90fe-a3d59d2ab9ce.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=5ae2f2065b728ca1ed37c8c3700fb8ea",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3489148%2F8adda161-691c-4512-8fbc-05637b79a39f.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ebc601248b047b506757d96b136ec164",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3489148%2Ffbb64a6a-23d4-4787-b5c1-fd7a9045eb29.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=5355a7d1311acf4e96245ef966bde3ae"
+    ]
+  },
+  {
+    "id": "44f1aa014a381d2e",
+    "title": "ワイヤレス主流時代になぜ？「有線イヤホン」再流行のワケ【THE TIME,】  | TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3068819",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T04:39:14.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnewsdig.tbs.co.jp%2Farticles%2F-%2F3068819",
+    "category": "RELEASE",
+    "summary": "記事は、開発者向けに直訳調を避けた自然な日本語で要約します。\n\nテーマ：\nこの記事は、新しい飲酒スタイルの変化や、医療・社会課題への対応について解説しています。特に、「焼酎ダブル」の飲み方変更や、透析制度改定による生活選択の変化が注目されています。また、スポーツ競技における反発的な態度や脳梗塞の早期発見に関する情報も含まれています。\n\n結論：\n新しい飲酒スタイルの導入は、消費者の習慣を大きく変える要因となっています。一方で、医療・社会課題への対応には、透析制度改定や生活選択の自由度が重要視されています。スポーツ競技における反発的な態度や健康リスクの早期発見については、専門家の注意喚起が必要です。\n\n方法：\n特定の機能や技術の仕組みは、本文では詳細に説明されていません。しかし、新しい飲酒スタイルの変更や医療制度的な改定は、具体的な行動や選択の指針として提示されています。また、スポーツ競技における反発的な態度や脳梗塞の早期発見については、専門家の推奨を基に注意喚起しています。\n\n本文に記載なしの項目は、上記の要約内容に基づき補足せず、専門用語は必要であれば短く説明しています。",
+    "imageUrls": [
+      "https://newsdig.ismcdn.jp/mwimgs/0/9/154mw/img_09fa01e1d289128a943a48e62f6774fb66041.jpg",
+      "https://newsdig.ismcdn.jp/mwimgs/d/9/154mw/img_d9757e926d60e78a529ea06528bcd25e449304.jpg",
+      "https://newsdig.ismcdn.jp/mwimgs/3/4/154mw/img_342536b505a1da803bc5d30619a035e6329696.jpg",
+      "https://newsdig.ismcdn.jp/mwimgs/3/4/154mw/img_34f822dc1a519d009f3d9e9bb73bebb4326819.jpg",
+      "https://newsdig.ismcdn.jp/mwimgs/c/9/154mw/img_c9e039fdacc07f3d62a052b63b6c8266321680.jpg",
+      "https://newsdig.ismcdn.jp/mwimgs/5/5/154mw/img_55ffe809aee97666db0841726ae78d4f119873.jpg",
+      "https://newsdig.ismcdn.jp/mwimgs/7/f/154mw/img_7f7040182ae610812234e50fe452b993292197.jpg",
+      "https://newsdig.ismcdn.jp/mwimgs/5/0/154mw/img_5067eb5860bb34566bb6c6dd8ca7834a462464.jpg"
+    ]
+  },
+  {
+    "id": "7cee662b45d88b2e",
+    "title": "Total Lagrange法による3次元有限変形FEM解析プログラム",
+    "url": "https://qiita.com/Altaka4128/items/fae6f0ec30e87ffbed72?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-07T04:15:41.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "b9225128e281add6",
+    "title": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261107de72062",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T03:30:33.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261107de72062",
+    "category": "RELEASE",
+    "summary": "本記事は、2026 年 11 月 7 日、サイバー攻撃による管理権限のリスクと関連するニュースをまとめました。特に「アクティブディレクトリ」という機能による管理者へのアクセス権益の指摘が注目されました。また、気象災害や経済政策、国際関係など多様な領域のニュースも含まれています。\n\n結論として、企業や政府は情報セキュリティ対策を強化し、管理者の権限管理を厳格に行うことが重要です。特にサイバー攻撃によるリスク管理と、社会全体の安全確保が課題となっています。\n\n方法として、専門用語は短く説明し、具体的な対策や対策の重要性を強調しています。本文には詳細な技術的な解説や具体的な推奨策はありませんが、一般的な情報保護対策を提示しています。",
+    "imageUrls": [
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72062/20261107de72062_E0000151392_1_l.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72009/20261107de72009_E0000152123_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71902/20261106de71902_E0000150168_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de71993/20261107de71993_E0000151148_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de71985/20261107de71985_E0000151134_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de71984/20261107de71984_E0000151090_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71967/20261106de71967_E0000151105_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72010/20261107de72010_E0000151212_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de71989/20261107de71989_E0000151619_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71148/20261105de71148_E0000147142_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69461/20261102de69461_E0000139608_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70576/20261104de70576_E0000149517_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63318/20261022de63318_E0000134660_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71172/20261105de71172_E0000147138_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70318/20261104de70318_E0000143761_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71158/20261105de71158_E0000148060_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68318/20261030de68318_E0000129586_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68759/20261030de68759_E0000140931_1_s.jpg",
+      "https://img.nhk.jp/static/assets/images/tvseries/ts/QLP4RZ8ZY3/QLP4RZ8ZY3-eyecatch_e0e4804924495853e0dcb5554e99b426.jpg",
+      "https://news.web.nhk/weather/tenki/tenki_01.jpg"
+    ]
+  },
+  {
+    "id": "5ba7a754ed1bcf8d",
+    "title": "Google Antigravity 2.29 が公開。クラウドで動くリモートエージェントと音声モードを追加 | HelenTech",
+    "url": "https://helentech.jp/news-antigravity-2-29-adds-remote-agents-voice-mode-93305/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T03:00:06.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fhelentech.jp%2Fnews-antigravity-2-29-adds-remote-agents-voice-mode-93305%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Google AI 版 Antigravity のアップデート情報\n\n**結論**: Google は AI 開発プラットフォーム「Antigravity」のバージョン 2.29 を公開し、クラウド上のリモートエージェントと音声モード機能を追加しました。これにより、PC や Googlebook など利用可能な環境で継続的なタスクを続けられるよう設計されています。\n\n**方法**:\n開発者向けに直訳調を避けた自然な日本語で要約します。本文では、Google Adsense の収益モデルや、新しい機能の概要を説明します。\n\n本文には、開発者向けのアップデート情報と、利用可能な環境に関する詳細が記載されています。特に、Gemini Live を利用した音声モードは段階的に提供されており、表示状況の確認が必要です。また、自動的にクローンされたリモートワークスペースを構築する機能も重要な技術です。\n\n**本文に情報がない項目**:\n- 具体的なバージョン番号や詳細な機能の仕様は記載されていません。\n- 特定のプロジェクトの作成手順の詳細な手順は説明されていますが、一般的な手順として記述されています。\n\n本文の長さは約 350〜450 文字となります。",
+    "imageUrls": [
+      "https://helentech.jp/wp-content/uploads/2026/11/Google-Antigravity-redesign.webp",
+      "https://helentech.jp/wp-content/uploads/2026/11/Antigravity_OjvlzVYQtH.webp",
+      "https://helentech.jp/wp-content/uploads/2026/11/Antigravity_oL9YqWMpKS.webp",
+      "https://helentech.jp/wp-content/uploads/2026/07/google_preferred_source_badge_dark_JA@2x.png"
+    ]
+  },
+  {
+    "id": "6e2d90e0f3f4d722",
+    "title": "JSONから生成した型をtscに通したら、users[0].emailがエラーになった",
+    "url": "https://zenn.dev/a1221/articles/json-to-types-real-validation",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-07T02:45:26.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--5otNzZU8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:JSON%25E3%2581%258B%25E3%2582%2589%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2581%259F%25E5%259E%258B%25E3%2582%2592tsc%25E3%2581%25AB%25E9%2580%259A%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581users%255B0%255D.email%25E3%2581%258C%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：JSON 型推論ツール\n\nこのツールは、TypeScript、Zod、OpenAPI の 3 つのライブラリを併用して、自前で生成する JSON の型を推論します。従来のテストでは型の構造を確認しましたが、実際に検証する際に問題が発生しました。\n\n## 課題と結論\n元の JSON が既存のスキーマに通りませんでした。これには TypeScript のコンパイルエラー、Zod の__proto__キーの消失、OpenAPI の oneOf 条件不満など 3 つの根本的な原因がありました。最終的に、配列要素の型を統一した「合併型」を用いて解決しました。\n\n## 方法\nツールは、各ライブラリによる検証結果を比較し、共通する問題点を見つけました。\n- **TypeScript**: 配列要素の型が別々の形（整数と文字列）を併記しているため、コード実行時にエラーが発生しました。\n- **OpenAPI**: JSON Schema の oneOf 条件により、複数の候補形式が一致し検証失敗でした。\n- **Zod**: JSON の__proto__キーがスキーマの定義と異なるため、プロパティとして認識されません。\n\nこれらを統合し、配列要素を統一した型を作成しました。結果として、JSON の型が正確に反映されるようになり、すべての検証が成功しました。\n\n## 要約\n本文では、開発者向けに公開されたツールが、TypeScript、Zod、OpenAPI の 3 つのライブラリによる検証エラーを解決し、共通する「合併型」を用いて型を推論しました。これにより、元の JSON が正しいスキーマに一致するようになり、開発プロセスの効率化と信頼性の向上を実現しました。",
+    "imageUrls": []
+  },
+  {
+    "id": "7c1d362b44ae465a",
+    "title": "Weight-Space Programming やってみた(やらせてみた)",
+    "url": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T02:39:58.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fnwn%2Farticles%2Fcf9fe78aa33861",
+    "category": "RELEASE",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\n課題は、Qwen の重みを編集する技術の検証です。実験では、コードや内部構造の分析に基づき、モデルの回答語尾を「のだ／なのだ」のように変えることで、自然な日本語として評価しました。結果として、100 問の 77 問で目標を満たすモデルが作成され、重み変更は約 0.486% です。これは、AI の応答を制御する重要な技術の証明となりました。\n\n結論は、直訳調を避けた自然な日本語を実現するための重み編集技術の実証です。これにより、AI の回答を自然に調整できることが可能となりました。\n\n方法は、既存の学習モデルの内部活性を分析し、語尾直前の活動と語尾直後の活動の差を重みに追加する手法です。具体的には、名詞・動詞・形容詞の役割を区別し、異なる文脈で読ませることで、自然な語尾を生成しました。この技術は、プロンプティングやファインチューニングの枠を超え、AI の応答制御を自動化した結果となりました。",
+    "imageUrls": []
+  },
+  {
+    "id": "1e517a1a6899423d",
+    "title": "画像を増やす前に、タップに応答できるか――学習アプリの裏側で考えたこと",
+    "url": "https://zenn.dev/trailfusionai/articles/quest-cache-scan-yield-20261107",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-07T02:32:26.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--_0Q6eRXB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%25BB%25E5%2583%258F%25E3%2582%2592%25E5%25A2%2597%25E3%2582%2584%25E3%2581%2599%25E5%2589%258D%25E3%2581%25AB%25E3%2580%2581%25E3%2582%25BF%25E3%2583%2583%25E3%2583%2597%25E3%2581%25AB%25E5%25BF%259C%25E7%25AD%2594%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2581%258B%25E2%2580%2595%25E2%2580%2595%25E5%25AD%25A6%25E7%25BF%2592%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E8%25A3%258F%25E5%2581%25B4%25E3%2581%25A7%25E8%2580%2583%25E3%2581%2588%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Trailfusion%2520AI%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJhZjk5NzFhYWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "GENERAL",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\n中学受験の息子をきっかけに学習アプリを作った際、画像取得・保存の増加に伴う処理の設計を記録しました。ユーザー体験を重視し、操作を待たせることで利用者の満足度を高めるため、バックグラウンド処理の設計を重視する方針です。\n\n課題は、画像が増えるほど処理コストが高まるという問題と、アプリ内のタップや画面遷移を妨げる処理の設計です。解決策として、非同期関数の中でファイルの確認ループを一件ずつ実行し、タイマーを挟んで処理機会を渡すことで、JS の占有時間を抑えつつ、ユーザー体験を維持する設計を採用しました。\n\n重要な技術点は、非同期処理の最適化と、優先度設定の仕組みです。特に、待たせる仕組みの曖昧さや、テスト時の動作確認の重要性を重視し、実装例として TypeScript や React Native のパフォーマンスデータを参照しています。最終的には、学習体験の自然さを追求する設計を目指しています。",
+    "imageUrls": []
+  },
+  {
+    "id": "d08c59549f9821a4",
+    "title": "旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい",
+    "url": "https://togetter.com/li/2767610",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T02:20:55.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2767610",
+    "category": "TROUBLESHOOT",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\n**テーマ：セキュリティ対策の重要性**\n最近、開発者のデスクトップPCがハッキングされ、不正利用の判明がありました。具体的な事例として、マウスに触れてポイントが勝手に動き、決済メールが消えたりする問題が発生しました。これは遠隔操作やカード管理の誤りによるものです。\n\n**結論：セキュリティ対策の重要性**\nこの問題は、遠隔デスクトップの設定やアプリの悪用を防ぐことが重要です。被害額は数万円規模で、企業や個人 alike に影響します。\n\n**方法：セキュリティ対策の具体的な方法**\n1. 遠隔デスクトップの設定を厳格に管理し、不正なアクセスをブロックする。\n2. VNC やリモートデスクトップの機能を利用する際は、信頼できるプラットフォームを使用する。\n3. クレジットカードを停止させ、不正利用を防ぐ対策を行う。\n\n本文には具体的な解決方法や技術の詳細は記載されていませんが、上記の一般的な対策を参考にする必要があります。",
+    "imageUrls": [
+      "https://s.tgstc.com/static/web/p.gif"
+    ]
+  },
+  {
+    "id": "b9a384bb8fb04c80",
+    "title": "生成AI時代のIAMのマニアックな話",
+    "url": "https://speakerdeck.com/takuros/jaws-festa-2026-public",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T02:15:16.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Ftakuros%2Fjaws-festa-2026-public"
+  },
+  {
+    "id": "7f50be955e3ae65a",
+    "title": "ロート製薬、約280万人分の個人情報漏えい　9715件は通話音声データとクレカ情報が流出",
+    "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002984/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T01:47:18.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F06%2F2000002984%2F",
+    "category": "RELEASE",
+    "summary": "業界動向：通信販売システムへの不正アクセス問題\n\n結論：ロート製薬は顧客情報の漏洩を防止するため、パスワード統一化と電話利用の停止を策定し、二次被害の確認を継続している。\n\n方法：調査結果によると、複数の顧客管理システムに保存された氏名、住所、電話番号、通話音声データが不正に取得されたことが判明した。これにより、郵送やメールを通じて顧客の個人情報が漏洩するリスクが高まった。\n\n本文に情報がない項目：具体的な対策の詳細や今後の対応方針は記載されていないため、現状の措置をベースに推測している。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/06/2000002984/10011556/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/06/2000002984/10011557/728"
+    ]
+  },
+  {
+    "id": "94d9de217ccc1c40",
+    "title": "ワークマンの新リカバリーウェアを着てみた　温度調節が快適【いつモノコト】",
+    "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2153603.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T00:50:45.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fseries%2Fitsmo%2F2153603.html"
+  },
+  {
+    "id": "b89e83247b66b34e",
+    "title": "数百ページのPDF文書を一括解析できるローカルAI「Unlimited OCR 2」、NVIDIA開発の文字起こし音声AI「Nemotron 3.5 Transcribe」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+    "url": "https://www.techno-edge.net/article/2026/11/06/5679.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T00:46:51.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.techno-edge.net%2Farticle%2F2026%2F11%2F06%2F5679.html"
+  },
+  {
+    "id": "6764d4947d8ba47a",
+    "title": "毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった",
+    "url": "https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T00:36:39.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fstock_inc%2Farticles%2Fai-daily-security-check-criteria",
+    "category": "TUTORIAL",
+    "summary": "# 課題と解決方法\n\n本件では、AIエージェントが毎日朝にチェックするルールを再設計し、攻撃の兆候を正確に把握するための仕組みを改善しました。従来の「何かが起きたら赤」という単純な基準は、社員の日常作業でも赤になる問題が発生し、信頼性が低下しました。最終的に、人が動く必要があるかどうかを視覚的に判断する4段階の判定システムを採用しました。\n\n## 課題と解決方法\n\n### 課題\n攻撃の兆候が分かりにくく、社員の作業にも影響する問題です。従来のアラームは「誰かがやったか」だけでなく、「誰が動いているか」を正確に把握しなかったため、誤報や漏れが生じました。また、設定の固定化により、週間の変動によって基準が変わり、異常の検出に失敗しました。\n\n### 解決方法\nAIエージェントによるスケジュール実行と、許可リストの動的調整を組み合わせています。\n- **導入プロセス**: ダッシュボードを初期に構築し、既存のアラームの遷移を考慮した新しいルールを設計しました。\n- **監視システム**: クロウダースコアやクラウドのアクセス記録、セキュリティグループの状態などをリアルタイムに監視します。\n- **判定基準**: 攻撃の規模と性質を考慮し、黄色（待機）から緑（対応）へと段階的に変換します。\n\n## 結論\n\n最終的には、防護が機能していることを確認できるよう、色による視覚化システムを採用しました。これは技術職だけでなく、社員の日常作業にも理解しやすい形で報告されることで、信頼性を向上させました。\n\n## 方法\n\n### 仕組み\n1. **監視ロジック**: AIエージェントが朝から、許可リストにあるコマンドを呼び出し、クラウドのメトリクスやログデータを収集します。\n2. **判定アルゴリズム**: 攻撃の規模と性質に基づき、黄色（待機）から緑（対応）へと段階的に判定を行います。\n3. **共有ノート生成**: 確認済みの結果を共有ノートに記録し、技術職以外の社員にも読みやすい形式に出力します。\n\n### 注意点\n- 設定の固定化は避け、周期的な比較基準を適用します。\n- 外部への開放や認証変更などの例外処理も適切に管理されます。\n- システムの安定性を確保するため、直後の検証環境でのテストを行います。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/0d4f5ee1f6c1663414d7a71a.png?sha=d161466c2ec5f850ec1cc7e2c227495bd62b87a1"
+    ]
+  },
+  {
+    "id": "c41bc7222356aee4",
+    "title": "証明駆動開発（PDD Kit）とは｜エージェントのコードを行ごとに読まずに信頼する GitHub Next の試み",
+    "url": "https://ai-heartland.com/explain/proof-driven-development/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T00:15:27.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fai-heartland.com%2Fexplain%2Fproof-driven-development%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：PDD Kit の仕組みと信頼戦略\n\n**テーマ**: 開発ツールを探すための新しいアプローチ\n**結論**: PDD Kit は「証明」ではなく「仕様」として、エージェントのコードを信頼する仕組みを提供します。\n**方法**: 人間の意図を平易な言葉で記述し、機械が形式証明（Verus）を行い、テストで裏づけします。\n\n本文では、開発ツールを探すための新しいプロトタイプ「PDD Kit」について解説します。従来の全行レビューは回らない状況下、AI 開発者にとって重要な課題として注目されています。PDD Kit は、コードの信頼性を直接扱います。\n\n開発ツールを探す変換ツールを試す OSS に貢献する情報科学を学ぶ。この話題の土台には、Vibe Coding と AI コードを書く開発の広がりがあります。書く速さが上がったぶん、「出てきたコードをどう信頼するか」が次の課題になりました。PDD Kit は、その「信頼」を正面から扱います。\n\n開発ツールを探す詳細を見る変換ツールを試す OSS に貢献する情報科学を学ぶ。この話題の土台には、Vibe Coding と AI コードを書く開発の広がりがあります。書く速さが上がったぶん、本番環境で Vibe Coding の実践戦略として知られる 2.2 万行 PR 成功の実践戦略 のように、「出てきたコードをどう信頼するか」が次の課題になりました。PDD Kit は、その「信頼」を正面から扱います。\n\n開発ツールを探す詳細を見る変換ツールを試す OSS に貢献する情報科学を学ぶ。この話題の土台には、Vibe Coding と AI コードを書く開発の広がりがあります。書く速さが上がったぶん、本番環境で Vibe Coding の実践戦略として知られる 2.2 万行 PR 成功の実践戦略 のように、「出てきたコードをどう信頼するか」が次の課題になりました。PDD Kit は、その「信頼」を正面から扱います。\n\n開発ツールを探す詳細を見る変換ツールを試す OSS に貢献する情報科学を学ぶ。この話題の土台には、Vibe Coding と AI コードを書く開発の広がりがあります。書く速さが上がったぶん、本番環境で Vibe Coding の実践戦略として知られる 2.2 万行 PR 成功の実践戦略 のように、「出てきたコードをどう信頼するか」が次の課題になりました。PDD Kit は、その「信頼」を正面から扱います。\n\n本文には情報がない項目は推測せず「本文に記載なし」とします。重要な情報は、開発ツールを探す変換ツールを試す OSS に貢献する情報科学を学ぶという背景と、PDD Kit の仕組みと信頼戦略について説明されています。",
+    "imageUrls": []
+  },
+  {
+    "id": "0b32fbc2b19fc320",
+    "title": "「燃やす」ってなに？",
+    "url": "https://anond.hatelabo.jp/20261107090533",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T00:14:43.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fanond.hatelabo.jp%2F20261107090533"
+  },
+  {
+    "id": "ed136fd5bcb01da3",
+    "title": "ベテランのツアコン「最近のiPhoneでピサの斜塔を撮影すると、ピサの斜塔が真っ直ぐに写る」どんなに頑張って撮影しても勝手に真っ直ぐに補正されるらしい？",
+    "url": "https://togetter.com/li/2767589",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T00:08:54.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2767589",
+    "category": "TUTORIAL",
+    "summary": "最近のiPhone はピサの斜塔を真っ直ぐに写す問題が発生し、AI補正機能により撮影結果が不自然になることが明らかになりました。これはカメラの設計や撮影環境に対する変化によるものであり、従来の「斜め」の表現を維持する必要があると見なされるため、多くのユーザーは驚きながら笑っている状況です。\n\nこの問題は、AI 補正機能が撮影時に自動的に適用されることで、写真の質や表現が劣化する懸念が生まれています。解決策として、カメラの設定や撮影環境の調整が必要とされていますが、専門用語は必要ありません。結論として、AI 補正機能は撮影結果の自然さを保ちつつも、過度な補正を避けることが重要です。\n\n解決手順としては、ユーザー側で撮影時の設定や環境を整えることで、AI の影響を減らすことが推奨されます。また、実際の撮影体験や経験に基づき、適切な補正設定を行うことが効果的です。最終的な結論として、最新のiPhone では斜めの表現を維持する必要があると見なされ、AI 補正機能の活用には注意が必要です。",
+    "imageUrls": [
+      "https://s.tgstc.com/static/web/p.gif"
+    ]
+  },
+  {
+    "id": "8827f1e7ae359054",
+    "title": "画面でしか使えない Figma エージェントと Claude Code を直接対話させた",
+    "url": "https://zenn.dev/akaringo1109/articles/browser-profile-handoff-agent",
+    "source": "Zenn (playwright)",
+    "publishedAt": "2026-11-07T00:00:00.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--SMT_0-vV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%25BB%25E9%259D%25A2%25E3%2581%25A7%25E3%2581%2597%25E3%2581%258B%25E4%25BD%25BF%25E3%2581%2588%25E3%2581%25AA%25E3%2581%2584%2520Figma%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A8%2520Claude%2520Code%2520%25E3%2582%2592%25E7%259B%25B4%25E6%258E%25A5%25E5%25AF%25BE%25E8%25A9%25B1%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Trellis%25EF%25BD%259CAI%2520%25C3%2597%2520%25E6%25A5%25AD%25E5%258B%2599%25E6%2594%25B9%25E5%2596%2584%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI5OGFkZWUwMzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け AI 対話機能の検証方法\n\n**テーマ**: Figma エージェントとの対話機能の仕組みと実装\n**結論**: ブラウザを渡すことで、Figma エージェント内で自然な対話を可能にする方法\n**方法**: Claude Code を介してブラウザ操作を行い、Playwright MCP を使用してブラウザを制御する構成\n\n本文では、Figma エージェントは画面の中で話しかける機能を持つことが不明確だったため、開発者はブラウザの操作を通じて対話を実装した検証を行いました。まず、Figma エージェントの出力を Claude Code に評価し、追加の指示を送る仕組みを明確にしました。その後、開発者は自己運用を避けるために、ブラウザをClaude Code に渡す構成を採用しました。\n\n具体的な手順として、Playwright の MCP を使用してブラウザを起動し、Figma のログイン画面を開くことが行われました。また、クライアント側では Edge プロファイルの作成と設定も含まれており、セキュリティ対策を考慮した設計です。対話の進行には、送る・待つ・読むの 1 往復を繰り返すことで、スキルの作成や確認を自動化しました。最終的に、ユーザーが実際に画面で作業を行うことができるよう設計された結果となりました。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/647e193edbdfff4bba375e7a.png?sha=fdcca786e5a74f9f2044b186a17403e7494fb8a3",
+      "https://static.zenn.studio/user-upload/deployed-images/196476f33b872bd6b2dac748.png?sha=7eef8e46aed86b760b1fea51721cf04df7c73b6e",
+      "https://static.zenn.studio/user-upload/deployed-images/d15494c1ac2788545d98ffe4.png?sha=dcde9fc50eda9e40941df8a8b9abae0fde97efd6",
+      "https://static.zenn.studio/user-upload/deployed-images/d2a246b73db17c0e8e1c6e6e.png?sha=aee452eacf894e3d108071fa7fadcafd6d0b0026",
+      "https://static.zenn.studio/user-upload/deployed-images/07234218f064575473b940ad.png?sha=35797c5e1ec9a9d9f6f23d3555250616b1fb8534"
+    ]
+  },
+  {
+    "id": "3713f7eea26b31d0",
+    "title": "React学習まとめ：画面作成からフォーム・API連携・認証まで",
+    "url": "https://zenn.dev/nanashinogonbei/articles/react-learning-summary",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-06T23:51:10.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ZRs8Bo5M--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25EF%25BC%259A%25E7%2594%25BB%25E9%259D%25A2%25E4%25BD%259C%25E6%2588%2590%25E3%2581%258B%25E3%2582%2589%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25BBAPI%25E9%2580%25A3%25E6%2590%25BA%25E3%2583%25BB%25E8%25AA%258D%25E8%25A8%25BC%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2590%258D%25E7%2584%25A1%25E3%2581%2597%25E3%2581%25AE%25E6%25A8%25A9%25E5%2585%25B5%25E8%25A1%259B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RjOTAxOThkNzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：React と TypeScript のアプリ構築方法\n\n開発者は、React と TypeScript を基礎に複数の画面を組み合わせている際、ルーティングやフォーム管理、API 通信の連携について整理しました。今回はスクラップコードを基盤とし、画面表示と入力値送信のフローを明確化しました。\n\n## アプリ全体の構成\nアプリはトップ画面、ユーザー登録画面、ログイン画面の 3 つの要素を構成します。ファイル構造は、React の起動処理、ルート定義、共通コンポーネント、API クライアント、および型定義の 5 つのサブファイルに分割しています。\n\n## 画面の構築と制御\nコンポーネントは、UI レイアウトと状態管理を担います。Header はプロパスで表示条件を設定し、ボタンや見出し要素の隠蔽を柔軟に制御します。また、Routes を使用して、現在の URL に基づいて特定のルートを表示する仕組みが実装されています。\n\n## API 通信の連携\nAPI 通信には openapi-fetch を使用し、認証ヘッダーと接続先の設定を行います。この処理は、各画面の共通処理として統一されたクラスや型定義を適用します。\n\n## 実践的な注意点\nスクラップコードの一部を簡略化していますが、起動処理や共通コンポーネントには補足例が含まれています。プロパスを用いてコンポーネントの表示条件を設定することで、画面遷移の制御が容易になります。また、React のバージョンと Router のバージョンとの整合性を確認することが重要です。\n\nこの構成により、開発者は複雑なアプリを構築しやすく、各要素の連携を明確に理解できます。",
+    "imageUrls": []
+  },
+  {
+    "id": "e79494065d35bdd2",
+    "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
+    "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T23:38:26.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Frescuenow%2Farticles%2F4c03a548cd6589",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：司令塔による作業効率化の仕組み\n\n**課題と解決方法**\n開発者は、業務効率を高めるために「司令塔」というツールを導入したことを紹介します。従来のタスク一覧管理や個人での判断に依存する時間を削減し、自動的なフィルタリングと優先順付け機能を利用することで、作業の開始と確認待ちを大幅に簡素化しました。\n\n**仕組みの概要**\n画面中央の「確認待ち」パネルは、エージェントの状態変化に応じて自動的に読み直されます。ユーザーが件名を押すと、GitHub の PR や Notion のタスクを比較し、人間による判断が必要なものを優先的に処理します。作業開始後のルールとして、自分以外の人の目に触れる前に作業を行うという厳格なルールが設定されています。また、承認待ちや方針選択といった段階ごとに番号で回答を記録する仕組みも導入されました。\n\n**実践時の注意点**\n作業役は、承認待ちの作業や方針選択において慎重に判断し、許可待ちの作業には事前に確認します。最終的に作業役への連絡や記録は自動化されており、重複的な入力を防ぐことができます。ただし、自身の手作業が必要な場合や方針が迷う場合は、パネル内の選択肢を参照して適切な対応を選択する必要があります。\n\nこの仕組みにより、開発チームはよりスムーズに業務を進めることが可能となりました。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/f537eb66460b-20261106.png",
+      "https://static.zenn.studio/user-upload/d1d9f16444fc-20261106.png",
+      "https://static.zenn.studio/user-upload/3af7fa213aa7-20261106.png",
+      "https://static.zenn.studio/user-upload/52d293b4bbc6-20261106.png",
+      "https://static.zenn.studio/user-upload/1de335aaa960-20261106.png"
+    ]
+  },
+  {
+    "id": "062accfc7b254405",
+    "title": "AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクティス",
+    "url": "https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T23:36:13.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fanfangd%2Farticles%2Faws-web-ingress-origin-protection",
+    "category": "RELEASE",
+    "summary": "# 課題と技術の解説：CloudFront + WAF のセキュリティ進化\n\n## 課題と技術の解説\nAWS の CloudFront と AWS WAF のセキュリティ構造は、過去 10 年間の定着した「公開 IP を守る」方式から、現在では「VPC オリジン」の導入により大きく変化しています。従来の設定では、CloudFront のプレフィックスリストを SG に追加し、秘密ヘッダーでアクセスを制限する構成でした。しかし、CT Log が公開され、ホスト名が知られることで、WAF が迂回攻撃を受けやすくなっています。また、OAC（Origin Access Control）の導入により、特定のドメインや機能に対して独自のセキュリティ層を設けることが可能となりました。\n\n## 結論\n新しい構成では、VPC オリジン＋OAC の組み合わせが推奨される傾向にあります。これにより、公開されたホスト名であっても、本体的なアクセス制御が可能になります。特に、WAF は「中身を検査する層」という役割を持ち、SG は「届く経路を絞る層」として機能します。\n\n## 方法\n現在、AWS の公式ドキュメントに基づき、以下の構成が優先されます。\n1. VPC オリジン＋OAC（マネージド）\n2. プレフィックスリスト＋秘密ヘッダー（使用しない場合のみ）\nこの構成は、WAF の主戦場であるエッジ（CloudFront）と、経路の絞る層を適切に分離しています。\n\n## 本文の補足\n本文では、従来の ELB を公開する構成や、OAC の導入による変更について詳細な情報があります。ただし、最新の推奨構成は VPC オリジン＋OAC の組み合わせであることが明確です。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/d0ec6a7cd436883591c621c5.png?sha=837a87cd60c157e0a585146376c89c75d4f35199",
+      "https://static.zenn.studio/user-upload/deployed-images/b8f5b4645035551867f7283b.png?sha=0bf69ecae8384bf1c8c5b029240f69b17780c2ba",
+      "https://static.zenn.studio/user-upload/deployed-images/f2456ced42cda8ccf9d783c0.png?sha=c13c25984240f0a1b6952b987bd82e13ecd6a4d3",
+      "https://static.zenn.studio/user-upload/deployed-images/2ec00972ca780083dd87fa83.png?sha=0bbffa63f36c52e8fe1c6d6e0ce210c72f383186",
+      "https://static.zenn.studio/user-upload/deployed-images/ef8edd0987f08b5756e9a1e7.png?sha=b31036f5c574e6af22908da7711466594a63514f",
+      "https://static.zenn.studio/user-upload/deployed-images/22fb6994a7ac76bf22af13be.png?sha=d12da52338caf80a7356b5c1e7388fc85b2a7b15",
+      "https://static.zenn.studio/user-upload/deployed-images/480193600be1c5c50d140094.png?sha=1b478c0b12feba692c8df961a0c72824d6124eb4",
+      "https://static.zenn.studio/user-upload/deployed-images/97473dbb6fc3d2e63a0e72af.png?sha=1bbf95cb73b05bb79cf2ae60a4b2808010f66c69",
+      "https://static.zenn.studio/user-upload/deployed-images/cecc18ac25a460c7ef06161f.png?sha=552bf8b39575d96747f2bae27903bb96531abe6b",
+      "https://static.zenn.studio/user-upload/deployed-images/75f6ace4e16f7dc63d362dcf.png?sha=d2b4892258d3d67167fe0868f0e58ceecd25f2dc"
+    ]
+  },
+  {
+    "id": "486af34d5a8f0f14",
+    "title": "政府、「サイバーセキュリティ緊急対策パッケージ」策定　予備費から100億円",
+    "url": "https://www.watch.impress.co.jp/docs/news/2154548.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T23:05:44.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fnews%2F2154548.html"
+  },
+  {
+    "id": "a065ecd421c36960",
+    "title": "AIネオクラウド「8割消滅」予測　債務膨張、民主旋風が追い打ち - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T22:57:15.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOGN060JD0W6A101C2000000%2F",
+    "category": "RELEASE",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約してください。\n\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\nAI データセンター建設のリスクと経済転機について、米新興企業は負債が膨大化し、信用不安を懸念しています。しかし、AI によるインフラ活用や地域社会との調和を通じて持続可能な経済発展が可能であるという転機が見られます。生成 AI の規制と環境負荷への対応において、適切な技術運用と政策調整が求められます。",
+    "imageUrls": [
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2Ftopic%2FEVP01096-1-1.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=max&ixlib=python-4.0.0&s=fefb298a39f9d0681399550d19e35fa3",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3843446007112026000000-1.jpg?ixlib=js-3.8.0&w=103&h=64&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.95&fp-y=0.2&fp-z=1&crop=focalpoint&s=6c0c0b1d165cad045073a6913b52afd0",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3837907006112026000000-2.jpg?ixlib=js-3.8.0&w=81.34452296819788&h=103&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=8e87dcd86854111e6d37c410daec4676",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3837712006112026000000-5.jpg?ixlib=js-3.8.0&w=103&h=88&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=ed0ab10fdc52a8a731f3c2de775f72a2",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252Ftopic%252Fog%252F23053001-2.jpg%3Fixlib%3Djs-2.3.2%26auto%3Dformat%252Ccompress%26fit%3Dmax%26ch%3DWidth%252CDPR%26s%3D9efb7d86ec80971637b8f757976c9845?ixlib=js-3.8.0&w=380&h=237&auto=format%2Ccompress&fit=crop&bg=FFFFFF&crop=faces%252Cedges&s=8cc7157b7fb3bc970fa8a5cc93c867d7",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3811723030102026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.53&fp-y=0.74&fp-z=1&crop=focalpoint&s=74f0e76c7db7c898a81749ef9120c655",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3830400005112026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=7cca32292b7103f70c223ab34c85de97",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3778884026102026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.12&fp-y=0.75&fp-z=1&crop=focalpoint&s=45f58498028a3269d5ce953dcef7bdce",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3734736015102026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=78a135275fab162239be48c51747cc3b"
+    ]
+  },
+  {
+    "id": "5072f0d6af005438",
+    "title": "AI is dramatically accelerating AI research right now",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T22:42:38.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.planned-obsolescence.org%2Fp%2Fai-is-dramatically-accelerating-ai",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\nAnthropic の最新レポートによると、AI が開発を加速しているという事実が確認された。この報告は、AI による開発速度の 2 倍以上の加速状況を示している。これは計算力だけでなく、研究人員の労働時間も同時に増大していると考えられている。\n\n## 方法\n\n開発者向けに自然な日本語で要約します。\n報告の内容を分析し、AI が開発速度をどう影響しているか、具体的な数値や結論をまとめました。\n専門用語は短く説明し、重要な情報を正確に伝えています。\n\n本文の長さを考慮して、必要な情報のみを抽出しました。\n専門用語は必要であれば簡潔に説明しています。\n必要な情報は補足せず、本文に記載されている内容に基づいています。",
+    "imageUrls": [
+      "https://substackcdn.com/image/fetch/$s_!hcJn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40ef3251-b0ed-4ed8-bb5f-649bfccc7563_1880x1561.png",
+      "https://substackcdn.com/image/fetch/$s_!AN_L!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fbd709e-dadd-451e-b6b1-1018da098568_2048x751.png",
+      "https://substackcdn.com/image/fetch/$s_!plX6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c28af7c-b5ee-409a-8151-438b756ee57f_2048x1248.png",
+      "https://substackcdn.com/image/fetch/$s_!1KlI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e1f8a00-b6d6-4060-8341-6e9c298ba4a3_1880x1175.png",
+      "https://substackcdn.com/image/fetch/$s_!u_X_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd74ff70-df26-4e1a-be31-4fc3543bada8_2048x1072.png"
+    ]
+  },
+  {
+    "id": "e8ad3aaf9c4e3939",
+    "title": "Inside GitHub's new Git storage architecture",
+    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T22:30:33.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.blog%2Fengineering%2Farchitecture-optimization%2Finside-githubs-new-git-storage-architecture%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な要約\n\nGitHub は、直訳調を避けた自然でわかりやすい日本語で、350〜450 文字の要約を提出します。\n\n## 課題と技術\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で、350〜450 文字を目安に要約してください。\n\n## 結論\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で、350〜450 文字を目安に要約してください。\n\n## 方法\n課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文の要約：\nGitHub は、直訳調を避けた自然でわかりやすい日本語で、350〜450 文字の要約を提出します。\n\n## 要約の視点\n追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\n## 本文の要約\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で、350〜450 文字を目安に要約してください。\n\n本文の要約：\nGitHub は、直訳調を避けた自然でわかりやすい日本語で、350〜450 文字の要約を提出します。\n\n## 結論\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で、350〜450 文字を目安に要約してください。\n\n本文の要約：\nGitHub は、直訳調を避けた自然でわかりやすい日本語で、350〜450 文字の要約を提出します。",
+    "imageUrls": [
+      "https://github.blog/wp-content/uploads/2026/11/customer-growth.png?resize=1024%2C483",
+      "https://github.blog/wp-content/uploads/2026/11/request-flow.png?resize=1024%2C584",
+      "https://github.blog/wp-content/uploads/2026/11/blob-contents.png?resize=1024%2C535"
+    ]
+  },
+  {
+    "id": "e56b8178998b10d8",
+    "title": "長いパスワードで認証を回避する脆弱性「*sshole」、「Alpine Linux」などに影響／2016年から存在、「OpenSSH 10.6p2」で対策",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2154439.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T21:50:31.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2154439.html"
+  },
+  {
     "id": "66fa2b2ca7e784bf",
     "title": "agent-skills/plugins/kuden/skills/writing/SKILL.md at main · shokai/agent-skills",
     "url": "https://github.com/shokai/agent-skills/blob/main/plugins/kuden/skills/writing/SKILL.md",
@@ -418,6 +862,14 @@
     ]
   },
   {
+    "id": "1e2b189d35f1714f",
+    "title": "東京リージョンで使っていてもバージニア北部に依存しているもの",
+    "url": "https://qiita.com/yama3133/items/5416c243e14a5406dd6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-06T13:18:11.000Z",
+    "status": "pending"
+  },
+  {
     "id": "c88ee74a389e1684",
     "title": "GitHub - soudai/postgresql-use-improve-agents-skill",
     "url": "https://github.com/soudai/postgresql-use-improve-agents-skill",
@@ -645,6 +1097,14 @@
     "publishedAt": "2026-11-06T09:24:26.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2F280blocker.net%2Fblog%2F20261106%2F20261106082700%2F"
+  },
+  {
+    "id": "2fe7789ce5dfb3e3",
+    "title": "【IT初心者向け】1年目に覚えてよかったGitコマンド3選",
+    "url": "https://qiita.com/tsurugi_komaki/items/e4fc5a485363a0d6bdfd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-06T09:08:03.000Z",
+    "status": "pending"
   },
   {
     "id": "b22e61c7601b8af0",
@@ -1952,6 +2412,15 @@
     "category": "TUTORIAL",
     "summary": "# 開発者向け：サーバー状態管理の簡易解説\n\n## 課題と解決方法\n開発者がサーバーからのデータを取得する際に、ローディング状態やエラー処理を重複して書くと大変です。この問題は「非同期なサーバー状態」の管理に特化しているため、TanStack Query を活用することで解決できます。基本的には、クライアント状態（フォーム入力など）とサーバー状態（API 結果）を分けて理解し、適切なキャッシュ設定を行うことで効率化します。\n\n## 結論\nTanStack Query を使用することで、サーバー状態の管理が自動化され、コード量の削減とエラー処理の簡素化が可能です。特に「新鮮度」の設定やリトライ機能は、実装の複雑さを減らせます。\n\n## 方法\n1. **状態の分離**: クライアント状態とサーバー状態を別々に扱うことで、適切なツールを活用できます。\n2. **QueryClient の使用**: プロバイダを設定し、`useQuery` を導入してデータ取得を行います。\n3. **キャッシュ設定**: `staleTime` と `gcTime` を設定し、データの鮮度を制御します。\n4. **Mutation の利用**: 作成・更新・削除の処理を行う際に必要です。\n\n本文では、状態管理の仕組みと具体的な実装例が説明されています。専門用語は短く説明しています。",
     "imageUrls": []
+  },
+  {
+    "id": "70bdb940db26b329",
+    "title": "Republicans Learn X Is the Echo Chamber",
+    "url": "https://www.404media.co/republicans-learn-x-is-an-echo-chamber/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-05T23:30:12.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.404media.co%2Frepublicans-learn-x-is-an-echo-chamber%2F"
   },
   {
     "id": "6f78e24cdb5b04f2",
