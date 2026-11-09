@@ -1,5 +1,40 @@
 [
   {
+    "id": "3fb0fa7c89b4972e",
+    "title": "WebSAM WinShareにおける複数の脆弱性",
+    "url": "https://jvn.jp/jp/JVN89009783/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-09T05:00:00.000Z"
+  },
+  {
+    "id": "da08a3107c61651d",
+    "title": "Effekseerにおける入力データ検証不備の脆弱性",
+    "url": "https://jvn.jp/jp/JVN56286875/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-09T03:00:00.000Z"
+  },
+  {
+    "id": "05c3eb5127c865dd",
+    "title": "KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU92635551/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-09T02:30:00.000Z"
+  },
+  {
+    "id": "9341a26b8b1093ee",
+    "title": "Webtop Media Transcoderにおける異なる領域間での不適切なリソースの移動の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU93403064/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-09T02:00:00.000Z"
+  },
+  {
+    "id": "e171c5fa9713662f",
+    "title": "Zabbix agentにおけるDLL読み込みに関する脆弱性",
+    "url": "https://jvn.jp/jp/JVN42011956/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-09T01:15:00.000Z"
+  },
+  {
     "id": "70023e37a84f6cca",
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月05日）",
     "url": "https://jvn.jp/vu/JVNVU90841469/",
