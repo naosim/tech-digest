@@ -1,5 +1,19 @@
 [
   {
+    "id": "1251fe71dabd9b05",
+    "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU96830794/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-10T00:30:15.000Z"
+  },
+  {
+    "id": "4a386d070850a379",
+    "title": "PrestaShopのPerformance DebugモードにおけるPHPコードインジェクションの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU98836795/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-10T00:30:00.000Z"
+  },
+  {
     "id": "5d53a2fe7771ed6c",
     "title": "SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
     "url": "https://jvn.jp/jp/JVN76179675/",
