@@ -1,5 +1,254 @@
 [
   {
+    "id": "50c08a476ff2d19a",
+    "title": "【資料公開】「自分の仕事はここまで」はどこから来るのか",
+    "url": "https://www.ryuzee.com/contents/blog/14628",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T11:36:50.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.ryuzee.com%2Fcontents%2Fblog%2F14628"
+  },
+  {
+    "id": "b6b939709c3d141b",
+    "title": "Notice about the Fireworks AI incident that may impact some Notion workspaces – Notion (ノーション)ヘルプセンター",
+    "url": "https://www.notion.com/ja/help/security-incident-involving-a-third-party-ai-vendor",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T11:08:32.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.notion.com%2Fja%2Fhelp%2Fsecurity-incident-involving-a-third-party-ai-vendor"
+  },
+  {
+    "id": "39aa081c12d40e9a",
+    "title": "サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003069/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T08:35:43.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003069%2F"
+  },
+  {
+    "id": "a92667754bb129c0",
+    "title": "Hide your slop PR descriptions behind <details><summary>",
+    "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T08:08:12.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsimonwillison.net%2F2026%2FNov%2F9%2Fdetails-summary%2F"
+  },
+  {
+    "id": "2673515f901a24e3",
+    "title": "Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明",
+    "url": "https://gigazine.net/news/20261110-claude-opus-nerf/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T08:05:52.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261110-claude-opus-nerf%2F"
+  },
+  {
+    "id": "cf5aae545b804823",
+    "title": "MCP を組み込んだアプリを手元で複数動かすための構成パターン - Nature Engineering Blog",
+    "url": "https://engineering.nature.global/entry/2026/11/mcp-architecture-patterns",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T07:55:00.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fengineering.nature.global%2Fentry%2F2026%2F11%2Fmcp-architecture-patterns"
+  },
+  {
+    "id": "ab9a6031ef756e65",
+    "title": "Suicaのコード決済「teppay」にまつわる5つの疑問　なぜ本人確認がマイナカードのみ？　なぜ起動の遅いSuicaアプリ経由？",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2611/10/news077.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T07:37:22.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F10%2Fnews077.html"
+  },
+  {
+    "id": "60c0b1bc361893fe",
+    "title": "ニンテンドーアカウントの「かんたんログイン」におけるGoogle/Apple連携終了のお知らせ｜お客様へのお知らせ",
+    "url": "https://support.nintendo.com/jp/information/2026/1110/index.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T07:36:10.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsupport.nintendo.com%2Fjp%2Finformation%2F2026%2F1110%2Findex.html"
+  },
+  {
+    "id": "2af987c3ed7aefe7",
+    "title": "ケンタッキー、一部メニュー画像に生成AI　実験販売の商品など　SNSは「違和感」の声も",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003070/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T07:20:40.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003070%2F"
+  },
+  {
+    "id": "19d4ddf3256668f0",
+    "title": "モバイルSuicaが「タッチ不要」に--山手線全駅へ「ウォークスルー改札」28年春導入",
+    "url": "https://japan.cnet.com/article/35254655/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T06:57:01.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254655%2F"
+  },
+  {
+    "id": "ae1f88f35243f335",
+    "title": "FBIがNVIDIAのジェンスン・フアンCEOと中国女スパイとの不倫を捜査しているとトランプ大統領が発言、「フアンCEOは問題の人物がスパイだとは全く知らなかった」と擁護",
+    "url": "https://gigazine.net/news/20261110-spy-jensen-huang/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T05:57:13.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261110-spy-jensen-huang%2F"
+  },
+  {
+    "id": "a86614e67982ef32",
+    "title": "マイナカードを使うコンビニ交付に障害　自治体が相次ぎ公表　富士フイルム系システムで通信異常か",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003062/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T05:40:32.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003062%2F"
+  },
+  {
+    "id": "57f52c6610503aeb",
+    "title": "SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁 | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261110de73285",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T04:44:53.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261110de73285"
+  },
+  {
+    "id": "491ceecd13baf030",
+    "title": "前沢友作氏の請求棄却　メタに「なりすまし広告」削除求めた訴訟 | 毎日新聞",
+    "url": "https://mainichi.jp/articles/20261109/k00/00m/040/284000c",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T04:41:25.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20261109%2Fk00%2F00m%2F040%2F284000c"
+  },
+  {
+    "id": "cd3e7a8ea6cfa3ff",
+    "title": "退屈なCoding AgentはMuseにやらせよう",
+    "url": "https://zenn.dev/watany/articles/342b9815dd0553",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T04:12:04.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fwatany%2Farticles%2F342b9815dd0553"
+  },
+  {
+    "id": "38d9d2f583c2278b",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 43",
+    "url": "https://qiita.com/maskot1977/items/d47b86a869de11975272?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-10T04:08:51.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8cd55c67114bcbf8",
+    "title": "【大河原克行の「パソコン業界、東奔西走」】 守るために攻める、レッツノートとタフブックが年100万台に挑む",
+    "url": "https://pc.watch.impress.co.jp/docs/column/gyokai/2154953.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T04:01:27.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fgyokai%2F2154953.html"
+  },
+  {
+    "id": "db47294edd671eaf",
+    "title": "Meta「Muse」がApple WatchとWear OSに対応　アバターが動く",
+    "url": "https://www.watch.impress.co.jp/docs/news/2155063.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T03:59:53.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fnews%2F2155063.html"
+  },
+  {
+    "id": "16f68e7585109074",
+    "title": "Claude Codeで最近使っているTips【2026/11】",
+    "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T03:58:52.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Foikon%2Farticles%2Fclaude-code-recipe"
+  },
+  {
+    "id": "fe04aa51b46ba533",
+    "title": "アクセスキー直書き→委託先がテスト用イメージをネット公開　「ラフールサーベイ」約2.4万人の情報漏えい",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003052/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T03:57:25.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003052%2F"
+  },
+  {
+    "id": "995009bd04de7958",
+    "title": "耳で聞く！ システム設計 視点の 行動経済学 2",
+    "url": "https://qiita.com/maskot1977/items/13f63d8e80b2ea55e9e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-10T03:53:36.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "47c186262dc677bc",
+    "title": "孫氏のAI構想「トランプ米国」全賭けのツケ　OpenAI停滞なら守勢再び - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC209F40Q6A021C2000000/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T03:52:18.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUC209F40Q6A021C2000000%2F"
+  },
+  {
+    "id": "7dd86f6420306f75",
+    "title": "開発環境のNodeを上げても、利用者の要件は別に考える — npmパッケージ更新の確認ポイント",
+    "url": "https://zenn.dev/mt4110/articles/image-drop-input-npm-node26-release",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-10T03:51:31.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--fc7UMdFe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2596%258B%25E7%2599%25BA%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AENode%25E3%2582%2592%25E4%25B8%258A%25E3%2581%2592%25E3%2581%25A6%25E3%2582%2582%25E3%2580%2581%25E5%2588%25A9%25E7%2594%25A8%25E8%2580%2585%25E3%2581%25AE%25E8%25A6%2581%25E4%25BB%25B6%25E3%2581%25AF%25E5%2588%25A5%25E3%2581%25AB%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2520%25E2%2580%2594%2520npm%25E3%2583%2591%25E3%2583%2583%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B8%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%25AE%25E7%25A2%25BA%25E8%25AA%258D%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mt4110%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVpQNGN2V2RWanplOXpZZVVpYUZoUkRiNlJqckx4b19vZ2dnNFhIajV0Zlk0WUJZRDk9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "74059d042f914a01",
+    "title": "サイバー攻撃受けた医療現場のリアル　患者の死亡率が3割上昇　乳がん患者の半裸画像流出、セラピー記録で脅迫され自殺も",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003027/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T03:30:41.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003027%2F"
+  },
+  {
+    "id": "2913eb5add0d5f44",
+    "title": "Anthropicが新AI「Claude Fable 5.2」をリリース。ぶっちぎりの高性能、実用例はもはや異次元 | ギズモード・ジャパン",
+    "url": "https://www.gizmodo.jp/article/2611-claude-fable-5-2-release/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T02:43:46.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.gizmodo.jp%2Farticle%2F2611-claude-fable-5-2-release%2F"
+  },
+  {
+    "id": "fdd1c51cb12a39dd",
+    "title": "既存サービスの ECS タスクを read-only root filesystem & non-root 構成に作り変える - MNTSQ Techブログ",
+    "url": "https://tech.mntsq.co.jp/entry/2026/11/10/113203",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T02:33:06.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftech.mntsq.co.jp%2Fentry%2F2026%2F11%2F10%2F113203"
+  },
+  {
+    "id": "e65bb080a17c7373",
+    "title": "オーディオテクニカのモニターヘッドホン、なぜかゲーム配信者界隈でバズる | ギズモード・ジャパン",
+    "url": "https://www.gizmodo.jp/article/2610-audio-technica-monitor-headphone-fps/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T02:25:54.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.gizmodo.jp%2Farticle%2F2610-audio-technica-monitor-headphone-fps%2F"
+  },
+  {
+    "id": "d8605b220a022f90",
+    "title": "なぜ制度批判は「差別」と呼ばれるのか——財源幻想と沈黙の螺旋の行動経済学 : システム設計視点の行動経済学 (60)",
+    "url": "https://qiita.com/maskot1977/items/67f27fee8e88090c5c2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-10T01:43:41.000Z",
+    "status": "pending"
+  },
+  {
     "id": "05ce2220cc642b8f",
     "title": "mnfst/awesome-free-llm-apis",
     "url": "https://github.com/mnfst/awesome-free-llm-apis",
@@ -18,6 +267,49 @@
     "imageUrl": "https://opengraph.githubassets.com/18d8c800a484fe63fcb492cdad5332210ec02b8bacf062a466c1547421bdd05c/react/react"
   },
   {
+    "id": "e7b7a1deb5292162",
+    "title": "大学1年生がつくったOSSがGitHub Star 1万超。AIに渡す「画面の設計図」はどう生まれた？ - レバテックLAB",
+    "url": "https://levtech.jp/media/detail_965/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T01:12:53.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Flevtech.jp%2Fmedia%2Fdetail_965%2F"
+  },
+  {
+    "id": "33a3cde543de24d7",
+    "title": "プラグインの安全性はCloudflareでしか効かない？EmDash を Node.js で動かしサンドボックスの外へ fetch してみた",
+    "url": "https://zenn.dev/nonejp/articles/e5e78292ab61e5",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-10T01:08:36.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--8Eqw9sYK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AE%25E5%25AE%2589%25E5%2585%25A8%25E6%2580%25A7%25E3%2581%25AFCloudflare%25E3%2581%25A7%25E3%2581%2597%25E3%2581%258B%25E5%258A%25B9%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259FEmDash%2520%25E3%2582%2592%2520Node.js%2520%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2589%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E3%2581%25AE...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ousiass%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYyOTZlNWQxMjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:VeriCerts%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwYjdjMjhhZGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "a0b579dca3e79da3",
+    "title": "OpenAIも参入、企業システムを変える「判断特化型AI」が急成長 ～なぜ今、文章を生成しないAIが求められているのか【柳谷智宣のAI ウォッチ！】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2154854.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T00:17:51.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fserial%2Fyaaiwatch%2F2154854.html"
+  },
+  {
+    "id": "266edbb884cf6daa",
+    "title": "障害が起きてから動くのはもう終わりにしよう！New Relic「Advanced APM」で実現するプロアクティブ改善",
+    "url": "https://qiita.com/nr-mito/items/927b6bc074f35ecc181d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-09T23:50:51.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "a86a7ae690940f50",
+    "title": "Claude Code を新しい Fable 5.2 に切り替えると速く安くなるのか。36回測ったら、Fable 5.1 より2割速く3割安く、費用は Opus 5.5 の1.6倍だった",
+    "url": "https://qiita.com/suwa_nobu/items/a6a104575596915dac2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-09T23:50:19.000Z",
+    "status": "pending"
+  },
+  {
     "id": "513b9da302fe01fc",
     "title": "Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表",
     "url": "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
@@ -25,6 +317,23 @@
     "publishedAt": "2026-11-09T23:00:52.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fgooglekubernetes10aiagent_sustrategvisorcncf.html"
+  },
+  {
+    "id": "fd398b2e2558d3c4",
+    "title": "AI攻撃をAIで迎え撃つ必要はあるのか――旧日本軍の戦史から考える「省資源型戦術防御」",
+    "url": "https://qiita.com/01rabbit/items/9f18f7d208ace293991b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-09T22:55:53.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "d5e69bed18d7ec47",
+    "title": "ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす",
+    "url": "https://japan.cnet.com/article/35254620/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-09T22:53:05.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254620%2F"
   },
   {
     "id": "1c5a00cd9ecc7555",
@@ -72,6 +381,15 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fsemicon%2F2154960.html"
   },
   {
+    "id": "55b680f8cc2e215c",
+    "title": "Google Apps ScriptでモダンなWebアプリケーションを開発したい",
+    "url": "https://zenn.dev/tiger_oshima/articles/gas-modern-web-app-development",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-09T21:22:23.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--pWWFPcni--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%2520Apps%2520Script%25E3%2581%25A7%25E3%2583%25A2%25E3%2583%2580%25E3%2583%25B3%25E3%2581%25AAWeb%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Taiga%2520Oshima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk5qMmwySlVPV1dxUzRJWWpHRXB5X2RBTlBuRURYdnlOSEJrRUI1ZGs1ZkFpRFB3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
     "id": "fe866ad2f620ed2a",
     "title": "「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞",
     "url": "https://www.tsukuba-sp.org/news/wghx7ljlx7/",
@@ -79,6 +397,24 @@
     "publishedAt": "2026-11-09T21:05:20.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.tsukuba-sp.org%2Fnews%2Fwghx7ljlx7%2F"
+  },
+  {
+    "id": "73ba79ab493f8191",
+    "title": "AI返信の二重送信を防ぐ：idempotency keyと状態遷移の最小設計",
+    "url": "https://zenn.dev/miraigent/articles/ai-reply-idempotency-key",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-09T20:47:32.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ENR1jFog--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E8%25BF%2594%25E4%25BF%25A1%25E3%2581%25AE%25E4%25BA%258C%25E9%2587%258D%25E9%2580%2581%25E4%25BF%25A1%25E3%2582%2592%25E9%2598%25B2%25E3%2581%2590%25EF%25BC%259Aidempotency%2520key%25E3%2581%25A8%25E7%258A%25B6%25E6%2585%258B%25E9%2581%25B7%25E7%25A7%25BB%25E3%2581%25AE%25E6%259C%2580%25E5%25B0%258F%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kirisaki%2520Kazuya%2520%257C%2520...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U5ODBhNjQwODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "a300bfe1cb830e52",
+    "title": "少年団の役員向けRAGを作った — 条文単位に切り直しただけで正答52%→72%、ハイブリッド検索は効かなかった",
+    "url": "https://zenn.dev/mappy55/articles/rulebook-rag-01",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-09T20:35:11.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--_ITMV-fV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25B0%2591%25E5%25B9%25B4%25E5%259B%25A3%25E3%2581%25AE%25E5%25BD%25B9%25E5%2593%25A1%25E5%2590%2591%25E3%2581%2591RAG%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2580%2594%2520%25E6%259D%25A1%25E6%2596%2587%25E5%258D%2598%25E4%25BD%258D%25E3%2581%25AB%25E5%2588%2587%25E3%2582%258A%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E6%25AD%25A3%25E7%25AD%259452%2525%25E2%2586%259272%2525%25E3%2580%2581%25E3%2583%258F%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2589%25E6%25A4%259C%25E7%25B4%25A2%25E3%2581%25AF%25E5%258A%25B9%25E3%2581%258B%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mappy%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc1ZWI1MzQxNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "796a7f7ee338b70f",
@@ -108,6 +444,14 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Faws.amazon.com%2Fabout-aws%2Fwhats-new%2F2026%2F11%2Fnitro-sandboxes-eks-ecs-ec2%2F"
   },
   {
+    "id": "d0fb03dc3ddbfbac",
+    "title": "ひとりで作るOSSを、チームの基準でレビューする（Codex・Claude・CodeRabbit）",
+    "url": "https://qiita.com/figueiredoluiz/items/1a043190d8f00d2ebda6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-09T16:24:42.000Z",
+    "status": "pending"
+  },
+  {
     "id": "60dce2b5bf9a28d5",
     "title": "エンジニアにとってEMは魅力のない役割なのか - mtx2s’s blog",
     "url": "https://mtx2s.hatenablog.com/entry/2026/11/09/210114",
@@ -124,6 +468,15 @@
     "publishedAt": "2026-11-09T15:25:08.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fx.com%2FHamachiya2%2Fstatus%2F2119691158423040348"
+  },
+  {
+    "id": "2916d4c64f3af835",
+    "title": "なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
+    "url": "https://zenn.dev/mixi/articles/b0ea64fded9503",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-09T15:07:30.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fmixi%2Farticles%2Fb0ea64fded9503"
   },
   {
     "id": "b9964c329da3fa88",
@@ -144,6 +497,14 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fazukiazusa.dev%2Fblog%2Fgpui-todo-app%2F"
   },
   {
+    "id": "a76165028b2d1627",
+    "title": "React学習のアウトプットとして学習記録アプリを個人開発",
+    "url": "https://qiita.com/yukmaru/items/f24479a1b40dd2ff1346?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-09T14:55:14.000Z",
+    "status": "pending"
+  },
+  {
     "id": "6a1d457946a15e77",
     "title": "並列度を下げたら速くなった — go build の重複コンパイルを実測で見る",
     "url": "https://speakerdeck.com/tomoaki25/slides-cd95d381-a27b-4a9a-8b53-0abd69397a1b",
@@ -151,6 +512,14 @@
     "publishedAt": "2026-11-09T14:54:51.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Ftomoaki25%2Fslides-cd95d381-a27b-4a9a-8b53-0abd69397a1b"
+  },
+  {
+    "id": "2ebed6e728556bd9",
+    "title": "【AWS】RAG小、新機能全マシ、IAMカタメ、予算スクナメで",
+    "url": "https://qiita.com/kikuziro/items/eb28e7084445ff060783?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-09T14:21:44.000Z",
+    "status": "pending"
   },
   {
     "id": "594c4d0d4372e44c",
@@ -292,6 +661,14 @@
     "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--C1CDpxBe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SQL%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25ABGROUP%2520BY%25E3%2582%2592%25E8%25B6%25B3%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E9%2581%25B8%25E3%2582%2593%25E3%2581%25A0%25E5%2588%2597%25E3%2581%25AE%25E3%2581%259B%25E3%2581%2584%25E3%2581%25A7SQL%25E3%2581%258C%25E5%25A3%258A%25E3%2582%258C%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
+    "id": "47b36d573cf6c395",
+    "title": "初参加！JAWS FESTA 2026さ行ってきたどレポート",
+    "url": "https://qiita.com/manaty/items/caccf7b6e18bedca5805?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-09T10:05:42.000Z",
+    "status": "pending"
+  },
+  {
     "id": "adc8805d50a8eb04",
     "title": "GMO熊谷社長は記者会見4日前にも「俺は小さな人間じゃない！」と全社員の前で号泣していた「熊谷さんの講話は社内で『脳内同期』と呼ばれていて…」社員が語る「宗教的な社内慣習」（デイリー新潮） - Yahoo!ニュース",
     "url": "https://news.yahoo.co.jp/articles/a03f626662a910f876f839e945090826ec56c68c",
@@ -425,6 +802,14 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261109-macos-personal-knowledge-graph%2F"
   },
   {
+    "id": "7944f723729acc9b",
+    "title": "JaSST'26 Niigata「コードベースE2E自動テストをどう始め、どう続けるか」聴講レポート",
+    "url": "https://qiita.com/nobosemon/items/bbfd35e8e6dd98b32f94?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-09T07:01:10.000Z",
+    "status": "pending"
+  },
+  {
     "id": "618a8a6b4632e301",
     "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 42",
     "url": "https://qiita.com/maskot1977/items/996e36907168b5e9565f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -494,578 +879,5 @@
     "publishedAt": "2026-11-09T04:56:45.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.uec.ac.jp%2Fnews%2Fnewsrelease%2F2026%2F20261109_8080.html"
-  },
-  {
-    "id": "84e847b5cffc61d0",
-    "title": "耳で聞く！ システム設計 視点の 行動経済学 1",
-    "url": "https://qiita.com/maskot1977/items/defa00878b5ab235e66c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-09T04:45:58.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "6b22c4eb0f2dd68d",
-    "title": "『ゼルダの伝説 時のオカリナ』リメイク版を「iPhone Duoに“勝手移植”」したGoogleのAI開発者、非難浴びて投稿削除。問われる技術者倫理 - AUTOMATON",
-    "url": "https://automaton-media.com/articles/newsjp/20261109-478221/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T04:39:28.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fautomaton-media.com%2Farticles%2Fnewsjp%2F20261109-478221%2F",
-    "category": "RELEASE",
-    "summary": "# 課題と結論\nゲーム開発における非公式移植の問題と、Google AI を活用したゲーム実装の提案について、現在削除されている投稿を分析した。\n\n## 方法\nNintendo Switch 2 のソフトウェア複製や改変を禁止する規約に基づき、Apple チップ上で動作させる仕組みを用いた、従来のエミュレーターとは異な新しい移植手法が採用された。しかし、この技術は任天堂の規約に抵触する可能性があるため、削除される傾向にある。\n\n## 本文の要約\nGoogle のAmmaar Reshi氏が Gemini 4 を活用して iPhone Duo で動作させる投稿は、ゲームのプレイを正式プラットフォームとして提供する必要があると主張している。しかし、非公式な移植という行為だけでなく、AI プロダクト開発者による公開発言により、規約違反と懸念が寄せられた。現在削除されているため、詳細な理由は不明である。最終的にはゲームのプレイを Nintendo Switch 2 の公式プラットフォームで楽しむべきであるとする結論となる。",
-    "imageUrls": [
-      "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-001.jpg",
-      "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-header-1080x608.jpg",
-      "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478221-002-1080x608.jpg"
-    ]
-  },
-  {
-    "id": "8c9a2839a8c699d8",
-    "title": "Yahoo! JAPAN IDのログインを「パスキー」に一本化する話で、パスキーだけになった場合はデバイスが壊れたりしたらお終いになり、この時代にクラウド依存も危ないのでは？",
-    "url": "https://togetter.com/li/2768426",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T04:26:53.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2768426",
-    "category": "RELEASE",
-    "summary": "# 課題と解決方法：パスキーの移行とセキュリティへの対応\n\n記事は、クラウド依存や端末故障時の安全性を懸念する背景において、パスキーの導入と移行プロセスについて解説しています。従来のパスワード認証の終了時期は段階的にパスキーに集約されるため、ユーザーの安全確保が重要となっています。\n\n## 課題と解決方法\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。本文では、クラウド依存や端末故障時の安全性を懸念する背景にあるパスキー移行に関する重要な情報です。\n\n## 結論\nパスキーの導入により、パスワード認証の終了時期は段階的に集約されるため、セキュリティ強化が推奨されています。ただし、物理キーとの併用や端末ごとの設定を考慮した対応が必要とされています。\n\n## 方法\n課題解決の具体的な技術的アプローチとして、物理キーの運用やクラウド型パスキーの安全性について解説されています。また、多様な認証方法の組み合わせによるリスク軽減策も提案されています。",
-    "imageUrls": [
-      "https://s.tgstc.com/static/web/p.gif"
-    ]
-  },
-  {
-    "id": "f52eb72d5354b6e3",
-    "title": "Devinはソフトウェアファクトリーのフレームワークになった - Timee Product Team Blog",
-    "url": "https://tech.timee.co.jp/entry/2026/11/09/120755",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T04:24:41.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftech.timee.co.jp%2Fentry%2F2026%2F11%2F09%2F120755"
-  },
-  {
-    "id": "81e9c23ddb710119",
-    "title": "ヤマト・佐川・日本郵便の配送停止情報をCloudflare WorkersとAIで毎日APIにする",
-    "url": "https://zenn.dev/tomipetit/articles/delivery-status-api-workers",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-09T04:19:30.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--_0e2dFKB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A4%25E3%2583%259E%25E3%2583%2588%25E3%2583%25BB%25E4%25BD%2590%25E5%25B7%259D%25E3%2583%25BB%25E6%2597%25A5%25E6%259C%25AC%25E9%2583%25B5%25E4%25BE%25BF%25E3%2581%25AE%25E9%2585%258D%25E9%2580%2581%25E5%2581%259C%25E6%25AD%25A2%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592Cloudflare%2520Workers%25E3%2581%25A8AI%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5API%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tomi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q2ZjRjNzJlMjAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "b26e44f28af61aea",
-    "title": "学園祭の混雑、ITで解消へ　お茶の水女子大・共創工学部の学生がセンサー活用し実証",
-    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003006/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T04:12:09.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F09%2F2000003006%2F"
-  },
-  {
-    "id": "e13b05416ca15bbf",
-    "title": "【JaSST'26 Niigata参加レポート】QAの「暗黙知」をAIとの比較で見つける",
-    "url": "https://qiita.com/m-sugio/items/46930f95b44e4e3134c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-09T04:10:38.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "ee0e67e854343a01",
-    "title": "不正アクセスによる個人情報漏えいについて",
-    "url": "https://www.waseda.jp/top/news/topic/124183",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T04:09:40.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.waseda.jp%2Ftop%2Fnews%2Ftopic%2F124183",
-    "category": "TROUBLESHOOT",
-    "summary": "早稲田大学は、個人情報を管理するシステムに第三者の不正アクセスが確認された事態を報告しました。調査によると、約3,400件のユーザー情報が漏洩したことが判明しました。この情報はメールサービス利用者の個人情報として、教職員番号やパスワードを含む詳細データが含まれており、多数が第三者から取得されています。\n\n本学は、被害の拡大防止とセキュリティ確保を最優先に、システム停止、通信制限、管理者パスワード変更などを講じています。Waseda IDを利用するサービスも一時停止し、不審なメールやSMSへの注意を呼びかけます。今後の調査により、原因分析と再発防止策の講じられ、監視・検知体制の見直しを進めています。\n\n要約：\n発生した問題は個人情報漏洩であり、約3,400件のデータが第三者に取得されています。解決方法はシステム停止やパスワード変更、通信制限などを行います。再発防止のため、今後の調査により対策を講じ、監視体制の見直しを行います。",
-    "imageUrls": []
-  },
-  {
-    "id": "7b98c937610fc30b",
-    "title": "中国製AI「Qwen3.8-27B」の中国政府寄りの回答を減らしたAI「Arete-27B」が登場、プロパガンダを含む回答が22％から0.9％に減少",
-    "url": "https://gigazine.net/news/20261109-nous-research-arete-27b/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T04:02:17.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261109-nous-research-arete-27b%2F"
-  },
-  {
-    "id": "96e584b4c3d4043c",
-    "title": "Metaの複数の従業員が海賊版ポルノ動画を見ていたことが裁判の提出書類で示される",
-    "url": "https://gigazine.net/news/20261109-meta-employees-pirated-adult/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T04:01:42.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261109-meta-employees-pirated-adult%2F"
-  },
-  {
-    "id": "9bbbaeaafb4e51ff",
-    "title": "ソフトウェア産業が消滅する日──小さなローカルAIが暴く「プログラムを売る」という商売の終焉",
-    "url": "https://wirelesswire.jp/2026/11/94903/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T03:53:21.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwirelesswire.jp%2F2026%2F11%2F94903%2F",
-    "category": "TUTORIAL",
-    "summary": "# 開発者向け：直訳調を避けた自然な日本語要約\n\n清水亮と ryo_shimizu は、ゲーム業界からモバイル業界のプログラムとして活動し、現在も AI 開発に熱心な姿勢を示しています。彼らは「mightyCode」というプログラムを開発し、このツールはローカルで動作する AI をMac に搭載することで、複雑なソフトウェア開発を効率化しようとしています。\n\n## 課題と解決方法\n主な課題は、従来のクラウドの AI エージェントによる長すぎるコンテキストウィンドウや膨大な記憶使用量に悩むことです。これを解決するために、NVIDIA の研究に基づいた「EoCC（会話履歴の圧縮）」という仕組みを採用しました。この方法は、長い会話履歴を保持せず、必要に応じて簡潔な要約を保存することで、メモリ負荷を減らし、計算コストを削減します。また、モデルの容量やメモリ使用量を最適化し、複雑な作業を継続できるように設計されています。\n\n## 結論\n本記事は、AI エージェントの設計思想を革新する可能性を示しています。従来の「過去の会話履歴をすべて保存する」方法とは異なり、現在の状態と次の行動のみを維持することで、計算資源の節約とシステム安定性を確保するアプローチが推奨されます。これにより、長期的なソフトウェア開発の効率化を実現できるという主張です。\n\n## 方法\n具体的な解決策は、ローカル環境での AI を制御し、コンテキストサイズを制限する「EoCC」の仕組みです。この方法は、モデルの容量やメモリ使用量を考慮し、計算コストを低くすることで、安定した作業を行うことができます。また、実験結果では、会話履歴を持たない方が成績が改善することが示されました。\n\n本文には具体的な手順や技術の詳細は記載されていますが、専門用語は短く説明しています。実際の導入には環境の準備と適切な設定が必要です。",
-    "imageUrls": []
-  },
-  {
-    "id": "74697231be26f328",
-    "title": "育成就労制度の設計検証 ― 財源幻想と多文化共生の強制の交差点 : システム設計視点の行動経済学 (59)",
-    "url": "https://qiita.com/maskot1977/items/706817bb6501d322bbb5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-09T03:37:14.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "606aee501d10ffa2",
-    "title": "スマホは「待つほど高くなる」時代に　iPhoneやPixel、Galaxyの“予告なし値上げ”が相次いだ2026年、買い時はいつ？",
-    "url": "https://www.itmedia.co.jp/mobile/articles/2611/09/news059.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T03:24:27.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F09%2Fnews059.html",
-    "category": "RELEASE",
-    "summary": "# スマートフォン価格変動と買い方への影響\n\n## 結論\n2026 年のスマホ価格上昇は、フラグシップモデルの価格が過去 3 年間増加し、ハイエンドモデルの値上げも顕著に拡大しています。これにより、購入時の戦略的選択や価格比較の重要性が高まっています。\n\n## 方法\n主な課題は、4 つの主要企業（Apple、Google、ソニー、Xiaomi）の直販価格変動です。特に、iPhone の Pro シリーズや Galaxy S シリーズなど、発売後から値上げされるケースが注目されています。これらは購入時の戦略的な判断を促しています。\n\n## 本文の要約\n2026 年はスマートフォンの価格が高騰傾向にあります。Apple は iPhone 17 と iPhone 18 の両方において値上げを実施し、Google は Pixel 10a をもてよに値上げしました。ソニー の Xperia 10 VIII も同様に値上げを適用しています。また、Xiaomi の Ultra シリーズも価格維持の観点から戦略的な販売を行いました。\n\n各企業の直販価格変化は、フラグシップモデルの増加やハイエンドモデルの値上げによって異なります。これらは消費者にとって重要な情報となります。",
-    "imageUrls": [
-      "https://image.itmedia.co.jp/mobile/articles/2611/09/ky5622_smaprice-01.png",
-      "https://image.itmedia.co.jp/mobile/articles/2611/09/ky5622_smaprice-02.jpg",
-      "https://image.itmedia.co.jp/mobile/articles/2611/09/ky5622_smaprice-03.png",
-      "https://image.itmedia.co.jp/mobile/articles/2611/09/ky5622_smaprice-04.jpg"
-    ]
-  },
-  {
-    "id": "3ce83edc73e4f088",
-    "title": "macOSアプリをApple Silicon+Intelのuniversalビルドにした話:配布から初回ログインまでを数える",
-    "url": "https://zenn.dev/maximus/articles/f50e53b5fae63c",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-09T03:23:53.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--aRQAvdVJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:macOS%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592Apple%2520Silicon%252BIntel%25E3%2581%25AEuniversal%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%253A%25E9%2585%258D%25E5%25B8%2583%25E3%2581%258B%25E3%2582%2589%25E5%2588%259D%25E5%259B%259E%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25BE...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:maximus%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YwNjE3MTA1ZmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：Electron アプリの Universal ビルド化\n\n**テーマ**: マスク OS の Electron アプリ（PMDesk）を、Apple Silicon と Intel を両方対応するビルド設定。\n\n**結論**: 配布用ビルドでは、arm64 と x64 の両方の .app を 1 つにまとめ、ネイティブモジュールの prebuilds を arch ごとに残し、更新ユーザーを新規としない機能を実装。\n\n**方法**: electron-builder を利用し、mac.target に arch: ['universal'] を指定。node-pty の prebuilds を両方の arch に設定し、spawn-helper を拡張してビット付け処理を実装。確認は lipo で実行ファイルとネイティブモジュールの arch を確認する。Intel 実機での動作は記載外。\n\n本文には計測結果の数字や環境変数に関する詳細情報は記載されていないため、補足説明が必要。",
-    "imageUrls": [
-      "https://static.zenn.studio/user-upload/dd7a62ddca70-20261109.jpg"
-    ]
-  },
-  {
-    "id": "7d4cef9944643ab5",
-    "title": "リレーショナル・テーブルを土台にしてプロパティ・グラフを作成し Select AI の精度を高める",
-    "url": "https://qiita.com/tkote/items/51ceb70dd8ee45e4cc84?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-09T03:13:07.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "0e9f4886ee98d0ad",
-    "title": "CSS の box-shadow アニメーションが、止まっている画面を毎秒60回描き直していた――トレースで原因を絞る",
-    "url": "https://zenn.dev/wa_rp_studio/articles/css-box-shadow-animation-repaint",
-    "source": "Zenn (playwright)",
-    "publishedAt": "2026-11-09T03:00:08.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--5D5ceyHv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CSS%2520%25E3%2581%25AE%2520box-shadow%2520%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%258C%25E3%2580%2581%25E6%25AD%25A2%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E7%2594%25BB%25E9%259D%25A2%25E3%2582%2592%25E6%25AF%258E%25E7%25A7%259260%25E5%259B%259E%25E6%258F%258F%25E3%2581%258D%25E7%259B%25B4%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E2%2580%2595%25E2%2580%2595%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E5%258E%259F%25E5%259B%25A0%25E3%2582%2592%25E7%25B5%259E%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Wa-rp%2520Studio%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSkg3TUxCSVluTWtqaEU0UWZTMS04amJ5Vk1QRVRnUW5peUxWNHlaMjBpbE0tUHJCdz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "c9ecbcfe243e0159",
-    "title": "ネット印刷「ラクスル」に不正アクセス　入稿データ一部漏えいか　名刺やはがき記載の個人情報も",
-    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003004/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T02:51:57.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F09%2F2000003004%2F",
-    "category": "RELEASE",
-    "summary": "# 業界動向：ラクスル不正アクセス事件の対応と影響\n\n**課題と技術**: ラクスル社の印刷データ入稿システムに第三者による不正アクセスが発生しました。認証情報を不正に取得し、保管していた顧客の個人情報や請求書などのデータを流出させました。システムは外部からアクセスできる状態となり、認証情報を無効化することで対策 took 行されました。\n\n**結論**: 漏えられた個人情報は除き、不正利用の二次被害は見つからず、顧客への影響は軽度です。データチェックを強化し、配送や出荷の時間がかかる状況も設定されています。\n\n**方法**: 不正アクセスの経路を特定し、認証情報を無効化しました。データ入稿サービスの一部は8日から再開し、正常な業務と併せて運用しています。顧客への対応として不審なメールやSMS を発送し、パスワードやクレジットカード番号の入力を求めることは避けるよう呼びかけました。\n\n本文に記載された情報は漏えられた個人情報に関する報告であり、具体的な技術的な仕組みについては記述されていませんが、認証情報の無効化とサービス再開の対策は明確です。",
-    "imageUrls": [
-      "https://www.itmedia.co.jp/news/article/image/2611/09/2000003004/10011586/728",
-      "https://www.itmedia.co.jp/news/article/image/2611/09/2000003004/10011587/728"
-    ]
-  },
-  {
-    "id": "5440f26a11ae9107",
-    "title": "Claudeデスクトップアプリの「新しいウィンドウ」に無いボタンを、mod 機能で足してみた",
-    "url": "https://zenn.dev/nexta_/articles/claude-desktop-mod-buttons",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-09T02:30:07.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--v4q653zp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25E3%2583%2587%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2583%25E3%2583%2597%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E3%2580%258C%25E6%2596%25B0%25E3%2581%2597%25E3%2581%2584%25E3%2582%25A6%25E3%2582%25A3%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25A6%25E3%2580%258D%25E3%2581%25AB%25E7%2584%25A1%25E3%2581%2584%25E3%2583%259C%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%2592%25E3%2580%2581mod%2520%25E6%25A9%259F%25E8%2583%25BD%25E3%2581%25A7%25E8%25B6%25B3%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A4%25A7%25E8%25A5%25BF%25E6%25B4%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U0ZGE2N2U3OWYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Nexta%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEzNjdlNTVkNjguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "TUTORIAL",
-    "summary": "# 開発者向け：Claude Code のモジュール機能の導入と実装\n\n**課題**: デスクトップアプリのインターフェースを簡素化し、セッション管理やツール操作の効率化を図るため。\n\n**結論**: クラードコードのモジュール機能を実装し、ボタンでセッションIDをコピーするだけでなく、会話への操作やパネル開閉、ターミナルなど多様な機能を統合したUIを実現しました。\n\n**方法**:\n1.  **プラグイン設計**: `plugin.json`と`hooks.json`でモジュールを定義し、`register.tsx`で実装。\n2.  **UI 構成**: `AbovePrompt` を使って入力欄の上にボタンを配置。左右のグループに分け、分類ボタンやツールボタンを組み合わせる。\n3.  **機能実装**: MCP ツールを呼び出し、パネルの開閉制御、ターミナル操作などをトグルまたはボタンで管理する。\n\n導入後、コードはそのまま使用可能となり、開発者向けに直訳調を避けた自然な日本語で簡潔に解説できます。",
-    "imageUrls": [
-      "https://static.zenn.studio/user-upload/deployed-images/19a808e4d477a2436a238489.png?sha=fefe52bd48e38f402702eda66a3fbff96846521f"
-    ]
-  },
-  {
-    "id": "fbaf9f7f0bd8d85d",
-    "title": "KMPのiOSビルド（XCFramework）を軽くする5つのTips",
-    "url": "https://qiita.com/naormt/items/a8f57727c5a35f1ca620?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-09T02:18:29.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "0d4f64e1cb04f3c2",
-    "title": "「とりあえず責任者を決める」という思考停止から抜け出す方法｜レバテックLAB - レバテックLAB",
-    "url": "https://levtech.jp/media/detail_967/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T02:12:33.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Flevtech.jp%2Fmedia%2Fdetail_967%2F",
-    "category": "TUTORIAL",
-    "summary": "# シンザキのシステム開発における責任者管理の課題と解決方法\n\n**テーマ**: システム開発における業務プロセスの課題と技術の仕組み\n**結論**: 責任者の存在は進捗を悪化させる要因となり、適切な役割分担や権限設定が不可欠であることが結論付けられる。\n**方法**: 新規サービスのアイデア出し、社内イベント企画、多部署調整など、責任者の立ち位置を適切に設計する手順と具体的な対策\n\n本文の要約では、システム開発者が業務を管理する際に発生する「責任者」の過剰化や不適切な役割分担が問題と指摘された。通常のタスク管理では責任者は進め方を指示し、結果として発想の幅が狭まる傾向にある。また、社内イベントや多部署調整など、責任者の介入が必要な場面では、メンバーの自主性が低下し、組織全体の計画達成に支障を及ぶ可能性がある。\n\n解決策として、タスクの性質と責任者の意識・能力のミスマッチを避けるための役割分担の再設計が推奨される。新規サービスのアイデア出しや戦略検討段階では責任者は進行役にではなくファシリテーターとして関わるべきである。また、イベント企画や多部署調整においては、責任者は全体の進行管理に専念するのではなく、各メンバーの裁量を可能な限り大きくしていくバランスを重視する必要がある。最終的には、責任者がすべての責任を背負うことではなく、メンバーが自主的に判断し進める状態を作ることが重要であることが結論となる。",
-    "imageUrls": [
-      "https://cdn-ak.f.st-hatena.com/images/fotolife/l/levtech_lab/20261105/20261105163239.jpg",
-      "https://cdn-ak.f.st-hatena.com/images/fotolife/l/levtech_lab/20260213/20260213194017.jpg",
-      "https://cdn-ak.f.st-hatena.com/images/fotolife/l/levtech_lab/20261105/20261105181619.png"
-    ]
-  },
-  {
-    "id": "92c453881efbc3aa",
-    "title": "型パズルとホットリロードは相性が悪い。文字列を 1 つ直すだけで、読み込み直せなくなる",
-    "url": "https://zenn.dev/jasagiri/articles/36a14dc902b646",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-09T01:51:52.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--xRc7kq2A--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%259E%258B%25E3%2583%2591%25E3%2582%25BA%25E3%2583%25AB%25E3%2581%25A8%25E3%2583%259B%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AF%25E7%259B%25B8%25E6%2580%25A7%25E3%2581%258C%25E6%2582%25AA%25E3%2581%2584%25E3%2580%2582%25E6%2596%2587%25E5%25AD%2597%25E5%2588%2597%25E3%2582%2592%25201%2520%25E3%2581%25A4%25E7%259B%25B4%25E3%2581%2599%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2580%2581%25E8%25AA%25AD%25E3%2581%25BF%25E8%25BE%25BC%25E3%2581%25BF%25E7%259B%25B4%25E3%2581%259B%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:jasagiri%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvai5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "TUTORIAL",
-    "summary": "# 開発者向け：型パズルとホットコードリロードの解決方法\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n## テーマ：記事が扱う課題や技術は何か\nこの記事は、Nim 2 のマクロと TypeScript の型パズルに関する問題の解決方法を示しています。特に、型の変更を直さずに読み込み直し続けることで、コードの動作を維持する仕組みについて解説しています。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nNim の型パズルを解消するために、マクロで新しい型を定義し、HCR で確認した結果を示します。これにより、値から型を計算するのではなく、型を直接記述することで、コードの動作を維持できます。また、この仕組みは TypeScript にも適用可能であり、性能の面で重要ですが、Nim の場合の弱点として注意が必要です。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n課題は、型の変更を直さずに読み込み直し続けることでコードの動作を維持する問題です。これを解決するために、以下の手順と技術が採用されています。\n\nまず、Nim 2 のマクロで新しい型を定義します。これにより、型パズルに当たる構文が存在します。次に、`defParams` や `derivePatch` を使用して、経路の文字列に基づいて型を作成します。最後に、読み込み直しを行うモジュールを構築し、ビルド直しを行います。\n\n具体的な例として、`UserPatch` という新しい型を作成し、経路 `/user/:id` を指定することで、値から型を計算するのではなく、型を直接記述する仕組みが導入されています。これにより、型の変更は記憶の形に影響せず、動作維持が可能です。\n\n## 本文に情報がない項目は推測せず「本文に記載なし」としてください\n本文には、具体的なコードの詳細やテスト結果の記載はありませんでした。ただし、一般的な解決策として挙げられたマクロの定義と、読み込み直しを行うモジュールの構造については、文脈から推測されています。\n\n要約本文:",
-    "imageUrls": []
-  },
-  {
-    "id": "dfe0a47ec8b88c51",
-    "title": "図書館の蔵書目録のためのルビエンジン「カーリル Furikake」をリリースしました",
-    "url": "https://blog.calil.jp/2026/11/furikake.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T01:36:31.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.calil.jp%2F2026%2F11%2Ffurikake.html",
-    "category": "RELEASE",
-    "summary": "# 課題と解決方法：カーリル Furikake のルビ機能導入\n\n**テーマ**: 図書館の蔵書検索における書名・著者名の読み誤り問題\n**結論**: カリルは商用 LLM を活用した形で、誤ったルビを修正し、検索精度とコストを大幅に改善する提案\n**方法**: 形態素解析によるヨミの補正と、事前処理された LLM で書名の読み直しの組み合わせ\n\n本文では、図書館の蔵書検索において「書名が読めない」という課題が指摘され、データには正確なルビ（ヨミ）が記録されていますが、画面に表示する際に誤りが生じてしまう問題があります。この解決策は、カーリルが開発した「カーリル Furikake」システムです。\n\nまず、問題の背景と技術の仕組みについて説明します。図書館のデータには書名の「ヨミ」という記述が含まれていますが、そのまま表示すると読みにくくなるため、形態素解析を用いて読み直しの候補を生成し、書名とヨミを組み合わせます。また、LLM を活用して誤りを減らし、処理速度とコストを最適化します。\n\n評価テストでは、誤り率が 0.1% に下がり、正確性が確保されました。ただし、処理時間は 2〜4 秒となり、実運用には遅すぎることがあります。そこで、事前一括処理の必要性を考慮し、システム全体にルビを反映させる仕組みが設計されています。\n\n最終的に、この技術は公共図書館の蔵書検索サービスへの導入を目指しており、実際のユースケースを設計したバージョン 1 のリリースを予定しています。これにより、読者が検索する際にストレスを減らし、よりスムーズなアクセスが可能になります。",
-    "imageUrls": [
-      "https://blog.calil.jp/wp-content/uploads/2026/11/furikake-eyecatch-825x510.png",
-      "https://blog.calil.jp/wp-content/uploads/2026/11/furikake-yomi-display.png",
-      "https://blog.calil.jp/wp-content/uploads/2026/11/furikake-perf-cov.png",
-      "https://blog.calil.jp/wp-content/uploads/2026/11/furikake-perf-speed.png",
-      "https://blog.calil.jp/wp-content/uploads/2026/11/furikake-perf-cost.png",
-      "https://blog.calil.jp/wp-content/uploads/2026/11/furikake-calil-book.png",
-      "https://blog.calil.jp/wp-content/uploads/2026/11/furikake-gk-demo.png"
-    ]
-  },
-  {
-    "id": "e0893a5976565eba",
-    "title": "ドコモ不正アクセスで「本人確認書類の番号」も流出　見舞金検討",
-    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003000/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T01:33:40.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F09%2F2000003000%2F",
-    "category": "RELEASE",
-    "summary": "業界動向として、NTTドコモは個人・法人の個人情報や契約内容の漏洩に懸念を提起しているという問題が報告された。調査結果では、11 月 6 日に「My docomo」というサイトでの不正アクセスを試み、5 日午前 1 時 5 分ごろ手続きを停止する方針を策定している。復旧の具体的な手順についてはまだ未定となっている。詳細な流出範囲や原因については引き続き調査中であることが明記されているが、今後の対応について詳しく知りたい場合は直接問い合わせる必要がある。",
-    "imageUrls": [
-      "https://www.itmedia.co.jp/news/article/image/2611/09/2000003000/10011574/728"
-    ]
-  },
-  {
-    "id": "f4a3a9ae3d931e88",
-    "title": "ヤマハからついに! 小型でも“中身はガチHi-Fi”ストリーミングアンプ「WXA-70A」。机やTVで使ってみた[Sponsored]",
-    "url": "https://av.watch.impress.co.jp/docs/topic/special/2145430.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T01:21:28.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fav.watch.impress.co.jp%2Fdocs%2Ftopic%2Fspecial%2F2145430.html"
-  },
-  {
-    "id": "93ac6edb2b889915",
-    "title": "LIFF初期化をUIから分離して、LINE内・外部ブラウザの両方で壊れにくくする",
-    "url": "https://zenn.dev/shige7000/articles/e022100e15dc93",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-09T01:19:21.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--qSkI1vMN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LIFF%25E5%2588%259D%25E6%259C%259F%25E5%258C%2596%25E3%2582%2592UI%25E3%2581%258B%25E3%2582%2589%25E5%2588%2586%25E9%259B%25A2%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581LINE%25E5%2586%2585%25E3%2583%25BB%25E5%25A4%2596%25E9%2583%25A8%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25AE%25E4%25B8%25A1%25E6%2596%25B9%25E3%2581%25A7%25E5%25A3%258A%25E3%2582%258C%25E3%2581%25AB%25E3%2581%258F%25E3%2581%258F%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2595%25B7%25E6%25B4%25B2%25E6%25B8%25AF%25E7%2594%25BA%25E9%259B%25BB%25E6%25B0%2597%25E5%25B7%25A5%25E4%25BA%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjODk2OTBhMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "TUTORIAL",
-    "summary": "LINEミニアプリをWebアプリとして実装する際、直訳調を避けた自然な日本語で要約します。\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\nLINEミニアプリをWebアプリとして実装すると、同じURLが次の複数環境で開かれます。LINE内のLIFFブラウザや外部ブラウザの審査・開発用の直接URL UIコードがLIFF SDKへ直接依存していると、初期化失敗や画面全体が止まりやすくなります。そこで、LIFFとの接続を小さなアダプターへ分離します。目標 アプリ側は「LINE内か」「共有できるか」といった状態だけを受け取り、LIFF APIを直接呼ばない構成にします。\n\n主要な解決策として、共通インターフェースを定義し、コンポーネントから直接呼びません。起動環境や権限によって変わるAPIを判定してから実行します。外部ブラウザ用アダプターを用意し、基本機能を維持できます。起動処理でフォールバックを適用し、ローディング画面をSDKに依存させないHTMLに最低限の起動画面を置いておくと、JavaScriptの読み込みが遅い場合も真っ白になります。\n\n環境設定をビルドから分離する仕組みを採用し、秘密情報はブラウザへ公開してよい値だけ設定します。テスト観点では初期化失敗時に通常Web版が起動し、共有APIが使えない環境でもゲーム進行が止まらないことが確認されます。まとめとして、UI全体をLIFF SDKへ結び付ける必要はありません。プラットフォーム依存部分を境界へ集めると、審査環境の切り替えや障害時のフォールバックが扱いやすくなります。\n\n本文に記載なしの重要な情報は、LINEミニアプリのWeb実装におけるライブラリ依存と、環境設定の分離といった点に留めています。",
-    "imageUrls": []
-  },
-  {
-    "id": "cf7c01d4b8cf29f5",
-    "title": "【一本勝負】ノー勉AWS全冠、SAP-C03初日も通用するのか【検証企画】",
-    "url": "https://qiita.com/kaga-yasumitsu/items/0221f14494975892d66a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-09T00:56:17.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "8b8214c17b4de839",
-    "title": "ドコモオンラインショップとMy docomoへの不正アクセスについてまとめてみた - piyolog",
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/09/090504",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T00:46:26.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F09%2F090504",
-    "category": "RELEASE",
-    "summary": "# ドコモのセキュリティ対策と対応\n\n## テーマ：記事が扱う課題や技術は何か\nドコモは、オンラインショップと My docomo の不正アクセスで顧客情報の流出を調査し、安全な運用を徹底しました。攻撃経路は特定されず、AI エージェントの活用状況も調査中です。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nドコモは、外部からの不正アクセスを遮断し、システム改修と安全性の確認を完了した上で再開しました。個人顧客向けに SMS やダイレクトメールなどの通知を施し、不審なメールや購入の危険性を警戒させる方針をとっています。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n攻撃経路は特定されず、既存の仕組みの組み合わせを突いたものであり、API を直接狙ったものではありません。システム自体の不具合ではないため、既存の仕組みを突いたものです。セキュリティ対策として、外部からのアクセスを遮断し、関連システムの連動を悪用を防止しました。\n\n本文には、個人契約の金額や解約手続きの詳細については情報がないため、詳細は補足できません。",
-    "imageUrls": [
-      "https://cdn-ak.f.st-hatena.com/images/fotolife/p/piyokango/20261109/20261109032417.png"
-    ]
-  },
-  {
-    "id": "f2676fb23c1d7ae1",
-    "title": "Release v1.65.0 · microsoft/playwright",
-    "url": "https://github.com/microsoft/playwright/releases/tag/v1.65.0",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-09T00:19:29.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fplaywright%2Freleases%2Ftag%2Fv1.65.0"
-  },
-  {
-    "id": "c68db6564d071ece",
-    "title": "AIが「最安」を選び続ける世界は幸せなのか? Museが買い物を担う未来【西田宗千佳のイマトミライ】",
-    "url": "https://www.watch.impress.co.jp/docs/series/nishida/2154614.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-08T23:24:01.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fseries%2Fnishida%2F2154614.html",
-    "category": "GENERAL",
-    "summary": "# AI エージェントとお金について：未来への変化とリスク\n\n## 課題と技術\n現在、常時動作型 AI エージェントに依存する生活スタイルが確立されています。特に Meta の Muse を中心としたサービスは、無料で利用可能であり、日本でも急速に普及しています。このサービスの特徴は、自動提案を通じてユーザーのニーズを認識し、適切なサービスを提供することです。\n\n## 結論\nAI エージェントとお金の関係において、自動化による効率化と安心感の両面があります。しかし、価格戦略や公平性の問題が懸念されます。将来、最適化されたサービスへの移行が必要となるでしょう。\n\n## 方法\n課題は、自動購入や契約変更における安全性と公平性を確保することです。現在、決済サービスの連携や自動購入の規制について議論されています。AI の利用において、人間の判断を補完しつつ、安全な仕組みを構築することが重要です。\n\n本文には具体的な技術的詳細や予測データはありませんが、現状のトレンドと課題をまとめました。",
-    "imageUrls": [
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/614/m07_s.jpg",
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/614/m01_s.jpg",
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/614/al03_s.jpg",
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/614/m02_s.jpg",
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/614/m03_s.jpg",
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/614/m04_s.jpg",
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/614/m06_s.jpg",
-      "https://asset.watch.impress.co.jp/img/ipw/docs/2154/614/m05_s.jpg"
-    ]
-  },
-  {
-    "id": "24cbec5f6cd5538d",
-    "title": "集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方",
-    "url": "https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-08T23:21:58.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "44b98360796d695e",
-    "title": "ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？",
-    "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-08T23:17:44.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Faiplus%2Farticle%2F2611%2F09%2F2000002916%2F",
-    "category": "TROUBLESHOOT",
-    "summary": "# 医療現場における AI の活用：ローカル LLM と業務効率化\n\n**テーマ**: 医療現場での AI の導入と業務効率化\n**結論**: 医療機関はクラウドの AI サービスを利用するのではなく、院内でローカル LLM を構築し、診療プロセスを自動化することで業務効率化を図るべきである。\n**方法**: 医師が実際に予約システムや問診票の処理を実践し、Mac Studio の導入により、音声認識と画像認識の自動化を実現した事例を報告した。\n\n本文では、医療情報処理における AI の課題として、クラウドサービスとの比較検討が挙げられる。しかし、患者の機微な情報を保護するためには、ガイドラインを満たす必要があるため、AI の利用はハードルが高い。本郷真砂ハートクリニックでは、村岡洋典氏が開発したローカル LLM を基に、予約システムと問診票の自動化を実現した事例が紹介された。この導入により、事務員 1 人分の業務を担え、患者数増加への対応を支えることが可能であるという結論が示された。また、医療用語や専門用語の誤解を防ぐため、補助的な役割としてのみ利用する方針も強調された。",
-    "imageUrls": [
-      "https://www.itmedia.co.jp/aiplus/article/image/2611/09/2000002916/10011406/728",
-      "https://www.itmedia.co.jp/aiplus/article/image/2611/09/2000002916/10011559/728",
-      "https://www.itmedia.co.jp/aiplus/article/image/2611/09/2000002916/10011408/728",
-      "https://www.itmedia.co.jp/aiplus/article/image/2611/09/2000002916/10011411/728",
-      "https://www.itmedia.co.jp/aiplus/article/image/2611/09/2000002916/10011412/728"
-    ]
-  },
-  {
-    "id": "44df77e6aa351660",
-    "title": "【魔法少女マンガ】データのそばに、AIを！ ～ベクトル検索からエージェントまで～",
-    "url": "https://qiita.com/yuji-arakawa/items/0c98326c8ffdfc6260a2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-08T23:11:01.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "5afc868cfa87abfd",
-    "title": "MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と",
-    "url": "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-08T23:06:35.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fmcpmcpruby_sdkmcp_sdk_tier_1.html",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：MCP 仕様策定によるRuby SDK の進化\n\n## 課題と技術の概要\n開発者向けに、直訳調を避けた自然な日本語で350〜450 文字を目安に要約します。\n\n## 結論\nMCP 仕様策定により、Ruby 開発者はステートレスな接続を含む全機能を利用できるようになり、本番環境への安心性が高まっています。次期サポートも 2027 年 3 月下旬で約束されています。\n\n## 方法\nMCP SDK の進化は、Ruby SDK のバージョンアップとプロトコル実装の対応に依存しています。現在、Tier 1 はすべてサポートされており、Ruby を TypeScript や Python など他の言語に対応する標準化された環境となっています。\n\n本文には、MCP 仕様策定による機能拡張やバージョン更新の詳細が記載されていますが、特定の詳細な技術的プロセスについては記述されていません。",
-    "imageUrls": [
-      "https://www.publickey1.jp/2026/mcpsdk4ruby-tier1.png"
-    ]
-  },
-  {
-    "id": "dca2866e51e8a67c",
-    "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査　本人は不倫認め謝罪",
-    "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-08T23:05:32.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F09%2F2000002998%2F",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：NVIDIA 創業者調査結果と対応方針\n\n**テーマ**: 米NVIDIA 創業者ジェンスン・フアン氏が国家安全機関との協力関係に関する報道\n**結論**: 米当局は NVIDIA の機密情報を保護するため、独立調査を呼びかけ、企業への信頼を維持する方針を示している\n**方法**: 取締役会が調査の進展に応じて追加情報を公表し、CEO は協力を約束している\n\n本文では、米NVIDIA 創業者ジェンスン・フアン氏が中国情報機関と協力関係にある疑いについて報道された。米下院の外交委員会は、この関係性を確認するよう要請した。調査は独立した法律顧問の支援を受け、現時点で確認されていないが、機密情報の保護を優先する方針である。CEO は企業への信頼を表明し、従業員向けのメッセージで謝罪と責任を認めた。今後の調査結果について公開される予定だ。",
-    "imageUrls": [
-      "https://www.itmedia.co.jp/news/article/image/2611/09/2000002998/10011567/728",
-      "https://www.itmedia.co.jp/news/article/image/2611/09/2000002998/10011568/728"
-    ]
-  },
-  {
-    "id": "6f86f459a759d903",
-    "title": "ロシア統計局サイトをハッキングしたグループが戦死者数を推計 : ユーラシアリサーチ　服部倫卓ブログ",
-    "url": "https://www.hattorimichitaka.net/archives/60132544.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-08T23:00:13.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.hattorimichitaka.net%2Farchives%2F60132544.html",
-    "category": "TROUBLESHOOT",
-    "summary": "# ロシア統計局ハッキング問題の推計と影響\n\nロシア統計局のウェブサイトがハッキングされた結果、戦死者数の推計が行われた。この情報はサイバーパルチザンとサイレントクロウという2つのグループによる攻撃によって得られた。これらのグループは約23テラバイトのデータを受け取り、戦争関連の死者数などを分析した。しかし、統計局は情報流出を否定している一方で、一部のコンテンツ表示の問題が発生し、影響が残る可能性が指摘されている。\n\n具体的な解決方法は、既存の調査結果と比較して誤った推計を修正する必要がある。メディアゾーナやBBCなどの独立系メディアとの比較により、正確な戦死者数は約28万5,881人であることが確認された。また、サイバー攻撃後のデータ分析では、民間人を含み、未記載の死者も存在する限界があるという課題が指摘されている。\n\n再発防止の要点として、公開情報の照合や多様な調査機関との連携を強化し、新たな死亡事実の発見を防ぐことが重要である。現在、英誌エコノミストによる推計では、人的損失は9万4,000人から25万2,000人まで増加しているという状況も注目されている。正確な数字を把握する上で、今後の調査と情報の公開体制の改善が求められる。",
-    "imageUrls": [
-      "https://livedoor.blogimg.jp/httrmchtk/imgs/5/3/53263392-s.png",
-      "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5319/9784065455319_1_3.jpg?_ex=200x200"
-    ]
-  },
-  {
-    "id": "65ad8e6f85917662",
-    "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
-    "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-08T22:49:48.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.techno-edge.net%2Farticle%2F2026%2F11%2F09%2F5686.html",
-    "category": "RELEASE",
-    "summary": "# 課題と技術の概要\n\n開発者側は、個人運営するメディア「Seamless」が、既存のウェブサイトやアプリ、ゲームの仕組みを解析し、AI を活用して類似バージョンを自動生成するツール「Craft Anything」を開発しています。このツールは、特定の対象を指定して「Study」「Build」「Check」「Ready」の 4 つのステップで新しいプロジェクトを自動生成します。\n\n技術的には、外部 AI エージェント（例：Claude Code）と連携し、ソースコードやレイアウトから作業を行います。また、デスクトップアプリだけでなく、コマンドラインや MCP サーバーも機能しており、自動的にビルドを行えます。\n\nツールは「Simple」という簡易版と、「Advanced」のフル機能版を 2 つ提供しています。また、解析方法として「外から観察」「中まで解析」の 2 つがあり、オープンソースとして MIT や Apache-2.0 のライセンスで公開されています。\n\n## 結論\n\nこのツールは、既存のデジタルコンテンツを分析し、AI を活用してオリジナルの類似バージョンを作成するオープンソースソリューションです。開発者は、特定の機能や設定を調整することで、ユーザーにとってより実用的なサービスを提供しています。\n\n## 方法\n\n課題解決の仕組みは、既存のウェブサイトやアプリの構造を解析し、その要素を AI に組み合わせて新しいプロジェクトを生成します。このプロセスには、外部 AI エージェントとの連携、スクリーンショットの分析、レイアウトの確認など、多段階的な処理が必要です。また、異なる環境（デスクトップアプリやコマンドライン）に対応する機能も備えられています。\n\n## 追加機能と影響\n\n追加機能として、「Unlimited OCR 2」と「Nemotron 3.5 Transcribe」などのローカル AI を活用した解析エンジンが導入されています。これにより、より高精度なテキスト解析や音声認識が可能になります。また、利用者はこれらのツールを組み合わせることで、より柔軟なコンテンツ生成が可能です。対象バージョンは現在公開されており、幅広いユーザー層に利用可能です。",
-    "imageUrls": [
-      "https://www.techno-edge.net/imgs/img_v/7680.png",
-      "https://www.techno-edge.net/imgs/zoom/35384.jpg",
-      "https://www.techno-edge.net/imgs/zoom/35385.png",
-      "https://www.techno-edge.net/imgs/zoom/35386.jpg",
-      "https://www.techno-edge.net/imgs/zoom/35387.png",
-      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/35337.png",
-      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/34736.png",
-      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/35261.png",
-      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/35072.jpg"
-    ]
-  },
-  {
-    "id": "b5fefaf1552064df",
-    "title": "無料の画像生成AI「P-H3-Image」がすごい　参照画像1枚で同じ人物を自在に再現 (1/4)",
-    "url": "https://ascii.jp/elem/000/004/449/4449576/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-08T22:35:32.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fascii.jp%2Felem%2F000%2F004%2F449%2F4449576%2F",
-    "category": "TUTORIAL",
-    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：技術と課題**\nP-H3-Image というオープンウェイトモデルは、動画モデルのMiniMax H3 を基に最適化された画像生成システムです。このモデルは蒸留や改修を通じて多様な画像表現が可能であり、参照画像を読み込ませるとキャラクターの一貫性が保たれます。ただし、元の弱点として、小さな文字が崩れることが指摘されています。これにより、実際の生成時にプロンプトの精度を考慮することが重要です。\n\n**結論：推奨事項**\n参照画像との一貫性を確保しつつ、服装やシチュエーションを変更する際に注意が必要です。GPT-6 Astra のプロンプト生成では、人物の特徴を補足することで反映されることが示されています。特に、文字崩れを防ぐための詳細な指示は必須です。\n\n**方法：手順と仕組み**\nP-H3-Image は、参照画像を指定し、キャラクターの服装やシチュエーションを維持しながら生成します。プロンプトには英語で具体的な表現を行うことで、より正確な結果を得られます。例えば、コーヒーを飲んでいるシーンのプロンプトでは、顔の特徴やレイヤードスタイルを明確に記載することで、再現性が向上します。また、異なる服装やシチュエーションを切り替える際も、参照画像との一貫性を維持する仕組みが機能しています。\n\n本文の長さを考慮し、専門用語は短く説明しています。最終的に、秋の画像の参考プロンプトを掲載しており、多モーダルモデルとの比較を通じて、実用的な活用方法を提示しています。",
-    "imageUrls": [
-      "https://ascii.jp/img/2026/11/09/4549432/l/ab1f3438732f621b.png",
-      "https://ascii.jp/img/2026/11/09/4549433/l/0b376b68e75a761e.jpg",
-      "https://ascii.jp/img/2026/11/09/4549434/l/e9847654b0eaa269.jpg",
-      "https://ascii.jp/img/2026/11/09/4549435/l/0765bd17535ef600.png",
-      "https://ascii.jp/img/2026/11/09/4549436/l/be6b33ac7c03c8e8.jpg",
-      "https://ascii.jp/img/2026/11/09/4549437/l/987aa31055f523d0.jpg"
-    ]
-  },
-  {
-    "id": "8e36d3a4b66929da",
-    "title": "WEBで画像を破くツールを作った",
-    "url": "https://qiita.com/ishi720/items/6d13fdce2a31fe630840?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-08T21:44:47.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "90f3db01626ec2df",
-    "title": "ターミナル用ライブラリ［Libghostty 1.0」リリース。Windows版マルチプレクサ「Rex」もまもなく登場予定",
-    "url": "https://www.publickey1.jp/blog/26/libghostty_10windowsrex.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-08T21:14:27.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Flibghostty_10windowsrex.html",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：Libghostty のリリースと新しい機能\n\n## テーマ：記事が扱う課題や技術は何か\n「Ghostty」のコア部分を汎用ライブラリ化した「Libghostty 1.0」正式版がリリースされました。これは、HashiCorp 創業者ミッチェル・ハシモト氏が開発してきたソフトウェアです。これにより、高性能なターミナルエミュレータを簡単に実現できます。また、Mac、Linux、Windows など複数のプラットフォームに対応しており、既存の製品との併用も可能です。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nLibghostty を採用することで、新しいマルチプレクサ「Rex」の Windows 対応版が発表されています。これにより、既存のターミナルエミュレータと併用できる高品質なソリューションが実現されます。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n開発者は、Ghostty のコア部分を C 言語による汎用ライブラリとして「Libghostty」に置き換えることで、新しいプラットフォームに対応可能になりました。また、Neovim や KDE のケースも同様の対応が進められています。さらに、Superlogical の企業により、複数のセッションを同時に扱うマルチプレクサ「Rex」の Windows 対応版がリリースされました。\n\n## 本文に情報がない項目は推測せず「本文に記載なし」としてください\n本文には、開発者向けへの推奨や具体的な運用手順の詳細な技術仕様などは記載されていません。ただし、Libghostty の採用により新しい機能とマルチプレクサの導入が明確です。",
-    "imageUrls": []
-  },
-  {
-    "id": "84e5deb81142efdd",
-    "title": "部品の脆弱性は、どこまで広がるのか？ 主要 64 製品と 8 部品の依存関係をたどったら、OpenSSL は 20、SQLite は 16、PHP は 11 だった",
-    "url": "https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-08T19:10:12.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "# 課題と解決方法：ソフトウェア部品の脆弱性調査\n\nAI は広く使われるソフトウェアの脆弱性を発見し、Google の Big Sleep、OpenSSL の脆弱性など複数のリスクを特定しました。日本政府は 2026 年 5 月の Project YATA-Shield で、より高速かつ大量に脆弱性を検知する対策を強化するよう求められています。\n\n## 課題と解決方法\nソフトウェア部品（コンポーネント）の依存関係を確認する「IT連携マップ」を活用し、製品名だけでなく下位のコンポーネントまで一覧化しました。この方法は、1 つの部品の脆弱性がどの製品に波及するかを数えることで、全体への影響範囲を把握します。\n\n## 結論\n1 つの部品の脆弱性は、多くの製品に広がりうる可能性があります。例えば、OpenSSL の脆弱性は 20 個の製品に影響し、SQLite は 16 個、Brotli は 13 個など。中小企業は自社の技術を特定するために、依存関係一覧を確認する必要があります。\n\n## 方法\n調査ページに配置された依存関係一覧と、関連図を用いて分析します。特に、製品名だけでなく下位のコンポーネントのリストを確保することで、影響範囲を正確に推測できます。政府や経済産業省は SBOM（ソフトウェア部品表）の導入を推奨し、リスクの低減を図っています。",
-    "imageUrls": [
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.renkeimap.jp%2Ff%2Fshot-security-graph-wp.6b5ca842.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=40de735a07c91c1f7033092e42f0de1c"
-    ]
-  },
-  {
-    "id": "0da23863b1bf3443",
-    "title": "Googleの開発者「Gemini使えば時オカリメイクをiPhone Duoで遊べるよ！」→炎上 : ゴールデンタイムズ",
-    "url": "https://goldennews.blog.jp/archives/52310046.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-08T18:08:36.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgoldennews.blog.jp%2Farchives%2F52310046.html",
-    "category": "RELEASE",
-    "summary": "開発者向けに直訳調を避けた自然な日本語で、350〜450 文字の要約です。\n\n本記事は、Google AI Studio の開発者向けプラットフォーム「Gemini」に関する技術的な議論と、ゲームコピーやエミュレーターに関する法律問題について触れています。主要な課題として、アメリカの法律では個人での改変や公開利用が違法であることが指摘され、日本との比較も行われています。また、ゲーム開発における著作権意識の変化や、AI 技術によるエミュレーターの進化に伴うリスクについても議論されています。\n\n結論として、開発者は自己責任で活動するべきであり、法律の枠組みを踏まえて活動を行う必要があります。しかし、特定の権利侵害や違法行為には注意が必要です。\n\n方法としては、法律の明確な基準を把握し、個人での使用や改変を適切に行うことが推奨されます。技術的な課題は、AI によるエミュレーターの進化と、その影響を考慮した設計が必要となります。最終的には、開発者の責任と社会の規範を両立させることが重要です。",
-    "imageUrls": [
-      "https://m.media-amazon.com/images/I/71oHy0aRxBL._UL420_.jpg"
-    ]
-  },
-  {
-    "id": "0d415288aaf69d6e",
-    "title": "GitHub - meta/astryx: An open source design system that's fully customizable and agent ready",
-    "url": "https://github.com/meta/astryx",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-08T17:02:23.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.com%2Fmeta%2Fastryx"
-  },
-  {
-    "id": "e5afa8b6bed20d5e",
-    "title": "人生タイムライン",
-    "url": "https://ltimeline.com/ja/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-08T15:27:37.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fltimeline.com%2Fja%2F",
-    "category": "GENERAL",
-    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 記事の主題、重要な技術的ポイント、開発者にとっての意味を中心にまとめてください。\n\n見本：架空の人「ハナ」の人生タイムライン1992年生まれ・女性・日本\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 記事の主題、重要な技術的ポイント、開発者にとっての意味を中心にまとめてください。\n\n見本：架空の人「ハナ」の人生タイムライン1992年生まれ・女性・日本\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点:",
-    "imageUrls": []
-  },
-  {
-    "id": "ada5a278ba11f2ee",
-    "title": "[スタパ齋藤の「スタパトロニクスMobile」] フロッピーディスク型SSDケースで物欲が大爆発！　必要ないけど超欲しいレトロガジェットを買いまくりッ!!!",
-    "url": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2153725.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-08T15:07:52.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fstapa%2F2153725.html",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：直訳調を避けた自然な日本語要約\n\n## テーマ：フロッピーディスクスタイルの設計機能とSSDケースの導入\n本文では、HAGiBiS製品が持つ「詩的機能」という独自の設計特性について解説されています。この設計は、単なる物理的な構造ではなく、情緒的な体験を喚起するものです。例えば、M.2 NVMe SSD をセットしたケースは、従来のハードウェアとしての機能に加え、過去の記憶や事実を思い起こすような心理的な効果を生み出します。デザイン上の要素（カラーバリエーション、質感）が、ユーザーの感情や行動に直接的な影響を与えます。\n\n## 結論：設計による心理的体験と実用的な活用\nHAGiBiSの製品は、単なるストレージケースとして機能しますが、使用する際にも「過去を振り返る」ような心理的効果を持ちます。これにより、ユーザーが購入した製品をより意識させ、感情を揺さぶるという特徴があります。また、この設計は他の製品との対比で優れていると評価されており、特にデザイン的な魅力が高く、実用品としての価値も確認されています。\n\n## 方法：設計の詩的機能と多用途な活用\n本文では、HAGiBiSの製品が持つ「設計における詩的機能」について詳しく解説されています。この機能は、色や形、質感を通じて情緒的な体験を喚起します。また、この設計は他の製品との対比で優れていると評価されており、特にデザイン的な魅力が高く、実用品としての価値も確認されています。さらに、この設計は多用途な活用が可能です。例として、SDカードリーダーの設計も同様に「詩的機能」を持ちます。\n\n本文では、HAGiBiSの製品が持つ「詩的機能」という独自の設計特性について詳しく解説されています。この設計は、単なる物理的な構造ではなく、情緒的な体験を喚起するものです。例えば、M.2 NVMe SSD をセットしたケースは、従来のハードウェアとしての機能に加え、過去の記憶や事実を思い起こすような心理的な効果を生み出します。デザイン上の要素（カラーバリエーション、質感）が、ユーザーの感情や行動に直接的な影響を与えます。\n\nまた、この設計は他の製品との対比で優れていると評価されており、特にデザイン的な魅力が高く、実用品としての価値も確認されています。さらに、この設計は多用途な活用が可能です。例として、SDカードリーダーの設計も同様に「詩的機能」を持ちます。",
-    "imageUrls": [
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_a01_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_a02_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_a03_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_a04_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_a05_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_a06_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_a07_l.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_b01_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_b02_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_b03_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_b04_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_b05_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_b06_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_b07_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_b08_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_b09_l.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_c01_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_c02_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_c03_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_c04_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_c05_l.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_c06_l.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_d01_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_d02_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_d03_m.jpg",
-      "https://asset.watch.impress.co.jp/img/ktw/docs/2153/725/stptncs2026-11-09_d04_m.jpg",
-      "https://m.media-amazon.com/images/I/31fvhW-WcQL._SL160_.jpg",
-      "https://m.media-amazon.com/images/I/31-xtzhay4L._SL160_.jpg",
-      "https://m.media-amazon.com/images/I/41Gx9snzO-L._SL160_.jpg",
-      "https://m.media-amazon.com/images/I/41AIhh3MroL._SL160_.jpg"
-    ]
   }
 ]
