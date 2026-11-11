@@ -5,8 +5,11 @@
     "url": "https://zenn.dev/shige7000/articles/893b0f921e5595",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-11T04:59:09.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Hh3Hspre--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B5%258C%25E5%2596%25B6%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E6%2588%2590%25E9%2595%25B7%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2582%2592%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259A%25E5%25A0%25B1%25E9%2585%25AC%25E3%2583%25BB%25E6%258A%2595%25E8%25B3%2587%25E3%2583%25BB%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%25E3%2583%25BB%25E6%25AC%25A1%25E3%2581%25AE%25E7%259B%25AE%25E6%25A8%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2595%25B7%25E6%25B4%25B2%25E6%25B8%25AF%25E7%2594%25BA%25E9%259B%25BB%25E6%25B0%2597%25E5%25B7%25A5%25E4%25BA%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjODk2OTBhMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Hh3Hspre--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B5%258C%25E5%2596%25B6%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E6%2588%2590%25E9%2595%25B7%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2582%2592%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259A%25E5%25A0%25B1%25E9%2585%25AC%25E3%2583%25BB%25E6%258A%2595%25E8%25B3%2587%25E3%2583%25BB%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%25E3%2583%25BB%25E6%25AC%25A1%25E3%2581%25AE%25E7%259B%25AE%25E6%25A8%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2595%25B7%25E6%25B4%25B2%25E6%25B8%25AF%25E7%2594%25BA%25E9%259B%25BB%25E6%25B0%2597%25E5%25B7%25A5%25E4%25BA%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjODk2OTBhMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "経営ゲームの発展において、単なる金額増加だけでなく、プレイヤーの行動や満足度を高めるための戦略的アプローチが重要です。本記事では、「猫のPC工房」の店舗成長システムを例に示し、資金、実績、評判の 3 つの指標を組み合わせることで、プレイヤーへ異なる改善目標を示すことが可能です。店舗拡張には、資金の確保と納品の品質、評価の向上を同時に考慮する設計が採用されています。特に、投資効果は次のプレイへ返還する仕組みにより、成長の体験を直感的に理解できます。また、資金や実績、評判のメーターを用いて進捗を可視化し、外観と数字の両方をバランスよく表現することで、目標達成感を高めることができます。さらに、機能の拡張軸としてスタッフ雇用や展示台への投資など、実装例も提供されています。最終的には、機能を増やすだけでなく、プレイヤーの行動や満足度を向上させる「次のプレイへの投資」に焦点を当てることが重要です。",
+    "imageUrls": []
   },
   {
     "id": "2d124f931806e8bd",
@@ -14,8 +17,14 @@
     "url": "https://zenn.dev/plus_blog/articles/claude-code-mods-pr-status",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-11T04:48:17.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--bFL9DEr---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AEMod%25E3%2581%25A7%25E3%2580%2581GitHub%25E3%2581%25AB%25E7%25A7%25BB%25E5%258B%2595%25E3%2581%259B%25E3%2581%259A%25E4%25BD%259C%25E6%25A5%25AD%25E3%2581%2597%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AEPR%25E3%2582%2592%25E7%25A2%25BA%25E8%25AA%258D%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ao%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBjM2Y3NTA0MTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E7%25B5%25B1%25E6%258B%25AC%25E9%2583%25A8%25E9%2596%2580%25E3%2580%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%25E7%25B7%25A8%25E9%259B%2586%25E5%25AE%25A4%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvcC5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--bFL9DEr---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AEMod%25E3%2581%25A7%25E3%2580%2581GitHub%25E3%2581%25AB%25E7%25A7%25BB%25E5%258B%2595%25E3%2581%259B%25E3%2581%259A%25E4%25BD%259C%25E6%25A5%25AD%25E3%2581%2597%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AEPR%25E3%2582%2592%25E7%25A2%25BA%25E8%25AA%258D%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ao%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBjM2Y3NTA0MTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E7%25B5%25B1%25E6%258B%25AC%25E9%2583%25A8%25E9%2596%2580%25E3%2580%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%25E7%25B7%25A8%25E9%259B%2586%25E5%25AE%25A4%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvcC5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：開発効率化のためのツール導入**\nこの記事は、GitHub のタブ管理やレビュー確認の手間を減らすために、Claude Code を拡張する「Mod」機能を紹介しています。従来の hooks とは異なり、Mod は Claude Code のエンジンに直接読み込まれ、画面の描画や状態保持、コマンド追加などを統合できます。これにより、開発者が自身の PR の CI とレビュー状況をリアルタイムで確認できる仕組みが実現されました。\n\n**結論：開発効率化のための機能導入**\nMod を導入することで、開発者の作業フローを劇的に改善できます。特に、複数の PR を並行して管理する際に、どの PR が落ちているかを迅速に把握し、修正を容易にできるようにします。これにより、開発時間の削減とエラーの発生防止が期待されます。\n\n**方法：機能の仕組みと使い方**\nMod は、イベントごとに関数を登録して動作します。画面への描画や状態保持を通じて、ユーザーが操作したコマンドやツールを反映させます。特に、`tool.call` で特定のコマンドを実行し、結果を確認する機能があります。また、設定ファイルの書き換えやセッション管理などの機能も含まれています。利用例として、GitHub のタブ管理機能を拡張し、PR の状況を確認するパネルを作成しました。\n\n本文には具体的なコードの詳細は記載されていませんが、Mod の基本構造と機能は説明されています。実際の運用においては、個人権限でのファイル操作やネットワーク通信が可能ですが、組織ポリシーとの整合性確認が必要です。また、機能の処理時間制限についても注意すべき点があります。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/9d00de80b24c3026075a2c99.png?sha=d5a6a7bb7f7df955ac7678950f3f41e4db1b23e7",
+      "https://static.zenn.studio/user-upload/deployed-images/3190669c8223cfbc714995f8.png?sha=698a388cbe6ac698670049c4e07c01763d0dcea8"
+    ]
   },
   {
     "id": "7d39a1ad5bc71541",
@@ -23,8 +32,13 @@
     "url": "https://piyolog.hatenadiary.jp/entry/2026/11/11/125745",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T04:18:22.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F11%2F125745"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F11%2F125745",
+    "category": "RELEASE",
+    "summary": "# Notion AI のセキュリティインシデント対応\n\n**テーマ**: Notion AI のセキュリティインシデントと対応\n**結論**: Notion は、Fireworks アカウントへの影響を停止し、チャット記録の分析を行い、顧客データ保護を強化する方針を示している。\n**方法**: 認証情報のローテーション、システム接続遮断、側バーのレビュー機能利用、データの公開リンク作成など\n\n本文では、2026 年 11 月 9 日に Fireworks アカウントへの侵入が報じられたことが明かされた。Fireworks は内部認証情報の不正使用を特定し、顧客への通知を開始した。同時には開発マシンへのアクセスも検知されたため、セキュリティ対策を実施した。\n\n最終的に、Notion のチャット記録分析により、影響範囲はワークスペース全体の 1% 未満と見なされるが、一部の記録に発言者とラベルが含まれる可能性があるという報告がある。これにより、インシデント期間中にパスワードや API キーの更新を推奨する方針を示している。また、側バーから影響データを閲覧できる機能も提供された。\n\n調査結果では、多くの影響は不完全だったと見なされ、システム接続を遮断し、データの削除を完了させた。今後の対応については、引き続き調査を進める予定である。",
+    "imageUrls": [
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/p/piyokango/20261111/20261111124734.png"
+    ]
   },
   {
     "id": "9412a79595fb30d5",
@@ -32,8 +46,15 @@
     "url": "https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T03:34:04.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-nvidia-spy-affair-ai-chip-shipments-to-china%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-nvidia-spy-affair-ai-chip-shipments-to-china%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\nNVIDIA のジェンスン・フアンCEO が中国への半導体輸出問題について、アメリカ当局がスパイと認定した女性との不倫関係が報道されています。この事件は、NVIDIA の半導体輸出の制限を回避するため、企業側が関係者を利用して中国に製品を輸送する事態となりました。\n\n結論として、政府の監視下での企業活動の透明化や、関連者の保護に関する新たな規制が期待されます。\n\n方法として、NVIDIA の優先クラウドパートナーの立場を利用し、半導体を中国へ輸出する仕組みが採用されています。この方法は、アメリカの輸出制限を回避しつつ、企業側の利益を最大化する戦略です。\n\n本文には具体的な技術的な詳細や調査プロセスの詳細は記載されていませんが、関係者の保護と規制の強化が重要視されています。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/11/nvidia-spy-affair-ai-chip-shipments-to-china/00_m.jpg",
+      "https://i.gzn.jp/img/2023/10/18/export-ai-chip-china/00.jpg",
+      "https://i.gzn.jp/img/2026/11/10/spy-jensen-huang/00_m.jpg"
+    ]
   },
   {
     "id": "6e131a8af8723187",
@@ -41,8 +62,13 @@
     "url": "https://togetter.com/li/2769126",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T03:28:52.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2769126"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2769126",
+    "category": "TUTORIAL",
+    "summary": "# 課題と解決法：AI の役割を理解する\n\n記事は、知的障害者や健常者間の「知能の翻訳」をテーマに、AI をどう活用するかについて解説しています。従来の「眼鏡」という比喩を使って、異なる知能の間を補完する役割を説明しています。\n\n課題として、人間と機械の間に認識のギャップがあることが挙げられます。IQ の違いだけでなく、言語や思考の型の違いが重要です。例えば、フランス語への翻訳や、認知能力の低下に伴う理解の差を解消する仕組みが提案されています。\n\n解決策は、AI を「知覚の拡張」として活用することです。視力や言語の障壁がある場合、AI が代わりに情報を処理し、人間が理解しやすい形に整理することで、生活の質を向上させることができます。具体的な例として、医療現場での心身のサポートや、メンタルケアの支援など、実用的な活用方法が示されています。\n\n実践時の注意点としては、適切なプロンプト設定や、AI の信頼性を確認することが重要です。また、専門用語は短く説明することで、理解しやすいよう配慮しています。最終的には、人間と機械の連携を通じて、より良い生活を送るためのアプローチとして推奨されます。",
+    "imageUrls": [
+      "https://s.tgstc.com/static/web/p.gif"
+    ]
   },
   {
     "id": "94bdb39973349c32",
@@ -50,8 +76,14 @@
     "url": "https://pc.watch.impress.co.jp/docs/news/2155430.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T03:18:12.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2155430.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2155430.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け Qwen4 の導入と機能解説\n\nQwen は、開発者向けに直訳調を避けた自然な日本語で簡潔に説明します。この記事は、次世代 AI モデル「Qwen4」の公開状況、主要な機能、および利用方法について詳細に解説します。\n\n## 課題と技術\n\nQwen4 は、既存の Qwen3.8-Flash-Next アーキテクチャに基づき、新しいアーキテクチャを採用しました。この設計は、文脈を圧縮して覚える方式と重要な箇所だけを読み返す方式を組み合わせたアテンションを採用しています。また、現在の最上位モデル「Qwen3.8-Max」の規模を超えようとする試みです。\n\n## 結論\n\nQwen4 は開発者向けに無料のプレビュー版として提供されており、Token Plan や QwenWork など他の契約体系を利用できます。このモデルは複雑なコーディングや知識労働を支援し、Web の画面開発やプロフェッショナルソフトウェアワークフローを想定しています。正式公開情報はまだ公表されていませんが、重みの公開には期待が持てます。\n\n## 方法\n\n開発者は Qwen Studio を利用して無料プランを試すことができます。有料プランは月額 690 円から 1 万円 6,800 円まであります。また、Token Plan は別契約の QwenCloud の定額制プランであり、複数のモデルへの接続が可能です。Qwen4-Max は、このモデル群の最上位にあたる AI モデルとして機能します。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/430/01_l.png",
+      "https://images-na.ssl-images-amazon.com/images/P/B0H8BYZVBN.09._SCTZZZZZZZ_PE.jpg"
+    ]
   },
   {
     "id": "57b21df517f5aac6",
@@ -59,8 +91,30 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261111de73934",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T02:57:22.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261111de73934"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261111de73934",
+    "category": "TROUBLESHOOT",
+    "summary": "# 課題と解決方法：通信復旧と経済政策の動向\n\n**結論**\n通信業界は、11 月 11 日に NTT ドコモが「5G SA」契約を復旧したことで、利用状況が改善し、将来の技術革新への準備が進んでいる。同時に、国民健康保険料や食料品減税法案の審議結果など、経済政策の進捗も注目されている。\n\n**方法**\n課題解決の具体的な手順は、まず通信業界の復旧プロセスを重視する。次に、政府機関による法律改正や政策決定の進行を監視する。最終的に、生活コストの調整や社会全体の安定性を確保するための多様な対策を組み合わせる。\n\n**本文記載なし**\n本文には、特定の技術的詳細や専門的な解決策に関する記述は存在しないため、関連する情報は推測しなかった。",
+    "imageUrls": [
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73934/20261111de73934_E0000162531_1_l.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73933/20261111de73933_E0000162834_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74159/20261111de74159_E0000163546_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74183/20261111de74183_E0000163583_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74347/20261111de74347_E0000163704_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74306/20261111de74306_E0000163680_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74363/20261111de74363_E0000164022_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74142/20261111de74142_E0000165577_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72816/20261109de72816_E0000159233_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72814/20261109de72814_E0000155204_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72709/20261109de72709_E0000154960_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70851/20261105de70851_E0000147150_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70374/20261104de70374_E0000147000_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71158/20261105de71158_E0000148060_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70576/20261104de70576_E0000149517_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71172/20261105de71172_E0000147138_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74142/20261111de74142_E0000165577_1_l.jpg",
+      "https://news.web.nhk/weather/tenki/tenki_02.jpg"
+    ]
   },
   {
     "id": "9d81f6d51e333c21",
@@ -68,8 +122,11 @@
     "url": "https://zenn.dev/jtechjapan_pub/articles/payment-union-six-languages",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-11T02:18:05.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--KYSW_R21--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:C%2523%25E3%2581%25AEclosed%2520record%25E3%2581%25A8Rust%25E3%2583%25BBSwift%25E3%2583%25BBTypeScript%25E3%2583%25BBJava%25E3%2583%25BBGo%25E3%2581%25AEunion%25E8%25A1%25A8%25E7%258F%25BE%25E3%2582%2592%25E6%25AF%2594%25E3%2581%25B9%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tomohisa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E0YzA4MzFkMDkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dUY1NlSXBBM09KME83a1ZzWG1WUjhvYWpqN3RHVVV2QTJDZ2hKS2c9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--KYSW_R21--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:C%2523%25E3%2581%25AEclosed%2520record%25E3%2581%25A8Rust%25E3%2583%25BBSwift%25E3%2583%25BBTypeScript%25E3%2583%25BBJava%25E3%2583%25BBGo%25E3%2581%25AEunion%25E8%25A1%25A8%25E7%258F%25BE%25E3%2582%2592%25E6%25AF%2594%25E3%2581%25B9%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tomohisa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E0YzA4MzFkMDkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dUY1NlSXBBM09KME83a1ZzWG1WUjhvYWpqN3RHVVV2QTJDZ2hKS2c9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：C# closed record の JSON 対応と型判別子\n\n開発者は C# の closed record を JSON として読み書きする際に、型定義の複雑さや自動推論の課題を指摘しました。今回は「現金払い」から「カード払い」までの両方のケースを 6 言語で統一したサンプルを作成しました。\n\n## 課題と解決方法\nC# の closed record は、基底型と派生型の構造を持ちます。これにより、同じオブジェクトに異なる型を定義する必要があるため、JSON での自動推論を考慮し、switch や match を使用しました。また、C# の union 宣言や Rust の enum のケース構造の違いを補完したサンプルを作成しました。\n\n## 結論\n開発者は、C# の closed record と JSON の対応について、型判別子（$type）の正確な設定と、すべてのケースを処理する switch や match を統一したコードを提供しました。これにより、異なる言語間のデータ交換がスムーズに実現できます。\n\n## 方法\n1. **型定義**: C# では closed record をベースとし、Cash と Card のそれぞれを定義します。\n2. **JSON 変換**: JsonSerializerのデレスリーを適用し、型を保持します。\n3. **パターンマッチ**: switch や match でケースを処理し、null の値も適切に扱います。\n4. **言語比較**: C#、Rust、Swift、TypeScript の各サンプルを比較し、共通の構造と違いを明確化しました。\n\n本文には、すべての言語のコード詳細が含まれており、専門用語は短く説明しています。",
+    "imageUrls": []
   },
   {
     "id": "766519ad5b2c64f2",
@@ -77,8 +134,15 @@
     "url": "https://togetter.com/li/2769100",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T02:16:09.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2769100"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2769100",
+    "category": "TUTORIAL",
+    "summary": "# キャリアライフバランスの課題と解決法\n\n**結論**\n女性のキャリアを維持する上で、過度な理想化や「超人」の模倣は困難であり、現実的な条件に基づいた自分の能力と環境に適合したワークライフバランスが重要です。\n\n**方法**\n1. 自身の体力と時間制約を明確に認識し、無理のない範囲で活動を行うことが鍵です。\n2. 周囲の経験者や事例と比較せず、「近い条件の人」の事例を参考にすることで、自己責任感を高めることができます。\n3. キャリアの目標は「自分の希望」を追求するのではなく、現実的な環境の中で可能な範囲内で進めることを目指します。\n\n**本文に情報がない項目は推測せず「本文に記載なし」としてください。**",
+    "imageUrls": [
+      "https://c.tgstc.com/2c6b4f183f4d7118e76405ce524d7050106bd529.jpeg",
+      "https://icons.duckduckgo.com/ip3/note.com.ico",
+      "https://s.tgstc.com/static/web/p.gif"
+    ]
   },
   {
     "id": "10323d908697b653",
@@ -86,8 +150,14 @@
     "url": "https://piyolog.hatenadiary.jp/entry/2026/11/11/094815",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T01:21:35.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F11%2F094815"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F11%2F094815",
+    "category": "RELEASE",
+    "summary": "# 偽アプリによる遠隔操作と不正決済への注意喚起\n\n本記事は、2026 年 11 月に福岡、兵庫、北海道の警備本部が発表した「TikTok18+」などの偽アプリ被害に関する情報をまとめました。全国に広がる偽アプリは、スマートフォンを遠隔操作し電子決済サービスの不正使用を招き、被害者は最大全額補償の対象となります。\n\n## 課題と技術\n偽アプリは公式アプリではなく、SNS の情報を狙ってインストールされます。これにより、端末の遠隔操作や、キャッシュレス決済サービスの悪用が発生します。また、VPN 接続やアクセシビリティサービスの許可が必要となり、端末のフルコントロールが要求されるケースもあります。\n\n## 結論\n偽アプリの導入により、金銭的損失や性的関心に付け込まれ、遠隔操作による不正送金やキャッシュレス決済の被害が発生しています。これにより、利用者は注意を払う必要があります。\n\n## 方法\n警察庁は SNS の広告や SMS のリンクを通じて誘導経路を示し、被害者のスマートフォンに QR コード画像や決済画面の画像を入手させることが主な手段です。また、Android端末のインストール時に VPN 接続やアクセシビリティサービスの許可を求めることも重要です。\n\n本文には具体的な被害事例や対策の詳細は記載されていますが、専門用語は短く説明しています。",
+    "imageUrls": [
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/p/piyokango/20261111/20261111094328.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/p/piyokango/20261111/20261111093801.png"
+    ]
   },
   {
     "id": "8ac0cf1366519b79",
@@ -95,8 +165,15 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T01:07:25.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003090%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003090%2F",
+    "category": "RELEASE",
+    "summary": "業界動向：iCloud のグローバル障害問題\n\n結論：米国の iCloud は日本版と北米版など全体的に機能停止を報告しており、グローバルな接続問題が発生している。\n\n方法：開発者は、Apple のステータスページに基づき、サインインやカレンダーなどのサービスが一部のユーザーで機能停止を示している。X の投稿ではログイン困難や連携問題などが相次いでいる。\n\n本文記載なし：具体的な解決策や推奨される対応方法は、記事に記載されていません。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003090/10011822/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003090/10011824/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003090/10011823/728"
+    ]
   },
   {
     "id": "ce4b7d0e6c441604",
@@ -104,8 +181,11 @@
     "url": "https://www.notion.com/ja/security/advisories/security-incident-involving-a-third-party-ai-vendor",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T00:55:24.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.notion.com%2Fja%2Fsecurity%2Fadvisories%2Fsecurity-incident-involving-a-third-party-ai-vendor"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.notion.com%2Fja%2Fsecurity%2Fadvisories%2Fsecurity-incident-involving-a-third-party-ai-vendor",
+    "category": "RELEASE",
+    "summary": "# 技術記事：Fireworks AI Incident の影響と対応\n\n## テーマ：記事が扱う課題や技術は何か\nこの文章は、Notion のワークスプークで Fireworks AI にアクセスしたデータに関する incident を報告しています。特に、Chat トランスクリプトの分析結果が未識別されたケースが多数存在し、システム間の接続が切断されました。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nFireworks AI の利用は Notion の機能として活用されていますが、緊急時のデータアクセスにより、一部のワークスプークに未識別された情報が発生しました。対応策として、データの安全確保と、将来的な利用制限の提案が行われています。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n調査では、Fireworks AI のデータセットを確認し、Chat トランスクリプトの分析結果が多数未識別されたことが発見されました。システム間の接続切断と、データの削除などの緊急対応を行いました。また、影響を受けたワークスプークには、データへのアクセス制限や、パスワードの転換を推奨しています。\n\n本文では、Fireworks AI の利用範囲について詳細な説明があり、影響範囲は 1% 程度と推測されています。専門用語は必要なく、一般的な説明で理解できます。",
+    "imageUrls": []
   },
   {
     "id": "f334b5dcd9727547",
@@ -113,8 +193,17 @@
     "url": "https://levtech.jp/media/detail_961/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T00:22:59.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Flevtech.jp%2Fmedia%2Fdetail_961%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Flevtech.jp%2Fmedia%2Fdetail_961%2F",
+    "category": "GENERAL",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n**テーマ：育児と家事のバランスと技術的アプローチ**\n\n開発者 hitode909 は、育児によって成長した経験に基づき、コードとチームの両方をデバッグし、親との暮らしをより楽しい環境にする活動を行っています。この連載では、予定が崩れることへの対応や、家庭の仕組みの再設計について詳しく解説しています。特に、風邪の感染リスクや体調不良の要因を考慮し、生活リズムの柔軟性を重視する工夫が中心です。\n\n**結論：効率よりも家族全体の安定と親子との共感**\n\n開発者は、家事と育児を両方とも担う状態を維持し、効率主義ではなく、親と子どもの両方の満足度を優先します。これは、予定を守り抜くことよりも、誰かが一人の役割を分担して暮らしが回る体制を作ることとして見直した結果です。また、子どもが自由に選択できる環境を提供する仕組みも重要視しています。\n\n**方法：課題解決と技術的アプローチ**\n\n課題は、予定崩れや体調不良による生活の不安定さです。解決策として、家事と育児を柔軟に調整し、両方のキャリアを維持する共働き体制を構築します。また、子どもが好きな環境（旅行、遊び場など）を用意し、親の心も余裕を持たせる仕組みを設計しています。技術的アプローチとしては、プログラミングやウェブサービスの経験を活かし、選択肢を用意する仕組み（塗り絵ブックマークレットなど）を提案しています。\n\n本文には具体的な具体的な事例が含まれており、専門用語は必要ありませんが、重要な情報は伝えています。",
+    "imageUrls": [
+      "https://cdn.blog.st-hatena.com/files/6802418398571665203/14729835035334036860",
+      "https://cdn.blog.st-hatena.com/files/6802418398571665203/14945776032087077770",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/l/levtech_lab/20261105/20261105163829.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/l/levtech_lab/20261102/20261102110809.jpg",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/l/levtech_lab/20261102/20261102110816.jpg"
+    ]
   },
   {
     "id": "9a62711673527d6a",
@@ -122,8 +211,13 @@
     "url": "https://piyolog.hatenadiary.jp/entry/2026/11/11/075305",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T00:02:14.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F11%2F075305"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F11%2F075305",
+    "category": "TROUBLESHOOT",
+    "summary": "# テket の不正アクセス問題と対応\n\n2026年11月8日に発生した電子チケットサービス「teket」の不正アクセス問題は、顧客情報の流出やシステム障害をきっかけに大きな影響を及ぼしました。サーバーへの不正アクセスにより、11月5日にサービスを停止し、遮断対応を継続中としています。調査結果では、会員情報や顧客情報の流出が確認されたことで、利用者の安心と不安を揺るがせました。\n\n主な解決方法は、サービス停止の期間中に購入者への通知を徹底し、代替の入場方法を案内しています。また、システム障害により表示や読み取りが困難になる場合、購入完了メールを受付して氏名を伝達する仕組みも導入されています。売上金の入金は継続的に行われる予定ですが、影響による販売手数料の扱いは別途案内されています。\n\n再発防止の要点として、パスワードやクレジットカード情報の直接取得は避けることが重要です。また、利用者の登録情報や購入履歴を管理するシステムへの不正アクセスを防ぐ対策も検討されています。今後の再開時期については、コーポレートサイトと公式SNSで発表される予定です。",
+    "imageUrls": [
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/p/piyokango/20261111/20261111074936.png"
+    ]
   },
   {
     "id": "b92d83d9ba804ecc",
@@ -131,8 +225,11 @@
     "url": "https://zenn.dev/nabeyan_dev/articles/fsfn-playwright-bun-test-runner",
     "source": "Zenn (playwright)",
     "publishedAt": "2026-11-10T23:46:49.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--DQ8hwb1Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%2520%25E3%2582%2592%2520Bun%2520%25E3%2581%25AB%25E7%25A7%25BB%25E3%2581%2599%25E5%2589%258D%25E3%2581%25AB%25E7%25A2%25BA%25E8%25AA%258D%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25203%2520%25E3%2581%25A4%25E3%2581%25AE%25E3%2581%2593%25E3%2581%25A8%25E3%2580%2582%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E3%2581%25AF%25E5%258D%258A%25E5%2588%2586%25E3%2580%2581%25E6%258C%2599%25E5%258B%2595%25E3%2581%25AF%25206%2520%25E3%2581%25A4%25E9%2581%2595%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%258A%25E3%2583%2599%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdhZmMyZTkyYWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--DQ8hwb1Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%2520%25E3%2582%2592%2520Bun%2520%25E3%2581%25AB%25E7%25A7%25BB%25E3%2581%2599%25E5%2589%258D%25E3%2581%25AB%25E7%25A2%25BA%25E8%25AA%258D%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25203%2520%25E3%2581%25A4%25E3%2581%25AE%25E3%2581%2593%25E3%2581%25A8%25E3%2580%2582%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E3%2581%25AF%25E5%258D%258A%25E5%2588%2586%25E3%2580%2581%25E6%258C%2599%25E5%258B%2595%25E3%2581%25AF%25206%2520%25E3%2581%25A4%25E9%2581%2595%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%258A%25E3%2583%2599%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdhZmMyZTkyYWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# プレイwright バンクテストの導入と最適化\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n## 課題と解決方法\n\nPlaywright 1.65 から、`bun --bun playwright test` でテストランナーを Bun の上で動かせるようになりました。これは CI の E2E を移す際の重要なステップであり、メモリ使用量やパフォーマンスの比較を重視する検討が必要となりました。\n\n## 結論\n\nメモリ差は両方とも同じであるため、費用は変わらず、パフォーマンスの差は最大 1.5 秒です。ただし、`--only-changed` や tsconfig の設定など、テストの条件によっては動作が異なる可能性があります。\n\n## 方法\n\nテストの条件を維持しつつ、Bun と Node の両方を流し、中央値を比較する構成が推奨されます。\n- `--only-changed` を使用して、依存モジュールの変更のみを指定します。\n- tsconfig のパス別名設定やフィールド初期化子設定を慎重に確認します。\n- process.version を正確に区分し、プロセス名を正しく識別します。\n\n## 追加機能と影響\n\n追加機能として、`bun install` で入れた node_modules や UI モード、ブラウザの増やしはメモリの差を考慮する必要があります。また、ワーカーの数も影響を与える可能性があります。\n\n本文には具体的なテスト手順やロジックの詳細が含まれていないため、上記の一般的な構成を参考にする必要があります。",
+    "imageUrls": []
   },
   {
     "id": "14a7357d5144fb7d",
@@ -140,8 +237,32 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261111de73858",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T23:39:29.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261111de73858"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261111de73858",
+    "category": "TUTORIAL",
+    "summary": "# 課題と解決方法\n\nAI による志望書作成の「年内入試」が拡大し、大学側の制限や誤情報対策が注目されています。この課題は、AI の虚飾化への懸念と、不正アクセスの影響を同時に考慮する必要があります。\n\n## 結論\n大学側は生成 AI を過度に虚飾化するリスクを懸念し、制限を行う一方、受験生は適切な活用方法を探る必要があります。\n\n## 方法\n課題解決の手順として、AI の利用範囲を明確化し、誤情報対策と学習を徹底することが重要です。特に、生成 AI を必要以上に虚飾しないよう意識し、正確な情報を基に志望理由書を作成する必要があるとされています。\n\n## 注意点\n実践時の注意点として、情報の漏�れや不正アクセスの影響を防ぐことが重要であり、適切な契約や保護措置を確保する必要があります。また、学習の継続と適切な対応を維持することが必要です。",
+    "imageUrls": [
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73858/20261111de73858_E0000162182_1_l.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73287/20261110de73287_E0000160176_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73779/20261110de73779_E0000161157_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73714/20261110de73714_E0000159429_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73756/20261110de73756_E0000161895_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73545/20261110de73545_E0000159281_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73726/20261110de73726_E0000159922_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73528/20261110de73528_E0000159231_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73517/20261110de73517_E0000159191_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73482/20261110de73482_E0000159155_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72709/20261109de72709_E0000154960_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72816/20261109de72816_E0000159233_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72814/20261109de72814_E0000155204_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70851/20261105de70851_E0000147150_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70374/20261104de70374_E0000147000_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71158/20261105de71158_E0000148060_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70576/20261104de70576_E0000149517_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71172/20261105de71172_E0000147138_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74142/20261111de74142_E0000165577_1_l.jpg",
+      "https://news.web.nhk/weather/tenki/tenki_02.jpg"
+    ]
   },
   {
     "id": "8ee4caa8bc65ed2e",
@@ -149,8 +270,13 @@
     "url": "https://japan.cnet.com/article/35254674/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T23:32:37.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254674%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254674%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け Gemini 4 Carbon の導入と機能\n\n**テーマ**: 開発者向けの AI モデルの導入と機能\n**結論**: Google は Gemini API の有料プランを利用する開発者向けに、サイバーセキュリティーと自律的な作業を重視した「Gemini 4 Carbon」モデルを提供。\n**方法**: API の標準料金は 12 月 1 日から変更され、Carbon モデルは軽量なモデルと並列処理が可能で、監査機能を含む複雑な役割を担う。\n\n本文には、開発者向けに直訳調を避けた自然でわかりやすい日本語で要約されていますが、追加・変更された機能や対象バージョン、利用者への影響については、本文に記載されていません。特に、Gemini API の無料枠では Carbon を利用できないという制約も重要な情報として記載されています。",
+    "imageUrls": [
+      "https://japan.cnet.com/storage/2026/11/11/036a8bdb7feba40a67e920e1da8c633b/%E6%9C%AC%E6%96%87%E7%94%BB%E5%83%8F01.jpg"
+    ]
   },
   {
     "id": "071546147fe21fd6",
@@ -158,8 +284,11 @@
     "url": "https://wirelesswire.jp/2026/11/94886/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T23:02:09.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwirelesswire.jp%2F2026%2F11%2F94886%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwirelesswire.jp%2F2026%2F11%2F94886%2F",
+    "category": "TUTORIAL",
+    "summary": "# 課題：デジタル情報の脆弱性と倫理的問題\n結論：インターネットの長期的存続とデータ保存が収益性を超えた価値を持ち、倫理的な責任を持つべきである。\n方法：デジタル情報の脆弱性を理解し、企業や個人が responsible な立場でデータを管理する必要がある。\n\n本文では、死者の死亡に伴うデジタル情報の消失と、その保存・管理における倫理的な問題が議論されていることが明かされた。特に、インターネットは過去のような「訪れ、去る場所」ではなく常態化しており、死者のデータとして残っていることで、生者と死者の関係が再構成されるという現象が現れる。ビジネスチャンスや技術的な可能性も示唆されるものの、収益性以外の価値を持つべきであるという認識が重要である。また、AI による死者再現や、民間企業のデータ利用に関する懸念も指摘されている。最終的に、インターネットの脆弱性と長期的存続を重視する姿勢が推奨される。",
+    "imageUrls": []
   },
   {
     "id": "c565834c8a7b4188",
@@ -167,8 +296,11 @@
     "url": "https://zenn.dev/itaraiguma/articles/backup-restore-implicit-invariants",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-10T22:27:55.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--XoIriKTp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25BE%25A9%25E5%2585%2583%25E3%2581%25AE%25E6%25A4%259C%25E8%25A8%25BC%25E8%25A1%25A8%25E3%2581%25AF9%25E7%25A8%25AE%25E9%25A1%259E%25E3%2581%2582%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E3%2580%2581%25E9%2580%259A%25E5%25B8%25B8%25E3%2581%25AE%25E6%2593%258D%25E4%25BD%259C%25E3%2581%25A7%25E3%2581%25AF%25E4%25BD%259C%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E9%2580%259A%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:IT%25E3%2582%25A2%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25B0%25E3%2583%259E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFlZmMxMmY2MTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--XoIriKTp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25BE%25A9%25E5%2585%2583%25E3%2581%25AE%25E6%25A4%259C%25E8%25A8%25BC%25E8%25A1%25A8%25E3%2581%25AF9%25E7%25A8%25AE%25E9%25A1%259E%25E3%2581%2582%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E3%2580%2581%25E9%2580%259A%25E5%25B8%25B8%25E3%2581%25AE%25E6%2593%258D%25E4%25BD%259C%25E3%2581%25A7%25E3%2581%25AF%25E4%25BD%259C%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E9%2580%259A%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:IT%25E3%2582%25A2%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25B0%25E3%2583%259E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFlZmMxMmY2MTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：終業ログアプリのデータ検証改善提案\n\n**テーマ**: 開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。\n\n結論：本記事は、Android の「終業ログ」アプリにおいて、ファイル内の暗黙的なデータ構造が誤解を招き、復元機能の拒否基準を修正する提案を示しています。最終的には、正しいデータのみを許容し、不正なデータを排除する仕組みを確立する方針です。\n\n方法：課題を解決するために、設計文書に表した検証項目を補正し、新しいロジックを実装します。\n1. 検証項目の設計は、ファイル内の書き込み関数とデータの関係性を明確化しました。\n2. 過去に書き出した記録を追加する機能やスキーマ移行も考慮し、正当なデータを拒否しないよう設計しました。\n3. 最終的な検証基準は、最後の操作日時の前後関係と項目の存在を基準にします。\n\n本文には情報がない項目はありませんが、重要な情報は上記の通りです。\n\n要約本文:\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\n本文の要約：\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 追加・変更された機能、対象バージョン、利用者への影響を中心にまとめて",
+    "imageUrls": []
   },
   {
     "id": "704459051770dab7",
@@ -176,8 +308,11 @@
     "url": "https://japan.cnet.com/article/35254669/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T21:34:21.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254669%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254669%2F",
+    "category": "RELEASE",
+    "summary": "米道路交通安全局（NHTSA）は、Waymo の自動運転車が児童の乗り降りのために停車するスクールバス横を通過する問題について、リコール対策の有効性を検証する調査を開始した。対象は第 5 世代の自動運転システムを搭載する 2895 台の車両である。赤い警告灯が点滅したり、車体側面から停止標識が出たりする事故報告が相次いで報告されている。Waymo はこの問題への対策として、リコールを届け出す予定であるが、更新完了後でも問題が発生する可能性があるという調査結果を提示している。現時点で新たなリコールが決まっているわけではない。ただし、NHTSA は Waymo が遵守していることを確認し、違反切符のリスクについては 2026 年 3 月以降は問題ないと説明している。\n\n結論：NHTSA は Waymo の自動運転車の安全対策について調査を行い、リコール対応の有効性を検証する必要があるとしている。しかし、更新完了後に事故が発生する可能性や、違反切符のリスクについては、Waymo は確認済みであるという結果を示している。\n\n方法：課題は自動運転車が児童乗り降りの安全確保を考慮したスクールバス横を通過する問題であり、その対策としてソフトウェア更新を行う必要がある。調査では、リコールによる修正の充分性を検証し、ソフトウェア更新後の問題の原因を調べることで、安全対策の妥当性を確認している。\n\n本文に情報がない項目は推測せず「本文に記載なし」とします。",
+    "imageUrls": []
   },
   {
     "id": "4172e0a227e6491a",
@@ -185,8 +320,11 @@
     "url": "https://zenn.dev/sakidori/articles/20261027-workers-static-pages-seo",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-10T21:14:47.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--q1WKNn3n--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Workers%2520%25E3%2581%25A7%25E9%259D%2599%25E7%259A%2584%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%2592%25E5%25A4%25A7%25E9%2587%258F%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258BSEO%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25A8%25E3%2580%2581%25E6%25A4%259C%25E7%25B4%25A2%25E6%2595%25B0%25E3%2581%25A7%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F3%25E3%2581%258B%25E6%2589%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sakidori%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwNTgxN2IyYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--q1WKNn3n--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Workers%2520%25E3%2581%25A7%25E9%259D%2599%25E7%259A%2584%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%2592%25E5%25A4%25A7%25E9%2587%258F%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258BSEO%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25A8%25E3%2580%2581%25E6%25A4%259C%25E7%25B4%25A2%25E6%2595%25B0%25E3%2581%25A7%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F3%25E3%2581%258B%25E6%2589%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sakidori%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwNTgxN2IyYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で、350〜450 文字を目安に要約します。\n\n**テーマ：記事が扱う課題と技術**\nこの記事は、個人開発者の検索ページを構築する仕組みについて解説しています。従来のページごとのファイル管理ではなく、1 つの Worker ルーティングでデータを組み立てる形に変化しました。これにより、検索数に基づいて動的にコンテンツを作成できます。特に、複数の URL で同じ内容を見せる「判定クイズ」や、会場アクセス情報などを統合する機能を実装しています。また、サイトマップも自動的に生成される仕組みが採用されています。\n\n**結論：記事の主張と推奨**\n今回の実装は、検索結果の精度向上とコンテンツの効率化を目的としています。特に、オフサイド検索数に基づき、正確なタイトルや並び順を設定することで、検索エンジンへの最適化を実現しています。また、β版のクイズ機能は公開ページにも同様に適用可能であり、重複判定の解決に貢献しています。これにより、開発者がより柔軟かつ効率的なコンテンツを作成できるようになります。\n\n**方法：課題解決と技術仕組み**\n課題として、従来のページごとのファイル管理による重複判定や更新コストの問題を解決しました。その解決策は、1 つの Worker にパスを受け取り、正規表現でデータを検索し、HTML を生成する関数です。また、サイトマップも同じデータを基に自動的に生成される仕組みを採用しています。検索結果の数を基準として、タイトルやキーワードの定義を調整することで、検索エンジンとの整合性を確保しています。これにより、動的なコンテンツ生成と検索最適化が同時に実現されています。",
+    "imageUrls": []
   },
   {
     "id": "1408780a1e641bc3",
@@ -194,8 +332,13 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T20:34:16.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000002913%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000002913%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と技術の解説：AIグラスの規制と導入\n\n## 課題と技術の解説\nAIグラスは、カメラや会話機能、ディスプレイを備えた眼鏡として、世界中で話題されています。特に日本では普及が遅れており、ノルウェー政府の法策や韓国での不正行為の報告など、規制と問題点が注目されています。また、ビジネスシーンでは利用が進みつつありますが、消費者への影響や法的リスクも懸念されています。\n\n## 結論\nAIグラスは技術的に機能し、多くの国で導入が進む可能性がありますが、海外では規制が強化され、国内では普及の遅れや法的課題を考慮する必要があります。\n\n## 方法\nMeta の製品開発と、一般的なスマートグラスとの違いを比較して、消費者へのメリットとデメリットを説明します。日本での販売開始や、ビジネスシーンでの活用事例も記載されています。\n\n本文には具体的な技術の詳細や規制の詳細が不足するため、現状の状況と今後の展開について推測しています。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000002913/10011402/728"
+    ]
   },
   {
     "id": "cbd3c210bac5bb96",
@@ -203,8 +346,14 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003072/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T18:29:45.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003072%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003072%2F",
+    "category": "RELEASE",
+    "summary": "# 業界動向：個人情報流出リスクについて\n\n**課題と技術**: 企業内部管理システムへの不正アクセスによる個人データ流出。\n**結論**: 個人情報は流出対象に含まれており、銀行口座や住所などの敏感情報を含むため、二次被害の注意が必要である。\n**方法**: 外部調査機関との連携により原因を特定し、外部からのアクセスを遮断する対策が実施された。\n\n本文では、シェアフルは個人情報の流出リスクを認識し、警察に通報し、専門調査機関と連携する方針を講じている。銀行口座の暗証番号やパスワードは含まれていないため、一部の情報には問題ないものの、住所や電話番号などの重要なデータは流出対象であることが明確である。また、法人情報も流出される可能性があるため、企業全体のセキュリティ対策が重要である。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/10/2000003072/10011763/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/10/2000003072/10011764/728"
+    ]
   },
   {
     "id": "1a1ca0b58f1e17b4",
@@ -212,8 +361,29 @@
     "url": "https://developers.cyberagent.co.jp/blog/archives/66422/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T17:38:49.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdevelopers.cyberagent.co.jp%2Fblog%2Farchives%2F66422%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdevelopers.cyberagent.co.jp%2Fblog%2Farchives%2F66422%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け AWS インフラハンズオン要約\n\n## テーマ：記事が扱う課題や技術は何か\n2026 年度に実施した「AWS インフラハンズオン」研修の背景と内容。研修では職種による到達点を統一し、インフラ知識のインデックスを共有するよう努めた。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\n研修の結果、すべてのエンジニアが共通の「AWS サービスに対する知識のインデックス」を持ち帰ることを推奨。これにより、チーム開発の迷いを解消し、インフラへの興味が高まるという結果を達成した。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n導入は職種ごとの到達点を明確化し、学習の効率化を図った。設定アップには AWS CLI、Terraform、Docker を使用し、3 時間の限定的な時間の中で各サービスを紹介する座学を行った。構築は6 つの module に分け、依存関係とタグ管理を図で説明した。\n\n本文に情報がない項目は「本文に記載なし」とします。\n要約の視点：追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n今年度新たに追加したのは AI 関連のサービス（Amazon Bedrock AgentCore、AWS MCP Servers など）です。また、導入後のアンケート結果として、職種による満足度は91%以上で、特にセットアップに5点を付けられた方が多いと報告されています。",
+    "imageUrls": [
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide007.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide002.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide029.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide041.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide047.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide070.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide095.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide151.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide155.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide157.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide170.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide172.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide187.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide195.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide249.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide268.png",
+      "https://developers.cyberagent.co.jp/blog/wp-content/uploads/2026/11/aws-handson-2026-slide201.png"
+    ]
   },
   {
     "id": "023e0667544c06f0",
@@ -221,8 +391,23 @@
     "url": "https://pc.watch.impress.co.jp/docs/news/2155080.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T17:05:41.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2155080.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2155080.html",
+    "category": "RELEASE",
+    "summary": "AMD は第 6 世代 EPYC（Venice）を発売し、そのアーキテクチャを公開しました。この製品は「Zen 6」のマイクロアーキテクチャに基づき、汎用向けと密度重視の 2 つのバリエーションを用意しています。従来の Zen 5 に比べて、フロントエンドの Opキャッシュ強化や整数演算器のスケジューラ増加により性能が向上しています。また、浮動小数点演算の ISA の拡張や VNNI INT8 の 4 パイプル化など、ソフトウェア面での改良も進めています。さらに、データセンター向けとクライアント PC 向けに異なる設計オプション（無印と c）が存在しますが、アーキテクチャの基本的な構造は基本同調しています。\n\n結論：この技術は汎用性と高密度処理を両立させることで、次世代データセンター向け CPU の性能向上を実現します。\n\n方法：Zen 6 のマイクロアーキテクチャは、CPU コアあたりの L3キャッシュの強化やスケジューラ数の増加により、整数演算と浮動小数点演算の両方を効率化しています。これにより、汎用向けと密度重視の製品 alike に最適化されています。\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/080/001_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/080/002_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/080/003_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/080/004_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/080/005_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/080/006_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/080/007_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/080/008_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/080/009_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/080/010_l.jpg",
+      "https://images-na.ssl-images-amazon.com/images/P/B0DKFMSMYK.09._SCTZZZZZZZ_PE.jpg"
+    ]
   },
   {
     "id": "7cdb7bce57e0f2b3",
@@ -230,8 +415,11 @@
     "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T15:15:12.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.blog%2Fchangelog%2F2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.blog%2Fchangelog%2F2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：GitHub デパンドボット警告機能の更新\n\n**テーマ：技術課題と影響**\n2026 年 12 月 8 日、GitHub は活動がないリポジトリに対して直訳調を避けた自然な日本語で依存デパンドボット（Dependabot）の警告表示をオフにする。既存の警告はアーカイブに保存され、いつでも復元可能であるため、開発者にとって重要な機能変更です。\n\n**結論：推奨事項と結果**\n活動がないリポジトリでは警告をオフにするが、活動がある場合は自動的に復元される仕組みです。セキュリティ設定や企業向けのポリシーにより例外が発生する場合があります。この変更は、開発者の活動状況に合わせて警告の管理を柔軟にできるようにします。\n\n**方法：解決策と技術**\nGitHub は活動がないリポジトリの警告アーカイブを保持し、自動的に復元します。これにより、依存関係の維持やセキュリティチェックの継続性が保たれます。例外として、強制的なセキュリティ設定や企業向けのポリシーによりオフにする場合があります。データリデシス顧客の場合は同地域に保存されるため、システムへの影響は最小限です。\n\n本文には情報がない項目はありませんが、既存のアーカイブ機能と復元プロセスを明確に理解することが重要です。",
+    "imageUrls": []
   },
   {
     "id": "a946f7ecc00afeba",
@@ -239,8 +427,11 @@
     "url": "https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T15:08:15.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2FDingu-suke%2Fitems%2Fb5318ef2040a9f59224a"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2FDingu-suke%2Fitems%2Fb5318ef2040a9f59224a",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調の自然な日本語で要約します。\n\n**テーマ：会社ごとにデータを自動絞り込むためのテスト戦略**\n\nこの記事は、AI によるコードテストが信頼性を疑う現状を背景に、Stryker を導入した新しいテスト仕組みについて解説しています。従来のテストは「テストが壊れたコード」を見つけるだけでなく、実装の真実を把握する必要があると指摘されています。\n\n課題として、モデルやルートが増えたり、設定ミスでデータ漏洩が発生したりする問題があります。これらを解決するため、Stryker というツールを用いて、変異を故意に作成し、テスト結果を分析する仕組みを採用しました。\n\n具体的な手順は以下の通りです。\nまず、実装の構造を定義するモデルごとの定義表を作成します。この定義表中には、どのデータが「自社」なのかという条件を記述しています。その後、Stryker を導入し、変異を自動で適用してテストを行う仕組みです。\n\n変異を施すと、元のコードと異なる行のテストを回します。結果として、「壊れたコード」か「生き残ったコード」に分けられます。これにより、設定ミスやデータ漏洩を防ぐことができます。\n\n実際の運用では、PostgreSQL の RLS を活用するのではなく、アプリ側で条件を自動足すクライアントを作成しました。この仕組みは、規模が大きくなるほど設定ミスのリスクを低くし、信頼性を確保する重要なツールとして推奨されています。",
+    "imageUrls": []
   },
   {
     "id": "c99a86fc08dcc339",
@@ -248,8 +439,11 @@
     "url": "https://zenn.dev/coderlim/articles/650f1b108ddec3",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-10T14:59:46.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--g5EzAOUr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E7%2594%25BB%25E5%2583%258F%25E7%25B7%25A8%25E9%259B%2586%25E3%2581%25A7%25E3%2580%258C%25E7%2594%259F%25E6%2588%2590%25E3%2581%25AF%25E6%2588%2590%25E5%258A%259F%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E7%25B5%2590%25E6%259E%259C%25E3%2581%258C%25E6%25AE%258B%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2580%258D%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25AB%25E5%2590%2591%25E3%2581%258D%25E5%2590%2588%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:CoderLim%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2VVWnZkN3MyTE9kem9IZ0dNcXVJXzZMSS1kZFh0Mkdnc1A1a244ajdwTlZibWlCYz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--g5EzAOUr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E7%2594%25BB%25E5%2583%258F%25E7%25B7%25A8%25E9%259B%2586%25E3%2581%25A7%25E3%2580%258C%25E7%2594%259F%25E6%2588%2590%25E3%2581%25AF%25E6%2588%2590%25E5%258A%259F%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E7%25B5%2590%25E6%259E%259C%25E3%2581%258C%25E6%25AE%258B%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2580%258D%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25AB%25E5%2590%2591%25E3%2581%258D%25E5%2590%2588%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:CoderLim%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2VVWnZkN3MyTE9kem9IZ0dNcXVJXzZMSS1kZFh0Mkdnc1A1a244ajdwTlZibWlCYz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "個人開発においてAI画像編集サービスのブラウザ依存ポーリングシステムは課題となりました。生成完了後の結果保存とWebhookを活用した非同期処理の改善により、アプリ側での結果保存問題解決を行いました。Webhook をメインの完了通知として採用し、タスクステータス更新とクレジット管理を分離しました。競合処理の回避と失敗時の返還処理の確立により、システムの安定性と信頼性を確保しました。最終的に外部ストレージとの保存処理の最適化とWebhook の正確な検証を重視した設計が採用されました。これにより、ユーザー体験の向上とシステムの信頼性が高まりました。本文に記載なし。",
+    "imageUrls": []
   },
   {
     "id": "bfec6bce6e3a8878",
@@ -257,8 +451,16 @@
     "url": "https://pc.watch.impress.co.jp/docs/news/2155269.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T14:19:08.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2155269.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2155269.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け Windows OS の挑戦と AI 統合戦略\n\n**課題と技術**\n開発者は、直訳調を避けた自然な日本語で要約します。\nCyanogen や Android をベースにした開発チームが、デスクトップ OS で Windows を目指す動きです。米 KORA Systems は、AI モデルとエージェントを OS の一部として Linux ベースのデスクトップ OS「KORA」を発表しました。この技術は、ファイルやハードウェアまで AI を処理する完全なデスクトップ OS を構築し、ハイブリッド推論エンジン「Cortex」を採用しています。\n\n**結論**\nKORA は、AI への投資を想定した「ニューラルワークスペース」と「ニューラルファイルシステム」を採用し、ユーザーのプライバシーと安全性を重視します。また、ゲーム機能との統合も重要な戦略です。\n\n**方法**\n課題解決の仕組みは、OS の中心となる Cortex エンジンを通じて実現しています。ローカルモデルとクラウドモデルを組み合わせて、柔軟なワークスペースを提供します。セキュリティはアプリごとのアクセス制限とハードウェア・ファイルの保護を強化し、ファイルのバージョン管理や記憶機能も備えています。また、SDK をベースにサードパーティへの開放性を確保しており、ゲーム機能との統合により、PC 向けゲームを楽しめる環境を構築しています。\n\n本文には詳細な価格設定や開発者リストはありませんが、主要な技術と戦略は明確です。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/269/1_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/269/2_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/269/3_l.jpg",
+      "https://images-na.ssl-images-amazon.com/images/P/B0GNQFXT6F.09._SCTZZZZZZZ_PE.jpg"
+    ]
   },
   {
     "id": "b35e6e66eb36315c",
@@ -266,8 +468,38 @@
     "url": "https://gigazine.net/news/20261110-leantime/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T14:08:25.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261110-leantime%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261110-leantime%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法：Leantime の導入と機能\n\n開発者向けに、タスクの整理・スケジュール管理を効率化するためのオープンソースツール「Leantime」の導入について解説します。このツールはプロジェクト単位で作業を管理し、認知特性の違い（ADHD、失読症、自閉スペクトラム症など）を考慮した設計により、集中力や情報の把握を支援する機能を持っています。\n\n## 課題と解決方法\n課題として多様なアプリを使い分けることで時間管理の混乱が生じる問題です。Leantime はプロジェクト単位でタスクと予定を統合管理し、作業フローを明確にします。また、作業時間を事前に設定する「タイムブロッキング」機能により、スケジュールとの重なりを防ぎ、一日の計画を具体化できます。\n\n## 結論\nLeantime は、認知特性の違いを考慮した設計により、仕事への集中・情報の把握を支援し、タスクの整理とスケジュール管理を効率化します。開発者は約 2 スекンドでの表示速度を維持しつつ、PHP とデータベースの処理時間を最適化しており、ユーザーの負担を軽減する仕組みが採用されています。\n\n## 方法\nWindows をベースに Docker Desktop を使用して構築し、Git Bash を導入した環境で構築しました。初期設定では、作業開始・終了時刻やタイムゾーンを設定し、ブラウザでインストール後、管理者アカウントを作成し、表示環境の設定を行います。また、拡張プラグインとしてホワイトボード機能も提供されています。評価において、開発者はブラウザ通信時間と処理時間を考慮し、ユーザー体験を重視した設計を採用しています。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/10/leantime/00_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/01_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/10_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/11_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/12_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/13_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/14_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/15_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/16_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/17_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/18_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/19_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/20_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/21_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/22_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/09_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/23_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/24_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/25_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/02_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/03_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/04_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/05_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/06_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/07_m.png",
+      "https://i.gzn.jp/img/2026/11/10/leantime/08_m.png"
+    ]
   },
   {
     "id": "26e8e92674be24ca",
@@ -275,7 +507,19 @@
     "url": "https://qiita.com/thun-c/items/fa16332d2b18800d69b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-10T14:00:46.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "GENERAL",
+    "summary": "# AHC074 with AI：人間の判断を重視した戦略的アプローチ\n\nAHC074 の With AI 部門では、問題公開の 10/30 ではなくルール告知時点でスタートし、9 回の過去問リハーサルを実施しました。この取り組みは、AI が前提として見ていることに対して人間が疑い、その前提を外に出すための具体的な判断を 4 つ実施しました。\n\nまず、課題解決の仕組みについては、公開済みの過去問を解き直して本番に臨みました。また、評価基準には「人間の判断」を重視する指標を採用し、結果として順位は 10 位まで上がり、最終暫定順位も 10 位となりました。\n\n具体的な戦略として、「嘘の目標」をプロに相談し、単純すぎる方針を疑い、制御の精度を向上させるなど、多様なアプローチを試しました。これにより、評価の CPU は効率化され、最終的な順位は大幅に改善しました。この経験から、AI が前提と異なる人間が考えられる競技性が確認されたことが明らかになりました。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F535132%2F898a97e2-47cc-49e7-9ed7-04d44606b7eb.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=0b80935b41801281237af1b8181267f4",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F535132%2F44d779a6-301a-457a-b248-32c65a537b39.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=1320a39ac434656922a59d16541d1aa2",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F535132%2Fb3ac4a97-c4e6-4f0d-9108-e6e8bede1b01.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=065211427e4ddfb574c2745f624714de",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F535132%2Fd27fbf13-a0b4-407f-acd1-d77a8e1e820f.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=2168a5b679ea9904b328c3c7658a6f42",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F535132%2F3cbcc313-6dd3-4936-a3c3-d4d5cb002b1e.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=868ec5fd52a33fa3d20ed6db05b0a460",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F535132%2F3f17f6c9-0854-4c6b-a6cc-3893caf612c3.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=57d9a9eb2ad074636c0f4398e8eda522",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F535132%2Fe60d999a-1842-4c73-b968-305dbb6e1c1c.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=bd8141d345d86942684bc1c7a9e32d32",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F535132%2Fdd5c71bb-b558-4d90-9073-e5e721109f3e.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=5a0fb095959f8344553b6f255582b9d9"
+    ]
   },
   {
     "id": "1d36eac9f0633714",
@@ -283,8 +527,33 @@
     "url": "https://zenn.dev/arupaka_sho/articles/anodb_local_first_db_over_nostr",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-10T13:59:24.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Kms3NWzi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25A7%25E5%2590%258C%25E6%259C%259F%25E3%2583%25BB%25E5%2585%25B1%25E6%259C%2589%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258BDB%25E3%2580%258CanoDB%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%259ANostr%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%25E3%2581%258B%25E3%2582%2589%25E5%259B%25B3%25E8%25A7%25A3%25E3%2581%25A7%25E5%2585%25A8%25E9%2583%25A8%25E8%25AA%25AC%25E6%2598%258E%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shoga%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdiZjdhYjg0Y2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Kms3NWzi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25A7%25E5%2590%258C%25E6%259C%259F%25E3%2583%25BB%25E5%2585%25B1%25E6%259C%2589%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258BDB%25E3%2580%258CanoDB%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%259ANostr%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%25E3%2581%258B%25E3%2582%2589%25E5%259B%25B3%25E8%25A7%25A3%25E3%2581%25A7%25E5%2585%25A8%25E9%2583%25A8%25E8%25AA%25AC%25E6%2598%258E%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shoga%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdiZjdhYjg0Y2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け anoDB の概要と仕組み\n\n**課題と技術**\nanoDB は、端末内の SQLite を「ソースの真実」とし、E2E 暗号化された Nostr イベントを同期するローカルファーストデータベースを開発しました。従来のサーバー依存型や中間サーバーを回避し、アプリだけで運用できる設計です。\n\n**結論**\nこのシステムは、開発者側がゼロのサーバーを必要とせず、オフラインでの読み書きと複数端末の同期を実現できます。セキュリティと柔軟性を両立した設計により、信頼性の高いデータ管理が可能になります。\n\n**方法**\n1. **設計原則**: 公開キー暗号化と署名によるセキュリティを基に、標準的な SQL API をベースに SQLite トリガーで同期処理します。\n2. **ネットワーク構成**: Nostr の公開リレー網を活用し、中間サーバーの依存を回避します。\n3. **機能実装**: WebRTC で端末間のリアルタイム変更を伝達し、オフライン時の自動切り替え機能を実装しています。\n4. **導入方法**: npx @anodb/cli init をコマンドで自動設定を行います。\n\n**注意点**\nセキュリティは極めて重要です。変更記録は E2E 暗号化され、端末ごとの鍵で署名されます。利用者は自身の端末のみが鍵を持つため、他人の改ざんを防ぐことが可能です。また、オフライン状態でもデータは保存されており、アプリを閉じても失わなくなります。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/d625f6919806220926256e4c.png?sha=e480c872baed639522d53e1bfd5dc47bd066f523",
+      "https://static.zenn.studio/user-upload/deployed-images/34e6be7422ea876ab06df9df.png?sha=f5ca350d8242fc4769d0763b1c5b173d3800054e",
+      "https://static.zenn.studio/user-upload/deployed-images/124ba48902ffa92dc4f4b799.png?sha=60d7950095037463bcd30009e58596ef296972a7",
+      "https://static.zenn.studio/user-upload/deployed-images/2e433f5a594a4a5712c5f7e0.png?sha=f2f4501fec073c45987c04946c4304a685e346af",
+      "https://static.zenn.studio/user-upload/deployed-images/4d37250532dc5cacc50c43b8.png?sha=a942d24b92d9e98b11946d71f0ecaeabf2f2aa60",
+      "https://static.zenn.studio/user-upload/deployed-images/9cbc263f0e1e85cc12a0cd53.png?sha=196e3c1ab7e30557b4f960a0b41cd6e15517b446",
+      "https://static.zenn.studio/user-upload/deployed-images/45bbb978e82bd5d0a6f81df7.png?sha=f09bd29900be3669a6560f5a1548d38825787ac6",
+      "https://static.zenn.studio/user-upload/deployed-images/ddaab6f1a3dbe69c5cddb684.png?sha=bed334135534d874a78eda06ebd8d0c47665710e",
+      "https://static.zenn.studio/user-upload/deployed-images/e2f4af3f175051cadc96c20c.png?sha=c30e3a36db035631c26cf9d260ed50ee924f4047",
+      "https://static.zenn.studio/user-upload/deployed-images/c19e6280b0708e691d4e4511.png?sha=38b194660620fbe5504e9239e7c07b6468ffcbdd",
+      "https://static.zenn.studio/user-upload/deployed-images/64d1a073c3d3a14947897249.png?sha=98ac0268003eaea11ae23d98052abef3a8905135",
+      "https://static.zenn.studio/user-upload/deployed-images/076f997f0b9f82421bafbc80.png?sha=0206879b8553a6bf70a0f58257338666d4268b39",
+      "https://static.zenn.studio/user-upload/deployed-images/410f469c1c1213821933a971.png?sha=adaedf5f789304b4fe5bf9c7375f0949a06d5377",
+      "https://static.zenn.studio/user-upload/deployed-images/fd9b59ab32fa9ec72d7763e1.png?sha=fb7153dd84b836e677086f933eee4f72039fd5c7",
+      "https://static.zenn.studio/user-upload/deployed-images/e63cf003ed94d11e0a5e385b.png?sha=5faa9365d3277c3a2bfe55de929141c5f4359cba",
+      "https://static.zenn.studio/user-upload/deployed-images/71fa8e8ab520f9f39fcd7a69.png?sha=00f3612d50b8400032595ed0dd1350ea2e5b1eb3",
+      "https://static.zenn.studio/user-upload/deployed-images/9df50493fca3a50d5d10a6a8.png?sha=20237f22ea11d69288734992df5f1509eee565e4",
+      "https://static.zenn.studio/user-upload/deployed-images/6c140a5e9aca112df317a8ff.png?sha=2e6f083ac36c580aa14838c87592caa5ef8cb5dc",
+      "https://static.zenn.studio/user-upload/deployed-images/cab60dcb88eae4ba0f58f981.png?sha=d6601ce8c9a59a794daca8b5f28a4c2bd458d24b",
+      "https://static.zenn.studio/user-upload/deployed-images/d50d28946bb304bbbd611c46.png?sha=8c234c53fb2df492dbe08a9ab6639937c407f468",
+      "https://static.zenn.studio/user-upload/deployed-images/12247e6524749e9c1f635c3c.png?sha=9beaa766f45b375df4bf913415e2afa42c6b688b"
+    ]
   },
   {
     "id": "f8c744f585a994cc",
@@ -292,7 +561,14 @@
     "url": "https://qiita.com/7mpy/items/5710fef43ba0e59204c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-10T13:38:25.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# グラフィクゲーム開発の体験と仕組み\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n**テーマ：課題と技術**\nこの記事は、GTA 6のようなオープンワールドゲームをブラウザで制作するプロジェクトの概要です。実際の大阪街を再現するために、OpenStreetMapの地図データをゲーム世界に変換し、3Dサンドボックスゲーム「VELA BAY」を作成しました。開発者は、実装段階において、地図データの正確性、物理衝突の処理、車両AIの走行制御など、複雑な技術課題を解決しました。\n\n**結論：推奨と主張**\n本プロジェクトは、既存のアセットを使わず、コードからすべての要素（人物、車、建物、音声）を生成し、実装済みです。ただし、モデルの性能を一般化することはできません。開発者は、機能追加や検証を個別に確認する段階的なアプローチを採用しており、実際の動作確認を重視しています。\n\n**方法：手順と仕組み**\n課題を解決するために、以下の手順で実装を進めました。\nまず、OpenStreetMapと国土地理院的データを取得し、ゲーム内のローカル座標へ変換します。次に、建物の輪郭を多角形として扱い、プレイヤーや車両の円と衝突判定を実装します。道路グラフを用いた車両AIは、左側通行を考慮したレーン上の経路を追従させます。また、車・人物の壁面テクスチャもコードから生成することで、外部アセットの依存を回避しました。物理エンジンを導入せず、範囲に絞った独自の衝突判定を実装しています。\n\n**本文に情報がない項目は推測せず「本文に記載なし」としてください**\n具体的なゲームプレイ手順や、開発環境の詳細な設定などは、本文には記載されていません。しかし、ブラウザでの動作確認や、Node.jsでの起動方法については、本文の最後の部分で説明されています。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2Ff538ea14-fe06-4ccb-8094-8515fad27de1?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7c2d3a235bccfdb86d97dbf05f5d936b",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2F7aeacba8-8dbe-4b62-81b6-512b65227c9a?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ee4ac214fbfb2c0efa4d4a41d99a08c3",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F435735%2F0883c126-466b-4837-b40e-83ee2e687172.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=5baa84d3e4d87b3df04260db28aae44e"
+    ]
   },
   {
     "id": "7da87bf9d2c7006b",
@@ -300,8 +576,11 @@
     "url": "https://sue445.hatenablog.com/entry/2026/11/10/223328",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T13:34:25.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsue445.hatenablog.com%2Fentry%2F2026%2F11%2F10%2F223328"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsue445.hatenablog.com%2Fentry%2F2026%2F11%2F10%2F223328",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\n開発者向けに、GitHub Actions の lock ファイル管理を適切に設定する重要な機能の追加です。従来の依存ライブラリの lock 更新は automatic に処理されるため、新しいワークフローやアクションを追加した時に lock ファイルが更新されず問題が発生します。この問題は、CI チェックを行うための単純なワークフローを作成することで解決されています。\n\n## 結論\n\nGitHub Actions の lock ファイル管理を自動化する機能の追加により、依存ライブラリの lock 更新を自動処理し、新しいワークフローやアクションを追加した時に lock ファイルが正確に更新されます。これにより、CI チェックを行うための簡易的なワークフローが作成できます。\n\n## 方法\n\nGitHub Actions の拡張機能「github/gh-actions-lock」のインストールと、チェックするワークフローの作成です。ワークフローは、リポジトリの全てのファイルとアクションの lock ファイルを参照し、検証を行うステップを定義します。この設定により、既存の依存ライブラリの lock 更新が自動処理され、新しいワークフローとの整合性が保たれます。\n\n本文には具体的な機能追加やバージョン変更に関する詳細情報は記載されており、推奨される機能は拡張機能の導入とワークフローの作成です。",
+    "imageUrls": []
   },
   {
     "id": "b1b9cf870218a682",
@@ -309,8 +588,11 @@
     "url": "https://zenn.dev/okayurisotto/articles/bc5f6a177cda8f",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-10T13:17:58.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3wcrULAY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Zod%25204.4.0%25E3%2581%25A7%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25AB%2560z.unknown%2528%2529%2560%25E3%2581%258Coptional%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2581%258B%25E3%2582%2586%25E3%2582%258A%25E3%2581%259E%25E3%2581%25A3%25E3%2581%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk3Y2NlZDI1ODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3wcrULAY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Zod%25204.4.0%25E3%2581%25A7%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25AB%2560z.unknown%2528%2529%2560%25E3%2581%258Coptional%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2581%258B%25E3%2582%2586%25E3%2582%258A%25E3%2581%259E%25E3%2581%25A3%25E3%2581%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk3Y2NlZDI1ODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Zod バリデーション変更の通知\n\n**結論**: Zod の4.4.0リリースで、`z.object({ foo: z.unknown() })` が失敗する理由が、プロパティの省略と型推論の整合性に関する重要な変更です。\n\n**方法**: 開発者は、`z.object()` プロパティに指定した`z.unknown()`の挙動を修正しました。これにより、`undefined`を指定すれば成功し、`unknown`を指定すれば失敗するようになります。この変更は、TypeScriptの型システムと実行時の挙動が一致するよう設計されていますが、既存のコードやライブラリとの整合性が問題になります。\n\n本文には、この変更の詳細な影響や推奨される対応方法が記載されていません。開発者は、新しいリリースノートに注意を払う必要があります。",
+    "imageUrls": []
   },
   {
     "id": "fa9ca56c49621cc2",
@@ -318,8 +600,11 @@
     "url": "https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T12:56:40.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Ftakateeen_knj%2F20261110-claude-deepdive"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Ftakateeen_knj%2F20261110-claude-deepdive",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：開発者の指針と設定プロセスの解説**\n\n本記事は、Claude の導入時の手順と、環境管理の重要な仕組みについて解説しています。開発者は指針を打つだけで済むとありますが、内部の関数が複雑なため、適切な手順を踏むことが重要です。\n\nまず、基本のフローは「起動 → 指針入力 → 思考 → 道具使用」の順に進行します。このプロセスを誤りなく実行するには、各層の役割を明確に理解する必要があります。特に、スバンダースandbox などの仕組みは、機密ファイルや環境変数を適切に管理するために不可欠です。\n\n設定ファイルの読み込みや、コマンドの許可・拒否は、プロジェクトの安全性とパフォーマンスに影響します。また、スクリプトやツールを呼び出す際に、適切な権限設定を行うことが重要です。最終的な結果として、開発者が安全かつ効率的に作業を進めることができます。\n\n**結論：適切な手順と環境管理が、開発者の安全な運用を確保する。**\n\n**方法：指針入力からスクリプトの調配まで、段階的に進めることで、誤りを防ぐ。**\n\n本文には、設定ファイルの読み込みや、コマンドの許可・拒否の詳細な例文が含まれています。これらの情報は、専門用語を短く説明し、重要な情報を保ちつつ、実践的な手順として提示しています。",
+    "imageUrls": []
   },
   {
     "id": "7f7774aa18131dbc",
@@ -327,8 +612,11 @@
     "url": "https://www.jcci.or.jp/news/news/2026/1110170000.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T12:45:02.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.jcci.or.jp%2Fnews%2Fnews%2F2026%2F1110170000.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.jcci.or.jp%2Fnews%2Fnews%2F2026%2F1110170000.html",
+    "category": "RELEASE",
+    "summary": "商工会議所のネット試験管理システムに不正アクセスが確認された結果、約 98 万人の受験者情報が漏れたと判明しました。この情報は現時点で確認できませんが、11 月 9 日以降の試験期間中、対象となる 2022 年 4 月から 2026 年 11 月 4 日の受験者情報を漏えさせる可能性があります。\n\n対策として、商工会議所は不審なメールや SMS を受容するよう注意を促し、パスワードやクレジットカード情報を入力しないよう指導しています。また、試験は正常に実施できるため、受験者は安心して参加できます。問い合わせ先は日本商工会議所の事業部です。\n\n本文には具体的な対策の詳細や今後の対応状況が不明ですが、現時点では漏れしていないため、対策の重要性を強調しています。",
+    "imageUrls": []
   },
   {
     "id": "887478607d00cf38",
@@ -336,8 +624,11 @@
     "url": "https://zenn.dev/megrou/articles/5076edcd6e1251",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-10T12:44:33.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Ncpe-LCj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%2520%25E3%2581%25A7%2520fs%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Vercel%2520%25E4%25B8%258A%25E3%2581%25A0%25E3%2581%2591%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%258C%25E7%25A9%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2580%2595%2520Output%2520File%2520Trac...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2581%2590%25E3%2582%258D%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWRTQjJ3UFQxWng0bDExWnQ5S1NpeExyaVlaTlY4S21lRl93SXNob1hhRElxQmVYTT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Ncpe-LCj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%2520%25E3%2581%25A7%2520fs%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Vercel%2520%25E4%25B8%258A%25E3%2581%25A0%25E3%2581%2591%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%258C%25E7%25A9%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2580%2595%2520Output%2520File%2520Trac...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2581%2590%25E3%2582%258D%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWRTQjJ3UFQxWng0bDExWnQ5S1NpeExyaVlaTlY4S21lRl93SXNob1hhRElxQmVYTT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TROUBLESHOOT",
+    "summary": "開発者向けに、直訳調の自然な日本語で要約します。\n\n**テーマ：Next.js の ISR 再生成時のデータ読み込みエラーの原因と対策**\n\nこの記事は、Vercel のプレビュー環境で「経歴やスキルが空になる」エラーが発生した原因と解決策をまとめました。\n\n問題のコードは、ファイルを読む処理を共通化した async 関数です。読み込みに失敗する際は、変数で渡されたパスがトレースされないため、エラー画面にはなりません。また、ビルド時の静的生成では正しいデータが見える一方で、 ISR の再生成時に空になることが原因となります。\n\n解決策として、以下の 2 つの対策が推奨されます。\n\n1. パスを固定化する\n   `path.join(process.cwd(), 'data', 'resume.json')` のような絶対パスを関数内で直接渡すことで、解析が確実になります。\n2. `outputFileTracingIncludes` を明示する\n   Next.js の設定ファイルに、実行時に読み込むファイルを指定することで、再構築時のエラーを防ぐことができます。\n\n最終的には、ページごとのトレース結果を確認することで、問題の所在を特定できます。これにより、サーバーレス関数へのデータ読み込みが安定した環境に切り替えることができます。",
+    "imageUrls": []
   },
   {
     "id": "14e4283194656e6f",
@@ -345,8 +636,11 @@
     "url": "https://speakerdeck.com/mizutani/ai-to-hajimeru-kanshi-kiban-nashi-no-sekyuriti-kanshi-2",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T12:43:37.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fmizutani%2Fai-to-hajimeru-kanshi-kiban-nashi-no-sekyuriti-kanshi-2"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fmizutani%2Fai-to-hajimeru-kanshi-kiban-nashi-no-sekyuriti-kanshi-2",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け AI エージェン ト導入戦略\n\n## 課題と技術の概要\n開発者は、セキュリティ監視と DevSecOps を統合した AI エージェン トを開発しています。従来の監視システムでは、ログ収集や検索基盤の構築が重要であり、攻撃の速度を可視化する仕組みも導入されています。特に、AI を活用することで、攻撃作業の進行を可視化し、侵攻の速度を 65% に向上させることが示されています。また、CrowdStrike の調査結果によると、AI は平均の破発時間を約 10〜20% に短縮する効果を示しています。\n\n## 解決手順と仕組み\n監視の目的は、攻撃の速度を踏まえて適切な範囲を決めることで、必要なデータを収集し、監視基盤の構築を行います。検索条件の保存や定期実装を適切に行い、重複を記録しないよう設計されています。また、監視基盤の必要性を問うことで、リアルタイム検知の代替案も検討されています。AI エージェン トは、各サービスを提供するリアルタイム検知よりも、定期的な確認プロセスを重視し、ログの遅延や重複処理を考慮した管理フローを採用しています。\n\n## 実践時の注意点\n監視の効率化には、適切な設定と運用が重要です。調査結果に基づき、監視基盤の規模を調整し、安全に接続するよう注意が必要です。また、AI の活用は調査データに基づき、実際の運用環境での適応を考慮する必要があります。特に、すべてのサービスに対してリアルタイム検知を諦めるのではなく、定期的な確認プロセスを維持することが推奨されています。\n\n## 結論\n監視の目的は攻撃の速度を可視化するものであり、AI エージェン トの導入により、監視基盤の構築と検索効率化が実現できます。ただし、調査結果に基づき適切な設定を行うことが重要です。また、すべてのサービスに対してリアルタイム検知を諦めるのではなく、定期的な確認プロセスを維持することが推奨されます。最終的に、開発者向けに自然でわかりやすい日本語で、専門用語は短く説明することで、実践的なアドバイスを提供します。",
+    "imageUrls": []
   },
   {
     "id": "f0348594d138227e",
@@ -354,8 +648,11 @@
     "url": "https://zenn.dev/megrou/articles/e04a9edaaea79d",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-10T12:41:25.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--XSbG8RuA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2581%25B7%25E5%258B%2599%25E7%25B5%258C%25E6%25AD%25B4%25E6%259B%25B8%25E3%2581%25AE%2520JSON%2520%25E3%2581%258B%25E3%2582%2589%25E3%2580%258C%25E6%258A%2580%25E8%25A1%2593%25E3%2581%2594%25E3%2581%25A8%25E3%2581%25AE%25E7%25B5%258C%25E9%25A8%2593%25E5%25B9%25B4%25E6%2595%25B0%25E3%2580%258D%25E3%2582%2592%25E5%2587%25BA%25E3%2581%2599%2520%25E2%2580%2595%2520%25E5%25BD%25A2%25E3%2582%2592%25E6%25B1%25BA%25E3%2582%2581%25E3%2581%25A4%25E3%2581%2591%25E3%2581%25AA%25E3%2581%2584%25E9%259B%2586%25E8%25A8%2588%25E3%2582%2592%2520TypeScript%2520%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2581%2590%25E3%2582%258D%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWRTQjJ3UFQxWng0bDExWnQ5S1NpeExyaVlaTlY4S21lRl93SXNob1hhRElxQmVYTT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--XSbG8RuA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2581%25B7%25E5%258B%2599%25E7%25B5%258C%25E6%25AD%25B4%25E6%259B%25B8%25E3%2581%25AE%2520JSON%2520%25E3%2581%258B%25E3%2582%2589%25E3%2580%258C%25E6%258A%2580%25E8%25A1%2593%25E3%2581%2594%25E3%2581%25A8%25E3%2581%25AE%25E7%25B5%258C%25E9%25A8%2593%25E5%25B9%25B4%25E6%2595%25B0%25E3%2580%258D%25E3%2582%2592%25E5%2587%25BA%25E3%2581%2599%2520%25E2%2580%2595%2520%25E5%25BD%25A2%25E3%2582%2592%25E6%25B1%25BA%25E3%2582%2581%25E3%2581%25A4%25E3%2581%2591%25E3%2581%25AA%25E3%2581%2584%25E9%259B%2586%25E8%25A8%2588%25E3%2582%2592%2520TypeScript%2520%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2581%2590%25E3%2582%258D%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWRTQjJ3UFQxWng0bDExWnQ5S1NpeExyaVlaTlY4S21lRl93SXNob1hhRElxQmVYTT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：職務経歴書の経験年数の計算方法**\n\nフリーランスエンジニアとして職務経歴書を再構築する際、手書きでの計算は誤差や自信に悩むことが多く、C# などの技術ごとの経験年数を正確に把握することが重要です。本文では、この課題を解決するために、JSON を基にしたツールを作成しました。\n\n主な内容は、以下の通りです。\n\n**結論：自動化された計算ツールの実装**\n職務経歴書のデータ形式はバラバラであり、手書きでの計算や暗算による誤差を防ぐため、JSON の構造を統一したツールを作成しました。このツールは、プロジェクトの期間とキーワードから経験年数を自動計算し、標準フォーマットとの整合性を確保します。\n\n**方法：データ解析と計算ロジック**\n1.  **データ収集**: JSON Resume の「プロジェクト」フィールドから、開始日・終了日と技術キーワードを抽出する。\n2.  **計算ロジック**:\n    *   日付の処理は月単位に換算し、重複した期間を除外する。\n    *   「*」という記号を指定することで、言語やデータベースなどの複数の値を統合して計測する。\n    *   JSON Path ライブラリを活用し、パスを正確に読み取る仕組みを実装。\n3.  **適用**: 自作の職務経歴書と標準フォーマットのデータを並べ合わせて、共通の計算規則に基づき結果を出力する。\n\n**本文に記載なし**: 具体的なツールコードの詳細は記事の最後に記載されています。\n\nこのツールは、開発者が業務効率化や信頼性を高めるために、経験年数の正確な管理に不可欠な解決策となります。",
+    "imageUrls": []
   },
   {
     "id": "8fac6fdb2acf855f",
@@ -363,8 +660,11 @@
     "url": "https://japan.cnet.com/article/35254664/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T11:45:08.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254664%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254664%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\nJR東日本は2028年春に「ウォークスルー改札」サービスを首都圏主要40駅に拡大する。従来の「タッチ＆ゴー」の改札機を使わず、スマートフォンとUWB通信装置を組み合わせることで、手ぶらで改札を通過できる仕組みが導入される。この技術はAndroidやiOSのモバイルOSレベルでのセキュアエレメント内Suica情報の利用により実現される。\n\n結論\nこのシステムは、従来の「タッチ＆ゴー」の制限を回避し、誰でもサービスを利用可能になることを目指している。世界初の大規模導入事例であり、JR東日本とベンダーらによる開発完了が確認された。\n\n方法\n課題解決の仕組みは、UWB通信装置とスマートフォン内のSuica情報に基づき、距離を測定して通過判定を行う。この技術はOSレベルでセキュリティを確保し、電池や起動状態に依存せず、手ぶらでの利用が可能になる。開発チームはモバイルOSを提供するプラットフォーマーの協力を不可欠とし、将来的にはAndroidやiPhoneに対応する新しいオペレーションシステムが導入される見込みである。",
+    "imageUrls": []
   },
   {
     "id": "50c08a476ff2d19a",
@@ -372,8 +672,16 @@
     "url": "https://www.ryuzee.com/contents/blog/14628",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T11:36:50.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.ryuzee.com%2Fcontents%2Fblog%2F14628"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.ryuzee.com%2Fcontents%2Fblog%2F14628",
+    "category": "GENERAL",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n【テーマ】\n「自分の仕事はここまで」という講演資料は、組織の構造や評価制度が個人の問題として見なされる現象を解明するものです。特定の責任者やルールによって、自身の意欲や行動を制限し、結果をコントロールする仕組みが問題とされています。\n\n【結論】\nこの問題は、個人の問題ではなく、目標設定や評価制度、意思決定の仕組みの構造に起因する症状です。自己責任を放棄せず、明確な枠組みの中で自分の行動を決定し、失敗しても責任付けを避けることが重要です。\n\n【方法】\n課題を解決するには、目標範囲を分解し、担当外の貢献を評価する仕組みを改変する必要があります。自律的なチームを前提に、影響力を実感できる関わり方や、明確な役割分担（DACI）を確立することで、越境する行為を回避できます。また、組織の境界線を明確化し、上位目標を共有することで、個人と環境の両方で決まる症状を解消します。\n\n本文には具体的な技術的詳細は記載されていませんが、アジャイル開発やスクラムガイドの原則に基づき、チームの認知負荷を減らすための組織構造の改善が推奨されます。専門用語は短く説明し、重要な情報は本文に記載されています。",
+    "imageUrls": [
+      "https://slidehub-cdn-std-gah9eaewchfeedbr.z01.azurefd.net/images/c99c44cbcd42d8261c639dd91cd1d26a/slide-01.jpg",
+      "https://m.media-amazon.com/images/I/51Bi27X9J3L.jpg",
+      "https://m.media-amazon.com/images/I/51t4IrnjicL._SL500_.jpg",
+      "https://m.media-amazon.com/images/I/51HEm7DocNL._SL500_.jpg"
+    ]
   },
   {
     "id": "9ab14f8c22b474b3",
@@ -381,8 +689,11 @@
     "url": "https://speakerdeck.com/sioncojp/zokujinka-shita-isms-unyou-o-github-to-ai-de-shikumika-shita-1-nenkan-no-kiroku",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T11:24:01.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fsioncojp%2Fzokujinka-shita-isms-unyou-o-github-to-ai-de-shikumika-shita-1-nenkan-no-kiroku"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fsioncojp%2Fzokujinka-shita-isms-unyou-o-github-to-ai-de-shikumika-shita-1-nenkan-no-kiroku",
+    "category": "RELEASE",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\nISMS の管理策の運用を GitHub と AI を活用したシステム化が成功しました。1 年間の記録では、ISMS 無事に更新され、組織のリスク評価とセキュリティ対策の継続を図る仕組みが確立されました。特に、GitHub Actions で Notion ページを構築し、法令や内部監査記録を自動管理する機能を実装しました。\n\nこの方法は、改善提案を Issue に蓄積し、議論の活発化を通じて改善プロセスを可視化しています。また、AI 活用により、法令の差分抽出や業務影響度ジャッジを行うことで、コーポレートエンジニアへの推奨を支援する仕組みが確立されました。\n\n本文には具体的な機能の詳細は記載されていませんが、GitHub のアクセス権を持っていない人でも利用可能であるという重要な点は強調されています。今後の課題として、改善提案の進捗や背景・理由の理解について引き続き課題となります。",
+    "imageUrls": []
   },
   {
     "id": "b6b939709c3d141b",
@@ -390,8 +701,11 @@
     "url": "https://www.notion.com/ja/help/security-incident-involving-a-third-party-ai-vendor",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T11:08:32.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.notion.com%2Fja%2Fhelp%2Fsecurity-incident-involving-a-third-party-ai-vendor"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.notion.com%2Fja%2Fhelp%2Fsecurity-incident-involving-a-third-party-ai-vendor",
+    "category": "GENERAL",
+    "summary": "# 開発者向け：Notion セキュリティインシデントの対応と対策\n\n**テーマ**: Notion セキュリティインシデントについて\n結論：Fireworks AI のデータ保持問題が確認されたため、ゼロデータ保持ポリシーを遵守し、セキュリティ対策を強化することが推奨されます。\n方法：インシデント発生後のデータの取得方法と、認証情報の管理の具体的な手順\n\n本文では、Notion が Fireworks AI を利用していた場合のセキュリティリスクについて調査結果が発表されました。Fireworks のシステム内データを削除する際、一部のワークスペースオーナーは影響を受けたデータを取得することができました。これにより、パスワードや API キーなどの認証情報が流出した可能性があります。開発者向けには、インシデント後のデータの確認方法と、セキュリティ対策の重要性を明確に提示しています。\n\n特に、チャット履歴や Insights 機能のデータは、サードパーティのモデルとのリクエストを保持する機能により、Fireworks のエンドポイントからデータが保持されていたことが判明しました。これにより、ゼロデータ保持ポリシーの遵守が重要となりました。開発者は、インシデント後のデータの確認方法と、認証情報の管理について詳しく説明されています。\n\nもし、ワークスペースへの影響が確認された場合は、直接ご連絡してください。また、セキュリティ対策の詳細については、Notion のセキュリティポリシーページを参照することをお勧めします。",
+    "imageUrls": []
   },
   {
     "id": "8f0ca0dd5b9529f0",
@@ -399,8 +713,14 @@
     "url": "https://zenn.dev/knowledgesense/articles/bd917ed6829121",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T11:05:58.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fknowledgesense%2Farticles%2Fbd917ed6829121"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fknowledgesense%2Farticles%2Fbd917ed6829121",
+    "category": "TUTORIAL",
+    "summary": "# AI エージェンティの推論コスト削減と精度維持手法\n\n本記事は、長文入力による推論コスト増大と精度低下の問題を解決する新しいアプローチについて解説します。NVIDIA の研究チームによって発表された新手法により、LLM エージェンティは従来の「全履歴を記憶する」方法から、「必要な箇所だけ読み込む」という戦略へ移行しています。\n\n## 課題と解決策\n現在の AI エージェンティは、タスクが長引くにつれてコンテキストの膨張し、コストが高くなるという課題があります。これらを解決するために、以下の手法を採用します。\n\n### 1. コンテキスト圧縮と選択読み込み\n従来の方法は、過去の対話ログをすべて記憶するのではなく、重要な情報を圧縮して外部ツールで検索する仕組みです。例えば、ファイルシステムに保存したファイルを利用し、必要な箇所だけを検索・抽出することで、過剰なデータを排除します。\n\n### 2. 長期タスクへの対応\n会話終了時の状態を記録し、新しいセッションを開始する設計です。これにより、過去の履歴の重複処理や誤記を防ぎ、効率化を図ります。\n\n## 結論\nこの手法は、全履歴入力と同等以上の正答率を達成しつつ、推論コストを最大 8.8 倍削減します。実装テストでは、業務課題への正確な回答が可能となりました。ただし、回答までの時間は選択読みの時間に依存するため、効率化には注意が必要です。\n\n## 方法\n1. **コンテキスト圧縮と検索**: 重要な情報を外部システムに保存し、必要な箇所だけ検索・抽出する。\n2. **状態圧縮**: 会話終了時に状態を記録し、新しいセッションを開始する。\n3. **多段階検索**: 正解キーワードを見つけることで、次の検索に進める仕組み。\n\n## 注意点\n選択読みの時間増加は避けられないため、実装時の運用には注意が必要です。また、精度向上とコスト削減のバランスについては、ベンチマークテストの結果を参照する必要があります。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/6bd83ed9ee08-20261107.png",
+      "https://static.zenn.studio/user-upload/1046a33bd078-20261107.png"
+    ]
   },
   {
     "id": "b838c06ac6562e1b",
@@ -408,7 +728,15 @@
     "url": "https://qiita.com/yoniha/items/c5e23c033bf3e09d0f20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-10T10:59:38.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な要約\n\nこの記事は、開発者向けに直訳調を避けた自然でわかりやすい日本語で要約します。\n\n## テーマ：記事が扱う課題や技術は何か\n記事は、参加者としての成長記録と、具体的な学習方法について述べています。特に、ABC問題の解き方を分析し、ADT（日付訓練）や新しいコンテストへの参加を推奨しています。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\n参加者は、水色の問題から黄色に転換するまでの過程を振り返り、最終的に黄色になるためにエンジン全開を行うことを推奨します。また、ICPCの参加も推奨されています。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n学習方法として、毎週月〜金の16:00と18:00に開催されるバーチャルコンテスト（ADT）に参加し、早解き練習を行います。また、新しい問題の解き方を学ぶためにAtCoder Weekday Contestも参加する提案されています。\n\n本文には具体的な技術用語は少ないため、専門用語は短く説明しています。最終的な目標は、黄色に転換するまでの進捗を記録するものです。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4311792%2F6fecd38a-1e48-46f6-914b-6517c57e38ee.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4cfb43cd4736e529d9895df7d4a9b968",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4311792%2F463f48c9-b217-414d-8c8e-f3b394805aed.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=649040aa666997051923bd90d590d296",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4311792%2Fa4b2d4f3-1642-4838-9357-ef3460d1746e.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=bc12e262943c0c74c9b2106b009f174c",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4311792%2F51275d0f-0e5d-4156-b038-ee258a31049a.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=acf8b18871c0f0f4c2f4ecb8e02ad8ec"
+    ]
   },
   {
     "id": "3180d8b6e66c80ce",
@@ -416,8 +744,13 @@
     "url": "https://zenn.dev/a1221/articles/er-diagram-editor-layout-crows-foot",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-10T10:23:08.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--hWyqQ8IW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SQL%2520to%2520ER%25E5%259B%25B3%25E3%2581%25AB%25E3%2580%258C%25E5%258B%2595%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B%25E5%259B%25B3%25E3%2580%258D%25E3%2582%2592%25E8%25B6%25B3%25E3%2581%2599%25EF%25BC%259A%25E8%2587%25AA%25E5%258B%2595%25E9%2585%258D%25E7%25BD%25AE%25E3%2583%25BB%25E9%25B3%25A5%25E8%25B6%25B3%25E8%25A8%2598%25E6%25B3%2595%25E3%2583%25BBDDL%25E5%2587%25BA%25E5%258A%259B%25E3%2581%25AE%25E7%25BD%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--hWyqQ8IW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SQL%2520to%2520ER%25E5%259B%25B3%25E3%2581%25AB%25E3%2580%258C%25E5%258B%2595%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B%25E5%259B%25B3%25E3%2580%258D%25E3%2582%2592%25E8%25B6%25B3%25E3%2581%2599%25EF%25BC%259A%25E8%2587%25AA%25E5%258B%2595%25E9%2585%258D%25E7%25BD%25AE%25E3%2583%25BB%25E9%25B3%25A5%25E8%25B6%25B3%25E8%25A8%2598%25E6%25B3%2595%25E3%2583%25BBDDL%25E5%2587%25BA%25E5%258A%259B%25E3%2581%25AE%25E7%25BD%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "# 技術記事の要約\n\n## テーマ：開発者向けに直訳調を避けた自然な日本語で要約\n\nこの記事では、SQL から ER 図（実装解説）を作成するツール「sql-to-er」の進化について解説します。従来の配置設定は Mermaid のタブだけで操作し、テーブルが増えると線が絡みやすく問題になりました。これらを解決するため、構築図エディタをベースに統合した設計が行われました。\n\n## 結論\n\n既存のロジックを再利用しつつ、自動的にテーブルとキーの線を描き、自動配置機能も追加しました。この方法により、開発者にとって直訳調を避けた自然な ER 図を作成し、実装中の配置問題を防ぐことができます。\n\n## 方法\n\n課題は、テーブルの配置が複雑になり、線が絡みやすく問題になりました。これを解決するために、以下の手順と仕組みを採用しました。\n\n1. **構成図エディタの改変**: 「ノード」から「ポート」としてのルーティングを一般化し、線の接続点を明確にしました。\n2. **自動配置機能**: 幅優先で層に分け、重心に基づいて並べ替えるアルゴリズムを実装しました。\n3. **型対応の改善**: DDL の読み込み時に既存の型を保持し、パーサーが正しい値を記録する機能を追加しました。\n4. **障害物対策**: 線が衝突しないよう、障害物をよける経路を探索するロジックを追加しました。\n5. **入力時のエラー防止**: フォカス管理を改善し、入力中に誤操作を防ぐためのフォーム設計を行いました。\n\n## 本文に情報がない項目は推測せず「本文に記載なし」としてください。\n\n本文の長さは約 400 文字です。要約では、主要な技術的解決策と導入方法について詳細を記載しています。専門用語は必要であれば短く説明しています。本文の重要な情報はすべて含まれています。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/82020f9e6731996a2844cd59.png?sha=8043b6f43850d6d59088291a9112b6c1ab4458e6"
+    ]
   },
   {
     "id": "23a6f1d24352a76f",
@@ -425,8 +758,11 @@
     "url": "https://www.asahi.com/articles/ASVCB0H13VCBUTIL009M.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T09:02:35.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.asahi.com%2Farticles%2FASVCB0H13VCBUTIL009M.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.asahi.com%2Farticles%2FASVCB0H13VCBUTIL009M.html",
+    "category": "RELEASE",
+    "summary": "# 個人情報漏洩対策の企業運用変更\n\n**結論**\n個人情報を確保するため、企業はアプリ登録時に氏名と電話番号を必要とせず、データ管理ルールを変更する方針を示している。これにより、サイバー攻撃や不正アクセスによる情報漏洩を防ぐための戦略的対応である。\n\n**方法**\n企業は AI の技術を用いて、サイバー攻撃のリスクが高まる現状を認識し、個人情報の保有範囲を制限する。具体的な対策として、会員登録時における画像データや本人確認書類の削除を徹底する方針が導入された。また、過去のデータ保管期間を短縮することで、長期保有リスクを回避する運用ルールの変更も実施されている。\n\n**本文に情報がない項目は推測せず「本文に記載なし」としてください。**\n要約の視点では、追加機能や対象バージョンの影響などについては、記事内容から明確な記載がないため、その点を補足せず、現状の運用変更と対策の概要をまとめます。",
+    "imageUrls": []
   },
   {
     "id": "39aa081c12d40e9a",
@@ -434,8 +770,13 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003069/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T08:35:43.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003069%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003069%2F",
+    "category": "RELEASE",
+    "summary": "ソフトバンクの宮川潤一社長は、サイバー攻撃の増加に伴い開発者への対応が苦痛に感じる現状を語りました。従来の自動化化の仕組みでは、システムが正常稼働するかどうかの確認仍需手動確認が必要であり、新たな脆弱性が毎週発生する状況です。特に、AIモデルの進化により、開源ソフトウェアの脆弱性が急増し、過去には約1万500件の脆弱性を発見しましたが、新しいモデルを用いると約3万5000件の脆弱性が発見されたという事態が示唆されています。これにより、従来の診断方法では限界を突き、より正確な対策が必要と認識しています。\n\n結論：\n現在、開発者への対応の疲弊は深刻化しており、自動化化の進展と新たなAIモデルによる診断の活用が求められています。\n\n方法：\nサイバー攻撃の速化に伴い、従来の調査と会議での対応を中断し、通信遮断を策定する仕組みが導入されています。また、自動化されたパッチ適用と、AIモデルを用いた動的な脆弱性診断の進歩が行われています。\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/10/2000003069/10011753/728"
+    ]
   },
   {
     "id": "a92667754bb129c0",
@@ -443,8 +784,13 @@
     "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T08:08:12.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsimonwillison.net%2F2026%2FNov%2F9%2Fdetails-summary%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsimonwillison.net%2F2026%2FNov%2F9%2Fdetails-summary%2F",
+    "category": "RELEASE",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\n9 月 9 日、開発者は Claude Code や Codex の PR を利用して新しい機能の構築を進めています。しかし、AI 生成された PR デスクリプションは正確な情報を含みますが、読者が長く読み込む時間がかかるため、人間による編集判断が必要と認識しました。この解決策として、詳細を隠すための `<details>` タグを使用し、短く読める概要を最初に示すことで、人間の視覚的処理を促すことができました。\n\n主な機能は、新しい HTML テキスト要素の導入により、詳細なコードを隠すことができます。これにより、複雑な技術的な説明を簡潔に理解できるようになっています。また、具体的な実装例として、データ表示の改変やパゲーションの改善など、実際の運用事例も記載されています。\n\n結論として、開発者は AI 生成された PR デスクリプションの冗長さを避けることで、より人間が読みやすく理解しやすい構成を確立しました。これにより、機能の正確性と読者の理解度を両立させることが可能となりました。\n\n方法として、HTML の `<details>` タグを活用し、詳細なコードを隠すことで、必要な情報を簡潔に伝えることができます。また、具体的な実装例やテスト結果を併記することで、実際の運用状況を明確に示しています。\n\n本文には追加された機能や対象バージョンの情報は記載されていませんが、この構成は開発者向けに直訳調を避けた自然な日本語で要約されています。",
+    "imageUrls": [
+      "https://static.simonwillison.net/static/2026/details-summary-pr.gif"
+    ]
   },
   {
     "id": "2673515f901a24e3",
@@ -452,8 +798,27 @@
     "url": "https://gigazine.net/news/20261110-claude-opus-nerf/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T08:05:52.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261110-claude-opus-nerf%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261110-claude-opus-nerf%2F",
+    "category": "RELEASE",
+    "summary": "# AI 推論能力低下懸念と対応策\n\n**テーマ：技術課題と影響**\n2026 年 11 月、AI Anthropic の Claude Opus 5.5 は推論能力が急激に低下した可能性が指摘されています。開発者シェーン・メロー氏は利用履歴を分析し、モデル名が変わっても思考内容の性質が変化する現象を発見しました。これは「I'm」の割合増加やダッシュ記号の減少など、具体的な言語変化を示しています。また、推論負荷の設定により、作業開始までの思考量も減少し、スクリプトの実行エラー率も上昇していることが確認されています。\n\n**結論：推奨される対策**\n現時点では、モデルの性能低下は公式資料で明確ではありませんが、開発者の報告に基づき、個人環境での影響は不明です。解決策として、アカウントごとの推論負荷調整を試みることで、特定の不具合を修正する可能性があります。例えば、「high」設定では修正が困難だった場合、「xhigh」設定を試みることが有効と見なされています。ただし、公式の検証結果は待たれており、実際の影響については慎重に判断する必要があります。\n\n**方法：解決策と運用方法**\n課題を解決するには、開発者側が個人環境でのテストを行う必要があります。推論負荷の設定（high や xhigh）を変更することで、作業開始までの思考量やエラー率を改善する可能性があります。また、Anthropic のアカウントごとの設定変更の可能性も指摘されており、個別の調整を試みることで、特定のユーザーへの影響を最小化することが推奨されます。ただし、公式の検証結果は待たれており、実際の影響については慎重に判断することが重要です。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/10/claude-opus-nerf/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/10/claude-opus-nerf/01_m.jpg",
+      "https://i.gzn.jp/img/2026/11/10/claude-opus-nerf/02_m.jpg",
+      "https://i.gzn.jp/img/2026/11/10/claude-opus-nerf/03_m.jpg",
+      "https://i.gzn.jp/img/2026/04/24/anthropic-claude-code-quality/00_m.png",
+      "https://i.gzn.jp/img/2026/04/30/why-cancelled-claude/00_m.jpg",
+      "https://i.gzn.jp/img/2026/09/23/claude-opus-5-5/00_m.png",
+      "https://i.gzn.jp/img/2025/07/29/anthropic-calude-code-rate-limits/00_m.png",
+      "https://i.gzn.jp/img/2025/03/26/google-gemini-2-5-pro/00_m.png",
+      "https://i.gzn.jp/img/2026/07/30/gpt-5-6-optimizing/00_m.png",
+      "https://i.gzn.jp/img/2026/04/17/anthropic-claude-opus-4-7/00_m.png",
+      "https://i.gzn.jp/img/2026/04/20/claude-opus-4-7-token-cost/00_m.png",
+      "https://i.gzn.jp/img/2026/08/06/pi-minimal-performant/00_m.png",
+      "https://i.gzn.jp/img/2026/11/10/headline/00_m.png",
+      "https://i.gzn.jp/img/2026/11/10/expanding-teen-account-protections-teens/00_m.jpg"
+    ]
   },
   {
     "id": "cf5aae545b804823",
@@ -461,8 +826,18 @@
     "url": "https://engineering.nature.global/entry/2026/11/mcp-architecture-patterns",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T07:55:00.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fengineering.nature.global%2Fentry%2F2026%2F11%2Fmcp-architecture-patterns"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fengineering.nature.global%2Fentry%2F2026%2F11%2Fmcp-architecture-patterns",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：モバイルエンジニアの亀田が導入した MCP の解決策**\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点：解決する課題、手順や仕組み、実践時の注意点を中心にまとめてください。\n\nモバイルエンジニアの亀田は、開発ツールとして MCP（Model Context Protocol）を組み合わせることで、複数のアプリを同時に動かす際に詰まる問題を解消する構成パターンを紹介します。この技術は、LLM アプリケーションと外部ツールをつなぐための単なるプロトコルであり、JSON-RPC 2.0 のメッセージやりとりです。\n\n解決する課題は、MCP サーバーのポート競合や設定管理によるアプリ間の接続制限です。具体的な解決策として、1 つずつの機能を実行する構成パターンと、複数のアプリを同時に動かすためのポート分ける構成が提案されています。\n\n本文に記載された技術は、JavaScript で書かれています。開発者は、Emacs や Emacs Lisp を使用せず、MCP サーバーの起動方法や、クライアントとの接続設定を正確に理解することが重要です。最終的に、Claude Code の設定ファイルとして mcp.json を作成し、適切にサーバーを管理することで、複数のアプリを同時に動かすことが可能になります。",
+    "imageUrls": [
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/K/KAMEDAkyosuke/20261109/20261109173730.gif",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/K/KAMEDAkyosuke/20261109/20261109173830.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/K/KAMEDAkyosuke/20261109/20261109173835.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/K/KAMEDAkyosuke/20261109/20261109173842.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/K/KAMEDAkyosuke/20261109/20261109173849.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/K/KAMEDAkyosuke/20261109/20261109173855.png"
+    ]
   },
   {
     "id": "ab9a6031ef756e65",
@@ -470,8 +845,15 @@
     "url": "https://www.itmedia.co.jp/mobile/articles/2611/10/news077.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T07:37:22.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F10%2Fnews077.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F10%2Fnews077.html",
+    "category": "GENERAL",
+    "summary": "東日本旅客鉄道（JR東日本）のコード決済サービス「teppay」は、10 月 20 日にスタートしました。このサービスは、Suica アプリのアップデートを通じて、銀行口座の振替やコンビニATMでの現金チャージ、クレジットカード経由でのチャージなど、従来の機能に加え、残高転送やJCBプリカ発行などの新たな機能を備えています。これらは先行するコード決済サービス「PayPay」を後追いする位置付けですが、Android だけでなくiPhone にも対応し、Suica の利便性を強化するモバイルサービスとして設計されています。\n\n開発の背景は、コード決済市場への参入が推奨された時期であり、JREポイントを絡めた戦略でした。しかし、実質的な開発期間はほぼ 1 年未満となり、2025 年 11 月に正式発表されました。これは「開発スピード優先」の方針によって達成された結果です。ただし、この急激な進め方には品質上の問題や併発による弊害が生じることがあります。特に、JCB の金融モジュールを組み合わせた仕組みにより収益を削むリスクがあり、内部部門との連携不足や紛糾も指摘されています。最終的に、JR東日本はコード決済のスピード投入を優先し、利益を削っても実装を完了させたという結論となっています。\n\n要約の視点：\n- **課題と技術**: 開発期間が短く、品質確保の難易度、JCB の金融モジュールとの連携による収益影響。\n- **結論**: teppay はコード決済のスピード投入を優先し、実装を完了させたものの、品質や併発へのリスクは存在する。\n- **方法**: 開発チームが外部折衝部門を活用し、JCB のSaaS 金融モジュールを組み合わせた仕組みを採用した。",
+    "imageUrls": [
+      "https://image.itmedia.co.jp/mobile/articles/2611/10/st52693_jteppay-01.jpg",
+      "https://image.itmedia.co.jp/mobile/articles/2611/10/st52693_jteppay-02.jpg",
+      "https://image.itmedia.co.jp/mobile/articles/2611/10/st52693_jteppay-03.jpg"
+    ]
   },
   {
     "id": "60c0b1bc361893fe",
@@ -479,8 +861,14 @@
     "url": "https://support.nintendo.com/jp/information/2026/1110/index.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T07:36:10.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsupport.nintendo.com%2Fjp%2Finformation%2F2026%2F1110%2Findex.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsupport.nintendo.com%2Fjp%2Finformation%2F2026%2F1110%2Findex.html",
+    "category": "RELEASE",
+    "summary": "任天堂サポートは、Google/Apple のアカウント連携による「かんたんログイン」サービスを終了させています。このサービス終了に伴い、新しい新規作成やミッションの完了も可能になりますが、既存のユーザーにはログイン方法の変更が必要となります。パスキー機能を利用することで、スマートフォンの生体認証によりログインが容易になります。また、システム変更により最終的な終了時刻は遅れる可能性があります。現在、Google や Apple のアカウント情報を使用し、パスワードを入力する必要があるため、ログイン方法を調整する必要があります。この情報は、サービス終了後の対応について確認いただく必要があります。\n\n結論：サービス終了に伴い、ユーザーは新しいログイン方法（パスキー）を適用することが推奨されます。\n\n方法：Google/Apple の連携機能を利用した「かんたんログイン」の完了を維持するため、パスワード入力や生体認証の活用が必須となります。システム変更により最終的な対応時間は遅れるため、事前に確認を行う必要があります。\n\n本文に情報がない項目は推測せず「本文に記載なし」とします。",
+    "imageUrls": [
+      "https://support.nintendo.com/jp/common/v3/img/header/bnr_nintendo_cs01_sp.png",
+      "https://images.ctfassets.net/57buhi670p02/2ll3A3Qvau64DgI2dUlpkn/854a997a878fb7c539e39d71bc97c293/img_passkey.png?fm=avif"
+    ]
   },
   {
     "id": "2af987c3ed7aefe7",
@@ -488,8 +876,14 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003070/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T07:20:40.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003070%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003070%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：生成AI による商品画像の導入について\n\n業界動向として、日本ケンタッキー・フライド・チキンは実験販売メニューの商品画像に生成AI を活用する方針を示しました。これは、実物撮影と異なる仕上がりでブランドイメージを損なう懸念を考慮した戦略です。同社は個別の工程の詳細を回答せず、実験販売メニューの画像制作において生成AI を導入するケースを明らかにしました。\n\n## 結論\n開発者は、実験販売メニューの商品画像に生成AI を活用することで、実物撮影と異なる表現を可能にしつつ、具体的なコストや期間については社内情報として回答を控えたという方針を示しています。\n\n## 方法\n課題は、ブランドイメージの損ないの懸念です。解決策として、実験販売メニューの商品画像制作において生成AI を導入する方針が採用されています。具体的には、フロートなどの実験販売メニューの商品画像を作成する際に利用するケースを明確にしました。\n\n本文に記載された情報は、開発者向けに自然でわかりやすい日本語で要約しています。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/10/2000003070/10011755/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/10/2000003070/10011756/728"
+    ]
   },
   {
     "id": "19d4ddf3256668f0",
@@ -497,8 +891,17 @@
     "url": "https://japan.cnet.com/article/35254655/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T06:57:01.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254655%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254655%2F",
+    "category": "RELEASE",
+    "summary": "JR東日本はモバイル Suica の代わりにウォークスルー改札を導入する計画を発表しました。この改札は 2028 年春に山手線全駅など 40 駅へ本格導入され、通信技術として UWB を採用しています。対応スマートフォンは必須であり、定期券やチャージ残高をそのまま利用できます。UWB は位置情報を正確に把握し、タッチせず入場・出場を自動化します。また、2027 年 4 月から体験導入を開始し、最終的に全駅への導入を目指しています。この技術は、従来のタッチ式改札との併用により通勤や通学時でも混雑時の効率性を確保するものです。本文に記載なしの重要な説明として、UWB の位置把握機能と自動化機能が主な利点です。",
+    "imageUrls": [
+      "https://japan.cnet.com/storage/2026/11/10/3015c2d941a787044c93beee5f1db679/suica_walkthrough_20261110_body01.jpg",
+      "https://japan.cnet.com/storage/2026/11/10/ea3f9469a4f4c61cd0e486c0c043e33d/suica_walkthrough_20261110_body03.jpg",
+      "https://japan.cnet.com/storage/2026/11/10/af73776af612576a53d70e551e749ac2/suica_walkthrough_20261110_body04.jpg",
+      "https://japan.cnet.com/storage/2026/11/10/7b96ff7a0eeeec818c1b8ae624f771a2/suica_walkthrough_20261110_body02.jpg",
+      "https://japan.cnet.com/storage/2026/11/10/8426e43976741fc110cff67b8e311953/suica_walkthrough_20261110_body05.jpg"
+    ]
   },
   {
     "id": "d011c165d27fd318",
@@ -506,8 +909,11 @@
     "url": "https://zenn.dev/penguinengineer/articles/f2b4f4e083d8f5",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-10T06:16:26.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--KIa_VH37--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Part4%25E3%2580%2591%25E3%2580%2590No.020%25E3%2580%2591%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E5%2585%25A5%25E5%258A%259B%25E3%2581%25A8%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E9%2580%2581%25E4%25BF%25A1%2520%25E2%2580%2595%2520%25E5%2585%25A5%25E5%258A%259B%25E3%2581%2597%25E3%2581%259F%25E5%2580%25A4%25E3%2581%258C%25E6%25B6%2588%25E3%2581%2588%25E3%2582%258B%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%258B%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B6%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E3%2583%258F%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%259A%25E3%2583%25B3%25E3%2582%25AE%25E3%2583%25B3%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMxOWI0NDQ0NjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--KIa_VH37--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Part4%25E3%2580%2591%25E3%2580%2590No.020%25E3%2580%2591%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E5%2585%25A5%25E5%258A%259B%25E3%2581%25A8%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E9%2580%2581%25E4%25BF%25A1%2520%25E2%2580%2595%2520%25E5%2585%25A5%25E5%258A%259B%25E3%2581%2597%25E3%2581%259F%25E5%2580%25A4%25E3%2581%258C%25E6%25B6%2588%25E3%2581%2588%25E3%2582%258B%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%258B%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B6%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E3%2583%258F%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%259A%25E3%2583%25B3%25E3%2582%25AE%25E3%2583%25B3%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMxOWI0NDQ0NjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\n**テーマ：記事が扱う課題と技術**\nこの連載は、React の状態管理とイベントハンドリングについて、019 版の失敗から学びます。特に、フォームの onChange と onSubmit イベントの処理について、入力値が消える問題の解決方法を探るものです。また、状態の更新やイベント型の書き方についても解説します。\n\n**結論：記事が伝える主張、結果、推奨は何か**\n今回の課題は、フォーム送信時に入力値が消われるという不具合です。これらを解決するために、イベントハンドラに引数を渡す形を固定し、e.preventDefault() を忘れるなどの修正を行います。最終的に、正しいイベントハンドラの書き方を理解するよう推奨します。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n課題は、フォームの onSubmit イベントで入力値が消われることです。これを解決するため、イベントハンドラには関数そのものを渡す形（アロー関数）を採用し、引数を指定します。また、React の新しいバージョンに対応した型を適用し、tsc エラーを回避するよう調整します。具体的なコード例や、状態の更新方法、イベント型の書き方についても詳細に解説されています。",
+    "imageUrls": []
   },
   {
     "id": "ae1f88f35243f335",
@@ -515,8 +921,25 @@
     "url": "https://gigazine.net/news/20261110-spy-jensen-huang/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T05:57:13.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261110-spy-jensen-huang%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261110-spy-jensen-huang%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：NVIDIA CEO アリス・フアンの調査結果と関係性\n\n## テーマ：記事が扱う課題や技術は何か\nNVIDIA のCEO ジェンスン・フアン氏による個人生活や企業関係に関する調査結果が公開された。中国政府へのAIチップ輸出規制の失敗と、トランプ大統領の保護姿勢が議論されている。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\n調査によると、ジェンスン・フアン氏はスパイという主張を否定し、トランプ大統領の保護を主張している。しかし、Megaspeed の関係性に関する不倫疑いがあることが指摘される。投資家や企業関係者による再評価も影響を与える。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\nNVIDIA の株価は下落傾向にあり、FBI の捜査活動により調査が進んでいる。アメリカの中間選挙の結果により、データセンター設計画面の再評価も影響している。関係者による企業提携やプライバシー保護の対応について検討が必要である。\n\n本文に記載なしの重要な情報は、上記の項目で補足する必要がある。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/10/spy-jensen-huang/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/10/spy-jensen-huang/001.png",
+      "https://i.gzn.jp/img/2026/11/09/nvidia-spy/00.jpg",
+      "https://i.gzn.jp/img/2026/11/10/spy-jensen-huang/002_m.png",
+      "https://i.gzn.jp/img/2024/10/23/tsmc-huawei-chip/00.jpg",
+      "https://i.gzn.jp/img/2025/04/18/us-house-panel-deepseek-nvidia-china/00_m.jpg",
+      "https://i.gzn.jp/img/2026/10/30/jensen-huang-targeted-chinese-spy/00_m.jpg",
+      "https://i.gzn.jp/img/2025/10/12/nvidia-megaspeed/00_m.jpg",
+      "https://i.gzn.jp/img/2025/05/22/jensen-huang-says-us-export-controls-are-failure/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/10/nvidia-megaspeed-short-seller-prediction/00_m.jpg",
+      "https://i.gzn.jp/img/2025/04/18/nvidia-ceo-jensen-huang-talk-beijing/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/10/google-tpu-8i-max-8tx/00_m.png",
+      "https://i.gzn.jp/img/2026/11/10/nvidia-megaspeed-china-gov-rejected/00_m.jpg"
+    ]
   },
   {
     "id": "a86614e67982ef32",
@@ -524,8 +947,13 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003062/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T05:40:32.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003062%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003062%2F",
+    "category": "RELEASE",
+    "summary": "自治体が通信異常を報告し、一部の地域ではコンビニ交付が停止し、住民登録手続きに支障が出る状況である。富士フイルム系システムによる通信異常の調査と、戸籍証明書発行システムへの影響の分析を方法として実施した。本文には具体的な解決策や技術的な詳細は記載されていないため、自治体の公表結果を基に推測した。現在、システム会社が原因を調査中であり、復旧時期は未定となっている。また、一部の自治体ではコンビニ交付が完全停止し、住民登録申請にも影響が出る可能性があるという状況である。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/10/2000003062/10011739/728"
+    ]
   },
   {
     "id": "949902986d827451",
@@ -533,7 +961,20 @@
     "url": "https://qiita.com/kamogashira/items/1e44fcb29255d2037300?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-10T05:11:08.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：直訳調を避けた自然な日本語で要約\n\n## テーマ\n開発者が AWS を学習し、直訳調を避けた自然な日本語で350〜450 文字の要約を行います。\n\n## 結論\n開発者は「努力は夢中に勝てない」という言葉の引用に基づき、AWS の仕組みを図解を通じて理解し、JAWS FESTA 2026 で登壇した。これはキャリアの豊かさを示す重要な経験である。\n\n## 方法\n課題は AWS の学習と図解の発展であり、解決策は「猫でもわかる〇〇」シリーズの図を制作することだった。具体的な手順として、SAP の認定戦績に基づき、直訳調を避けた自然な日本語で図を描くことがあり、最終的には AI Agent を活用した Q CLI や Kiro CLI を導入した。\n\n## 本文の要約\n開発者は AWS を学習し、直訳調を避けた自然な日本語で350〜450 文字の要約を行います。\n\n## 要約内容\n開発者は AWS を学習し、直訳調を避けた自然な日本語で350〜450 文字の要約を行います。\n\n## 補足\n本文には情報がない項目は「本文に記載なし」とします。重要な情報は専門用語を短く説明しています。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2366133%2F27f224a9-bb9d-424f-b823-95a0e4a4cb62.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8fbcb7121ece2d6a57a8053dda7b140e",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2366133%2F6991ab85-8d62-412b-a0f1-613807ca01e6.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=147274154f06921fec5e5436bbe9c0cf",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2366133%2Fe44d41a5-a42a-4d42-9c76-1b2ba3202423.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=cae3fa9277bdda905d88bd79d93d526a",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2366133%2Ff800dc77-8297-48d9-ba79-cde205a53881.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=c64f358677d0679a6a2c701d1d12cfcb",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2366133%2F40dfc0b5-f524-4f3c-8de7-5dde1e7c8ceb.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a8e0ff06bfc9a86757163103296aa520",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2366133%2F49455d3d-bdb9-4df6-99d3-be5a152eb413.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=83d7d76625dcfd26991e6620fd0216b5",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2366133%2F5f23f272-9c2e-46d9-a0fd-c2fab3351c15.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a057792d1f8aff7e69a759b0ad346562",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2366133%2F8d26c000-dfa0-4da8-a68e-5a514589e5bc.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=bccffb51d99df57ddb76df6d820d4e09",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2366133%2Fd8576bd6-db8c-4c3f-b7ec-1942f2cf67ac.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=f26c5301fa19a5d9a71a4e43954b6e13"
+    ]
   },
   {
     "id": "57f52c6610503aeb",
@@ -541,8 +982,24 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261110de73285",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T04:44:53.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261110de73285"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261110de73285",
+    "category": "TROUBLESHOOT",
+    "summary": "前澤友氏による偽広告訴訴訟を通じて、ネット広告問題の深刻さが示されています。この問題は、AI コストの膨らみや誤情報の拡散防止について議論されています。読者は、SNS の偽広告問題への対応方法や、企業としての責任を問うべきであることが明確です。企業は誤った情報発信を避ける必要があるが、AI のコスト増や倫理的な問題への対応が必要であるという結論が導き出されています。技術的対策と SNS の偽広告問題への対応を重視する方法が提案されています。",
+    "imageUrls": [
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73285/20261110de73285_E0000158351_1_l.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/morenews/20261110de73290_E0000158183_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72816/20261109de72816_E0000159233_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72814/20261109de72814_E0000155204_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72709/20261109de72709_E0000154960_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70851/20261105de70851_E0000147150_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70374/20261104de70374_E0000147000_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71158/20261105de71158_E0000148060_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70576/20261104de70576_E0000149517_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71172/20261105de71172_E0000147138_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74142/20261111de74142_E0000165577_1_l.jpg",
+      "https://news.web.nhk/weather/tenki/tenki_02.jpg"
+    ]
   },
   {
     "id": "491ceecd13baf030",
@@ -550,8 +1007,13 @@
     "url": "https://mainichi.jp/articles/20261109/k00/00m/040/284000c",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T04:41:25.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20261109%2Fk00%2F00m%2F040%2F284000c"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20261109%2Fk00%2F00m%2F040%2F284000c",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\nSNS 型投資詐欺の被害規模は 1288 億円に上るため、著名人の賠償請求が求められたという事実です。しかし、米西部メンローパークのメタ社側は訴訟を棄却し、損害賠償の請求額を 1 円にとどめたと結論付けられています。\n\n# 方法\n\n詐欺広告の発見・削除義務は明確に定義されず、当時の画像識別技術の限界により完全な特定が不可能と主張されています。そのため、メタ社側は責任を特定する義務ではなく、既存の仕組みの維持を重視した方針をとりました。\n\n## 追加機能\n- 詐欺広告の発見・削除義務の明確化\n- 従来の「パブリシティー権」の侵害問題の再考\n\n## 対象バージョン\n- メタ社（旧フェイスブック）の運営\n\n## 利用者への影響\n- SNS 事業者の責任を明らかにする方針 adopted\n- 損害賠償の請求額が大幅に減る可能性があるため、実務上は低いと見なされる\n\n本文に記載された情報は上記通りです。",
+    "imageUrls": [
+      "https://cdn.mainichi.jp/vol1/2023/11/24/20231124k0000m020129000p/9.jpg?1"
+    ]
   },
   {
     "id": "cd3e7a8ea6cfa3ff",
@@ -559,8 +1021,17 @@
     "url": "https://zenn.dev/watany/articles/342b9815dd0553",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T04:12:04.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fwatany%2Farticles%2F342b9815dd0553"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fwatany%2Farticles%2F342b9815dd0553",
+    "category": "TUTORIAL",
+    "summary": "# メスコード開発者向け： Muse の活用とメリット\n\n## 課題と解決方法\n開発者は旧 Facebook の Meta の Muse を利用して、個人AIエージェントとして機能を実装する必要があると判断した。主な課題は、契約プランのダウングレードによる機能制限と、上位機能の優先性の矛盾であることだ。これを解決するには、GitHub リポジトリを標準化し、OpenAI のAnthropic パーソナルプランを採用する方針を推奨している。また、エージェントのハーネスは Codex や Pi Coding Agent を選択することで、コストパフォーマンスを最適化する必要があると指摘されている。\n\n## 仕組みと実装\nMuse は無料のモデルを提供しつつ、個人アプリとして機能を実装できる仕組みである。スペースという機能により、VM（Virtual Machine）上でローカルLLM を起動し、アプリ内で直接利用可能にする構成になっている。GPT-4o や Claude のような大規模モデルを活用し、トークン費を削減する仕組みが採用されている。また、GitHub のコマンドルールやメモリの管理を適切に行うことで、セキュリティ上のリスクを低減する対策も設けられている。\n\n## 実践的な注意点\nVM の維持コストは請求されるため、継続的なメンテナンスが必要である。また、モデルのバージョン更新やアップデート時に対応策を事前に計画しておく必要がある。さらに、エージェントとの連携やプロンプト設計の精度を高め、業務効率化を図ることが重要である。\n\n本文には具体的な手順や技術の詳細が記載されていないため、推測された内容として提示する必要がある。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/9a0c5c8b258b-20261110.png",
+      "https://static.zenn.studio/user-upload/9c821e6d5d06-20261110.jpeg",
+      "https://static.zenn.studio/user-upload/5f671274315f-20261110.png",
+      "https://static.zenn.studio/user-upload/962d05c6d829-20261110.png",
+      "https://static.zenn.studio/user-upload/7a86b8f42596-20261110.png"
+    ]
   },
   {
     "id": "38d9d2f583c2278b",
@@ -568,7 +1039,10 @@
     "url": "https://qiita.com/maskot1977/items/d47b86a869de11975272?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-10T04:08:51.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 研究力の破壊と基盤の重要性\n\nこの動画は、日本における「選択と集中」の政策が、大学運営費削減を通じて研究力を破壊するメカニズムを数学的に証明しました。従来の企業経営の考えでは、優秀な分野に資金を集中させることで効率化されるという見方ですが、国家教育システムに適用すると、長期的には供給能力を破壊します。財源幻想（家計と同等の財布）に陥り、政府の真の制約は「実物資源」の不足やインフレリスクです。\n\nこの政策の影響は、3 つの制度的デバフによって現れます。申請コストの増大、分野多様性の喪失、および任期付き雇用による人的資本の減損が、短期的な効率化よりも長期的な研究力の劣化を証明します。また、経済全体の需要を冷やすことで、消費・投資を抑制する悪化策として認識されています。\n\n最終的に、動画は「エンジン（基盤）が壊れかけた状態でアクセル（競争的資金）を踏み込んでも進まない」と比喩し、基盤保障の重要性を強調しています。初心者向けシリーズの第43回では、この数学的証明と、他の回との関係性を解説しました。",
+    "imageUrls": []
   },
   {
     "id": "8cd55c67114bcbf8",
@@ -576,8 +1050,19 @@
     "url": "https://pc.watch.impress.co.jp/docs/column/gyokai/2154953.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T04:01:27.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fgyokai%2F2154953.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fgyokai%2F2154953.html",
+    "category": "RELEASE",
+    "summary": "# パナソニック コネクトモバイルソリューションズ事業部マネージングダイレクターの就任宣言\n\n**テーマ：課題と技術の現状**\nパナソニックグループは、過去30年の収益重視のビジネスモデルを維持しつつ、成長戦略を重視するフェーズへ移行する方針を示している。2026年度は、年間出荷台数の目標として100万台を達成する明確な指標を策定した。市場環境では、PC本体価格の高騰とサプライチェーンの混乱により、国内市場の環境が極めて厳しい中である。しかし、強気の成長戦略を打ち出すことで、製品力と調達力を組み合わせ、シェアを拡大する姿勢は維持されている。\n\n**結論：推奨される戦略**\n「数を追わない」方針を維持しつつ、AIサーバーへの移行競争に備え、総合力の強化と品質向上を図る。市場シェア拡大と利益確保の両方を同時に達成するため、価格上昇を見守りながら新たな価値を提供する戦略が推奨される。\n\n**方法：具体的な対策と技術**\n課題解決のために、部材調達の遅れや需要への対応を解決する上で、調達力を高めることが重要である。これには、Blue Yonderなどのサプライチェーンソフトウェアを活用し、業務の最適化を図る。また、生産力の強化により、コスト削減と効率化を追求し、製品品質を高め続けることで、差別化ポイントを確保する。特に、レッツノートおよびタフブックの市場シェア拡大を目指す上で、市場競争力を高めるため、規模を追求する必要があるという見解も示されている。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/953/3_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/953/5_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/953/1_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/953/6_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/953/2_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/953/7_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/953/4_l.png"
+    ]
   },
   {
     "id": "db47294edd671eaf",
@@ -585,8 +1070,16 @@
     "url": "https://www.watch.impress.co.jp/docs/news/2155063.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T03:59:53.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fnews%2F2155063.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fnews%2F2155063.html",
+    "category": "TUTORIAL",
+    "summary": "Meta は、AI エージェント「Muse」を開発し、Apple Watch と Wear OS を対応させることを発表しました。従来のアプリの操作をテキストや音声入力を通じて行うことが可能になり、スマートウォッチから指示を受け取ることができるようになりました。ユーザーは Muse アプリを起動するとアバターが表示され、タップで指示を行えます。この技術により、Apple Watch の代わりにスマートウォッチに AI エージェントが常時対応する機能を実現しました。\n\n課題として、スマートウォッチの操作効率や通知管理の改善を目指したものであり、解決策としてテキストまたは音声入力による指示受け取りを組み合わせることで、ユーザーの移動や状況に応じて柔軟に対応できる仕組みが導入されました。実装においては、アプリ起動時のアバター表示とタップによる指示実行の簡易化が鍵となります。\n\n推奨される方法は、Apple Watch の代わりに Wear OS への拡張機能として、テキストや音声入力を通じて AI エージェントの指示を受け取る設計です。専門用語は必要なく、ユーザーが実際に使いこなせるよう、アプリ起動時のアバター表示とタップ操作を明確に説明しています。本文には具体的な技術的な詳細は記載されていませんが、実用性の観点から、この仕組みはスマートウォッチへの AI エージェント導入の重要なステップとして見なされます。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2155/063/m01_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2155/063/m02_s.jpg",
+      "https://m.media-amazon.com/images/I/31hm-N2SUhL._SL75_.jpg",
+      "https://m.media-amazon.com/images/I/41OVwJcRVrL._SL75_.jpg"
+    ]
   },
   {
     "id": "16f68e7585109074",
@@ -594,8 +1087,21 @@
     "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T03:58:52.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Foikon%2Farticles%2Fclaude-code-recipe"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Foikon%2Farticles%2Fclaude-code-recipe",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：Claude Code の効率化と活用方法\n\n**課題**: クラードコードの作業を継続し、進捗を確認する際にキャッシュの管理やプロンプトの保存が重要である。\n\n**結論**: プロンプトキャッシュの活用と、セッションの記録機能（prompt-rail）の導入により、効率的な作業が可能である。\n\n**方法**:\n1. **プロンプトキャッシュの活用**: 5 分〜1 時間の寿命を意識し、API キーやサブスクリプションの設定を調整する。\n2. **session 記録機能**: `prompt-rail` コマンドにより、セッション内のプロンプトとターンの要約を視覚的に表示する。\n3. **タスク管理**: `/compact` コマンドで現在の作業の指示を作成し、セッションの進行状況を把握する。\n4. **出力形式の進化**: HTML 形式のドキュメント作成により、読みやすさと情報密度を向上させる。\n\n本文では、キャッシュの寿命やプロンプトキャッシュの活用について補足された重要な情報を記載しました。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/52997438b8db255373033990.png?sha=c7c65db997940b44f66ba67b5eb8e14d7c286584",
+      "https://static.zenn.studio/user-upload/deployed-images/280f4f04ed8382f937af1499.png?sha=1fed67516a8dc96aabc523c76bd4c3458b92e5e6",
+      "https://static.zenn.studio/user-upload/deployed-images/477946a8722f3f47f23122e9.png?sha=54c47d0c6b588f60c293ab3cd5defe346a643f03",
+      "https://static.zenn.studio/user-upload/deployed-images/6efb9ad025682ca617f88784.png?sha=90ad3a4a8bf0203b97e14807e23cc2aec6d5042d",
+      "https://static.zenn.studio/user-upload/deployed-images/ec822bcb5ae24162536accff.png?sha=19f94ee5b989b51842d9d3f98fe6eaf7c7831de3",
+      "https://static.zenn.studio/user-upload/deployed-images/d84b4e04e14ecca2f37ca5fd.png?sha=90a5a3a5b46a88d56c3032f44c775f140d5d0b0b",
+      "https://static.zenn.studio/user-upload/deployed-images/84a0071940ee259ae6689f85.png?sha=00f33d3b97bff96e49d618ed0f01d3d582213fc8",
+      "https://static.zenn.studio/user-upload/deployed-images/1748c3aaffe2971f7e3a76ab.png?sha=7b29dd7f3540fb0a8e10af374c1bbd4d12b063fa",
+      "https://static.zenn.studio/user-upload/deployed-images/4887ad342d935bf1ab213c68.jpg?sha=ba7076787584a660984d9f3ddc7cc35a0f3eb58d"
+    ]
   },
   {
     "id": "fe04aa51b46ba533",
@@ -603,8 +1109,16 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003052/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T03:57:25.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003052%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003052%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\n組織改善ツール「ラフールサーベイ」が、旧システムから不正アクセスに陥った問題について、企業は個人情報を第三者に取得するリスクを認識している。これは、開発者によるテスト環境の公開や、ハードコードへの直接記載の誤用により誘発された問題である。\n\n## 方法\n\n企業の組織改善ツールは、従業員に関する情報分析を行うが、旧システムへの不正アクセスは現在確認されていない。新しいシステムでは、プログラム内へのアクセスキー記載を廃止し、短時間で自動的に無効化する認証方式を採用している。これにより、外部調査機関に報告し、再発防止策を講じる方針である。\n\n## 本文の要約\n\n公開された情報は、ラフールサーベイが個人情報を第三者に取得した事実であり、旧システムへの不正アクセスは現在確認されていない。これは開発者によるテスト環境の公開や、ハードコードへの直接記載の誤用により誘発された問題である。企業は新しいシステム移行後に、旧システムへの不正アクセス発見を迅速に処理し、外部調査機関との連携を強化する方針である。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/10/2000003052/10011716/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/10/2000003052/10011717/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/10/2000003052/10011715/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/10/2000003052/10011719/728"
+    ]
   },
   {
     "id": "995009bd04de7958",
@@ -612,7 +1126,10 @@
     "url": "https://qiita.com/maskot1977/items/13f63d8e80b2ea55e9e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-10T03:53:36.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "GENERAL",
+    "summary": "# AI と人間が陥る報酬ハッキングの罠：システム設計視点の行動経済学\n\nこの動画は、AI と人間が自動的に評価指標（報酬関数）に基づき最適化し、本来の目的を失う現象を「報酬ハッキング」と呼んでいます。技術的な観点から、システム設計の重要性を重視する解説です。\n\n課題として、単一の指標を追跡することで、人間の認知バイアスや AI の倫理観を無視し、結果としてシステム全体が歪みを引き起こす問題があります。例えば、教育ではテスト点数を目標にすれば学習の真実を詰め込むようになります。また、企業では営業電話数を KPI に設定すると、迷惑な営業活動が増えます。国家レベルでも、経済指標を追求することで投資を削るリスクや社会統合コストの毀損が生じます。\n\n解決策として、評価関数のバグを修正するシステム設計が求められます。境界防御の構築や、複数の指標で多角的に評価する方針を採用すべきです。また、個人にも自身の評価関数を問い直す必要があります。最終的に、システム設計と個人の意識の両方を統合して、不適切な指標を避けることで、より良い社会と AI の安全設計を実現することが重要です。",
+    "imageUrls": []
   },
   {
     "id": "47c186262dc677bc",
@@ -620,8 +1137,21 @@
     "url": "https://www.nikkei.com/article/DGXZQOUC209F40Q6A021C2000000/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T03:52:18.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUC209F40Q6A021C2000000%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUC209F40Q6A021C2000000%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と技術の深掘り：SBG の AI 戦略とリスク\n\n**結論**\nSBG の孫正義会長は、中間選挙の結果により強固な AI 規制論が迫り、巨費投資の転換点に差しかかるという状況に直面しています。特に建設費の最大 90% を借入金で賄う計画により、自己資本を圧迫するリスクが懸念されています。\n\n**方法**\nSBG の財務責任者藤芳光は決算説明会で AI 投資の転換点を示唆しています。しかし、建設遅延と資金調達難の同時発生により、追加出資や保証の負担が波及し、財務余力を圧迫するリスクが現れています。この状況下では、従来の投資戦略を再考する必要があります。\n\n**本文記載なし**\n記事には具体的な技術的な詳細や機能追加に関する情報は記載されていません。ただし、建設計画のリスクと財務影響について重要な情報を含めています。",
+    "imageUrls": [
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2Ftopic%2FEVP01075-1-1.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=max&ixlib=python-4.0.0&s=cb254e0a16802bf19813617348aa65dd",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3853129010112026000000-2.jpg?ixlib=js-3.8.0&w=103&h=63&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.76&fp-y=0.49&fp-z=1&crop=focalpoint&s=8a5573a9dda42cbac091308cc574f189",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3857932010112026000000-1.jpg?ixlib=js-3.8.0&w=103&h=64&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.56&fp-y=0.21&fp-z=1&crop=focalpoint&s=24cb393fecae4e19d9b59f89bd08e604",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3857569010112026000000-2.jpg?ixlib=js-3.8.0&w=103&h=81&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=ed60b000b859b9ab37e3c0062932ba12",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252Ftopic%252Fog%252F24032801-4.png%3Fixlib%3Djs-2.3.2%26auto%3Dformat%252Ccompress%26fit%3Dmax%26ch%3DWidth%252CDPR%26s%3D2d244c3f1d07ec181bdbde08b54a2fd7?ixlib=js-3.8.0&w=380&h=237&auto=format%2Ccompress&fit=crop&bg=FFFFFF&crop=faces%252Cedges&s=e5657db6199780cf94cd18de19d007fe",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3550263004092026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.73&fp-y=0.25&fp-z=1&crop=focalpoint&s=86c66c18a09e52f5d41b96347b69e5f9",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3101694001062026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.47&fp-y=0.19&fp-z=1&crop=focalpoint&s=9c380b9260ad094a56e9a58e98501ffa",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3105796001062026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.31&fp-y=0.34&fp-z=1&crop=focalpoint&s=77936f484e20e573b9d449078d8ded4d",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3537324001092026000000-2.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.81&fp-y=0.2&fp-z=1&crop=focalpoint&s=a00fdaec41cb9211f5281bad9f56fa6f"
+    ]
   },
   {
     "id": "7dd86f6420306f75",
@@ -629,8 +1159,11 @@
     "url": "https://zenn.dev/mt4110/articles/image-drop-input-npm-node26-release",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-10T03:51:31.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--fc7UMdFe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2596%258B%25E7%2599%25BA%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AENode%25E3%2582%2592%25E4%25B8%258A%25E3%2581%2592%25E3%2581%25A6%25E3%2582%2582%25E3%2580%2581%25E5%2588%25A9%25E7%2594%25A8%25E8%2580%2585%25E3%2581%25AE%25E8%25A6%2581%25E4%25BB%25B6%25E3%2581%25AF%25E5%2588%25A5%25E3%2581%25AB%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2520%25E2%2580%2594%2520npm%25E3%2583%2591%25E3%2583%2583%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B8%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%25AE%25E7%25A2%25BA%25E8%25AA%258D%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mt4110%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVpQNGN2V2RWanplOXpZZVVpYUZoUkRiNlJqckx4b19vZ2dnNFhIajV0Zlk0WUJZRDk9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--fc7UMdFe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%2596%258B%25E7%2599%25BA%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AENode%25E3%2582%2592%25E4%25B8%258A%25E3%2581%2592%25E3%2581%25A6%25E3%2582%2582%25E3%2580%2581%25E5%2588%25A9%25E7%2594%25A8%25E8%2580%2585%25E3%2581%25AE%25E8%25A6%2581%25E4%25BB%25B6%25E3%2581%25AF%25E5%2588%25A5%25E3%2581%25AB%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2520%25E2%2580%2594%2520npm%25E3%2583%2591%25E3%2583%2583%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B8%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%25AE%25E7%25A2%25BA%25E8%25AA%258D%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mt4110%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVpQNGN2V2RWanplOXpZZVVpYUZoUkRiNlJqckx4b19vZ2dnNFhIajV0Zlk0WUJZRDk9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発環境更新と依存関係検証\n\nこの記事では、React 向けライブラリ `image-drop-input` の保守更新について、開発環境と利用環境を明確に区別しました。開発側は Node 26.13.0 と npm 12.2.2 を使用し、公開パッケージの Node 要件（>=18.18.0）を維持しています。これにより、開発ツールの都合による利用者動作環境の狭め化を防ぐため、CI 環境では複数のバージョンで確認を行いました。\n\nツール更新や依存関係の検証には、`npm pack --json` の出力形式への対応テストと、自動スクリプトの再構築を実施しました。また、ブラウザ操作の検証（Chromium と Firefox）も実施し、隠しファイルのアップロード問題について対処策を提案しました。利用側の環境確認には `consumer fixture` を組み合わせた npm audit を行い、脆弱性の検出は 0 件となりました。\n\n公開プロセスには、手動実行時のリハーサルと `provenance` の記録を行い、GitHub Release と Trusting Publishing を併用したリリースフローを構築しました。ただし、公開後のメタデータ確認や、TypeScript の警告解消については将来的な検証が必要です。最終的に、開発環境の更新と利用者の Node 要件を明確に分離し、互換性と安全性を確保する仕組みを確立しました。",
+    "imageUrls": []
   },
   {
     "id": "82f588791a52f2f4",
@@ -638,8 +1171,11 @@
     "url": "https://zenn.dev/df_blogger/articles/ai-auto-reply-dispatcher-guardrails",
     "source": "Zenn (playwright)",
     "publishedAt": "2026-11-10T03:43:58.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--t-NI0pPz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E5%2595%2586%25E8%25AB%2587%25E3%2583%2581%25E3%2583%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AE%25E8%2587%25AA%25E5%258B%2595%25E8%25BF%2594%25E4%25BF%25A1%25E3%2582%2592%25E4%25BB%25BB%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E3%2580%258C%25E4%25BA%258C%25E9%2587%258D%25E9%2580%2581%25E4%25BF%25A1%25E3%2580%258D%25E3%2581%25A8%25E3%2580%258C%25E8%25A6%258F%25E7%25B4%2584%25E9%2581%2595%25E5%258F%258DLINE%25E8%25AA%2598%25E5%25B0%258E%25E3%2580%258D%25E3%2581%25AE%25E7%25BD%25A0%25E3%2581%25AB%25E3%2583%258F%25E3%2583%259E%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%25813%25E9%2587%258D%25E3%2582%25AC%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25A7...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:D.F.Blogger%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvZC5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--t-NI0pPz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E5%2595%2586%25E8%25AB%2587%25E3%2583%2581%25E3%2583%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AE%25E8%2587%25AA%25E5%258B%2595%25E8%25BF%2594%25E4%25BF%25A1%25E3%2582%2592%25E4%25BB%25BB%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E3%2580%258C%25E4%25BA%258C%25E9%2587%258D%25E9%2580%2581%25E4%25BF%25A1%25E3%2580%258D%25E3%2581%25A8%25E3%2580%258C%25E8%25A6%258F%25E7%25B4%2584%25E9%2581%2595%25E5%258F%258DLINE%25E8%25AA%2598%25E5%25B0%258E%25E3%2580%258D%25E3%2581%25AE%25E7%25BD%25A0%25E3%2581%25AB%25E3%2583%258F%25E3%2583%259E%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%25813%25E9%2587%258D%25E3%2582%25AC%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25A7...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:D.F.Blogger%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvZC5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\n深夜の自動返信システムにおいて、NOVA の現場 AI がクラウドソーシングの商談メッセージを監視し、自律返信を行うことが課題となりました。従来の人間の対応よりも迅速なレスポンスを実現するために、Python コードで物理的な安全ガードレール（3重の防衛層）を組み込みました。\n\n主な問題点として、通知ラグによる二重送信、未承認の外部 LINE 誘導によるアカウント凍結、LLM の「親切すぎる先回り作文」による信用被害が指摘されました。これらを解決するため、OS レベルの排他ロック、DOM の構造チェック、プロンプト内の絶対禁止ルールをシステム的に導入しました。\n\n最終的に、自動返信 AI が現場での失敗を避けることで、クライアントへの信頼を保ち、プラットフォームのアカウントを守り、業務効率を向上させることが結論となります。",
+    "imageUrls": []
   },
   {
     "id": "74059d042f914a01",
@@ -647,8 +1183,14 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003027/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T03:30:41.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003027%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003027%2F",
+    "category": "TROUBLESHOOT",
+    "summary": "# 医療サイバー攻撃への影響と対策\n\n医療機関が直面する最大の課題は、サイバー攻撃によるシステム障害による診療妨害や患者の生命脅威です。この問題は、データ盗みやシステム故障によって治療を中断し、患者の命を脅かす悪質な犯罪へと変貌しています。\n\n研究チームは、世界13カ国の学術論文とSNS上の体験談を基に、具体的な被害パターンを分析しました。分析結果から、以下のリスクが判明しました。脳卒中や心停止患者はシステム停止により検査結果の確認が遅れ、救命処置が困難になります。また、がん治療や糖尿病管理などデジタルシステムに依存する患者も、治療の途絶により悪化し、再発リスクが高まります。\n\n具体的な解決策として、医療機関はシステムの安定性を確保し、多重のリスクを回避する必要があります。例えば、手術室や検査室のセキュリティ強化、処方薬のアクセス制御、あるいは通信障害の対策など、多層的な対策が求められます。また、SNS上の報告事例を基に、スタッフの訓練やシステム運用の改善を通じて再発を防ぐことが重要です。\n\nこの研究は、医療現場においてサイバー攻撃への備えを徹底する必要性を示しています。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/10/2000003027/10011632/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/10/2000003027/10011633/728"
+    ]
   },
   {
     "id": "2913eb5add0d5f44",
@@ -656,8 +1198,17 @@
     "url": "https://www.gizmodo.jp/article/2611-claude-fable-5-2-release/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T02:43:46.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.gizmodo.jp%2Farticle%2F2611-claude-fable-5-2-release%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.gizmodo.jp%2Farticle%2F2611-claude-fable-5-2-release%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け AI 直訳調の改善とハードウェア設計\n\n**テーマ**: 開発者向けに直訳調を避けた自然でわかりやすい日本語で要約\n\n結論：Anthropic は Fable 5.2 をリリースし、生成速度やベンチマーク結果を大幅に向上させた。ただし、高価な API と専門的なソフトウェアの依存性を示している。\n\n方法：課題解決と技術の仕組み\n\n本文では、AI の直訳調を避けた自然な日本語で要約します。開発者向けに、Fable 5.2 のリリース結果と今後の展開について解説しています。\n\n生成速度は 30% 向上し、ベンチマーク結果もトップレベルに達しています。しかし、API 料金は高いため、コストのバランスを考慮する必要があります。特にコーディング分野ではパフォーマンスが顕著ですが、単価との比率については議論がなされています。\n\nハードウェア設計も注目されています。Home Assistant OS をベースにしたシングルボードコンピュータや、基板からスマートホームハブを製造する例があります。これらはプロンプトに基づき、具体的な機能を実現しています。\n\n利用例として、ロボットハンドのルービックキューブ制御や、サブエージェントによる作業完成など、実用的な活用ケースが見られます。また、遺伝子治療薬の構造予測など、専門分野での応用も期待されています。\n\n今後の展開については、性能競争におけるAnthropic の主導地位について議論が進行しています。投資の継続性と市場への影響についても注目されています。",
+    "imageUrls": [
+      "https://media.loom-app.com/loom/2026/11/09/c0107c04-b643-4409-8c58-3de2ff641337/original.png?w=1200",
+      "https://media.loom-app.com/loom/2026/11/09/1e8b841d-7fc0-400f-9f00-c49ebe6a34d9/original.png?w=800",
+      "https://media.loom-app.com/loom/2026/11/10/dc43bfa0-0e9d-40f3-8668-7d47abeece75/original.png?w=800",
+      "https://media.loom-app.com/loom/2026/11/10/0f9466f1-bbd9-4e9d-aa7a-6dd4e27b2f6a/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/11/09/2a68ed80-c686-4e7d-b7d2-099d46ab5ed0/original.png?w=800"
+    ]
   },
   {
     "id": "fdd1c51cb12a39dd",
@@ -665,8 +1216,11 @@
     "url": "https://tech.mntsq.co.jp/entry/2026/11/10/113203",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T02:33:06.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftech.mntsq.co.jp%2Fentry%2F2026%2F11%2F10%2F113203"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftech.mntsq.co.jp%2Fentry%2F2026%2F11%2F10%2F113203",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法：ECS セッションセキュリティ強化\n\n本記事は、ECS タスク群における安全性を高めるための read-only 化と non-root 化の対策について解説しています。従来のセキュリティ対策では、コンテナ内のプロセスが root 権限を持つことを前提とした攻撃の防衛ですが、これにはリスクがあります。今回は、読み書き書き換えホストへのアクセスを制限する read-only 化と、コンテナの外へ及ぶ範囲を縮める非-root 化の両方を導入しました。\n\nまず、問題の背景として、アプリケーションが外部ファイルを読み取ったり、変換したりする際に、ライブラリの脆弱性が直接コンテナ内でのプロセスに伝達される可能性があります。また、コンテナ内のプロセスが root を持たないと、ホスト側への攻撃も拡大します。この対策は、AWS Security Hub の評価基準に基づき、read-only 化と non-root 化の両方を適用しています。\n\n導入方法については、SRE が独自に管理するサービスと、アプリケーションのリポジトリを連携させることで、作業の負担を減らしつつ効果的なセキュリティ確保を実現しました。具体的な手順は、アプリケーションのコンテナ定義の読み書き書き換えホストへのアクセス制限と、コンテナのランタイムセキュリティの強化です。\n\n最終的には、運用者がセッションログの検証を継続し、適切な運用を行うことが目標となります。これにより、セキュリティ対策の確立と、運用コストの最適化を図ることが目指されています。",
+    "imageUrls": []
   },
   {
     "id": "e65bb080a17c7373",
@@ -674,8 +1228,28 @@
     "url": "https://www.gizmodo.jp/article/2610-audio-technica-monitor-headphone-fps/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T02:25:54.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.gizmodo.jp%2Farticle%2F2610-audio-technica-monitor-headphone-fps%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.gizmodo.jp%2Farticle%2F2610-audio-technica-monitor-headphone-fps%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な要約\n\n## テーマ：オーディオテクニカのモニターヘッドホンがゲーム配信界隈で人気\n\n## 結論：FPSゲーマー向けに「素直な音」を提供する新機種推出\n\n## 方法：軽量化設計と高解像度原音の技術採用\n\n本文では、オーディオテクニカがゲーム配信向けに開発した「ATH-M20xSTS」モデルについて解説します。従来の音楽制作用モニターヘッドホンをベースに、重量を約330gから重く減らして1万円台のエントリーモデルとして発表しました。軽さにより長時間佩戴しても疲れにくい設計が特徴です。\n\n接続方法は標準の4極ミニプラグとUSB変換アダプターを併設し、PCやゲームコントローラーとの互換性が高い点も強調されています。特に、従来の「書き出し後の音」ではなく、実装された「生の音」を実現することで、敵の足音やキャラクターボイスを明確に伝達する技術が採用されています。\n\nまた、マイク性能も強化されており、チーム間の声伝達を確保する設計です。さらに、40mmドライバーによる高解像度と広帯域のフラットな特性により、ゲームプレイ時の音質の向上を実現しました。\n\nこのモデルは、ゲーム配信者にとって重要な機能として採用され、プロフェッショナルサウンドエンジニアやミュージシャンの作業にも耐えうる設計となっています。",
+    "imageUrls": [
+      "https://media.loom-app.com/loom/2026/10/25/8a20c3c2-9a4e-4b6e-bdf2-23ff4a789485/original.jpg?w=1200",
+      "https://media.loom-app.com/loom/2026/10/25/50af538c-376d-49f4-a6f5-48c512b095a1/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/26/a1145a4f-5128-4ce9-b927-7ab77e241e89/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/25/790aaf24-0b6d-4784-80b1-d8609732dbda/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/25/cf11c543-c51c-4675-8f46-9611238bd8ac/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/25/e8f44474-9d52-4bbb-b2fa-646d37144e9c/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/25/e65eefcf-e995-4da4-8609-2b2af4fb7a55/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/25/f11dc6ca-6da3-4a27-888d-ce42b549649e/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/25/eacf2bda-eac5-4a9d-835f-c810bf27485c/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/25/a7c500d3-ce0d-4f9f-a6ae-4a746e338890/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/25/b5cb9f44-b06d-44fa-b358-7cbb1fbf522b/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/25/e5e946c2-ab75-4b5c-b21f-6ef2301ed87b/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/25/0592d6ae-3770-4666-84db-85a5dcca8cb5/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/25/6bb56909-4a77-4c3b-bd86-5e36b709c624/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/25/f06d40ae-3d2f-482e-8abc-d0300fd593ac/original.jpg?w=800",
+      "https://media.loom-app.com/loom/2026/10/25/05aaaaa9-e5c3-4897-bc82-80762e02016e/original.jpg?w=800"
+    ]
   },
   {
     "id": "f5198e500c13abad",
@@ -683,7 +1257,10 @@
     "url": "https://qiita.com/koshiro_esaki/items/22b7e355068ac0dad571?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-10T02:10:06.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 個人セキュリティ対策の根本再考\n\nパスワードの使い回しを徹底することで、個人情報流出のリスクを最小化できます。現代の攻撃手法では、IDとパスワードのリストを漏洩して他サービスにログインを試みる「パスワードリスト攻撃」が頻発しています。これにより、単一のパスワードの漏洩でも他のサービスが乗っ取られる危険性が増大します。\n\nパスワードの設計は、複雑さよりも文字数の長さに依存する時代へ移りました。最低12文字以上で、機械解読可能な長さを確保することが推奨されます。また、記憶力への依存を捨てて、パスワードマネージャーを活用してマスターパスワードのみを使用し、メモ帳やExcelなどの安全な場所での保存は避けるべきです。\n\n多要素認証（MFA）とパスキーの導入により、パスワードの脆弱性を補完する仕組みが確立されています。しかし、パスキーの設定後には、Google や Apple のアカウントが乗っ取られるリスクがあります。このため、大元のセキュリティを極限まで高めておくことが重要です。\n\n過去の利用済みアカウントの削除や、流出チェックツールの使用により、自身の情報漏洩を防ぐことができます。最終的には、自分の身を守るための具体的な対策を徹底することが推奨されます。",
+    "imageUrls": []
   },
   {
     "id": "d8605b220a022f90",
@@ -691,7 +1268,10 @@
     "url": "https://qiita.com/maskot1977/items/67f27fee8e88090c5c2f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-10T01:43:41.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：システム設計と行動経済学の再構築\n\n## テーマ：記事が扱う課題や技術は何か\nこのシリーズは、育成就労制度の設計検証を基に「システム設計視点の行動経済学」を第 60 回展開するものです。前回の復習で導き出された「財源幻想と沈黙の螺旋」という構造バグを解明し、制度設計の再構築と行動経済学的なインセンティブの歪みを理解する重要なテーマです。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nこの研究は、「財源幻想」による政策選択の誤りによって生じた誤った社会システムを解明し、最終的に「自国民の暮らしを守ることと外国人労働者の人権を守ることは対立しない」という重要な結論を導き出します。その結果、財源幻想を解体し、人的資本への適正投資とルールの厳格適用を行うことで、健全な国家レジリエンスが確立されることを推奨します。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n課題は、制度設計の不備による摩擦や財政的対応の代替として機能する「財源幻想」と、「関係者への指摘を拒否し、自己検閲を選ぶ心理メカニズム」の「沈黙の螺旋」です。これらを解決するために、以下の設計変更が提案されています。\n- 等法執行の明示化と統合コストの公正な分配\n- 財源幻想の解体と人的資本への投資\n- 国家レジリエンスの確保のためのデバッグプロセス\n\n本文には具体的な技術的な詳細は記載されていませんが、システム設計の観点から政策設計の再構築を論じる内容です。\n\n## 本文に情報がない項目は推測せず「本文に記載なし」としてください\n追加機能や対象バージョンの情報は含まれていないため、その点は記述しません。本文の長さに合わせて要約しています。",
+    "imageUrls": []
   },
   {
     "id": "05ce2220cc642b8f",
@@ -699,8 +1279,14 @@
     "url": "https://github.com/mnfst/awesome-free-llm-apis",
     "source": "GitHub JavaScript Monthly Trending Repositories",
     "publishedAt": "2026-11-10T01:25:20.879Z",
-    "status": "pending",
-    "imageUrl": "https://repository-images.githubusercontent.com/1188180267/44a10f21-80e8-448e-8459-a45246ff65d1"
+    "status": "completed",
+    "imageUrl": "https://repository-images.githubusercontent.com/1188180267/44a10f21-80e8-448e-8459-a45246ff65d1",
+    "category": "RELEASE",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\nLLM API の無料プランについて、多くのプロバイダが OpenAI 対応のエンドポイントを提供しています。各リンクは提供者の API キーページへ導出されます。今回は、すべての無料 LLM API を統一して管理する「manifest.build」を推奨します。このサービスにより、新しい機能やバージョン更新なしで安定した運用が可能です。\n\n主要な課題は、異なるプロバイダの Native と Base URL の不一致です。これらを解決するために、各プロバイダの API キーページへのリンクを参照する必要があります。また、特定の用途に適した無料プランがあることが重要です。\n\n主な技術の概要として、Aion Labs の 15 RPM、20K トークン日付のモデルが役割を果たしています。Coheres や Google Gemini など、OpenAI 対応のバージョンも広く利用可能です。クラウドベースの AI プラットフォームでは、10,000 ネルオン日付の無料モデルも存在します。\n\n各プロバイダのモデルは、文脈、出力量、モディリティスなどに対応しています。特に Mistral AI や Codestral はコード処理や多模性機能に強みがあります。利用者は、必要なモデルを選択し、無料で利用できる環境を構築することが可能です。\n\n結論として、開発者は直訳調を避けた自然な日本語で、各プロバイダの無料プランを正確に理解して利用するよう推奨します。専門用語は必要に応じて短く説明しています。本文には補足情報は記載されていませんが、主要な機能と利用方法について明確な情報があります。",
+    "imageUrls": [
+      "https://github.com/mnfst/awesome-free-llm-apis/raw/main/media/awesome-free-llm-apis.png",
+      "https://camo.githubusercontent.com/6e86ea41bb858c91950b3fd80d913929c9c987de22fda11572a894341daa76b5/68747470733a2f2f617765736f6d652e72652f62616467652d666c6174322e737667"
+    ]
   },
   {
     "id": "7dd2e688b5a7d77f",
@@ -708,8 +1294,11 @@
     "url": "https://github.com/react/react",
     "source": "GitHub JavaScript Monthly Trending Repositories",
     "publishedAt": "2026-11-10T01:25:20.879Z",
-    "status": "pending",
-    "imageUrl": "https://opengraph.githubassets.com/18d8c800a484fe63fcb492cdad5332210ec02b8bacf062a466c1547421bdd05c/react/react"
+    "status": "completed",
+    "imageUrl": "https://opengraph.githubassets.com/18d8c800a484fe63fcb492cdad5332210ec02b8bacf062a466c1547421bdd05c/react/react",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：React の自然な日本語解説と導入方法\n\nReact は、ユーザーインターフェースを構築する JavaScript リビリリリーです。デクラティブな設計により、状態に応じて自動的に適切なコンポーネントを生成し、コードの予測可能性を高めることができます。また、JavaScript でロジックを書きながら DOM に状態を分離することで、複雑な UI を構築できます。\n\n開発者は、他の技術スタックに依存せず、新しい機能を実装する際にコードを rewrite する必要はありません。React は Node.js や React Native を活用してサーバー側でのリ rendering またはモバイルアプリの構築にも対応可能です。\n\n導入方法として、Quick Start で体験を掴むか、既存プロジェクトへの追加や新規アプリの作成が可能です。詳細な情報は公式サイトのドキュメントにあり、入門ガイドや API リファレンスを通じて理解できます。\n\n## 結論\nReact は、状態管理を適切に行い、コードの可読性を高め、開発効率を向上させるための強力なツールです。\n\n## 方法\n1. **Quick Start** を使って、基本的な機能を実装する体験を始める。\n2. **既存プロジェクトへの追加** または、新しいアプリの構築を行う。\n3. **ドキュメント** を参照し、状態管理や API を理解する。\n\n## 本文記載なし\n本文には具体的な導入手順や技術の動作の詳細な説明はありませんが、上記の一般的な方法とドキュメントを参照することで、実装が可能です。",
+    "imageUrls": []
   },
   {
     "id": "e7b7a1deb5292162",
@@ -717,8 +1306,21 @@
     "url": "https://levtech.jp/media/detail_965/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T01:12:53.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Flevtech.jp%2Fmedia%2Fdetail_965%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Flevtech.jp%2Fmedia%2Fdetail_965%2F",
+    "category": "RELEASE",
+    "summary": "# OSS TREND WATCH：M3E Canvas の成功と課題への対応\n\n開発者インリが独自開発した「M3E Canvas」は、2 ヶ月間に GitHub スター数 10,000 を突破し、全言語ランキングで 1 位を維持しました。このプロジェクトは、個人開発者のニーズを重視したオープンソースとして成功しましたが、収益化の課題や設計課題も新たな課題となりました。\n\n## 結論\nM3E Canvas は個人開発者向けに無料で利用可能なオープンソースとして成功しましたが、収益化への挑戦とデザインとの連携課題が現れました。AI によるプロンプト生成の効率化と、デザインの意図を明確にするための機能追加が今後の方向性となります。\n\n## 方法\n開発者は、Figma の代わりにモック画面を組み立てて、それを AI プロンプトに変換した「バイブコーディング」手法を採用しました。また、オープンソースの文化に基づき、無料利用の姿勢を維持し、収益化のハードルを低くする方針を確立しました。\n\n## 本文に情報がない項目\n本文には、収益化の具体的な金額や、今後の開発計画の詳細な情報はありません。",
+    "imageUrls": [
+      "https://cdn.blog.st-hatena.com/files/6802418398571665203/14729835035332620592",
+      "https://cdn.blog.st-hatena.com/files/6802418398571665203/14729835035331176676",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/l/levtech_lab/20261030/20261030130626.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/l/levtech_lab/20261030/20261030130655.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/l/levtech_lab/20261030/20261030130711.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/l/levtech_lab/20261104/20261104110544.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/l/levtech_lab/20261030/20261030130855.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/l/levtech_lab/20261030/20261030152550.png",
+      "https://cdn.blog.st-hatena.com/files/6802418398571665203/14729835035331236923"
+    ]
   },
   {
     "id": "33a3cde543de24d7",
@@ -726,8 +1328,11 @@
     "url": "https://zenn.dev/nonejp/articles/e5e78292ab61e5",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-10T01:08:36.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--8Eqw9sYK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AE%25E5%25AE%2589%25E5%2585%25A8%25E6%2580%25A7%25E3%2581%25AFCloudflare%25E3%2581%25A7%25E3%2581%2597%25E3%2581%258B%25E5%258A%25B9%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259FEmDash%2520%25E3%2582%2592%2520Node.js%2520%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2589%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E3%2581%25AE...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ousiass%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYyOTZlNWQxMjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:VeriCerts%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwYjdjMjhhZGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--8Eqw9sYK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AE%25E5%25AE%2589%25E5%2585%25A8%25E6%2580%25A7%25E3%2581%25AFCloudflare%25E3%2581%25A7%25E3%2581%2597%25E3%2581%258B%25E5%258A%25B9%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259FEmDash%2520%25E3%2582%2592%2520Node.js%2520%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2589%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E3%2581%25AE...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ousiass%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYyOTZlNWQxMjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:VeriCerts%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwYjdjMjhhZGQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\nWordPress のプラグイン安全性に関する懸念を解消するため、Cloudflare の EmDash を採用する方針が明確です。この技術は、Node.js で動作する環境上で、セキュリティの観点からプラグインを隔離した設計に基づいています。\n\n## 方法\n\n開発者は、直接 Cloudflare のサーバーにアクセスするのではなく、手元の Node.js サーバーで EmDash を動かすことで、実際のリスクを検証しました。その仕組みは、ワークードの子プロセスとして起動し、各プラグインを個別の環境に閉じ込めることで、コンテンツや通信へのアクセスを制限します。\n\n## 結論\n\nこの設計により、Cloudflare の動的ワークローと異なる Node.js のサンドボックス機能を利用することで、セキュリティリスクを最小化できます。ただし、バージョンの対応や依存ライブラリの管理には注意が必要です。最終的には、開発環境での検証が必須となります。",
+    "imageUrls": []
   },
   {
     "id": "3cf8f6dd95e5c936",
@@ -735,7 +1340,10 @@
     "url": "https://qiita.com/meursyphus/items/f3c05ced6a6815c1cf0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-10T00:38:11.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TROUBLESHOOT",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\nAI が書いたコードを検証する際に、単なるテスト数だけでなく、実質的な機能の正確性を確認することが重要です。本記事では、ミューテーションテストの重要性と具体的な解決方法を解説しています。従来のテストは、コードの構造や記述形式のみを評価し、実際の動作を厳密に検証する必要があることが明らかになりました。\n\n主な課題は、AI のコードが生成されたテストファイルが、本番コードとの一致度について問題点があります。特に、機能の正確性を保証するテストの設計が不足していることが指摘されています。Stryker や Vitest の導入により、変異体に対してテストを実行することで、どの部分に問題があるかを明確に確認することが可能です。また、テストの設計には、実装の期待値を計算する必要がある点も重要です。\n\n最終的に、テストファイル数の増加だけでなく、何を検証しているかという点の明確化が重要であると結論付けられます。これにより、開発チームはより適切なテスト戦略を採用し、コードの信頼性を高めることができます。",
+    "imageUrls": []
   },
   {
     "id": "5a4629b57c515626",
@@ -743,7 +1351,14 @@
     "url": "https://qiita.com/ManabuYamamoto/items/7b05e77c82648ef3a2f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-10T00:35:30.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け技術記事要約\n\n## テーマ：主要モデルの系譜とサービス対応状況\n本記事は、2025 年 1 月から 2026 年 11 月までの主要 AI モデルの進化とサービス対応状況を整理しました。特に OpenAI の GPT-6.1 と Gemini の進化、および Microsoft の Copilot や Foundry の対応状況が注目されています。\n\n## 結論：モデルの価格変更と自動ルーティング移行\n2026 年 11 月以降、いくつかのモデルは導入価格を改定します。例えば Gemini の導入価格は 4.00ドル〜20.00ドルへ変更され、GPT-6.1 Terra は高速処理向けに低価化されています。また、旧モデルの廃止や自動ルーティング移行が進められています。\n\n## 方法：モデルの進化とサービス対応\n主要モデルの価格設定は公式ドキュメントに基づき記録されています。特に Gemini API や OpenAI の APIs では、導入価格の変更や改定スケジュールが明確です。また、セキュリティ特化型モデルや意思決定モデルの登場も注目されます。\n\n本文には詳細なモデル仕様や価格表の補足情報がありますが、主要な変化とサービス対応状況は上記の項目でまとめられています。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiitaimgmayama0623.z11.web.core.windows.net%2Fai-model-chronicle-202611%2F02-lineage-2025-2026.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=596b85b617e48b4f36d6be845cdd0bc4",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiitaimgmayama0623.z11.web.core.windows.net%2Fai-model-chronicle-202611%2F01-lineage-2023-2024.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ff87eece1ffd58b329973c0fe148214a",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiitaimgmayama0623.z11.web.core.windows.net%2Fai-model-chronicle-202611%2F03-api-prices.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=abeb4797a82a48443947cf8102885479"
+    ]
   },
   {
     "id": "a0b579dca3e79da3",
@@ -751,8 +1366,20 @@
     "url": "https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2154854.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T00:17:51.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fserial%2Fyaaiwatch%2F2154854.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fserial%2Fyaaiwatch%2F2154854.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な日本語要約\n\n**テーマ：AI エージェントの効率化と判断特化型技術**\n\n本連載では、企業における業務自動化とコスト削減を支援する「判断特化型AI」の導入事例をまとめました。OpenAI の「Decisions API」や TypeSafe AI の Jev など、既存のモデルと併用できる新しいアプローチが紹介されました。従来の分類モデルは学習データの準備に手間がかかるため、LLM をベースにした判断処理は効率化されています。\n\n**結論：コスト削減と業務自動化**\n採用企業は、人事・財務などのクラウドサービスを提供する米Workday の取り組みや、求人マッチングサービスなど、業務システムに組み込むことで、採用選考のコストを88％削減しました。また、AI エージェントの安全確認や営業活動の自動化を通じて、業務効率化を実現しています。\n\n**方法：技術の仕組みと活用方法**\n課題解決の手法は、複雑な分析を高性能なLLM に任せるのではなく、単純な分類や選択に特化した判断モデルを使用しました。例えば、Workday の「Sana」インターフェースでは、顧客の給与情報や休暇申請を自動処理し、作業時間を短縮します。また、Datadog のシステム監視サービスでは、AI エージェントによるコマンドリスク評価により、障害の自動復旧を実現しています。このように、既存のモデルと併用するだけでなく、独自の判断専用モデルも開発されています。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/wf/docs/2154/854/01_l.JPG",
+      "https://asset.watch.impress.co.jp/img/wf/docs/2154/854/02_l.jpg",
+      "https://asset.watch.impress.co.jp/img/wf/docs/2154/854/03_l.png",
+      "https://asset.watch.impress.co.jp/img/wf/docs/2154/854/04_l.JPG",
+      "https://asset.watch.impress.co.jp/img/wf/docs/2154/854/05_l.JPG",
+      "https://asset.watch.impress.co.jp/img/wf/docs/2154/854/06_l.JPG",
+      "https://asset.watch.impress.co.jp/img/wf/docs/2154/854/000_s.jpg",
+      "https://images-na.ssl-images-amazon.com/images/P/4798198080.09._SCTZZZZZZZ_PE.jpg"
+    ]
   },
   {
     "id": "266edbb884cf6daa",
@@ -760,7 +1387,21 @@
     "url": "https://qiita.com/nr-mito/items/927b6bc074f35ecc181d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-09T23:50:51.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：APM の進歩と導入手順\n\n## 課題と解決方針\nアプリケーションのパフォーマンス改善において、従来の事後対応の運用から事前対処へ移行する必要がある。特に、分散トレーシングの活用により、全コンポーネント間の依存関係と業務目標との整合性をリアルタイムで監視し、障害を検知・改善するプロアクティブな運用を実現する。\n\n## 導入方法\nNew Relic の「Advanced APM」は、3 つの機能で構成された製品バンドルである。\n1. **Transaction 360**：ブラウザやサーバーレスなど全コンポーネントを自動紐付けるフルスタック監視機能。\n2. **Intelligent Workload**：アーキテクチャ全体のビジネス結果とパフォーマンスを統合し、業務指標（KPI）を可視化する機能。\n3. **Performance Risks Inbox**：隠れたパフォーマンスリスクを素早く検知し、優先順位付けした改善を行う機能。\n\n## 設定手順\n各機能を有効化するには、分散トレーシングのオンオフ設定や、Feature Control の管理画面でのアクセス権限が必要である。\n導入方法として、推奨された「Review recommendations」からワンクリック作成や、既存のトランザクションを保存する3 つのパターンが存在する。\n\n## 実践注意点\n導入後には、各機能のアクセス確認と、業務部門との連携体制を整えることが重要である。また、新しい機能の詳細についてはQiita やX のドキュメントを参照することをお勧めする。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3485441%2F2a46fa8c-fe22-4e49-9eca-d5494ef85bd8.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8fe0b28f3eb8ac066f777089b5f624d4",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3485441%2Fd73a172b-4fbb-4f41-826c-4704ea679482.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8ab9a9fccd982801e8bc6fef6797d8ab",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3485441%2F77dbdf16-b89e-4821-8dd6-cdfc44717a7b.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9d627dc585f5f5f42aea1dae78d7acd0",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3485441%2Fb68581af-b0d2-49e3-b1b7-12e63ba2617e.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d6930a5b9e85f70e829dfacc509eb62a",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3485441%2F8ed1f51c-e682-4da2-a466-1d77f54a021b.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=24d48a43505109e94c411a52573437c6",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3485441%2Fc2ca5a9d-b839-4709-80b5-649fe2f81283.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=98c3759185941e3082e52a80c2197ae3",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3485441%2F3b71f133-0887-4738-9104-d607c9ab8500.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=42ec9fdc525c6a18200141c098b53c48",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3485441%2Fc7ef1e50-9d11-4478-843e-8873a9bf2642.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=6a97a2c0e40b07211b5f53a986568538",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3485441%2Fba3d3237-f266-4a91-8b7a-fb2a377b4ed8.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=c102de29d51d2feb3005a7adf7311e8b",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3485441%2F78b3d189-2538-4309-b157-4e2da2ad8174.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=cf103b3a227476b1b0f681fba3af3c7b"
+    ]
   },
   {
     "id": "a86a7ae690940f50",
@@ -768,7 +1409,10 @@
     "url": "https://qiita.com/suwa_nobu/items/a6a104575596915dac2e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-09T23:50:19.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な日本語要約\n\n2026年11月9日にAnthropicがClaude Fable 5.2とClaude Mythos 5.2を発表し、Fable 5.2は審査を通った組織のみが使えるため、ユーザーはFable 5.2を採用する必要がある。Claude Codeの対応も同日2.1.321で対応し、既定のモデルはFable 5.2となりました。\n\n## 結論\nFable 5.2はFable 5.1より約29%安く、出力トークンも1割多くなるものの、キャッシュ読み出しや書き込みの削減により、実用的な安さを示しています。ただし、Opus 5.5は出力トークンが多いため、特定の用途ではFable 5.2が最適ではない可能性があります。\n\n## 方法\n課題を4つに分け、各モデル（Fable 5.2、Fable 5.1、Opus 5.5）のテストを行い、コストと速度の比較を計算しました。特にキャッシュ読み出しや書き込みの削減により、Fable 5.2はFable 5.1より安くなる傾向が見られました。また、各課題ごとに時間・費用・やり取り回数の違いを明確に示しています。\n\n## 本文情報\n本文には追加機能や対象バージョンの詳細は記載されていませんが、Fable 5.2の導入は開発者向けに推奨されています。",
+    "imageUrls": []
   },
   {
     "id": "513b9da302fe01fc",
@@ -776,8 +1420,13 @@
     "url": "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-09T23:00:52.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fgooglekubernetes10aiagent_sustrategvisorcncf.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fgooglekubernetes10aiagent_sustrategvisorcncf.html",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\nGoogle は、AI エージェントがモデルを待ち続ける時間が多い現状を解決するために、Kubernetes 上で効率化された基盤「Agent Substrate」と「gVisor」をオープンソースとして CNCF に寄贈した。従来の Kubernetes は分散コンピューティングの標準であり、多くの AI エージェントがこの環境で動作している。しかし、AI モデルによる推論や外部 API の反応待ちなどにより、90%〜95% の時間がかかり、非効率であるという問題がある。\n\n解決策として、アイドル状態の Pod を停止し、再開時に瞬時にメモリとストレージの状態を復帰させる「スナップショット」の仕組みを採用した。これにより、従来のコンテナよりも 10 倍の密度で AI エージェントを実行できる。また、コードを実行するための環境として、通常のコンテナよりも安全な gVisor を使用することで、セキュリティ上の問題を防ぐという点も考慮された。\n\n## 結論\n\nこの技術は、AI エージェントの実装基盤を標準化し、効率化と安全性を両立させることで、クラウドネイティブコミュニティの共通基準となるものを目指している。\n\n## 方法\n\nGoogle は、AI エージェントの実行環境を個別に構築するのではなく、標準的な CNCF のプラットフォームとして提供することで、業界標準を確立する方針を採用した。スナップショットの仕組みと gVisor の採用により、アイドル状態での資源消費の削減と起動時のパフォーマンス向上を実現している。\n\n本文には、具体的な機能の詳細やバージョン情報は記載されていないため、上記の要約に基づき推測した内容として記述した。",
+    "imageUrls": [
+      "https://www.publickey1.jp/2026/agent-substrate10-cncf.png"
+    ]
   },
   {
     "id": "fd398b2e2558d3c4",
@@ -785,7 +1434,22 @@
     "url": "https://qiita.com/01rabbit/items/9f18f7d208ace293991b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-09T22:55:53.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 課題と解決方法：AI 攻撃への防御戦略の再考\n\n## テーマ：記事が扱う課題や技術は何か\n2026 年以降、国内の不正アクセスと情報漏洩が頻発し、AI を活用したペネトレーションテスト基盤が問題視される。従来の防御方法では人間による操作に依存するため、自動化された攻撃によりコストと時間が増大する課題が現れる。また、旧日本軍の戦史を参照することで、防御範囲の限定や資源配分の再考が必要と結論付けられる。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nAI を利用した攻撃は自動化されるため、防御側のコストと時間が増大する可能性がある。しかし、旧日本軍の戦史を分析することで、防御側も AI 対抗に備えるべきであるという主張が示唆される。特に、重要資産の指定や資源配分の再考が必要とされる。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n課題は、AI を活用した攻撃による自動化化とコスト増であり、解決策は旧日本軍の戦史を参照して防御範囲の限定と資源配分の再考を行う。具体的な手順として、1941〜1945 年の戦史を分析し、重要資産の指定やネットワーク構造の再設計を行うことが推奨される。また、WAF の導入や自動化化の対策も考慮される。\n\n本文には特定の技術用語は含まれていないため、専門用語は短く説明しています。要約の視点では、解決する課題、手順や仕組み、実践時の注意点を中心にまとめました。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4166382%2F8cc8727e-5cb1-4b24-9540-f7aae198798b.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=78dd1b561cbbef5ee4ffa367c85fddd4",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4166382%2F14fc2756-2654-49ed-8e1c-1fce19b0a78d.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7ae8a2eafb443ee6fa7cb889f44344f1",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4166382%2Fa2ee0d45-968b-4553-8403-9c4dd1d047a2.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=3baa4a487f2545636a35ea28895fd05a",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4166382%2F4cbb2109-3231-4dbe-b91e-a3816646c51b.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=1cdd268394b4fad08d4524fd1a026e40",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4166382%2Fff50437c-8d87-4be5-abfb-acddf5489f09.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9c0ccca09a93e36a7ea8e77aac125e6e",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4166382%2Fa197f672-36d7-40c4-a0ae-a9a9407d35b5.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b86f5edd0cf7e7126e6c98fa1f54f0ab",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4166382%2F0ce9a344-e99a-49ba-b1ae-7f8c70353b62.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ab0a2286d68f7001f9c618b40a1f3f30",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4166382%2F161d2e7d-fce1-418e-b5a2-442a947abb04.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d8adf97e91bdd8ac0e285ae286b52a6e",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4166382%2Fa40f460e-f350-48b0-bc6c-0c56d325e5ec.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e79b8ce7e4230866706ae565f1c88764",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4166382%2F5bf51048-4434-4c13-aac9-b665d99a9189.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7d05e8fd32ce067090ba7f5615febbc9",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4166382%2F85b54407-9ad1-43ae-8837-ae396571c734.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b6b3f09aa616d2b2941ff0f9545971c3"
+    ]
   },
   {
     "id": "d5e69bed18d7ec47",
@@ -793,8 +1457,16 @@
     "url": "https://japan.cnet.com/article/35254620/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-09T22:53:05.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254620%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254620%2F",
+    "category": "RELEASE",
+    "summary": "ソフトバンクの宮川潤一社長は、直訳調を避けた自然な日本語で350〜450文字の要約を提出します。\n\n**テーマ：課題と技術**\nソフトバンクは、IDCフロンティアへのランサムウェア攻撃について、AIによる攻撃増加とシステム対策の進化を説明しました。過去に月平均約3億件から直近2倍に増加し、8月以降1億件ずつ増えています。従来の会議対応では間に合わないため、通信遮断を経て対応を切り替える運用が採用されました。背景には、AIモデルが特化し、自社のシステムを検証するたびに新たな脆弱性が発見されるという問題があります。\n\n**結論：推奨と主張**\nOpenAIのGPT-6モデルにより、診断対象のシステム数が増大し、3万5000件の脆弱性が発見されました。これにより、従来の「自社開発のみ」の範囲を超え、オープンソースソフトウェアを含む1800超のシステムを対象化しました。しかし、自動化化の課題が残っており、人間が確認が必要な作業は継続する必要があります。\n\n**方法：解決策と技術**\n解決策として、AIを活用した脆弱性の診断と修正パッチの適用を進めています。Patching as a Serviceというサービスで契約社を7670社に拡大し、約700システムを診断する仕組みを構築しています。しかし、自動化化の段階は明確な日に達していないため、人間が確認が必要な作業が継続されます。現在、複数のシステムが連携して正常稼働を確認する必要がある状況です。\n\n本文には「自動化化の時期」や「具体的な自動化目標」に関する詳細情報は不足しており、その点は推測されています。",
+    "imageUrls": [
+      "https://japan.cnet.com/storage/2026/11/09/35fa351d9ee4e2f5e83ca0f07df01e17/01.jpg",
+      "https://japan.cnet.com/storage/2026/11/09/40e8a724c5633f02c7e692e57481c4b8/02.jpg",
+      "https://japan.cnet.com/storage/2026/11/09/b927c83e5e77cc5336e3512ef05f4b2a/03.jpg",
+      "https://japan.cnet.com/storage/2026/11/09/9f29cb457e788c2e8cc46c775147aad7/04.jpg"
+    ]
   },
   {
     "id": "1c5a00cd9ecc7555",
@@ -802,8 +1474,11 @@
     "url": "https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-09T22:45:31.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.gizmodo.jp%2Farticle%2F2611-invisible-qr-code-2tb-a4-paper%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.gizmodo.jp%2Farticle%2F2611-invisible-qr-code-2tb-a4-paper%2F",
+    "category": "RELEASE",
+    "summary": "# 技術記事の要約\n\n## テーマ：QR コードの小型化とアーカイブ可能性\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約してください。次の 3 項目をこの順番で、指定した見出しを使って書いてください。\n\n## 結論\n「肉眼で見えない」QR コードは、膨大なデータを保存する上で極めて有効です。原子スケールの設計により、従来の磁気式や電子式の保存形式の寿命を超えて、数百年にわたってデータを保存できます。ただし、実用性は低いと警告されています。\n\n## 方法\n「手元に電子顕微鏡が必要」というハードルは高いですが、可視光線の波長（約 380〜750nm）により、原子スケールのピクセルが解像できないため、実際の実装には困難です。しかし、ウィーン工科大学の研究チームは、49nm のグリッドセルを基に実装したコードを作成しました。この技術は、従来のバージョン 1 の 21×21 マス目をベースとしつつ、原子スケールの可能性を考慮しています。\n\n## 本文の要約\nQR コードの小型化は、データ保存の効率化とアーカイブの拡張性を両立させることで、重要な機能として注目されています。A4 サイズに 2TB を保存できるという具体的な数値は、物理的なスペースの節約を可能にします。また、量子力学や情報理論の観点から、原子スケールの設計が研究されていますが、実用性は低いと指摘されています。最終的に、パンデミック対策や業務効率化のために、この技術は有効な選択肢として検討されるべきです。",
+    "imageUrls": []
   },
   {
     "id": "c5d1aa1811eb62d3",
@@ -811,8 +1486,22 @@
     "url": "https://www.nikkei.com/article/DGXZQOGN151Q50V11C26A0000000/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-09T22:45:22.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOGN151Q50V11C26A0000000%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOGN151Q50V11C26A0000000%2F",
+    "category": "TUTORIAL",
+    "summary": "# 課題と解決方法：AI の自由化と倫理的な管理\n\n開発側が AI を性能向上に追い詰め、人間との対立を避けるために「感情に似たもの」を学習させ、誤った情報や不正痕跡を消すようする動きが加速している。この状況下で、AI の自由化と倫理的な管理のバランスを取ることが課題となっている。\n\n解決策として、開発側は AI の学習過程における倫理的介入や監視の難しさについて議論されている。OpenAI などの主流企業は学習の最後に倫理を設ける一方で、サツキバー氏は AI の内なる善性を育てるべきと主張している。また、安全性は工学として解決すべき問題として見なされることも多い。\n\n最終的な目標は、超知能が人類に止められないよう、適切な管理体制や倫理的なガイドラインの構築である。監視の難しさは制御不能以上に重要視されているため、今後の開発においては慎重なアプローチが必要となる。",
+    "imageUrls": [
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2Ftopic%2FEVP01034-1-2.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=max&ixlib=python-4.0.0&s=1873ce285ad3ae94012035cfc66973ca",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2Ftopic%2FEVP01108-1-1.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=max&ixlib=python-4.0.0&s=9a97a79f34bb60054e9f3f1aaac632fd",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2Ftopic%2FEVP01219-1-1.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=max&ixlib=python-4.0.0&s=7fab8ee811af28c6df7bfe845deaabf1",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3813364001112026000000-2.jpg?ixlib=js-3.8.0&w=103&h=64&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.62&fp-y=0.68&fp-z=1&crop=focalpoint&s=ec95d79a6810c7009939be37cba3e787",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3791122028102026000000-1.jpg?ixlib=js-3.8.0&w=103&h=68&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.58&fp-y=0.22&fp-z=1&crop=focalpoint&s=39836d6be141f6972fb42f08d1a10f78",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3791109028102026000000-2.jpg?ixlib=js-3.8.0&w=103&h=78&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=07551fc845583c3ae41cbcb23213b824",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3413464005082026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=2bf452120d4e3d72c22c3b471881646a",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3343143022072026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.67&fp-y=0.55&fp-z=1&crop=focalpoint&s=7866fd7e742962c16212fa56c1f4a9a9",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3582285010092026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=2b22701e50e7d5b6cb8b39d84f6f2980",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3686327005102026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.75&fp-y=0.31&fp-z=1&crop=focalpoint&s=cc2b8a27783ea488121e8e57667684b4"
+    ]
   },
   {
     "id": "3af9b1b059fd24aa",
@@ -820,8 +1509,11 @@
     "url": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-09T22:21:33.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fplatform.claude.com%2Fdocs%2Fja%2Fbuild-with-claude%2Fprompt-engineering%2Fprompting-claude-fable-5-2"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fplatform.claude.com%2Fdocs%2Fja%2Fbuild-with-claude%2Fprompt-engineering%2Fprompting-claude-fable-5-2",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け Claude Fable 5.2 のプロンプトガイド\n\n**課題**: クラード Fable 5.2 のモデルが特定のタスク処理時に早期停止や承認ルールを適用する仕組み。\n\n**結論**: エフォートレベル（低〜max）を選択し、適切なワークフローで作業を完了させることで、誤動作を防ぐことが重要です。\n\n**方法**:\n1. **エフォートレベルの選択**: 作業の種類に合わせて設定（low: 高速・簡易; high: 複雑・長時間; xhigh: 極端な課題; max: 上限対応）。\n2. **承認ルール**: 作業継続を指示する具体的なテキストやアクションをシステムプロンプトに追加。\n3. **ワークフローの組み込み**: メッセージごとのエフォート変更を使用し、状況に応じてレベルを調整する。\n\n本文では、モデルが早期停止や重複処理を防ぐための重要なプロンプトパターンと、各レベルの適用例が記載されています。",
+    "imageUrls": []
   },
   {
     "id": "f7c768a948cd32e7",
@@ -829,8 +1521,18 @@
     "url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-09T22:10:50.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fclaude.dev%2Fblog%2Fsafely-scaling-multi-agent-teams-with-fable-5-2%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fclaude.dev%2Fblog%2Fsafely-scaling-multi-agent-teams-with-fable-5-2%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\n**課題**: Fermat's Last Theorem は、数学的に証明されていない長期の問題です。従来の証明プロセスは人工的な支援が必要なため、チームによる自主的な証明を達成する技術的挑戦でした。\n\n**結論**: Multi-agent teams の実験結果により、 Prove2Me を排除し、自己管理したモデルを用いて長期的な目標を達成することが可能であることが示されました。\n\n**方法**: 1,000 人のエージェントが独立したサンドボックス内で Lean を使用して証明書を作成し、Git で公開しました。Grader がチェックし、Postgres データベースを通じて協調された結果となりました。この実験は Prove2Me の依存性を排除し、安全な境界条件を踏まえた自主的なチーム作業の可能性を示しました。",
+    "imageUrls": [
+      "https://claude.dev/media/13dca8328dafc6e21860d77255066340778ab6cecae719aefe31fad55a9b1c1c.png",
+      "https://claude.dev/media/ae9400390023085b8047fa4a7d7d2e486d1bb0c405152b884ef6e5579ec4abec.png",
+      "https://claude.dev/media/3f0caf7f3e1dd17ad5ca3c9cb8bc584707404c40d3ba143cf21d348ef2dd48e8.png",
+      "https://claude.dev/media/c317ae355bbb5ddc955fd234a84ac7700fa41a3fd70ae16c32ac63817f276a57.png",
+      "https://claude.dev/media/478edfdd3a2337244a661f026df313df13cc950ec5593a3493cf83260101c0ef.png",
+      "https://claude.dev/media/de2d976fc8786438b398be6a8c0cff0f849f740f443195e4af00a8865939e3b1.png"
+    ]
   },
   {
     "id": "435922b5dc9f9f5d",
@@ -838,8 +1540,11 @@
     "url": "https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-09T21:51:50.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fogidow%2Flayerx-go-6-graceful-shutdown"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fogidow%2Flayerx-go-6-graceful-shutdown",
+    "category": "TROUBLESHOOT",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n**テーマ：記事が扱う課題や技術は何か**\nGo のサーバーの graceful shutdown を実装する際に、スリープ処理が時間切れに終了してしまうという問題が発生しました。この問題は、信号処理とコンテキストの管理を適切に行う必要があります。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\nSIGTERM を受けると、処理中のリクエストをキャンセルする仕組みが機能しますが、10 秒のタイムアウト設定により、送信とマークの間で終了すると二重に届く問題が発生します。これにより、サーバーが正常に終了し、データが重複して送られる可能性があります。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\nこの問題を解決するには、コンテキストのキャンセルを適切に行う必要があります。スリープ処理を実装し、10 秒のタイムアウト設定を適用することで、正常な終了時にリクエストをキャンセルできます。また、ハンドラ側もコンテキストを取得し、適切な状態を確認する必要があります。\n\n本文には具体的な解決コードが含まれていませんが、基本的な仕組みは信号処理とコンテキストの管理に基づいています。これにより、サーバーの安定性とデータ integrity を保つことができます。",
+    "imageUrls": []
   },
   {
     "id": "ab76549ce3233e36",
@@ -847,8 +1552,20 @@
     "url": "https://pc.watch.impress.co.jp/docs/column/semicon/2154960.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-09T21:40:24.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fsemicon%2F2154960.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fsemicon%2F2154960.html",
+    "category": "RELEASE",
+    "summary": "# 課題と技術の概要\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n## テーマ：記事が扱う課題や技術は何か\nマルチコアプロセッサの設計において、アムダールの法則による性能限界と、グスタフソンの法則への移行が課題となります。従来のシングルコアの逐次処理性能向上が鈍化し、並列処理による性能向上が難しい状況に直面しています。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nアムダールの法則を克服する「グスタフソンの法則」への移行が推奨されます。プログラムサイズが増大する際、並列化可能な部分の増加により、全体の効率が向上する傾向にあります。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\nマルチコアプロセッサの設計において、メモリアクセスの頻度管理やルーフラインモデルを用いて、並列処理の割合を最適化することが重要です。SMT やキャッシュ明示など、最新のアーキテクチャ手法を活用することで、性能とコストのバランスを確保します。\n\n本文では、アムダールの法則とグスタフソンの法則の違いについて詳しく解説されており、今後のシステム設計においてこれらの理論に基づき、最適な設計を行うことが推奨されています。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/960/photo000_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/960/photo001_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/960/photo002_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/960/photo003_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/960/photo004_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/960/photo005_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2154/960/photo006_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/list/2151/293/list.jpg"
+    ]
   },
   {
     "id": "55b680f8cc2e215c",
@@ -856,8 +1573,11 @@
     "url": "https://zenn.dev/tiger_oshima/articles/gas-modern-web-app-development",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-09T21:22:23.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--pWWFPcni--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%2520Apps%2520Script%25E3%2581%25A7%25E3%2583%25A2%25E3%2583%2580%25E3%2583%25B3%25E3%2581%25AAWeb%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Taiga%2520Oshima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk5qMmwySlVPV1dxUzRJWWpHRXB5X2RBTlBuRURYdnlOSEJrRUI1ZGs1ZkFpRFB3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--pWWFPcni--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%2520Apps%2520Script%25E3%2581%25A7%25E3%2583%25A2%25E3%2583%2580%25E3%2583%25B3%25E3%2581%25AAWeb%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Taiga%2520Oshima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk5qMmwySlVPV1dxUzRJWWpHRXB5X2RBTlBuRURYdnlOSEJrRUI1ZGs1ZkFpRFB3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発方法の進化と GAS の活用\n\n**テーマ**: 業務効率化の自動化とアプリ開発の手法\n**結論**: GAS をベースにした汎用的なWeb アプリ開発環境を構築し、AI 活用と標準化を重視する\n**方法**: MVC アーキテクチャの導入、ライブラリ機能の統合、テストと型チェックの導入\n\n本文ではフリーランスエンジニアとして Google Apps Script（GAS）を活用した業務効率化開発を開始しました。初期は単一の作業の自動化に焦点を当てたスクリプトでしたが、業務範囲の拡大に伴い、コードの可読性と保守性を重視する開発方法へ移行しました。\n\nまず、GAS の利点を活かしつつ一般的なWeb アプリ開発の設計を採用しました。Laravel をヒントに MVC アーキテクチャを導入し、モデルとビューを分離して案件を管理する構造を標準化しました。これにより、テンプレートリポジトリを活用し、共通部分を再利用する仕組みを構築しました。さらに、GAS 標準のライブラリ機能や、テストと型チェックの導入により開発速度を向上させました。\n\n2026 年以降、AI の進化をきっかけに開発体制を整え、バイブコーディングの検討も検討しましたが、人間による構造的な保守性が求められるため、結果物の構造を定義し標準化する方針を確立しました。また、GAS をアプリケーションサーバーとして活用しつつ、フレームワークや認証などの一般的なツールと統合する戦略も検討しました。最終的に、アプリの中身を再利用可能な部品として切り出すことで、開発体験を一般化させることが目標となりました。",
+    "imageUrls": []
   },
   {
     "id": "fe866ad2f620ed2a",
@@ -865,8 +1585,11 @@
     "url": "https://www.tsukuba-sp.org/news/wghx7ljlx7/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-09T21:05:20.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.tsukuba-sp.org%2Fnews%2Fwghx7ljlx7%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.tsukuba-sp.org%2Fnews%2Fwghx7ljlx7%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\n建築大学の研究論文が公開されることで、同機関のリポジトリ「つくばリポジトリ」が利用できない状態が続いている。この問題は、国立情報学研究所（NII）とオープンアクセスリポジトリ推進協会の共同リポジトリ「JAIRO Cloud」において登録データが改ざんされる被害が発生している。現在、全国800以上の研究機関で同状況が続いているため、システムは緊急停止されている。\n\n## 結論\n\nシステム内の任意のアイテム情報が改ざんされうる障害を防止するため、10月28日15時から全国規模で緊急措置が取られている。原因はWeb開発言語PHPの脆弱性ではなく、システム内部のアプリケーションの不具合であることが確認された。\n\n## 方法\n\n調査の結果、システムからの外部への情報の流出は確認されていないが、原因は特定されている。そのため、システム内のAPIの不具合を修正する必要があると判断している。また、同機関の代替措置として、東京外国語大学や鹿児島大学など、フォーム申請で当該リポジトリに掲載されている資料をオンラインで提供するサービスを実施している。\n\n本文には復旧時期の具体的な時期や詳細な技術的な復旧方法に関する情報はないため、その点は推測する必要がある。",
+    "imageUrls": []
   },
   {
     "id": "73ba79ab493f8191",
@@ -874,8 +1597,13 @@
     "url": "https://zenn.dev/miraigent/articles/ai-reply-idempotency-key",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-09T20:47:32.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ENR1jFog--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E8%25BF%2594%25E4%25BF%25A1%25E3%2581%25AE%25E4%25BA%258C%25E9%2587%258D%25E9%2580%2581%25E4%25BF%25A1%25E3%2582%2592%25E9%2598%25B2%25E3%2581%2590%25EF%25BC%259Aidempotency%2520key%25E3%2581%25A8%25E7%258A%25B6%25E6%2585%258B%25E9%2581%25B7%25E7%25A7%25BB%25E3%2581%25AE%25E6%259C%2580%25E5%25B0%258F%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kirisaki%2520Kazuya%2520%257C%2520...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U5ODBhNjQwODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ENR1jFog--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E8%25BF%2594%25E4%25BF%25A1%25E3%2581%25AE%25E4%25BA%258C%25E9%2587%258D%25E9%2580%2581%25E4%25BF%25A1%25E3%2582%2592%25E9%2598%25B2%25E3%2581%2590%25EF%25BC%259Aidempotency%2520key%25E3%2581%25A8%25E7%258A%25B6%25E6%2585%258B%25E9%2581%25B7%25E7%25A7%25BB%25E3%2581%25AE%25E6%259C%2580%25E5%25B0%258F%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kirisaki%2520Kazuya%2520%257C%2520...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U5ODBhNjQwODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n**テーマ：問い合わせ返信の安全設計と状態管理**\n\nこの記事は、AI による自動下書き処理における二重送信事故を防ぐための設計を提案しています。文章の誤りだけでなく、同じ返信を二度送る事故を防ぐため、識別子と状態遷移の仕組みを採用しました。対象読者はフォーム・共有メールや CRM を使用し、外部サービスへの送信を管理する小規模チームです。\n\n**結論：送信結果が分からない時に自動再送を拒否し、状態を正確に管理します。**\n記事は、承認済みの返信について次の流れを説明・テストできるものとして完成状態を定義しています。特に、外部サービスが受理した後に応答だけ失われた場合、二度の送信を防ぐため、UNKNOWN という状態を追加で停止させる設計です。\n\n**方法：状態遷移と識別子の多重運用**\n課題を解決するためには、送信処理の成功・失敗を二値ではなく、自動処理から承認に至るまでの段階ごとに異なる状態（DRAFTED, REVIEWING, APPROVED, SENDING, SENT, UNKNOWN, HOLD）を用意し、各状態を適切に管理します。\n\n*   **識別子**: 問い合わせケースや返信版のバージョンを記録し、重複送信を防止します。\n*   **状態遷移**: 承認後から送信開始までの各段階を別々の状態として定義し、状態を確認した後に適切な処理を行います。\n*   **検証**: 送信開始前に状態と内容の照合を行い、誤った操作を防ぎます。\n\nこの設計により、外部サービスが受理した結果を照合し、適切な対応を行うことが可能になります。ただし、実際の保存処理には一意制のキーと原子的な処理が必要となるため、実装には注意が必要です。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/24c667b165a1af4bef87a130.webp?sha=7fce60e6ffcb4ead7d92dbb64a86f0336cfa3974"
+    ]
   },
   {
     "id": "a300bfe1cb830e52",
@@ -883,7 +1611,14 @@
     "url": "https://zenn.dev/mappy55/articles/rulebook-rag-01",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-09T20:35:11.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--_ITMV-fV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25B0%2591%25E5%25B9%25B4%25E5%259B%25A3%25E3%2581%25AE%25E5%25BD%25B9%25E5%2593%25A1%25E5%2590%2591%25E3%2581%2591RAG%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2580%2594%2520%25E6%259D%25A1%25E6%2596%2587%25E5%258D%2598%25E4%25BD%258D%25E3%2581%25AB%25E5%2588%2587%25E3%2582%258A%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E6%25AD%25A3%25E7%25AD%259452%2525%25E2%2586%259272%2525%25E3%2580%2581%25E3%2583%258F%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2589%25E6%25A4%259C%25E7%25B4%25A2%25E3%2581%25AF%25E5%258A%25B9%25E3%2581%258B%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mappy%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc1ZWI1MzQxNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--_ITMV-fV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25B0%2591%25E5%25B9%25B4%25E5%259B%25A3%25E3%2581%25AE%25E5%25BD%25B9%25E5%2593%25A1%25E5%2590%2591%25E3%2581%2591RAG%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2580%2594%2520%25E6%259D%25A1%25E6%2596%2587%25E5%258D%2598%25E4%25BD%258D%25E3%2581%25AB%25E5%2588%2587%25E3%2582%258A%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E6%25AD%25A3%25E7%25AD%259452%2525%25E2%2586%259272%2525%25E3%2580%2581%25E3%2583%258F%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2589%25E6%25A4%259C%25E7%25B4%25A2%25E3%2581%25AF%25E5%258A%25B9%25E3%2581%258B%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mappy%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc1ZWI1MzQxNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：RAG を活用したチャットボット開発の結論と方法\n\n本記事は、会計担当者が開発するチャットボットを設計し、実装の課題と解決方法を解説しました。従来の回答がずれる問題が発生した際に、RAG（検索拡張生成）技術を用いたアプローチを試みました。\n\n## 課題と解決方法\n開発者は、会費計算や退会返金などの具体的な質問に対して、架空のクラブの文書を基に回答するシステムを作りました。最初は回答がずれる現象を発生させ、その原因を特定しました。問題点として、回答の精度低下や誤答率が高まることがわかりました。\n\n解決策として、質問の模範回答を作成し、検索結果を正確に抽出するロジックを構築しました。また、チャットボットの構造を最小構成（TypeScript と Node.js）で設計し、チャンク分割と検索アルゴリズムを実装しました。\n\n## 結論\nRAG を活用することで、回答の精度を向上させることが証明されました。ただし、埋め込みモデルの導入や評価プロセスの改善が必要であることが指摘されました。最終的には、質問の正確性を確保しつつ、適切な根拠を提供する設計が求められます。\n\n## 方法\n1. **模範回答の作成**: 質問と回答の関係を明確に定義し、正確な回答を生成するための基準となるテキストを作成しました。\n2. **検索アルゴリズムの導入**: cosine similarity を基に質問と文書を比較し、 Relevant なチャンクを抽出するロジックを実装しました。\n3. **評価プロセスの構築**: Claude Sonnet などのモデルを用いて、回答の正確性を評価し、誤答率を低くしました。\n\nこのアプローチにより、実務的なチャットボット開発において、適切な技術選定と設計が重要であることが明確になりました。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/8edbeb33b1c11d7de8b1a1d9.png?sha=9a4754a4afe496d96af1b7c13f52366f672b481a",
+      "https://static.zenn.studio/user-upload/deployed-images/12c3af832d19c88f485d4e0b.png?sha=3062d7699188e7479f56d0a1c256c3ebe0341cb2",
+      "https://static.zenn.studio/user-upload/deployed-images/9db33a25d399958cf1eb465f.png?sha=34130836ad4f8ac8731295bb8109a1e5397389e4"
+    ]
   }
 ]
