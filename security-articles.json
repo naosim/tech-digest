@@ -1,5 +1,145 @@
 [
   {
+    "id": "08fbd0d93e401f55",
+    "title": "Intel製品に対するアップデート（2026年11月）",
+    "url": "https://jvn.jp/vu/JVNVU93337738/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-11T05:15:00.000Z"
+  },
+  {
+    "id": "96f48722606ab8dd",
+    "title": "Sleipnir Mobile for iPhone / iPadにおける不適切な証明書検証の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU93068550/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-11T04:30:00.000Z"
+  },
+  {
+    "id": "3406fdac57f2aa43",
+    "title": "Movable Typeにおけるコードインジェクションの脆弱性",
+    "url": "https://jvn.jp/jp/JVN11786640/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "id": "ccf5c040b0fb4ce8",
+    "title": "注意喚起: 2026年11月マイクロソフトセキュリティ更新プログラムに関する注意喚起  (公開)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260035.html",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T02:20:00.000Z"
+  },
+  {
+    "id": "d54c160897e48c44",
+    "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月10日）",
+    "url": "https://jvn.jp/vu/JVNVU92618679/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-11T01:15:00.000Z"
+  },
+  {
+    "id": "cb903e6d48bd7506",
+    "title": "Weekly Report: Cloud Software GroupのXenServerに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#1",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "e47c2c7e85af25c2",
+    "title": "Weekly Report: Puppet ServerおよびOpenVoxに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#2",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "0996dcfe3a8990e4",
+    "title": "Weekly Report: Airbyteに任意のコード実行につながる脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#3",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "7ec537d54acef7a5",
+    "title": "Weekly Report: Firefoxにバッファエラーの脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#4",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "0a9b3714837c4f94",
+    "title": "Weekly Report: 複数のManageEngine製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#5",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "1a425010b416b2a9",
+    "title": "Weekly Report: 複数のZyxel Networks製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#6",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "1f9dcc0e78454e50",
+    "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#7",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "228b7666a85b82f9",
+    "title": "Weekly Report: 複数のAbsolute Security製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#8",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "4e296e74d91c091f",
+    "title": "Weekly Report: 複数のElastic製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#9",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "66fd3985de3692a3",
+    "title": "Weekly Report: Google Chromeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#10",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "1ee260786cf34438",
+    "title": "Weekly Report: Androidに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#11",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "ffc24f52f9649cea",
+    "title": "Weekly Report: 複数のBarracuda Networks製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#12",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "eba91ddc6ff6fea1",
+    "title": "Weekly Report: 複数のPostgreSQL向けツールに脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#13",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "a7d073320fa97616",
+    "title": "Weekly Report: NCOが「個人情報の漏えい等につながる不正アクセスへの対策について - ウェブサイトやモバイルアプリに関する基本的な対策の徹底 -」を公開",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261111.html#14",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-11T00:07:00.000Z"
+  },
+  {
+    "id": "6540f88ddadeb5ad",
+    "title": "Microsoft 製品の脆弱性対策について(2026年11月)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/1111-ms.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-11-10T15:00:00.000Z"
+  },
+  {
     "id": "1251fe71dabd9b05",
     "title": "FrodoBots EarthRover Mini+における複数の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU96830794/",
