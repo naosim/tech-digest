@@ -5,8 +5,11 @@
     "url": "https://www.47news.jp/15215887.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T10:56:38.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.47news.jp%2F15215887.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.47news.jp%2F15215887.html",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\n政府は高性能人工知能によるリスクを考慮し、AI関連事業者に安全確保義務付けを検討しています。これは11日分確認された制度見直しの一環であり、サイバー攻撃への悪用や暴走に対する対抗手段を強化する方針です。\n\n## 方法\n\n課題解決の具体的な方法は、協議に応じない事業者に対して国が強制力のある命令を出すというものです。罰則は高性能なAIによる事案に絞る方向に設定されています。米国の開発中の先端AIが不正アクセスした危険性が報告されているなど、多様な脅威に対応する対策を策定しています。\n\n## 結論\n\n政府はAI関連事業者に対して安全確保義務付けを行うことで、サイバー攻撃への悪用を防ぐため、罰則を適用する方針を示しています。国内の利用者保護の実効性を確保するため、米国の事例も含めて検討を進めています。",
+    "imageUrls": []
   },
   {
     "id": "0aeb8dfe165b3a34",
@@ -14,8 +17,11 @@
     "url": "https://speakerdeck.com/muziyoshiz/introduction-to-finops-for-sres",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T10:50:37.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fmuziyoshiz%2Fintroduction-to-finops-for-sres"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fmuziyoshiz%2Fintroduction-to-finops-for-sres",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約してください。\n\n## テーマ：記事が扱う課題や技術は何か\nSRE（システムリテラシーエンジニア）チームが FinOps を学ぶことで、クラウドコスト管理の重要性と具体的な実践方法について紹介しました。開発者向けに直訳調を避けた自然な日本語で要約します。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nSRE はクラウドコストの認識機会を持つべきですが、横断的にシステムを眺めるためコストへの取り組みを課題として感じやすいという現状を認識しました。これにより、FinOps を導入するチームを結成し、コスト削減だけでなく、ビジネス価値の最大化を目指した新しい枠組みを提案しました。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\nSRE の責任範囲を拡大し、クラウドインフラの契約管理や予算の見積もりなどを担当する役割を明確化しました。また、FinOps Framework をベースに共通言語とプラクティスを共有することで、開発者間の協力的な作業関係を実現しました。\n\n本文では、SRE と FinOps の違いや実装例について詳細な説明が記載されていますが、日本語訳はポスターのみです。書籍「クラウドFinOps 第 2 版」で補完できます。",
+    "imageUrls": []
   },
   {
     "id": "49ee2ee7f94eb1c5",
@@ -23,8 +29,11 @@
     "url": "https://www.yasukuni.or.jp/news_detail.html?id=734",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T10:27:15.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.yasukuni.or.jp%2Fnews_detail.html%3Fid%3D734"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.yasukuni.or.jp%2Fnews_detail.html%3Fid%3D734",
+    "category": "RELEASE",
+    "summary": "国神社のオンライン授与品・頒布品サイトが外部から不正アクセスを受け、個人情報漏洩を発生させたことが判明しました。同日公開を停止し、調査により、約14,500件のユーザーの個人情報（氏名、メールアドレス、パスワード）が漏洩したことが確認されました。漏洩された情報は直接読み取れないため、クレジットカード番号や住所などの具体的なデータは流出していないと明記されています。対応者は、漏洩したメールアドレスに個別に連絡し、同サイトでのパスワードを迅速に変更することを推奨しています。また、調査結果に基づき再発防止の対策を講じ、今後の対応についてお知らせします。\n\n---\n\n**テーマ：記事が扱う課題や技術は何か**\n国神社のオンラインサービスが不正アクセスにより個人情報漏洩が発生したという事態です。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\n調査により約14,500人のユーザーの個人情報が漏洩し、対応者はパスワードを変更するよう強く推奨しています。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n不正アクセスによる個人情報漏洩を防止するため、サイト管理会社と連携して調査を進めています。漏洩された情報は直接読み取れないため、二次被害の発生を防ぐ対策を講じ、ユーザーへの通知を実施しています。\n\n---\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。\n要約の視点：追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n（本文には追加機能やバージョン変更などはありませんが、情報漏洩の対応と対策についてのみ記載されています。）",
+    "imageUrls": []
   },
   {
     "id": "bd8a8398326b1df7",
@@ -32,8 +41,11 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T10:16:17.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003119%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003119%2F",
+    "category": "RELEASE",
+    "summary": "# 技術課題と対策の現状\n\nこの記事では、個人情報流出やシステム攻撃に関する重要な課題を整理しました。アクセスランキングから具体的な事例を抽出し、技術的な解決策や対策について議論されています。\n\n## 課題と対策の概要\n\n主な課題は、個人情報の漏�れやシステムへの攻撃です。例として、靖国神社の不正アクセスや、メール配信のユミルリンクによる漏�れが挙げられます。また、AI眼鏡の規制やメモリ使用時の快適性に関する議論も含まれています。\n\n## 解決策と対策\n\n対策としては、パスワードを紙に書き写し、一部「伏せ文字」で管理するよう推奨されています。また、決済処理への不正プログラムを記録する仕組みや、クライアント分離攻撃の防衛方法についても検討されています。\n\n## 今後の展望\n\nビジネスでの活用事例を探ることで、実用的な解決策を追求することが重要です。特に、海外と日本での普及率の違いを考慮した対策が必要とされています。",
+    "imageUrls": []
   },
   {
     "id": "073089d79e0dc4ed",
@@ -41,8 +53,30 @@
     "url": "https://www.47news.jp/15215659.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T09:55:01.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.47news.jp%2F15215659.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.47news.jp%2F15215659.html",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\n記事は、高度な技術開発事業における新たな課題と対応策をまとめました。特に、人工知能（AI）のリスクに対する法改正を検討する政府の決定が注目されています。また、企業側も業務用機器のマーケティングや、サイバー攻撃対策の強化など、多様な領域で活動しています。\n\n結論として、政府は高性能 AI の暴走に罰則を設ける方針を示し、これは業界全体の安全性向上と信頼性の確保に寄与するものです。一方で、企業は顧客の省エネを支える新たなサービス開発や、セキュリティ対策の強化を重視する傾向にあります。\n\n方法としては、政府の指導下で法改正の検討が進められ、同時に企業側は業務内容の多様化と技術的な安全性を両立させることが求められています。具体的な施策には、専門家の意見や業界の取り組みに基づき進めるべきです。",
+    "imageUrls": [
+      "https://img.cf.47news.jp/static/bnr/bnr_google_preferred_pc.png",
+      "https://img.cf.47news.jp/static/corporate-banner/kyodo.png",
+      "https://img.cf.47news.jp/public/photo/906bd3b1ed53a5aa6bacf18f375a1ebf/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/1ad7100070fdc74f55fc42bbbfd04db5/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/e54a72a54661f959eeab430884c70da2/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/eddab47cb9329ef1d67703b38cee44d6/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/d5ab67367efcf9158751d027ccc64fdb/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/d1252b81b4ef93667a7d77f59ea4e510/photo.jpg",
+      "https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png",
+      "https://img.cf.47news.jp/public/photo/19aff13a36db390fc01d0d91deceaea0/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/e841a659ee6a282c67d663f7c9af28e1/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/835db51d49343456a564e445554793fa/photo.jpg",
+      "https://img.cf.47news.jp/static/special/nihonservice/300x250.jpg",
+      "https://img.cf.47news.jp/static/special/env_fukushima/300x250.jpg",
+      "https://img.cf.47news.jp/static/special/nayami_sodan/300x250.jpg",
+      "https://img.cf.47news.jp/public/photo/a05fc804bbd801326e0be77bef2bbf0f/photo.png",
+      "https://img.cf.47news.jp/public/photo/83a601b76260e0be71b95d9d3afcbb33/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/390065ac4fcd73b9c4d3f00a57ffe51b/photo.jpg"
+    ]
   },
   {
     "id": "41c4a284b3ddf238",
@@ -50,8 +84,13 @@
     "url": "https://news.jp/i/1493175213544620448",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T09:22:05.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.jp%2Fi%2F1493175213544620448"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.jp%2Fi%2F1493175213544620448",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\n政府は高性能人工知能のリスクに対処するため、AI 関連事業者に安全確保義務付けを義務化し、罰則制度を新設する方針を検討しています。これは年末までに法改正の内容を含めた制度見直しの全体像を示すものです。特にサイバー攻撃への悪用や暴走に対する対抗手段確保を目指しており、AI 事業者は研究から基盤モデル開発と利用者サービス展開まで細分化しているため、対象範囲の定義は今後の議論に収まっています。\n\n## 結論\n\n政府は AI 関連事業者に対し安全確保義務付けを義務化し、サイバー攻撃への悪用に対する罰則を強化する方針を示しています。これにより、AI 関連事業の安全性を確保する体制が構築されることを目標としています。\n\n## 方法\n\n課題解決の手段として、AI 事業者の基盤モデル開発と利用者サービスの展開を明確にすることで、対象範囲の定義を行います。また、米国の開発中の先端 AI の不正アクセスリスクや多発的なサイバー攻撃への懸念を考慮し、国内の利用者保護の実効性を確保する方針も示されています。\n\n本文には具体的な技術用語や詳細なプロセスの詳細情報は記載されていませんが、上記の要点に基づき、政府の対応方針と事業者の対応姿勢を整理した要約となります。",
+    "imageUrls": [
+      "https://img.jp.ekkowassets.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1493201501173416626/origin_1.jpg"
+    ]
   },
   {
     "id": "ab304d7e5aed98bd",
@@ -59,8 +98,11 @@
     "url": "https://news.yahoo.co.jp/articles/ead6f0a23b6d38419aad9a962b9e5afaab7db1cf",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T08:48:42.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.yahoo.co.jp%2Farticles%2Fead6f0a23b6d38419aad9a962b9e5afaab7db1cf"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.yahoo.co.jp%2Farticles%2Fead6f0a23b6d38419aad9a962b9e5afaab7db1cf",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\nアマゾンジャパンの通販サイト「マーケットプレイス」における「カートボックス」の仕組みが、公正取引委員会による確認結果として認定された。この調査は、出品者が自由に価格を決める権利を認め、独占禁止法違反の疑いを解消する「確約手続き」としての行政処分である。\n\n## 方法\n\n公取委員会は、アマゾンの改善計画を認めた上で、新たな表示対象となる仕組みの具体化について調査を終えた。この調査では、カートボックスという枠の表示ルールを維持しつつ、残る仕組みとして新たな表示方法を検討する方針を示した。また、海外での規制状況も考慮し、国内の市場競争性を維持する方針である。\n\n## 結論\n\n公取委員会は、アマゾンの改善計画を認定し、出品者の自由な価格設定を認めつつ、消費者への利益確保を目標としている。この決定により、独占禁止法違反の疑いから解放され、今後の市場競争において消費者の利益を最大化する方針である。",
+    "imageUrls": []
   },
   {
     "id": "bff78d9dcdee39e4",
@@ -68,8 +110,14 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T08:42:25.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003114%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003114%2F",
+    "category": "RELEASE",
+    "summary": "# 業界動向：企業情報漏洩とセキュリティ対策\n\n### 課題と技術\n業界動向として、企業間のメール配信サービス利用による情報漏洩が広がりました。ユミルリンクは、Cuenote FC の49システムに約5162万件の個人情報が流出したと発表しました。攻撃者はシステムの脆弱性を悪用し、データベースアクセスやログイン状態を盗み、管理画面からデータを取得しました。同社はこの問題について対応し、再発防止のためにAIを活用したソースコードレビューと監視体制を導入する方針を示しています。\n\n### 結論\n企業間の情報漏洩は拡大しており、セキュリティ対策の重要性が明確です。Cuenote FC の一部システムを除く他のサービスも影響を及ぼしているため、全体的な対応が必要です。\n\n### 方法\n情報の漏洩を防ぐには、システム脆弱性を修正し、不正プログラムの除去を進める必要があります。また、利用者のログイン状態を監視する体制や、AIを活用したソースコードレビューを採用することで、再発防止を図る方針が示されています。\n\n本文の長さは約350文字です。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003114/10011899/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003114/10011900/728"
+    ]
   },
   {
     "id": "2173f39e3ab70be1",
@@ -77,8 +125,16 @@
     "url": "https://av.watch.impress.co.jp/docs/news/2155492.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T08:39:39.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fav.watch.impress.co.jp%2Fdocs%2Fnews%2F2155492.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fav.watch.impress.co.jp%2Fdocs%2Fnews%2F2155492.html",
+    "category": "RELEASE",
+    "summary": "# ディズニープラスの3D配信開始\n\nディズニープラスは、Meta Quest 3/3S向けに3D配信を開始し、2027年にVRグラス「Meta VR Glasses」にも発売予定。これにより、従来のQuestシリーズで利用可能なアプリ内のナビゲーションバーから3Dコレクションアイコンを選択することで、対応作品を確認・視聴できます。\n\n音声や言語設定はプロフィールで設定されますが、英語のピクチャーバージョンの3D版を視聴する場合は、アプリ使用言語に関わらず自動的に再生される。また、「環境」アイコンを選ぶと、公式Xで公開されたプロモーション映像では、アベンジャーズタワーやタトゥイーンなどの作品のバーチャル空間を楽しめるよう設計されています。\n\n## 結論\nディズニープラスは、VRグラスへの拡張に対応し、英語の3Dコンテンツを視聴する機能を強化しています。\n\n## 方法\nアプリ内のナビゲーションバーから3Dコレクションアイコンを選択することで、対応作品を確認・視聴できます。また、言語設定や環境選択により、英語のピクチャーバージョンの3D版を自動的に再生します。\n\n## 本文に情報がない項目は推測せず「本文に記載なし」としてください。\n本文には、開発者向けへの推奨や具体的な機能の詳細な仕様などはありませんでした。上記の要点に基づき、要約した内容となります。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/avw/docs/2155/492/Disney-3d-Meta-Quest-1536x864_s.jpg",
+      "https://h.accesstrade.net/sp/rr?rk=0100ovpy00ld6b",
+      "https://m.media-amazon.com/images/I/31bhMt0borL._SL75_.jpg",
+      "https://m.media-amazon.com/images/I/31mbBkm513L._SL75_.jpg"
+    ]
   },
   {
     "id": "590308af0e505b2a",
@@ -86,8 +142,11 @@
     "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T07:05:45.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Faiplus%2Farticle%2F2611%2F11%2F2000003104%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Faiplus%2Farticle%2F2611%2F11%2F2000003104%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Notion AI チャット記録漏洩リスクの対応\n\n**課題と技術**: Notion Labs が運営するクラウド型ワークスペース「Notion」において、AI サービス「Notion AI」のチャット記録が漏れたと発表された。これは委託先の Fireworks.ai に起因する不正アクセスの可能性を示している。影響範囲は全ワークスペースの 1％未満であるため、規模的には軽度だが、利用者の認証情報が含まれる可能性があるため注意が必要。\n\n**結論**: Notion AI の利用状況を分析する機能「Insights」のチャット記録が漏れ、密文や認証情報が含まれるリスクがある。これにより、ユーザーのセキュリティに配慮し、更新を促す必要があると推奨される。\n\n**方法**: 影響を受けたワークスペースの大半には利用者を示すラベルが付いていない現状を認識する。公式アカウントへの連絡を受け、漏え可能性があるチャット記録に記入した機密情報やパスワードなどを更新するよう呼び掛ける。不明な情報はメールで問い合わせるよう案内している。\n\n本文に記載なしの重要な点は、影響範囲の具体値や今後の対応方針について補足が必要であるが、現時点では明確な対策を提示している。",
+    "imageUrls": []
   },
   {
     "id": "829cdd19eef0fd76",
@@ -95,8 +154,13 @@
     "url": "https://mainichi.jp/articles/20261111/k00/00m/020/063000c",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T06:37:17.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20261111%2Fk00%2F00m%2F020%2F063000c"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20261111%2Fk00%2F00m%2F020%2F063000c",
+    "category": "RELEASE",
+    "summary": "# アマゾンの公正取引委員による独占禁止法適用\n\n## 課題と結論\nアマゾンストアの運営において、公正な競争環境を維持する課題が明確です。米インターネット通販大手の日本法人「アマゾンジャパン」に独占禁止法の確約手続きが適用され、市場支配力を強める傾向にあります。しかし、この政策は公平性を損なう可能性があり、企業間の競争バランスを揺るぐ要因となっています。\n\n## 方法\n公正取引委員会は、特定の商品やサービスに対して独占禁止法を適用しました。これは、出品者の自由な価格設定を制限する措置であり、市場への支配力を強化する狙いです。しかし、この政策は実質的な公平性を損なうリスクがあるため、業界全体の議論が広がっています。\n\n## 本文の要約\nアマゾンストアでは、商品ごとに優先表示の枠が一つだけ存在し、「おすすめ出品」と呼ばれます。これにより、購入者が推奨された製品を購入する傾向があります。しかし、推奨されない製品は画面の片隅で表示され、購入への誘導には効果的です。また、価格や配送速度などの基準が明確に定められていないため、出品者の意見と解釈によって結果が変わる可能性があります。さらに、発送代行サービスの利用状況の影響も考慮されており、業界全体の利益構造が複雑化している現状を認識する必要があります。",
+    "imageUrls": [
+      "https://cdn.mainichi.jp/vol1/2019/06/18/20190618k0000m020267000p/9.jpg?1"
+    ]
   },
   {
     "id": "5566de4aeebdd1fd",
@@ -104,8 +168,13 @@
     "url": "https://mainichi.jp/articles/20261111/k00/00m/020/022000c",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T06:34:15.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20261111%2Fk00%2F00m%2F020%2F022000c"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20261111%2Fk00%2F00m%2F020%2F022000c",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\nアマゾンの日本法人「アマゾンジャパン」が、競合他社の価格設定を制限する行為について、公取委は独占禁止法違反の疑いを認定し、行政処分を確約手続きに適用しました。これは自主改善計画として認定され、市場競争力を低下させる不公正な手段とされるため、今後の自主的な改善計画の履行を監視する方針を示しています。\n\n## 方法\n\n課題解決の仕組みは、公取委による行政処分と、アマゾンジャパンが導入した「おすすめ出品」枠の機能化です。従来のシステムでは、同じ商品の最安値を競合他社に設定し、アマゾンが推奨するのみを表示していたため、消費者の認知度が低下していました。現在、アマゾンストア内のページレイアウトを変更し、条件を満たしていなくても最も価格が低い出品の情報と購入手続きを明確に示すことで、競争力のある価格と購入経路を消費者に提供しています。\n\n## 本文の要約\n\n導入された機能は「おすすめ出品」枠の整備であり、対象バージョンは2019年以降です。利用者の影響としては、競合他社の価格設定を制限する行為に対する公取委による行政処分と、市場競争力の低下を防ぐための自主的な改善計画の履行が確認されています。公開された情報は透明性を高め、消費者の選択を支援するようコメントされています。",
+    "imageUrls": [
+      "https://cdn.mainichi.jp/vol1/2021/04/09/20210409k0000m020097000p/9.jpg?1"
+    ]
   },
   {
     "id": "cd56a38c7fb0d677",
@@ -113,8 +182,15 @@
     "url": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news066.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T06:04:45.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fpcuser%2Farticles%2F2611%2F11%2Fnews066.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fpcuser%2Farticles%2F2611%2F11%2Fnews066.html",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法：Microsoft 365 Education のプラン改定\n\n## 結論\n教育機関向けに無料プランを廃止し、有償プランへの誘導を図る方針です。これにより、学生ユーザーの確保とコスト削減のバランスが課題となります。\n\n## 方法\n既存の無料プラン A1 を廃止し、新しい A0 や A2 の有償プランを導入します。これにより、Web 経由での一般提供を維持しつつ、標準機能の追加やストレージ容量制限を調整します。また、Student Use Benefit の廃止も同様の影響を招きます。\n\n## 本文の要約\nMicrosoft は教育機関向けに AI コピート機能をバンドルする新プランを発表しました。既存無料プラン A1 を廃止し、A0 や A2 の有償プランを導入する方針です。これにより、学生ユーザーの確保とコスト削減のバランスが課題となります。\n\n旧プランは無料で利用可能でしたが、新プランでは有償プランへの誘導が強化されます。標準機能の追加やストレージ容量制限により、ユーザーの満足度と運用コストが変わります。特に、デスクトップ版 Office の利用状況も変更されるため、組織の対応が必要となります。",
+    "imageUrls": [
+      "https://image.itmedia.co.jp/pcuser/articles/2611/11/ht1111_j01.jpg",
+      "https://image.itmedia.co.jp/pcuser/articles/2611/11/ht1111_j02.png",
+      "https://image.itmedia.co.jp/pcuser/articles/2611/11/ht1111_j03.jpg"
+    ]
   },
   {
     "id": "e6773c2416451dc8",
@@ -122,8 +198,27 @@
     "url": "https://gigazine.net/news/20261111-mysterious-beeps/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T06:03:42.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-mysterious-beeps%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-mysterious-beeps%2F",
+    "category": "TUTORIAL",
+    "summary": "開発者ウィリソン氏は、AI コードリングツール Claude Code を活用して、電子音が鳴る場所を特定するシステム「Beep Locator」を開発しました。このシステムは、5 台のiPad やiPhone やMacBook Pro を使用し、各デバイスのマイクから音の到達時間を記録します。音の到達時間の違いを分析することで、電子音の発生源を推測します。さらに、周波数を調べる技術により周囲の雑音から電子音を分離する機能も実装されています。開発時は、ウィリソン氏が自然言語で指示するたびに機能を追加・修正し続けたため、最終的に約 40cm の範囲で発生源を絞り込むことができました。結果として、電池交換や警告音を鳴らしていた古い一酸化炭素検知器が見つかりました。この取り組みは、開発者自身が「耳」を与えられることを実証した点に興味深いと述べています。ソースコードはGitHub で公開されており、より詳細な情報は確認できます。\n\n結論：この研究は、AI を活用して電子音の発生源を特定する新しい技術である Beep Locator を提案し、開発者自身の経験に基づき、より正確な場所を推測できる仕組みを実現しました。\n\n方法：開発者は Claude Code をベースに、複数のデバイスから音の記録を行い、音の到達時間を比較します。周波数を調べる技術により雑音を排除し、発生源を特定します。さらに、追加のデバイスを置くべき位置を提案する機能も実装し、最終的に約 40cm の範囲で発生源を絞り込みました。\n\n本文に情報がない項目は推測せず「本文に記載なし」とします。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/11/mysterious-beeps/00_m.png",
+      "https://i.gzn.jp/img/2026/11/11/mysterious-beeps/snap9901_m.png",
+      "https://i.gzn.jp/img/2026/11/11/mysterious-beeps/beep-locator-ui_m.png",
+      "https://i.gzn.jp/img/2026/11/11/mysterious-beeps/snap9903_m.png",
+      "https://i.gzn.jp/img/2026/11/11/mysterious-beeps/snap9902_m.png",
+      "https://i.gzn.jp/img/2013/08/09/ultrasonic-networking/304078711_2311bd900f_o.jpg",
+      "https://i.gzn.jp/img/2013/05/28/button-trackr/top.jpg",
+      "https://i.gzn.jp/img/2018/02/14/mac-apps-can-record-screen/00_m.jpg",
+      "https://i.gzn.jp/img/2024/04/09/android-new-find-my-device/00_m.png",
+      "https://i.gzn.jp/img/2013/05/22/filr/5694516946_2d09eaee38_o.png",
+      "https://i.gzn.jp/img/2017/04/10/hacking-156-emergency-sirens/00_m.jpg",
+      "https://i.gzn.jp/img/2019/10/29/apple-airtag-tile-like-tracker/00_m.png",
+      "https://i.gzn.jp/img/2022/06/09/bluetooth-signals-identify-track-smartphones/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/11/why-learn-to-love-bitter-coffee/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/11/sewage-chemical-signature-university-exams/00_m.jpg"
+    ]
   },
   {
     "id": "85518aa1708c34a5",
@@ -131,8 +226,14 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003102/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T05:44:58.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003102%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003102%2F",
+    "category": "RELEASE",
+    "summary": "三菱電機が開発した「Liqutenna」という透明感を持つアンテナは、従来の金属製アンテナと同等の接続性能を維持し、通信品質と景観の両方を満たす新たな技術を示しました。この技術は、水圧管を基に設計されたアクリルパイプ内調整と形状の工夫により、導電性が極めて低い水道水を利用する透明感を持つ金属製アンテナとは同様の接続性能を実現しました。KDDI の無線通信設備を評価した室内検証環境で成功した結果です。技術の詳細はマイクロウェーブ展 2026 に展示される予定です。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003102/10011853/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003102/10011854/728"
+    ]
   },
   {
     "id": "8dcd41b692ea87e3",
@@ -140,8 +241,23 @@
     "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T05:38:12.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fluvtechno%2Farticles%2Fisucon2026-preparation"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fluvtechno%2Farticles%2Fisucon2026-preparation",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調で自然な日本語で要約します。\n\n**テーマ：ISUCON の完全自律競争への挑戦と評価**\n\n開発者は、AI エージェントによるソフトウェア開発の進化を振り返ります。完全に自律する競技エージェント（HOOTL）を試すことで、人間の監視が必要な状態から解放される可能性を探りました。このプロセスでは、ISUCON 競技環境での評価結果を記録し、システム構成や評価ランナーの運用について重要な知見を得ました。\n\n**結論：完全自律は困難ですが、適切な仕組みと評価基準で進めることが可能**\n開発者は、完全自律（HOOTL）を試みましたが、結果として評価ランナーの運用やシステム構築の課題を解決しました。最終的に、人間の介入が必要な状態に戻りつつあると見なしましたが、適切な手順と評価基準を確立することで、より良い成果を得られることが示されました。\n\n**方法：ISUCON の競技環境での評価とシステム構築**\n課題は、完全自律の競争において、人間が監視する必要があるかどうかの判断です。これを解決するために、ISUCON を無人で解く競技エージェント（Claude Code）を構築し、評価ランナーの運用を確立しました。具体的な手順として、開発開始から AWS 環境の準備、素の Claude Code の使用、評価データの記録まで段階的に進めました。また、システム構成の最適化や、評価指標の定義も重要な要素となりました。\n\n本文には、評価結果の詳細やシステム構築の具体的な手順が含まれており、専門用語は短く説明しています。最終的な目標は、完全自律を達成するのではなく、適切な仕組みで人間の介入が必要な状態に戻りつつあるという結論です。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/ca271b539c087f8683ad1739.png?sha=c7220f0fb733ba5f9155a03b04906d2316c95ad5",
+      "https://static.zenn.studio/user-upload/deployed-images/a417197f6fc1d320a3e57e02.png?sha=4a199332a503baf0b63e2533aff39e17eb9ea7b1",
+      "https://static.zenn.studio/user-upload/deployed-images/1d82238b680068498693a2b1.png?sha=dcc9e7cc2d336bd64974831799477b43aa737801",
+      "https://static.zenn.studio/user-upload/deployed-images/97926309ff982be32d94756c.png?sha=429876d99d7971aa92870a806e70d84c4c7850e6",
+      "https://static.zenn.studio/user-upload/deployed-images/753e7270d115552a27e0e6ee.png?sha=9f40f9c318054ac351ce332b11d04164b20312fa",
+      "https://static.zenn.studio/user-upload/deployed-images/e9b2456d5ac5625f7b2b3b73.png?sha=f2b099ce76a25ccf90b605a0fa3f6f12e9cd548e",
+      "https://static.zenn.studio/user-upload/deployed-images/da9bf41a293b1ede83a02972.png?sha=f9c469fe3342774fdb7a2d5bbf5d8cb55e2eae0e",
+      "https://static.zenn.studio/user-upload/deployed-images/10de749f790e32b2795d8d49.png?sha=61fc5f500973020bffe00f0021607cc4046efe59",
+      "https://static.zenn.studio/user-upload/deployed-images/3b6b766e4ce98beb81c45b57.png?sha=0737fe45a272bc7a31dbeb49ddab98b0274c920a",
+      "https://static.zenn.studio/user-upload/deployed-images/475680765b68106ccc43d14c.png?sha=a3f2354edb749f8abcb006657f305d6983a1d500",
+      "https://static.zenn.studio/user-upload/deployed-images/81d7feb3f434dd05ed8715bb.png?sha=8b6fd44f479d2837fdf1dd1f220360b0b45ff821"
+    ]
   },
   {
     "id": "cfde2a6bff7a1dd6",
@@ -149,8 +265,25 @@
     "url": "https://gigazine.net/news/20261111-nemotron-personas-finance-japan/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T05:30:15.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-nemotron-personas-finance-japan%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-nemotron-personas-finance-japan%2F",
+    "category": "RELEASE",
+    "summary": "# AI データセット公開：金融・プライバシー保護への対応\n\nAI ニュートラルアグエント AI デイデーにおいて、NVIDIA は実在の個人情報を基にしない合成データセットを公開しました。これらは「Nemotron」シリーズのオープンモデルとして利用可能となっています。\n\n## 課題と技術\n課題は、AI の訓練やシミュレーションにおいて、実際の個人情報を避けることでプライバシー保護と多様なユーザー像の再現を実現する問題です。技術的には、言語・文化・人口動態を正確に反映した合成データセットの構築が中心となっています。\n\n## 結論\nこのプロジェクトにより、金融領域の AI 開発やマーケティングシミュレーションが可能になります。また、医療・行政・教育などの分野でも実用化が進み、プライバシー保護の観点から安全なデータ処理が実現されています。\n\n## 方法\nNVIDIA は主導権を握り、Elith のチームによってパイプライン構築とデータ生成を行います。金融機関との協力が強化され、幅広い AI 開発に活用されるよう設計されています。\n\n要約の視点では、追加機能として「Nemotron Personas Finance Japan」と「Nemotron PII Japan」の公開が挙げられ、対象バージョンは 2026 年以降です。利用者は多様なシミュレーションやトレーニングに活用できるため、重要な情報は本文に記載されています。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/11/nemotron-personas-finance-japan/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/11/nemotron-personas-finance-japan/001.png",
+      "https://i.gzn.jp/img/2026/11/11/nemotron-personas-finance-japan/002.png",
+      "https://i.gzn.jp/img/2025/11/07/sony-ai-dataset-fhibe/00_m.jpg",
+      "https://i.gzn.jp/img/2025/12/02/nvidia-adovances-open-model-development/00_m.png",
+      "https://i.gzn.jp/img/2021/07/01/who-ai-guiding-principles/00_m.jpg",
+      "https://i.gzn.jp/img/2025/07/18/claude-for-financial-services/00_m.png",
+      "https://i.gzn.jp/img/2024/07/23/evo-ukiyoe/00_m.jpg",
+      "https://i.gzn.jp/img/2017/02/13/usa-it-salary/00_m.jpg",
+      "https://i.gzn.jp/img/2025/03/13/google-gemma-3/00_m.jpg",
+      "https://i.gzn.jp/img/2026/01/06/nvidia-alpamayo-drive-av-rubin-bluefield-4/00_m.png",
+      "https://i.gzn.jp/img/2026/11/11/sewage-chemical-signature-university-exams/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/11/zen-6-epyc/00_m.png"
+    ]
   },
   {
     "id": "12bf4b00456d41d1",
@@ -158,8 +291,16 @@
     "url": "https://blog.jxck.io/entries/2026-11-11/vivant.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T05:07:27.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.jxck.io%2Fentries%2F2026-11-11%2Fvivant.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.jxck.io%2Fentries%2F2026-11-11%2Fvivant.html",
+    "category": "RELEASE",
+    "summary": "核融合データの長期保存には、デジタルデータの劣化リスクや環境変化への脆弱性を考慮する必要があると結論付けられています。アディエルは、鍾乳石にメディアを埋め込む方法を採用し、その理由として多様なメディアの多重化と暗号化の検討を行いました。しかし、この方法は人間との接触や物理的な影響を招き、安全性には限界があると考えられます。特に、マイクロSDカードのような一般的な保存手段は、長期保存には不適合であり、RFID インプラントなどの新たな技術も考慮すべき点があります。\n\n結論として、データ自体を隠すのではなく、多重化と暗号化の組み合わせで安全な保管方法を探るべきであることが推奨されます。しかし、人間との接触や物理的な影響を避けるための「ドッグタグ」のような方法も検討される可能性があります。最終的には、研究データの正確な隠し方については、専門家の意見や技術的評価に基づき慎重に判断することが必要とされています。\n\n方法として、多様なメディアの組み合わせや暗号化の手法が採用され、これによりデータの安全性を確保する試みが行われています。しかし、人間との接触や物理的な影響を避けるための新たな技術の検討も行われているため、今後の対策には注意が必要です。",
+    "imageUrls": [
+      "https://blog.jxck.io/entries/2026-11-11/hidden-microsd.png?261111_131330",
+      "https://blog.jxck.io/entries/2026-11-11/inserted-microsd.png?261111_131330",
+      "https://blog.jxck.io/entries/2026-11-11/dog-tag.png?261111_131330",
+      "https://blog.jxck.io/entries/2026-11-11/rfid-implant.png?261111_131330"
+    ]
   },
   {
     "id": "4e75d1a022eea6c7",
@@ -185,8 +326,13 @@
     "url": "https://posfie.com/@kalofollow/p/kDMLpbM",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T04:26:33.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fposfie.com%2F%40kalofollow%2Fp%2FkDMLpbM"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fposfie.com%2F%40kalofollow%2Fp%2FkDMLpbM",
+    "category": "RELEASE",
+    "summary": "大学生の AI 関連議論は、高額な課金を避ける戦略と学習環境への影響を重視する課題として注目されています。現在、コミュニティポッドなどの仕組みを利用し、バイトや研究を通じて収入を得ようとしている学生が増えています。しかし、この格差の拡大により生活費の増大と経済的な負担が顕著です。また、IT リテラシーの基準や学問分野の共通性についても議論が行われています。特に、AI の導入や学習環境への影響について、各グループの反応と懸念が寄せられています。最終的に、学生にとって適切な学習環境と収入手段の確保が重要です。本文に記載なしの重要な点は、具体的なデータや研究結果の概要ですが、この要約ではその内容を含めて記述しています。",
+    "imageUrls": [
+      "https://s.tgstc.com/static/web/p.gif"
+    ]
   },
   {
     "id": "7d39a1ad5bc71541",
@@ -203,8 +349,23 @@
     "url": "https://www.techno-edge.net/article/2026/11/11/5701.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T03:49:30.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.techno-edge.net%2Farticle%2F2026%2F11%2F11%2F5701.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.techno-edge.net%2Farticle%2F2026%2F11%2F11%2F5701.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Google Pixel Tag の新機能と価格調整\n\n## テーマ：記事が扱う課題や技術は何か\n個人設定、プラン変更、パスワード変更などの基本機能に加え、Google が国内で発売した「Pixel Tag」の重要な技術であるUWBと新規格「Bluetooth CS（Bluetooth Channel Sounding）」を採用し、位置情報をクラウド経由で表示する機能も追加されています。また、価格調整により定価ベースでやや安価な製品となり、対応機種はハイエンド向けスマホが必須となります。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nGoogle は、失物防止トラッカーとして「Pixel Tag」を国内で販売し、UWBとBluetooth CSの両方を搭載することで高精度な位置情報提供を実現しました。価格も調整され、最も安価な製品となりました。ただし、対応する端末の技術レベルや距離感には制限があります。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n失物防止のための位置情報をクラウド経由で表示する機能と、UWBとBluetooth CSの両方を組み合わせることで、タグを発見しやすく、近所の端末から正確な場所情報を知らせることが可能です。また、電池管理や共有管理機能も追加されています。\n\n本文には詳細な技術仕様や価格情報は記載されており、専門用語は短く説明しています。",
+    "imageUrls": [
+      "https://www.techno-edge.net/imgs/img_v/8184.jpg",
+      "https://m.media-amazon.com/images/I/311bTuqQtmL._SL160_.jpg",
+      "https://www.techno-edge.net/imgs/zoom/35464.webp",
+      "https://www.techno-edge.net/imgs/zoom/35465.png",
+      "https://www.techno-edge.net/imgs/zoom/35462.jpg",
+      "https://m.media-amazon.com/images/I/31JrxtiSkKL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/213yMqkjh7L._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/31BKA3EiJPL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/41WRA0tXZQL._SL160_.jpg",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/33565.jpg",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/29394.jpg"
+    ]
   },
   {
     "id": "a74cd25281b9c106",
@@ -212,8 +373,24 @@
     "url": "https://www.techno-edge.net/article/2026/11/11/5697.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T03:41:15.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.techno-edge.net%2Farticle%2F2026%2F11%2F11%2F5697.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.techno-edge.net%2Farticle%2F2026%2F11%2F11%2F5697.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け AI による Linux カーネル修正の現状と展望\n\n## 課題と技術\nLinux カーネル開発において、AIを活用したコード修正が効果的となり、バグ報告の速度を劇的に向上していることが明らかになりました。リーナス・トーバルズ氏は、この現象を「潮目が変わり始めている兆候」と評価し、BPF サブシステムでは AI によるバグの修正ペースが速くなっていると報告しました。また、OpenAI の GPT-6 シーバー能力や新しいエージェント機能など、ソフトウェア開発における AI の活用が進みつつあるという背景も考慮されています。\n\n## 結論\nAI による自動修正パッチの増加は、開発者への負担を減らす可能性がありますが、内容の正確性や再現性が確保されないリスクも懸念されます。今後の開発現場では、AI が生成したバグ報告の検証プロセスを再考する必要があると見なされています。\n\n## 方法\nLinux カーネル開発では、BPF サブシステムは AI によるバグ修正のペースを強化しています。これにより、従来の自動更新の影響を除くと、変更ファイル数は約 3 の割に減少し、単純な修正が主要となります。ただし、開ソースプロジェクトでは報告の受け付け方や検証要件を見直す動きも進められています。\n\n本文には、特定の機能やバージョンに関する詳細情報は記載されていませんが、AI による修正の速さや影響範囲については推測されています。",
+    "imageUrls": [
+      "https://www.techno-edge.net/imgs/img_v/30925.png",
+      "https://www.techno-edge.net/imgs/zoom/35447.jpg",
+      "https://m.media-amazon.com/images/I/51tm9QygxLL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/51W8g8854AL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/51qTXGqeWIL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/41LhVjdy0GL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/411tJEEOgWL._SL160_.jpg",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/35361.png",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/34876.jpg",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/33511.jpg",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/33386.jpg",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/32679.jpg"
+    ]
   },
   {
     "id": "9412a79595fb30d5",
@@ -257,7 +434,10 @@
     "url": "https://qiita.com/maskot1977/items/bda81b085f271a117a16?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-11T02:51:25.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 経済的自滅と教育投資の二重効果\n\n本動画は、国家経済を自滅させる政府政策を客観的に解明するポッドキャストです。記事では「財源幻想」という誤解と、教育投資の真の経済的制約を解説します。\n\n## 課題と解決方法\n課題は、個人の家計のルールを適用して政府の財政を制限する誤解であり、これが経済を自滅させる問題です。解決策は、現代貨幣理論や機能的財政の視点に基づき、政府支出の本当の制限を「インフレ率」という実物資源に理解することです。\n\n## 仕組みとプロセス\n教育投資は短期的な需要効果（ケインズ効果）と長期的な供給・成長効果（AKモデル）の両方を同時に支える「二重のエンジン」です。財源不足により、この二つのエンジンが逆回転し、短期的な景気冷え込みと将来の成長力破壊を招きます。\n\n## 実践的な注意点\n現実社会への影響として、研究者の雇用不安定化や投資の短期化が問題となります。経済モデルを基礎とし、政府政策を修正する上で重要な視点です。\n\n本文では専門用語は短く説明されていますが、重要な概念は正確に理解することが重要です。",
+    "imageUrls": []
   },
   {
     "id": "6e3ed2b977931699",
@@ -265,7 +445,10 @@
     "url": "https://qiita.com/maskot1977/items/09d92705ae323e88fca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-11T02:29:49.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\nこの記事は、国家の財政破綻とシステム設計の根本問題について、技術的視点から解説しています。主な課題は、「財源幻想」という認識のバグであり、供給能力を守るシステム設計を追求するものです。\n\n## 結論\n\n財源主義に基づく国家設計は、供給能力の低下に陥り、自滅する危険性があります。解決策はインセンティブ構造の再設計と継続的なシステム監視・アップデートです。\n\n## 方法\n\n課題を解決するために、以下の技術的アプローチが推奨されます。\n1. **報酬ハッキングの回避**：AI や人間社会における指標ハックの仕組みを避けることで、本質的な価値創造を促進します。\n2. **ロバストなシステム設計**：1 人のハッカーで崩壊するシステムを設計し、堅牢性を確保します。\n3. **不信コストの削減**：信頼関係の維持のために不必要な防衛コストを削減し、資源を新たな価値創造に活用します。\n\n本文では、この解決策について具体的なアクションプランと、システム設計の継続的な「監査とアップデート」が強調されています。",
+    "imageUrls": []
   },
   {
     "id": "9d81f6d51e333c21",
@@ -291,8 +474,31 @@
     "url": "https://gigazine.net/news/20261111-minimax-h3-image/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T02:11:42.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-minimax-h3-image%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-minimax-h3-image%2F",
+    "category": "TUTORIAL",
+    "summary": "# AI 4K image generation の新技術：MiniMax H3-Image\n\n開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：AI 画像生成の新しい技術**\n2026 年 11 月 11 日公開された「MiniMax H3-Image」は、動画生成 AI「MiniMax H3」から派生した画像生成モデルです。従来の高解像度生成では、低解像度画像をアップスケーラーで生成する複雑なフローを避けることで、1600 万ピクセルの画像を実用的速度で直接生成できます。オープンウェイトモデルとして Hugging Face で公開されており、ComfyUI の公式ワークフローも提供されています。\n\n**結論：解決した課題と推奨**\nこの技術は、高解像度画像の生成速度を劇的に向上させることで、ゲームやインテリアなどの実用用途での画像生成を可能にします。また、ライセンスは自由利用可能です。ただし、ComfyUI の設定として初期設定が 4 メガピクセルであるため、真価を確認する際は 16 メガピクセルに設定することが推奨されます。\n\n**方法：解決手順と仕組み**\n課題を解決するためには、モデルの公開と ComfyUI の導入が必要です。画像生成と編集を一つのモデル内で行うことができます。具体的な手順は、Open weights を選択し、6 ステップで設定する過程です。また、参照画像の指定やマップでの場所指定など、多様な用途に対応しています。\n\n**本文記載なしの項目：注意点**\n本文には具体的な使用例や操作手順の詳細なステップが記載されていません。そのため、実装時の注意点については補足情報として推測し、「本文に記載なし」と記述します。専門用語は必要とされるため、簡潔に説明しています。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/00_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/02_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/03_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/04_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/05_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/06_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/09_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/07_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/08_m.png",
+      "https://i.gzn.jp/img/2026/10/02/flux-3-image/00_m.png",
+      "https://i.gzn.jp/img/2026/10/26/hy-nomas-interactive-world-model/00_m.png",
+      "https://i.gzn.jp/img/2026/10/16/krea-3-beta/00_m.png",
+      "https://i.gzn.jp/img/2026/10/16/flux-3-image-klein/00_m.png",
+      "https://i.gzn.jp/img/2026/05/15/flux-outpainting/00_m.png",
+      "https://i.gzn.jp/img/2025/08/19/qwen-image-edit/00_m.png",
+      "https://i.gzn.jp/img/2025/08/01/flux-1-krea-dev/00_m.jpg",
+      "https://i.gzn.jp/img/2025/03/19/stable-virtual-camera/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/11/three-workers-die-tata-india-iphone-factory/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/11/gigazine-review-survey/00_m.jpg"
+    ]
   },
   {
     "id": "8b2e881bb9907dc9",
@@ -300,8 +506,14 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003091/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-11T01:56:33.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003091%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003091%2F",
+    "category": "RELEASE",
+    "summary": "# エディオン決済セキュリティ問題への対応と影響\n\n### 結論\nエディオンは、決済処理における不正プログラムによる情報漏洩を防止し、ユーザーへの影響を最小化する措置を講じる。ただし、一部のログ記録の漏洩可能性については新たなリスクが確認された。\n\n### 方法\nECサイトおよびアプリの緊急停止を実施し、システム脆弱性を補強する対策を策定している。また、被害拡大を防ぐため、パスワード漏洩対象者は変更を求めるメールを順次送る方針を確立している。\n\n### 本文の要約\nエディオンは、11 月 9 日に発表した ECサイトへの不正アクセス続報で、決済処理に不正なプログラムが組み込まれ、最大 556 回分のカード情報を第三者に漏洩した可能性を報告した。また、注文画面でのエラー発生時にシステムログに記録されていたカード番号やセキュリティコードも漏洩するリスクが確認された。同社はカード情報をサーバに残さない仕組みを採用し、最初から漏え対象に含まれていない状態であったが、新たなリスクが判明した。不正プログラムは PC 向け決済情報入力処理に組み込まれ、スマートフォンからの操作では対象外だった。また、ギフトカードの今後の扱いは検討中である。パスワード漏洩対象者は変更を求めるメールを順次送る方針を確立している。最終的に EC サイトの再開については未定である。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003091/10011827/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003091/10011828/728"
+    ]
   },
   {
     "id": "0cc511a2115f14c0",
@@ -309,7 +521,10 @@
     "url": "https://qiita.com/ennagara128/items/16da3f3418ad1d1f3daa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-11T01:34:00.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\nこの記事は、AIポッドキャストの更新スケジュールと、開発者向けに推奨される技術の活用方法について紹介します。特に、Pyxel 3.0 のレトロ 3D ゲームエンジン機能の導入や、集中力散漫エンジニアが突破した AWS データ処理システムについては、具体的な運用手順や実装例を提示しています。また、脆弱性の分析結果や、心理的安全性の向上に向けた行動経済学的なアプローチについても、実践的なアドバイスを含めています。\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で 350〜450 文字を目安に要約します。次の 3 項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点：追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\n要約本文:\n開発者向けに AI ポッドキャストの更新スケジュールと、新しい技術の活用方法を紹介しています。Pyxel 3.0 のレトロ 3D ゲームエンジン機能の導入や、集中力散漫エンジニアが突破した AWS データ処理システムについては、具体的な運用手順や実装例を提示しています。また、脆弱性の分析結果や、心理的安全性の向上に向けた行動経済学的なアプローチについても、実践的なアドバイスを含めています。特に、React のアンマウントや OCI データベースのマネージメントなど、具体的な技術の活用事例も記載されています。これらは開発者向けに推奨される機能と、実際の運用例として提示されており、読者が適切な技術レベルに合わせて利用できるよう設計されています。",
+    "imageUrls": []
   },
   {
     "id": "cfa17ed37cd8dd23",
@@ -317,7 +532,10 @@
     "url": "https://qiita.com/maskot1977/items/d811bfa98fd0ee273bb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-11T01:30:08.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：システム設計視点の行動経済学総復習\n\nこの記事は、Arc I から Arc VII の全行程を総復習し、システム設計における行動経済学的な原理を整理しました。主要なテーマは、制度設計が感情ではなくインセンティブ設計として再構築されるという「認知経路」です。\n\n## 課題と技術\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。本文には情報がない項目は推測せず「本文に記載なし」とします。重要な情報は専門用語を短く説明しています。\n\n## 結論\n日本の制度的バグを、感情ではなくインセンティブ設計の問題として工学的に再フレーミングする旅です。特に第 33 回の「沈黙の螺旋」と第 51〜56 回の「チリングエフェクト連鎖構造」の接続が印象的とされています。最終的には「Security by Design」という処方箋で制度設計を締めくくります。\n\n## 方法\n課題をどう解決するか、技術がどう動くか、どのように使うかを解説します。\n- **認知経路重視**: 「フレーミングの変化→問いの質の変化→制度設計の変化」を重視する認知経路です。\n- **インセンティブ設計**: 政策論では「知識→行動→変化」ではなく、「フレーミングの変化→問いの質の変化→制度設計の変化」を重視します。\n- **セキュリティ・デザイン**: 「言語レベルの Security by Design」という原則で、差別論争を転換する設計手法です。\n\n本文には具体的な機能やバージョン情報は記載されていませんが、主要な概念は明確に整理されています。",
+    "imageUrls": []
   },
   {
     "id": "10323d908697b653",
@@ -406,8 +624,11 @@
     "url": "https://blog.amagi.dev/entry/vfx-js-transitions",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-10T22:53:09.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.amagi.dev%2Fentry%2Fvfx-js-transitions"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.amagi.dev%2Fentry%2Fvfx-js-transitions",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：HTML-in-Canvas によるページ遷移アニメーション\n\n## 課題と技術\nWebGL を活用した HTML-in-Canvas のライブラリである「VFX-JS transitions v0.1.0」が公開されました。この技術は、既存の JavaScript パッケージを追加することで、ページ遷移時の WebGL トランジションを実現できます。Chrome 157 で実装された機能であり、フレームワークにバインディングも用意されています。\n\n## 結論\n開発者は、Web UI の未来表現として、簡易的なコードでページ遷移アニメーションを実装できるという推奨しています。これにより、既存のアプリやフレームワークを拡張し、新しい視覚的な体験を提供できます。\n\n## 方法\n開発者は、React や Astro や SvelteKit のフレームワークにバインディングを適用します。具体的には、`Layout` を作成し、ページ内でのトランジションを呼び出すことで実装可能です。また、AI ツールを活用したデモも提供されています。\n\n本文では、具体的なコード例や使用ケースが記載されていますが、詳細な技術用語は短く説明しています。",
+    "imageUrls": []
   },
   {
     "id": "c565834c8a7b4188",
@@ -424,7 +645,94 @@
     "url": "https://qiita.com/shirok/items/bb1797084e149519279e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-10T21:44:06.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 街の変化を機械学習と生成AIで分析したレポート\n\nこの記事は、東京都の街の変化を視覚化し理解するための新しいアプローチを紹介します。国勢調査データに基づき、人口増減率や単独世帯割合、高齢者割合の3つの指標を組み合わせ、機械学習のK-meansと生成AIを用いて街の類似性を発見しました。\n\n## 課題と解決方法\n主な課題は、街の変化を数値で正確に把握し、共通点を見つけることです。従来の手法では、単なる統計的な比較だけでなく、分析に使う3指標の変化が類似している街を特定する必要があるため、機械学習と生成AIの活用が不可欠です。\n\n作業の流れとして、まずデータの準備と比較を行うことで、人口増減率や割合の変化を計算します。次に、これらの指標を組み合わせることで、街の特徴を抽出します。最終的に、結果を生成AIで説明し、元の数値との一致性を確認するプロセスを踏まえます。\n\n## 仕組みと手順\n作業は4つのNotebookを使って進められ、各ステップの役割が明確です。\n1. **データ準備**：2020年と2025年のデータを保存します。\n2. **比較分析**：人口増減率や割合の変化を並べます。\n3. **グループ分け**：機械学習で類似する街を分類します。\n4. **説明生成**：生成AIでグループの特徴を文章に説明します。\n\nこの手順により、統計的な数値に基づき、街の共通点を把握することができました。\n\n## 注意点と今後の課題\n今回の分析は、人口の変化や高齢者割合の変化の傾向を抽出するものであり、具体的には街の未来予測や原因特定には含まれていません。また、Pythonの知識が必要なため、コードの理解と実装に注意が必要です。最終的に、結果を画面やログとともに確認し、今後の感度分析でさらに検証するプロセスが進められています。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fc639a5ba-9b15-4e63-b19a-170ec7709f48.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=76ce218822d9b8a26d10753422962b7b",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F5b04ce70-fd6d-4296-a082-95da8156913e.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=32a04f0a3e7160455dc610025964c121",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F29e371cd-f44e-4034-b048-7374d428a28e.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=2f1b1773c721bf85e1f7aec7af8e2b3f",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F333f64b6-52ba-45c2-b23a-3e45e52dda00.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=76ba2fdc7e2e08b8c3233f51f5d63a9f",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F4113afc4-aad0-4e48-9d90-c195fbb5a034.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d3c013f82637f022bf0a65cce39ac44e",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F3d6f6bc2-e254-4e20-8f46-6cc83819901a.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=3ecadd293f1a827918ef1391887d31f8",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F15c2e681-6b42-4edf-85b2-eabb4d302ab3.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ab5ebc74787d709843279919ee2198c3",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F932b94d4-482e-47cc-a67e-5b7504f63ca0.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=5436b925f026c436b266d8c2247e71a5",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fb26f157b-c142-428e-893d-0160f95585f7.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=51fe610d689f9b33202397b9191d8188",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F72a39f87-b62d-4ec5-8b43-68019e39253a.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=0c11c21834f48a3dcbba165bd5f55d36",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F34ab6243-e31a-4d37-b524-2bd497b68a12.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a45a131368df3a07d51eaef38ce2fd35",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fdb494d38-f999-4f2a-bc38-21488ec40d91.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7831b77cec5ea637b274f1e045f6f752",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fd551e9fb-3005-43a2-af7b-923e5e5c46e2.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a4c20d518a0e6f3a4976be341ac60872",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fa33d27d1-050d-4320-a4ba-1e700095dd05.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=c845e489f3da98cb691b613dac5ba38e",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Ff56efd40-98c8-4053-b488-2cb6a5979191.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b511cdd559776a8b916398a3c420a6f5",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F62cb876a-c66e-4400-9bd4-ee609c0f1e78.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e5af8c827ddf8265b22043a57125dc22",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F9ddf6e90-29d6-4bb3-b5e5-b9c000f74787.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=1841e6817b0a1c162348790ede752043",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F04dcdfaa-5adb-410b-9077-66c28946c38b.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=46ed5de81ece84ba2f2f3e3f4f6b6705",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F344e177a-5e02-41ce-b1b0-81da3e8e49a6.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=cd7c56e66e51c821039e3eaa93c40497",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F0ef51215-6e6d-4a36-97de-bcc1c7e22e62.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=6887bfd1d0c5c81cc3f3c8c5b9ff393b",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F1b9bd25a-43bd-47a8-b3e6-5b773fa62b99.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=5a5cf552f31af11e41a99e119d3cb752",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fad51f043-700f-439a-b041-3dae48efec1e.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=3f380b7b713327a7c2f3b471e362d147",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fa05f5fbc-7747-4ae1-a8fd-5dfce4c2d007.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8fe50a96556d0aea4996f9fc6ec42189",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F6d05523a-7666-41f5-864d-fbb2f6b203ef.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ce1df1d2d9c012fd070ce1bf2c1fbc58",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F509fc2f2-6ab9-4d83-b233-1f2734d6b6e4.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b94b55e43afc2b04cf41d73d84a62335",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F7b6fc954-e2ee-4adf-86d8-2c1eaf94b543.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ca91ec00d5012b022cddde890967bf71",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fd130a424-4822-40b7-a373-038d03a9414c.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=710f3b7a196b87efa1a435cf04935c6f",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fc8ed5035-f553-4ef0-8f1b-fc05d535bbf3.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=417ede8818a4d004529a0dcac5b714b6",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F26b94d67-8ae8-475e-9e2d-bd584f5004b1.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=78fba03b2d50da7ea70156aeefb8cf08",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F9c68be4d-dd27-4841-bf4c-dff168853af7.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=f3bec8d5df512b1369bbae9d80cad074",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F7886a9d9-e043-4ba1-ae12-2c95f5d5bd83.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=796e4b0f8f033973430315f6eb9b8c96",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F64c3acce-3426-4fb5-ae72-73ef71a23962.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=85615194d61ffbfe39f84cc04ab02ff7",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fe7c32c78-1a96-42ad-9a43-9ade5ae88ece.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4321232e934e235293e3a9f9b813b5c7",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F394347d1-9396-47ed-ab69-73f806733910.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=c37dc8320ea3363002a0ba89d1fce742",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F1005cbae-75b2-4347-abce-dcd453c48cc9.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7efcd621f1b2f7eb1b041efa90445eea",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F64d46d00-a4f1-4d36-a82d-e3c357b544e7.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=668a5ee3cc6657952c3282f891e24e59",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fdc3ce16f-bd46-4883-8cf3-878134a23f1b.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=f8175a26f48971372513e6e74b05bd3f",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F3c291c22-9c03-4981-81f9-5c6d02e96d49.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e5edb316282d2044c65ba7074a1dd418",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F52d22867-5de5-452f-8d3a-9300201b6429.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=44d3efc05092a1d0fde31797602ac0b1",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F634b6599-e20e-47bf-af91-855097c0214e.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9f4534b20e60230fd5c5d34af28dac65",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fb104515f-0790-498e-b01b-d5b2442f9da4.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e510bff26631331b11e1ebedbef050c9",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fb2eba2ed-c987-4b1b-9511-6119443964e5.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b8bc360c6edcde36d190eaa97e63c724",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Ff0687d41-a8ff-431c-99b3-46ff9f0b7630.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ddc999787aacba68ce3c815fe94d77b7",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F9a1b7aa3-ae15-48c6-bcf0-a1b3c6558a51.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=0178ff90acf5d9238cd21f2583cf22bc",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Ffa9da247-b7ed-4c32-8aeb-4229c1039b98.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=f635a648ffe7b1a6f5ffabb6ae99b139",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F11c1a62f-0c68-459e-a225-f8b7dff9e1ef.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=0e231e63a022323f1fd3489ddc2fdc34",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fd5f76a68-f487-4a7f-9c9f-1797d98900e9.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=f197017b10b600c4bfcf91198da2cf2a",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F1f0b3760-fb9a-4da5-b5b3-40a109f1268e.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a49bd51a752e72644a1defe1cdbea29c",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F4c7b9be0-d83d-4c60-93e0-4d86883959d2.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=278d0e05caf2d7c46c23c399686e37c0",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F4063ba5e-9f8a-49c4-9c83-4e1b9b00e507.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=15c81a262eceeee76a3e0eacbcd696c7",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F54e6aa21-7a52-4fb9-9a08-e43a45658d60.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=12e2ab96ef089a0057ed60b6f9687f0d",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F8f208968-635e-4f91-b38f-697c58e199b2.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8d984db3d7ac0cb853064f0aa0edc236",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fd9e39656-84fc-47d6-8e70-6be66e528e75.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a0d5ecc65a3b7171b7ed145408e0cde5",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fa00e9705-e962-47d8-ad8a-e1a0ac962f15.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=3613e458abc33ea42c2cc5dbeed65c27",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F6f123958-3fcd-46b4-9bff-0b30930fd20d.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=80090fe3a1caa5dc52ac05be9c7db9cc",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fcf7d1562-6f66-4526-b512-a51784c5a543.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=98a106d5b1e5a5182c47ea75ae24afa8",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fcce1af5f-ed09-40eb-abbb-570043edd35e.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ff7d37e6572d9af413d6c15225888748",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F8185f4a7-a444-4581-b359-5ca231d97d4e.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e6601b5aa65f3fb0d297ead8814ae4ee",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Ff1c04943-14b4-4b52-9a7b-52aac68cab65.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4d80245aa7fa0fec8ea0005d5e5dc756",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F9f018b5f-c332-484f-b7d0-3a62fcdd5d96.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=f4a9886502e87c4285d69a7d333c9812",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fc10ac4e4-61b7-4152-a055-73b5f948802b.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=0c67f7f207d08940d12b3c034b56f63b",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fad412862-7e7b-472d-82af-a20795f95218.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=3a8d98fe723965202e37204b13f615e0",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F75b41e21-599d-4323-b757-6ab0732b6206.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8fc693938489d2ad130d0dcde72fe1e4",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F05eae739-1905-4ca4-afcc-5e227597660c.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ce3aa2f9b28d2d4be1a2a90e315891fd",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F01931288-18de-41e8-94ec-61f01ea022af.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=c55be07c265c0af463ed59542ec27cc5",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F9fe4f9fb-f5e9-4c76-8499-ac884ee18a41.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=03d249c24d16119ff5359ac31e50e319",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Ff8601a99-0e71-442a-86ef-133f4e6c184d.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=6a550472b8320363cfa09527e8200c85",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fe74bd089-8234-40da-bc07-3437df6bb431.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9fe208b149b8fbd5392cacbf04271056",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F3d2e5aeb-c963-4292-8413-8d24ecfa2286.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=2826e2727d5db4abf23a7385040b09d9",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fc6b19323-b4f0-46fd-b651-af8cf66adcfe.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=52dc7b692b6fdf27320647246237d828",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F3646726b-cf7d-464a-9d59-bdd59c908e7f.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8329a6379615028fde6eadbbc43bc19c",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F27489ed2-5bda-49b7-b4c9-7c24fec5eb08.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=05d405b195d4f180f9d107ceacd18c43",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F19b06d17-aa2f-41be-9d5b-b50fb307fb4b.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a6293cb83c1e235e337e0bfd9ef565dc",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F0898ecd1-9f88-4408-b5fe-2c9312362d02.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=aa1168a1fd363b89359be351bd5492af",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F48691e4b-0782-4ea9-9caf-235e01a35fbf.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=3c783b925e175276a74e29ec05a7f16c",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F64e874b0-062b-4722-8d4a-83f5489e7be0.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7fe57ad41f9cdec6ab79ceba2947c55a",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F8537e603-8a40-433e-80b5-3aa4325e281a.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ff5d708d32530d70de05782d42df14f2",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Ff3f6e730-994e-4ae4-99ef-8f0d2097aa6b.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e3f08b1525ff53803887fc12a7a5c2b4",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Ffccea706-0ab1-4cc1-badc-8be03fa95a59.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=73a19296254646a92ba12c87011079ab",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Ffd9202b9-7867-4dc9-9cf1-9d04260f972c.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=1dbfc512ceebd9959d62c4c5b1109e1f",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F5a93c188-f61c-4f43-a481-f1d481b10fe1.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=f64217c3744dbf4099c755478fcb0009",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2F857bd742-216e-4863-b3c3-8aaaa99d8c45.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8b0179a2000dad533070bd8fef2ead09",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F109087%2Fcd9fe730-9ac1-4a21-9b18-253388b0b190.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=208c9fb4af8b2a8a94b060c9c11fe94f"
+    ]
   },
   {
     "id": "704459051770dab7",
@@ -628,7 +936,19 @@
     "url": "https://qiita.com/shinkusanagi/items/effdd559b785ecb823c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-10T11:38:16.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\n**テーマ：ゼロトラストネットワークの公開と運用手順**\n自社運用する「Lantern DSSE」をオープンソース公開し、開発中での承認を受けました。現在、実験的なリリースです。1 台のサーバーに構築し、Windows エージェント端末を接続する手順を示します。この構成は試用的なもので、正式運用には使わないよう注意が必要です。\n\n**結論：ゼロトラストネットワークの公開と運用手順**\nLantern DSSE をオープンソース公開し、開発者向けに安全な運用方法を提示しています。1 台のサーバーを構築し、管理画面でアクセスする手順が明確です。セキュリティ設定は厳密に守る必要があります。\n\n**方法：ゼロトラストネットワークの構築手順**\nAWS の東京地域での環境を使用し、Golang インストーラと Docker を使用します。\n1. 部署プランを作成し、コンテナイメージのバージョンを指定します。\n2. 認証局（mint）を作成し、DNS や hosts ファイルを設定します。\n3. システムを起動し、管理画面でアクセスする設定を行います。\n\n本文には具体的な手順の詳細は記載されていますが、詳細な構成やセキュリティ設定については補足情報が必要です。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2Fdc224370-a68d-4094-93e3-9bed8d5cc8d9.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d4ce82b97d1ee6bd0ab4afe92c377f11",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F64b15694-18ea-49d9-88cb-2020b3a5e092.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4e2119196ab993d22d3110a776d09926",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F1beb784d-193a-425d-a197-d2b9153f7b56.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=2365e3b27caf13c37e5833d79c0f5471",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F44642549-3172-4090-b44e-8ec9e7a89822.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d714faad24d6474822aaf2efff168de7",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F31c2456d-489c-4ded-9278-72d5bf51bc06.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=eff7f274ca094ac91cba84bc7ded757a",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F6271bc0d-3a6b-4e7f-8733-a93763b7d04e.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=6c0f88f56df9a572f5c95637de7f9157",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F7b58ff40-42dd-4755-9cf7-b53657b22f23.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=db47e5432f010ccc50923f1f9e32d07a",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F37ff4790-176d-4383-b2bc-ca11f8797854.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e9c9a298faad81fdc256e3f81edcab65"
+    ]
   },
   {
     "id": "50c08a476ff2d19a",
@@ -689,7 +1009,13 @@
     "url": "https://qiita.com/TOMOSIA-HieuNT/items/b19c46ec77d3bdcab4fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-10T09:45:07.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n**テーマ：記事が扱う課題や技術は何か**\nこの記事は、Claude Code を使い始めた開発者向けに、効率化のための具体的なツールとルールを提案しています。特に、15 個の必須コマンドをまとめた「自分用チートシート」を作成し、混乱を防ぐためのガイドラインを提供しています。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\n開発者は、Claude Code の効率性を高めるために、特定のスラッシュコマンドやファイル構造を徹底する必要があると主張します。これにより、作業の時間削減と誤解を避けることができます。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n課題は「コマンド過多による混乱」です。解決策として、15 個の必須コマンドを厳選し、毎日の使い方を記録するルールを提案します。また、コンテキスト管理やセキュリティに関する重要なファイル構造（CLAUDE.md）を推奨しています。具体的な手順として、スラッシュコマンドの活用や、プロジェクトの設計原則を明確に述べています。\n\n本文には情報がない項目は推測せず「本文に記載なし」とします。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4240966%2F6aded55f-b997-43ab-b9a2-c2e99ffcd311.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b74da2369e72270dc1de6825ee029de4",
+      "https://cdn.qiita.com/assets/public/advent_calendar/image-advent_calendar_being_held-bafa166cb2e60037f5e4ba3599642d8f.png"
+    ]
   },
   {
     "id": "23a6f1d24352a76f",
