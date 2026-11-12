@@ -1,5 +1,437 @@
 [
   {
+    "id": "7cdb7bce57e0f2b3",
+    "title": "Dependabot alerts will pause on inactive repositories - GitHub Changelog",
+    "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T15:15:12.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.blog%2Fchangelog%2F2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories%2F"
+  },
+  {
+    "id": "a946f7ecc00afeba",
+    "title": "AI「テスト通りました」← これ､本当？ Stryker でテストの穴を塞いだ話 - Qiita",
+    "url": "https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T15:08:15.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2FDingu-suke%2Fitems%2Fb5318ef2040a9f59224a"
+  },
+  {
+    "id": "c99a86fc08dcc339",
+    "title": "AI画像編集で「生成は成功したのに結果が残らない」問題に向き合った話",
+    "url": "https://zenn.dev/coderlim/articles/650f1b108ddec3",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-10T14:59:46.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--g5EzAOUr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E7%2594%25BB%25E5%2583%258F%25E7%25B7%25A8%25E9%259B%2586%25E3%2581%25A7%25E3%2580%258C%25E7%2594%259F%25E6%2588%2590%25E3%2581%25AF%25E6%2588%2590%25E5%258A%259F%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25AB%25E7%25B5%2590%25E6%259E%259C%25E3%2581%258C%25E6%25AE%258B%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2580%258D%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25AB%25E5%2590%2591%25E3%2581%258D%25E5%2590%2588%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:CoderLim%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2VVWnZkN3MyTE9kem9IZ0dNcXVJXzZMSS1kZFh0Mkdnc1A1a244ajdwTlZibWlCYz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "bfec6bce6e3a8878",
+    "title": "Windowsに挑むAIネイティブOS「KORA」、元Cyanogen創業者らが発表",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2155269.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T14:19:08.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2155269.html"
+  },
+  {
+    "id": "07ff2a46580fe4ab",
+    "title": "Claude Codeが「私が言っていない同意」を書いて、それに従って動く — 自分のログで数えてみた（解析①）",
+    "url": "https://qiita.com/Pulsar-K/items/4abdd463cdc2e1c55e3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-10T14:15:49.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "b35e6e66eb36315c",
+    "title": "無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計",
+    "url": "https://gigazine.net/news/20261110-leantime/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T14:08:25.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261110-leantime%2F"
+  },
+  {
+    "id": "26e8e92674be24ca",
+    "title": "AHC074 （HACK TO THE FUTURE 2027 予選）With AI部門のAIの使い方(暫定10位)",
+    "url": "https://qiita.com/thun-c/items/fa16332d2b18800d69b2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-10T14:00:46.000Z",
+    "status": "completed"
+  },
+  {
+    "id": "1d36eac9f0633714",
+    "title": "サーバーゼロで同期・共有できるDB「anoDB」を作った：Nostrの基礎から図解で全部説明する",
+    "url": "https://zenn.dev/arupaka_sho/articles/anodb_local_first_db_over_nostr",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-10T13:59:24.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Kms3NWzi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25A7%25E5%2590%258C%25E6%259C%259F%25E3%2583%25BB%25E5%2585%25B1%25E6%259C%2589%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258BDB%25E3%2580%258CanoDB%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%259ANostr%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%25E3%2581%258B%25E3%2582%2589%25E5%259B%25B3%25E8%25A7%25A3%25E3%2581%25A7%25E5%2585%25A8%25E9%2583%25A8%25E8%25AA%25AC%25E6%2598%258E%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shoga%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdiZjdhYjg0Y2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "f8c744f585a994cc",
+    "title": "Fable 5.2でGTA 6 Osaka Cityを作ってみた",
+    "url": "https://qiita.com/7mpy/items/5710fef43ba0e59204c6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-10T13:38:25.000Z",
+    "status": "completed"
+  },
+  {
+    "id": "7da87bf9d2c7006b",
+    "title": "gh actions-lockされているかどうかをPRでチェックする - くりにっき",
+    "url": "https://sue445.hatenablog.com/entry/2026/11/10/223328",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T13:34:25.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsue445.hatenablog.com%2Fentry%2F2026%2F11%2F10%2F223328"
+  },
+  {
+    "id": "b1b9cf870218a682",
+    "title": "Zod 4.4.0でついに`z.unknown()`がoptionalではなくなっていた",
+    "url": "https://zenn.dev/okayurisotto/articles/bc5f6a177cda8f",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-10T13:17:58.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3wcrULAY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Zod%25204.4.0%25E3%2581%25A7%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25AB%2560z.unknown%2528%2529%2560%25E3%2581%258Coptional%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258A%25E3%2581%258B%25E3%2582%2586%25E3%2582%258A%25E3%2581%259E%25E3%2581%25A3%25E3%2581%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk3Y2NlZDI1ODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "fa9ca56c49621cc2",
+    "title": "Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -",
+    "url": "https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T12:56:40.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Ftakateeen_knj%2F20261110-claude-deepdive"
+  },
+  {
+    "id": "7f7774aa18131dbc",
+    "title": "商工会議所ネット試験管理システムへの不正アクセスによる受験者情報（個人情報）漏えいの可能性について｜日本商工会議所",
+    "url": "https://www.jcci.or.jp/news/news/2026/1110170000.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T12:45:02.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.jcci.or.jp%2Fnews%2Fnews%2F2026%2F1110170000.html"
+  },
+  {
+    "id": "887478607d00cf38",
+    "title": "Next.js で fs を使ったら、Vercel 上だけデータが空になった ― Output File Tracing の落とし穴",
+    "url": "https://zenn.dev/megrou/articles/5076edcd6e1251",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-10T12:44:33.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Ncpe-LCj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Next.js%2520%25E3%2581%25A7%2520fs%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Vercel%2520%25E4%25B8%258A%25E3%2581%25A0%25E3%2581%2591%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%258C%25E7%25A9%25BA%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2580%2595%2520Output%2520File%2520Trac...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2581%2590%25E3%2582%258D%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWRTQjJ3UFQxWng0bDExWnQ5S1NpeExyaVlaTlY4S21lRl93SXNob1hhRElxQmVYTT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "14e4283194656e6f",
+    "title": "AIと始める監視基盤なしの セキュリティ監視 / secmon-without-a-siem",
+    "url": "https://speakerdeck.com/mizutani/ai-to-hajimeru-kanshi-kiban-nashi-no-sekyuriti-kanshi-2",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T12:43:37.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fmizutani%2Fai-to-hajimeru-kanshi-kiban-nashi-no-sekyuriti-kanshi-2"
+  },
+  {
+    "id": "f0348594d138227e",
+    "title": "職務経歴書の JSON から「技術ごとの経験年数」を出す ― 形を決めつけない集計を TypeScript で",
+    "url": "https://zenn.dev/megrou/articles/e04a9edaaea79d",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-10T12:41:25.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--XSbG8RuA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2581%25B7%25E5%258B%2599%25E7%25B5%258C%25E6%25AD%25B4%25E6%259B%25B8%25E3%2581%25AE%2520JSON%2520%25E3%2581%258B%25E3%2582%2589%25E3%2580%258C%25E6%258A%2580%25E8%25A1%2593%25E3%2581%2594%25E3%2581%25A8%25E3%2581%25AE%25E7%25B5%258C%25E9%25A8%2593%25E5%25B9%25B4%25E6%2595%25B0%25E3%2580%258D%25E3%2582%2592%25E5%2587%25BA%25E3%2581%2599%2520%25E2%2580%2595%2520%25E5%25BD%25A2%25E3%2582%2592%25E6%25B1%25BA%25E3%2582%2581%25E3%2581%25A4%25E3%2581%2591%25E3%2581%25AA%25E3%2581%2584%25E9%259B%2586%25E8%25A8%2588%25E3%2582%2592%2520TypeScript%2520%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2581%2590%25E3%2582%258D%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWRTQjJ3UFQxWng0bDExWnQ5S1NpeExyaVlaTlY4S21lRl93SXNob1hhRElxQmVYTT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "8fac6fdb2acf855f",
+    "title": "【独自】Suica「ウォークスルー改札」対応の裏側　iPhoneとAndroidが「UWB乗車」に27年後半対応へ（鈴木淳也）",
+    "url": "https://japan.cnet.com/article/35254664/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T11:45:08.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254664%2F"
+  },
+  {
+    "id": "e7b09c412c3b6359",
+    "title": "自社で運用するゼロトラストネットワーク「Lantern DSSE」を、1台のサーバーで建ててみる",
+    "url": "https://qiita.com/shinkusanagi/items/effdd559b785ecb823c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-10T11:38:16.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\n**テーマ：ゼロトラストネットワークの公開と運用手順**\n自社運用する「Lantern DSSE」をオープンソース公開し、開発中での承認を受けました。現在、実験的なリリースです。1 台のサーバーに構築し、Windows エージェント端末を接続する手順を示します。この構成は試用的なもので、正式運用には使わないよう注意が必要です。\n\n**結論：ゼロトラストネットワークの公開と運用手順**\nLantern DSSE をオープンソース公開し、開発者向けに安全な運用方法を提示しています。1 台のサーバーを構築し、管理画面でアクセスする手順が明確です。セキュリティ設定は厳密に守る必要があります。\n\n**方法：ゼロトラストネットワークの構築手順**\nAWS の東京地域での環境を使用し、Golang インストーラと Docker を使用します。\n1. 部署プランを作成し、コンテナイメージのバージョンを指定します。\n2. 認証局（mint）を作成し、DNS や hosts ファイルを設定します。\n3. システムを起動し、管理画面でアクセスする設定を行います。\n\n本文には具体的な手順の詳細は記載されていますが、詳細な構成やセキュリティ設定については補足情報が必要です。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2Fdc224370-a68d-4094-93e3-9bed8d5cc8d9.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d4ce82b97d1ee6bd0ab4afe92c377f11",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F64b15694-18ea-49d9-88cb-2020b3a5e092.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4e2119196ab993d22d3110a776d09926",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F1beb784d-193a-425d-a197-d2b9153f7b56.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=2365e3b27caf13c37e5833d79c0f5471",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F44642549-3172-4090-b44e-8ec9e7a89822.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d714faad24d6474822aaf2efff168de7",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F31c2456d-489c-4ded-9278-72d5bf51bc06.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=eff7f274ca094ac91cba84bc7ded757a",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F6271bc0d-3a6b-4e7f-8733-a93763b7d04e.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=6c0f88f56df9a572f5c95637de7f9157",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F7b58ff40-42dd-4755-9cf7-b53657b22f23.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=db47e5432f010ccc50923f1f9e32d07a",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4526712%2F37ff4790-176d-4383-b2bc-ca11f8797854.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e9c9a298faad81fdc256e3f81edcab65"
+    ]
+  },
+  {
+    "id": "50c08a476ff2d19a",
+    "title": "【資料公開】「自分の仕事はここまで」はどこから来るのか",
+    "url": "https://www.ryuzee.com/contents/blog/14628",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T11:36:50.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.ryuzee.com%2Fcontents%2Fblog%2F14628"
+  },
+  {
+    "id": "9ab14f8c22b474b3",
+    "title": "属人化したISMS運用をGitHubとAIで仕組み化した1年間の記録",
+    "url": "https://speakerdeck.com/sioncojp/zokujinka-shita-isms-unyou-o-github-to-ai-de-shikumika-shita-1-nenkan-no-kiroku",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T11:24:01.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fsioncojp%2Fzokujinka-shita-isms-unyou-o-github-to-ai-de-shikumika-shita-1-nenkan-no-kiroku"
+  },
+  {
+    "id": "b6b939709c3d141b",
+    "title": "Notice about the Fireworks AI incident that may impact some Notion workspaces – Notion (ノーション)ヘルプセンター",
+    "url": "https://www.notion.com/ja/help/security-incident-involving-a-third-party-ai-vendor",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T11:08:32.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.notion.com%2Fja%2Fhelp%2Fsecurity-incident-involving-a-third-party-ai-vendor"
+  },
+  {
+    "id": "8f0ca0dd5b9529f0",
+    "title": "NVIDIAの「長文コンテキスト不要」論文",
+    "url": "https://zenn.dev/knowledgesense/articles/bd917ed6829121",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T11:05:58.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fknowledgesense%2Farticles%2Fbd917ed6829121"
+  },
+  {
+    "id": "b838c06ac6562e1b",
+    "title": "ABC482で入青しました！",
+    "url": "https://qiita.com/yoniha/items/c5e23c033bf3e09d0f20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-10T10:59:38.000Z",
+    "status": "completed"
+  },
+  {
+    "id": "3180d8b6e66c80ce",
+    "title": "SQL to ER図に「動かせる図」を足す：自動配置・鳥足記法・DDL出力の罠",
+    "url": "https://zenn.dev/a1221/articles/er-diagram-editor-layout-crows-foot",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-10T10:23:08.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--hWyqQ8IW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SQL%2520to%2520ER%25E5%259B%25B3%25E3%2581%25AB%25E3%2580%258C%25E5%258B%2595%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B%25E5%259B%25B3%25E3%2580%258D%25E3%2582%2592%25E8%25B6%25B3%25E3%2581%2599%25EF%25BC%259A%25E8%2587%25AA%25E5%258B%2595%25E9%2585%258D%25E7%25BD%25AE%25E3%2583%25BB%25E9%25B3%25A5%25E8%25B6%25B3%25E8%25A8%2598%25E6%25B3%2595%25E3%2583%25BBDDL%25E5%2587%25BA%25E5%258A%259B%25E3%2581%25AE%25E7%25BD%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "c2e5525b6f3e1bf1",
+    "title": "Claude Code チートシート — 私が毎日本当に使うコマンド15選",
+    "url": "https://qiita.com/TOMOSIA-HieuNT/items/b19c46ec77d3bdcab4fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-10T09:45:07.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n**テーマ：記事が扱う課題や技術は何か**\nこの記事は、Claude Code を使い始めた開発者向けに、効率化のための具体的なツールとルールを提案しています。特に、15 個の必須コマンドをまとめた「自分用チートシート」を作成し、混乱を防ぐためのガイドラインを提供しています。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\n開発者は、Claude Code の効率性を高めるために、特定のスラッシュコマンドやファイル構造を徹底する必要があると主張します。これにより、作業の時間削減と誤解を避けることができます。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n課題は「コマンド過多による混乱」です。解決策として、15 個の必須コマンドを厳選し、毎日の使い方を記録するルールを提案します。また、コンテキスト管理やセキュリティに関する重要なファイル構造（CLAUDE.md）を推奨しています。具体的な手順として、スラッシュコマンドの活用や、プロジェクトの設計原則を明確に述べています。\n\n本文には情報がない項目は推測せず「本文に記載なし」とします。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4240966%2F6aded55f-b997-43ab-b9a2-c2e99ffcd311.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b74da2369e72270dc1de6825ee029de4",
+      "https://cdn.qiita.com/assets/public/advent_calendar/image-advent_calendar_being_held-bafa166cb2e60037f5e4ba3599642d8f.png"
+    ]
+  },
+  {
+    "id": "23a6f1d24352a76f",
+    "title": "氏名や電話番号、聞きません　漏洩問題で企業側、個人情報手放す動き：朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVCB0H13VCBUTIL009M.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T09:02:35.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.asahi.com%2Farticles%2FASVCB0H13VCBUTIL009M.html"
+  },
+  {
+    "id": "39aa081c12d40e9a",
+    "title": "サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003069/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T08:35:43.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003069%2F"
+  },
+  {
+    "id": "a92667754bb129c0",
+    "title": "Hide your slop PR descriptions behind <details><summary>",
+    "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T08:08:12.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsimonwillison.net%2F2026%2FNov%2F9%2Fdetails-summary%2F"
+  },
+  {
+    "id": "2673515f901a24e3",
+    "title": "Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明",
+    "url": "https://gigazine.net/news/20261110-claude-opus-nerf/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T08:05:52.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261110-claude-opus-nerf%2F"
+  },
+  {
+    "id": "cf5aae545b804823",
+    "title": "MCP を組み込んだアプリを手元で複数動かすための構成パターン - Nature Engineering Blog",
+    "url": "https://engineering.nature.global/entry/2026/11/mcp-architecture-patterns",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T07:55:00.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fengineering.nature.global%2Fentry%2F2026%2F11%2Fmcp-architecture-patterns"
+  },
+  {
+    "id": "ab9a6031ef756e65",
+    "title": "Suicaのコード決済「teppay」にまつわる5つの疑問　なぜ本人確認がマイナカードのみ？　なぜ起動の遅いSuicaアプリ経由？",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2611/10/news077.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T07:37:22.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F10%2Fnews077.html"
+  },
+  {
+    "id": "60c0b1bc361893fe",
+    "title": "ニンテンドーアカウントの「かんたんログイン」におけるGoogle/Apple連携終了のお知らせ｜お客様へのお知らせ",
+    "url": "https://support.nintendo.com/jp/information/2026/1110/index.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T07:36:10.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsupport.nintendo.com%2Fjp%2Finformation%2F2026%2F1110%2Findex.html"
+  },
+  {
+    "id": "2af987c3ed7aefe7",
+    "title": "ケンタッキー、一部メニュー画像に生成AI　実験販売の商品など　SNSは「違和感」の声も",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003070/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T07:20:40.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003070%2F"
+  },
+  {
+    "id": "19d4ddf3256668f0",
+    "title": "モバイルSuicaが「タッチ不要」に--山手線全駅へ「ウォークスルー改札」28年春導入",
+    "url": "https://japan.cnet.com/article/35254655/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T06:57:01.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254655%2F"
+  },
+  {
+    "id": "d011c165d27fd318",
+    "title": "【Part4】【No.020】クリックと入力とフォーム送信 ― 入力した値が消える失敗から学ぶイベントハンドリングの最低限",
+    "url": "https://zenn.dev/penguinengineer/articles/f2b4f4e083d8f5",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-10T06:16:26.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--KIa_VH37--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Part4%25E3%2580%2591%25E3%2580%2590No.020%25E3%2580%2591%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%25E5%2585%25A5%25E5%258A%259B%25E3%2581%25A8%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E9%2580%2581%25E4%25BF%25A1%2520%25E2%2580%2595%2520%25E5%2585%25A5%25E5%258A%259B%25E3%2581%2597%25E3%2581%259F%25E5%2580%25A4%25E3%2581%258C%25E6%25B6%2588%25E3%2581%2588%25E3%2582%258B%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%258B%25E3%2582%2589%25E5%25AD%25A6%25E3%2581%25B6%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E3%2583%258F%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%259A%25E3%2583%25B3%25E3%2582%25AE%25E3%2583%25B3%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMxOWI0NDQ0NjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "ae1f88f35243f335",
+    "title": "FBIがNVIDIAのジェンスン・フアンCEOと中国女スパイとの不倫を捜査しているとトランプ大統領が発言、「フアンCEOは問題の人物がスパイだとは全く知らなかった」と擁護",
+    "url": "https://gigazine.net/news/20261110-spy-jensen-huang/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T05:57:13.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261110-spy-jensen-huang%2F"
+  },
+  {
+    "id": "a86614e67982ef32",
+    "title": "マイナカードを使うコンビニ交付に障害　自治体が相次ぎ公表　富士フイルム系システムで通信異常か",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003062/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T05:40:32.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003062%2F"
+  },
+  {
+    "id": "949902986d827451",
+    "title": "JAWS FESTA in AKITA 登壇で伝えたかったこと「何歳になっても夢中になれる」猫でもわかるDirect Connect",
+    "url": "https://qiita.com/kamogashira/items/1e44fcb29255d2037300?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-10T05:11:08.000Z",
+    "status": "completed"
+  },
+  {
+    "id": "57f52c6610503aeb",
+    "title": "SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁 | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261110de73285",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T04:44:53.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261110de73285"
+  },
+  {
+    "id": "491ceecd13baf030",
+    "title": "前沢友作氏の請求棄却　メタに「なりすまし広告」削除求めた訴訟 | 毎日新聞",
+    "url": "https://mainichi.jp/articles/20261109/k00/00m/040/284000c",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T04:41:25.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20261109%2Fk00%2F00m%2F040%2F284000c"
+  },
+  {
+    "id": "cd3e7a8ea6cfa3ff",
+    "title": "退屈なCoding AgentはMuseにやらせよう",
+    "url": "https://zenn.dev/watany/articles/342b9815dd0553",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T04:12:04.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fwatany%2Farticles%2F342b9815dd0553"
+  },
+  {
+    "id": "38d9d2f583c2278b",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 43",
+    "url": "https://qiita.com/maskot1977/items/d47b86a869de11975272?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-10T04:08:51.000Z",
+    "status": "completed"
+  },
+  {
+    "id": "8cd55c67114bcbf8",
+    "title": "【大河原克行の「パソコン業界、東奔西走」】 守るために攻める、レッツノートとタフブックが年100万台に挑む",
+    "url": "https://pc.watch.impress.co.jp/docs/column/gyokai/2154953.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T04:01:27.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fgyokai%2F2154953.html"
+  },
+  {
+    "id": "db47294edd671eaf",
+    "title": "Meta「Muse」がApple WatchとWear OSに対応　アバターが動く",
+    "url": "https://www.watch.impress.co.jp/docs/news/2155063.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T03:59:53.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fnews%2F2155063.html"
+  },
+  {
+    "id": "16f68e7585109074",
+    "title": "Claude Codeで最近使っているTips【2026/11】",
+    "url": "https://zenn.dev/oikon/articles/claude-code-recipe",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T03:58:52.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Foikon%2Farticles%2Fclaude-code-recipe"
+  },
+  {
+    "id": "fe04aa51b46ba533",
+    "title": "アクセスキー直書き→委託先がテスト用イメージをネット公開　「ラフールサーベイ」約2.4万人の情報漏えい",
+    "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003052/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T03:57:25.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F10%2F2000003052%2F"
+  },
+  {
+    "id": "995009bd04de7958",
+    "title": "耳で聞く！ システム設計 視点の 行動経済学 2",
+    "url": "https://qiita.com/maskot1977/items/13f63d8e80b2ea55e9e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-10T03:53:36.000Z",
+    "status": "completed"
+  },
+  {
     "id": "47c186262dc677bc",
     "title": "孫氏のAI構想「トランプ米国」全賭けのツケ　OpenAI停滞なら守勢再び - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOUC209F40Q6A021C2000000/",
@@ -328,6 +760,14 @@
     "url": "https://qiita.com/figueiredoluiz/items/1a043190d8f00d2ebda6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-09T16:24:42.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "ce26a3b37bdf4675",
+    "title": "ログ調査の流れとよく使うLinuxコマンド早見表",
+    "url": "https://qiita.com/y-hys/items/eca888fc9dbaa3e3a8ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-09T16:11:23.000Z",
     "status": "pending"
   },
   {
@@ -12241,5 +12681,14 @@
     "publishedAt": "2023-03-11T03:33:31.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fb.hatena.ne.jp%2Fvbamacroinfo%2F"
+  },
+  {
+    "id": "15032511fd6bcb72",
+    "title": "【図解】Dockerの全体像を理解する -前編- - Qiita",
+    "url": "https://qiita.com/etaroid/items/b1024c7d200a75b992fc",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2020-03-08T09:05:50.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Fetaroid%2Fitems%2Fb1024c7d200a75b992fc"
   }
 ]

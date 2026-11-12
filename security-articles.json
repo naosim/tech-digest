@@ -1,5 +1,12 @@
 [
   {
+    "id": "532d1d342dce62e7",
+    "title": "Apache HTTP Server 2.4における複数の脆弱性に対するアップデート（2026年11月11日）",
+    "url": "https://jvn.jp/vu/JVNVU90805396/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-12T00:00:00.000Z"
+  },
+  {
     "id": "08fbd0d93e401f55",
     "title": "Intel製品に対するアップデート（2026年11月）",
     "url": "https://jvn.jp/vu/JVNVU93337738/",
