@@ -1,0 +1,236 @@
+[
+  {
+    "id": "3b330ac163128175",
+    "title": "グーグル、新ドメイン「.eat」「.fly」「.here」の受付開始を発表",
+    "url": "https://japan.cnet.com/article/35254705/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T05:45:49.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254705%2F"
+  },
+  {
+    "id": "85518aa1708c34a5",
+    "title": "業界初「水道水を使うアンテナ」モバイル端末との接続に成功　三菱電機",
+    "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003102/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T05:44:58.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003102%2F",
+    "category": "RELEASE",
+    "summary": "三菱電機が開発した「Liqutenna」という透明感を持つアンテナは、従来の金属製アンテナと同等の接続性能を維持し、通信品質と景観の両方を満たす新たな技術を示しました。この技術は、水圧管を基に設計されたアクリルパイプ内調整と形状の工夫により、導電性が極めて低い水道水を利用する透明感を持つ金属製アンテナとは同様の接続性能を実現しました。KDDI の無線通信設備を評価した室内検証環境で成功した結果です。技術の詳細はマイクロウェーブ展 2026 に展示される予定です。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003102/10011853/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003102/10011854/728"
+    ]
+  },
+  {
+    "id": "8dcd41b692ea87e3",
+    "title": "ISUCON2026 で優勝しました（準備編）",
+    "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T05:38:12.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fluvtechno%2Farticles%2Fisucon2026-preparation",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調で自然な日本語で要約します。\n\n**テーマ：ISUCON の完全自律競争への挑戦と評価**\n\n開発者は、AI エージェントによるソフトウェア開発の進化を振り返ります。完全に自律する競技エージェント（HOOTL）を試すことで、人間の監視が必要な状態から解放される可能性を探りました。このプロセスでは、ISUCON 競技環境での評価結果を記録し、システム構成や評価ランナーの運用について重要な知見を得ました。\n\n**結論：完全自律は困難ですが、適切な仕組みと評価基準で進めることが可能**\n開発者は、完全自律（HOOTL）を試みましたが、結果として評価ランナーの運用やシステム構築の課題を解決しました。最終的に、人間の介入が必要な状態に戻りつつあると見なしましたが、適切な手順と評価基準を確立することで、より良い成果を得られることが示されました。\n\n**方法：ISUCON の競技環境での評価とシステム構築**\n課題は、完全自律の競争において、人間が監視する必要があるかどうかの判断です。これを解決するために、ISUCON を無人で解く競技エージェント（Claude Code）を構築し、評価ランナーの運用を確立しました。具体的な手順として、開発開始から AWS 環境の準備、素の Claude Code の使用、評価データの記録まで段階的に進めました。また、システム構成の最適化や、評価指標の定義も重要な要素となりました。\n\n本文には、評価結果の詳細やシステム構築の具体的な手順が含まれており、専門用語は短く説明しています。最終的な目標は、完全自律を達成するのではなく、適切な仕組みで人間の介入が必要な状態に戻りつつあるという結論です。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/ca271b539c087f8683ad1739.png?sha=c7220f0fb733ba5f9155a03b04906d2316c95ad5",
+      "https://static.zenn.studio/user-upload/deployed-images/a417197f6fc1d320a3e57e02.png?sha=4a199332a503baf0b63e2533aff39e17eb9ea7b1",
+      "https://static.zenn.studio/user-upload/deployed-images/1d82238b680068498693a2b1.png?sha=dcc9e7cc2d336bd64974831799477b43aa737801",
+      "https://static.zenn.studio/user-upload/deployed-images/97926309ff982be32d94756c.png?sha=429876d99d7971aa92870a806e70d84c4c7850e6",
+      "https://static.zenn.studio/user-upload/deployed-images/753e7270d115552a27e0e6ee.png?sha=9f40f9c318054ac351ce332b11d04164b20312fa",
+      "https://static.zenn.studio/user-upload/deployed-images/e9b2456d5ac5625f7b2b3b73.png?sha=f2b099ce76a25ccf90b605a0fa3f6f12e9cd548e",
+      "https://static.zenn.studio/user-upload/deployed-images/da9bf41a293b1ede83a02972.png?sha=f9c469fe3342774fdb7a2d5bbf5d8cb55e2eae0e",
+      "https://static.zenn.studio/user-upload/deployed-images/10de749f790e32b2795d8d49.png?sha=61fc5f500973020bffe00f0021607cc4046efe59",
+      "https://static.zenn.studio/user-upload/deployed-images/3b6b766e4ce98beb81c45b57.png?sha=0737fe45a272bc7a31dbeb49ddab98b0274c920a",
+      "https://static.zenn.studio/user-upload/deployed-images/475680765b68106ccc43d14c.png?sha=a3f2354edb749f8abcb006657f305d6983a1d500",
+      "https://static.zenn.studio/user-upload/deployed-images/81d7feb3f434dd05ed8715bb.png?sha=8b6fd44f479d2837fdf1dd1f220360b0b45ff821"
+    ]
+  },
+  {
+    "id": "cfde2a6bff7a1dd6",
+    "title": "NVIDIAが仮想的な日本人900万人分の家計や財務状況を含めたペルソナをまとめたデータセットを公開",
+    "url": "https://gigazine.net/news/20261111-nemotron-personas-finance-japan/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T05:30:15.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-nemotron-personas-finance-japan%2F",
+    "category": "RELEASE",
+    "summary": "# AI データセット公開：金融・プライバシー保護への対応\n\nAI ニュートラルアグエント AI デイデーにおいて、NVIDIA は実在の個人情報を基にしない合成データセットを公開しました。これらは「Nemotron」シリーズのオープンモデルとして利用可能となっています。\n\n## 課題と技術\n課題は、AI の訓練やシミュレーションにおいて、実際の個人情報を避けることでプライバシー保護と多様なユーザー像の再現を実現する問題です。技術的には、言語・文化・人口動態を正確に反映した合成データセットの構築が中心となっています。\n\n## 結論\nこのプロジェクトにより、金融領域の AI 開発やマーケティングシミュレーションが可能になります。また、医療・行政・教育などの分野でも実用化が進み、プライバシー保護の観点から安全なデータ処理が実現されています。\n\n## 方法\nNVIDIA は主導権を握り、Elith のチームによってパイプライン構築とデータ生成を行います。金融機関との協力が強化され、幅広い AI 開発に活用されるよう設計されています。\n\n要約の視点では、追加機能として「Nemotron Personas Finance Japan」と「Nemotron PII Japan」の公開が挙げられ、対象バージョンは 2026 年以降です。利用者は多様なシミュレーションやトレーニングに活用できるため、重要な情報は本文に記載されています。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/11/nemotron-personas-finance-japan/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/11/nemotron-personas-finance-japan/001.png",
+      "https://i.gzn.jp/img/2026/11/11/nemotron-personas-finance-japan/002.png",
+      "https://i.gzn.jp/img/2025/11/07/sony-ai-dataset-fhibe/00_m.jpg",
+      "https://i.gzn.jp/img/2025/12/02/nvidia-adovances-open-model-development/00_m.png",
+      "https://i.gzn.jp/img/2021/07/01/who-ai-guiding-principles/00_m.jpg",
+      "https://i.gzn.jp/img/2025/07/18/claude-for-financial-services/00_m.png",
+      "https://i.gzn.jp/img/2024/07/23/evo-ukiyoe/00_m.jpg",
+      "https://i.gzn.jp/img/2017/02/13/usa-it-salary/00_m.jpg",
+      "https://i.gzn.jp/img/2025/03/13/google-gemma-3/00_m.jpg",
+      "https://i.gzn.jp/img/2026/01/06/nvidia-alpamayo-drive-av-rubin-bluefield-4/00_m.png",
+      "https://i.gzn.jp/img/2026/11/11/sewage-chemical-signature-university-exams/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/11/zen-6-epyc/00_m.png"
+    ]
+  },
+  {
+    "id": "81cdcb2e7bb0e2d4",
+    "title": "Slackモーダルで、テンプレートごとに入力項目が変わる動的フォームを作る",
+    "url": "https://zenn.dev/kobo_sta/articles/slack-dynamic-modal-form",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-11T05:15:40.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Bp82g0Ts--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Slack%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25AB%25E3%2581%25A7%25E3%2580%2581%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2588%25E3%2581%2594%25E3%2581%25A8%25E3%2581%25AB%25E5%2585%25A5%25E5%258A%259B%25E9%25A0%2585%25E7%259B%25AE%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E5%258B%2595%25E7%259A%2584%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kobo_sta%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lYbmtnSU1VNWtSUWR3OXlaN3Jham5MQmpQelpOVjNaS0o5NmVLREE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "12bf4b00456d41d1",
+    "title": "核融合データの正しい隠し方 | blog.jxck.io",
+    "url": "https://blog.jxck.io/entries/2026-11-11/vivant.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T05:07:27.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.jxck.io%2Fentries%2F2026-11-11%2Fvivant.html",
+    "category": "RELEASE",
+    "summary": "核融合データの長期保存には、デジタルデータの劣化リスクや環境変化への脆弱性を考慮する必要があると結論付けられています。アディエルは、鍾乳石にメディアを埋め込む方法を採用し、その理由として多様なメディアの多重化と暗号化の検討を行いました。しかし、この方法は人間との接触や物理的な影響を招き、安全性には限界があると考えられます。特に、マイクロSDカードのような一般的な保存手段は、長期保存には不適合であり、RFID インプラントなどの新たな技術も考慮すべき点があります。\n\n結論として、データ自体を隠すのではなく、多重化と暗号化の組み合わせで安全な保管方法を探るべきであることが推奨されます。しかし、人間との接触や物理的な影響を避けるための「ドッグタグ」のような方法も検討される可能性があります。最終的には、研究データの正確な隠し方については、専門家の意見や技術的評価に基づき慎重に判断することが必要とされています。\n\n方法として、多様なメディアの組み合わせや暗号化の手法が採用され、これによりデータの安全性を確保する試みが行われています。しかし、人間との接触や物理的な影響を避けるための新たな技術の検討も行われているため、今後の対策には注意が必要です。",
+    "imageUrls": [
+      "https://blog.jxck.io/entries/2026-11-11/hidden-microsd.png?261111_131330",
+      "https://blog.jxck.io/entries/2026-11-11/inserted-microsd.png?261111_131330",
+      "https://blog.jxck.io/entries/2026-11-11/dog-tag.png?261111_131330",
+      "https://blog.jxck.io/entries/2026-11-11/rfid-implant.png?261111_131330"
+    ]
+  },
+  {
+    "id": "4e75d1a022eea6c7",
+    "title": "経営ゲームの成長ループを設計する：報酬・投資・効率化・次の目標",
+    "url": "https://zenn.dev/shige7000/articles/893b0f921e5595",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-11T04:59:09.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Hh3Hspre--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B5%258C%25E5%2596%25B6%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E6%2588%2590%25E9%2595%25B7%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2582%2592%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259A%25E5%25A0%25B1%25E9%2585%25AC%25E3%2583%25BB%25E6%258A%2595%25E8%25B3%2587%25E3%2583%25BB%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%25E3%2583%25BB%25E6%25AC%25A1%25E3%2581%25AE%25E7%259B%25AE%25E6%25A8%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2595%25B7%25E6%25B4%25B2%25E6%25B8%25AF%25E7%2594%25BA%25E9%259B%25BB%25E6%25B0%2597%25E5%25B7%25A5%25E4%25BA%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjODk2OTBhMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "2d124f931806e8bd",
+    "title": "Claude CodeのModで、GitHubに移動せず作業しながら自分のPRを確認できるようにしてみた",
+    "url": "https://zenn.dev/plus_blog/articles/claude-code-mods-pr-status",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-11T04:48:17.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--bFL9DEr---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AEMod%25E3%2581%25A7%25E3%2580%2581GitHub%25E3%2581%25AB%25E7%25A7%25BB%25E5%258B%2595%25E3%2581%259B%25E3%2581%259A%25E4%25BD%259C%25E6%25A5%25AD%25E3%2581%2597%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AEPR%25E3%2582%2592%25E7%25A2%25BA%25E8%25AA%258D%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ao%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBjM2Y3NTA0MTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E7%25B5%25B1%25E6%258B%25AC%25E9%2583%25A8%25E9%2596%2580%25E3%2580%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%25E7%25B7%25A8%25E9%259B%2586%25E5%25AE%25A4%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvcC5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "6b4b3f0480d9147a",
+    "title": "最近、大学生と話して大変だなと思ったのが、AIに月に２万円くらい（Maxプラン相当）は課金していないと、周りに差がつけられる/おいていかれる+生活費も上がっている、のでさらに関係ないものも含めてバイトを増やさなければならないという事情。 圧倒的な格差の拡大が見えないところにある。→「これ、どこまで本当だろうか 情報系など一部の学部に限った話？ それとも水産学や経営学、日本文学、体育学など全般？」",
+    "url": "https://posfie.com/@kalofollow/p/kDMLpbM",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T04:26:33.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fposfie.com%2F%40kalofollow%2Fp%2FkDMLpbM",
+    "category": "RELEASE",
+    "summary": "大学生の AI 関連議論は、高額な課金を避ける戦略と学習環境への影響を重視する課題として注目されています。現在、コミュニティポッドなどの仕組みを利用し、バイトや研究を通じて収入を得ようとしている学生が増えています。しかし、この格差の拡大により生活費の増大と経済的な負担が顕著です。また、IT リテラシーの基準や学問分野の共通性についても議論が行われています。特に、AI の導入や学習環境への影響について、各グループの反応と懸念が寄せられています。最終的に、学生にとって適切な学習環境と収入手段の確保が重要です。本文に記載なしの重要な点は、具体的なデータや研究結果の概要ですが、この要約ではその内容を含めて記述しています。",
+    "imageUrls": [
+      "https://s.tgstc.com/static/web/p.gif"
+    ]
+  },
+  {
+    "id": "7682ca1ed9a35aea",
+    "title": "ダイキン、エヌビディアAIサーバー対応の冷却システム　標準設計を公開 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUF2621M0W6A021C2000000/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T04:18:59.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUF2621M0W6A021C2000000%2F"
+  },
+  {
+    "id": "7d39a1ad5bc71541",
+    "title": "Notion AIのチャット記録が委託先から流出した可能性についてまとめてみた - piyolog",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/11/125745",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T04:18:22.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F11%2F125745"
+  },
+  {
+    "id": "099e26296688e343",
+    "title": "Step FunctionsのwaitForTaskTokenで承認フローを作ってみる(サーバーレス構成）",
+    "url": "https://qiita.com/d-kaneda/items/921aa0542d5e59e588de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-11T04:15:46.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "271bd469ae086add",
+    "title": "Google版AirTag『Pixel Tag』発売、10億台のAndroid端末で探す紛失防止トラッカー　UWBと新技術『Bluetooth CS』採用 | テクノエッジ TechnoEdge",
+    "url": "https://www.techno-edge.net/article/2026/11/11/5701.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T03:49:30.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.techno-edge.net%2Farticle%2F2026%2F11%2F11%2F5701.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Google Pixel Tag の新機能と価格調整\n\n## テーマ：記事が扱う課題や技術は何か\n個人設定、プラン変更、パスワード変更などの基本機能に加え、Google が国内で発売した「Pixel Tag」の重要な技術であるUWBと新規格「Bluetooth CS（Bluetooth Channel Sounding）」を採用し、位置情報をクラウド経由で表示する機能も追加されています。また、価格調整により定価ベースでやや安価な製品となり、対応機種はハイエンド向けスマホが必須となります。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nGoogle は、失物防止トラッカーとして「Pixel Tag」を国内で販売し、UWBとBluetooth CSの両方を搭載することで高精度な位置情報提供を実現しました。価格も調整され、最も安価な製品となりました。ただし、対応する端末の技術レベルや距離感には制限があります。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n失物防止のための位置情報をクラウド経由で表示する機能と、UWBとBluetooth CSの両方を組み合わせることで、タグを発見しやすく、近所の端末から正確な場所情報を知らせることが可能です。また、電池管理や共有管理機能も追加されています。\n\n本文には詳細な技術仕様や価格情報は記載されており、専門用語は短く説明しています。",
+    "imageUrls": [
+      "https://www.techno-edge.net/imgs/img_v/8184.jpg",
+      "https://m.media-amazon.com/images/I/311bTuqQtmL._SL160_.jpg",
+      "https://www.techno-edge.net/imgs/zoom/35464.webp",
+      "https://www.techno-edge.net/imgs/zoom/35465.png",
+      "https://www.techno-edge.net/imgs/zoom/35462.jpg",
+      "https://m.media-amazon.com/images/I/31JrxtiSkKL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/213yMqkjh7L._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/31BKA3EiJPL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/41WRA0tXZQL._SL160_.jpg",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/33565.jpg",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/29394.jpg"
+    ]
+  },
+  {
+    "id": "a74cd25281b9c106",
+    "title": "Linuxカーネル開発でAIによるバグ修正が効果。トーバルズ氏「潮目が変わり始めている兆候」 | テクノエッジ TechnoEdge",
+    "url": "https://www.techno-edge.net/article/2026/11/11/5697.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T03:41:15.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.techno-edge.net%2Farticle%2F2026%2F11%2F11%2F5697.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け AI による Linux カーネル修正の現状と展望\n\n## 課題と技術\nLinux カーネル開発において、AIを活用したコード修正が効果的となり、バグ報告の速度を劇的に向上していることが明らかになりました。リーナス・トーバルズ氏は、この現象を「潮目が変わり始めている兆候」と評価し、BPF サブシステムでは AI によるバグの修正ペースが速くなっていると報告しました。また、OpenAI の GPT-6 シーバー能力や新しいエージェント機能など、ソフトウェア開発における AI の活用が進みつつあるという背景も考慮されています。\n\n## 結論\nAI による自動修正パッチの増加は、開発者への負担を減らす可能性がありますが、内容の正確性や再現性が確保されないリスクも懸念されます。今後の開発現場では、AI が生成したバグ報告の検証プロセスを再考する必要があると見なされています。\n\n## 方法\nLinux カーネル開発では、BPF サブシステムは AI によるバグ修正のペースを強化しています。これにより、従来の自動更新の影響を除くと、変更ファイル数は約 3 の割に減少し、単純な修正が主要となります。ただし、開ソースプロジェクトでは報告の受け付け方や検証要件を見直す動きも進められています。\n\n本文には、特定の機能やバージョンに関する詳細情報は記載されていませんが、AI による修正の速さや影響範囲については推測されています。",
+    "imageUrls": [
+      "https://www.techno-edge.net/imgs/img_v/30925.png",
+      "https://www.techno-edge.net/imgs/zoom/35447.jpg",
+      "https://m.media-amazon.com/images/I/51tm9QygxLL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/51W8g8854AL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/51qTXGqeWIL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/41LhVjdy0GL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/411tJEEOgWL._SL160_.jpg",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/35361.png",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/34876.jpg",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/33511.jpg",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/33386.jpg",
+      "https://www.techno-edge.net/imgs/p/KS0xA70UphpJ5g7PcXQyhA2bwJXOlZSTkpGQ/32679.jpg"
+    ]
+  },
+  {
+    "id": "9412a79595fb30d5",
+    "title": "ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い",
+    "url": "https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T03:34:04.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-nvidia-spy-affair-ai-chip-shipments-to-china%2F"
+  },
+  {
+    "id": "6e131a8af8723187",
+    "title": "「またAIの見え方変わった」ダウン症で知的障害のある弟とのやりとりに、AIを活用したら解決できることが増えたという話に注目が集まる",
+    "url": "https://togetter.com/li/2769126",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T03:28:52.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2769126"
+  },
+  {
+    "id": "94bdb39973349c32",
+    "title": "「Qwen4」早くも登場、最上位「Qwen4-Max」を無料でも試せる",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2155430.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T03:18:12.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2155430.html"
+  }
+]
