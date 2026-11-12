@@ -1,5 +1,451 @@
 [
   {
+    "id": "49ee2ee7f94eb1c5",
+    "title": "新着情報詳細｜靖國神社",
+    "url": "https://www.yasukuni.or.jp/news_detail.html?id=734",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T10:27:15.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.yasukuni.or.jp%2Fnews_detail.html%3Fid%3D734",
+    "category": "RELEASE",
+    "summary": "国神社のオンライン授与品・頒布品サイトが外部から不正アクセスを受け、個人情報漏洩を発生させたことが判明しました。同日公開を停止し、調査により、約14,500件のユーザーの個人情報（氏名、メールアドレス、パスワード）が漏洩したことが確認されました。漏洩された情報は直接読み取れないため、クレジットカード番号や住所などの具体的なデータは流出していないと明記されています。対応者は、漏洩したメールアドレスに個別に連絡し、同サイトでのパスワードを迅速に変更することを推奨しています。また、調査結果に基づき再発防止の対策を講じ、今後の対応についてお知らせします。\n\n---\n\n**テーマ：記事が扱う課題や技術は何か**\n国神社のオンラインサービスが不正アクセスにより個人情報漏洩が発生したという事態です。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\n調査により約14,500人のユーザーの個人情報が漏洩し、対応者はパスワードを変更するよう強く推奨しています。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n不正アクセスによる個人情報漏洩を防止するため、サイト管理会社と連携して調査を進めています。漏洩された情報は直接読み取れないため、二次被害の発生を防ぐ対策を講じ、ユーザーへの通知を実施しています。\n\n---\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。\n要約の視点：追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n（本文には追加機能やバージョン変更などはありませんが、情報漏洩の対応と対策についてのみ記載されています。）",
+    "imageUrls": []
+  },
+  {
+    "id": "e51714fc2f348b0f",
+    "title": "インシデント調査報告書チェックリスト公開のお知らせ",
+    "url": "https://www.jpcert.or.jp/ir_report_checklist_20261111.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T10:22:32.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.jpcert.or.jp%2Fir_report_checklist_20261111.html",
+    "category": "RELEASE",
+    "summary": "JPCERT/CC は、ランサムウェア攻撃に伴うインシデント調査の信頼性を確保するため、被害組織に対して「インシデント調査報告書チェックリスト」を公開しました。このチェックリストは、外部委託や報告書の作成確認において迷う点への解決策として機能しています。\n\n方法として、調査依頼時の信頼性評価基準と報告書作成の正確性を確保する仕組みを提供しています。JPCERT/CC は、調査を依頼する被害組織と報告書を作成する担当者が共通認識を持って進めるためのガイドラインを提供しています。本文には具体的な機能の詳細や利用方法の手順が記載されていません。",
+    "imageUrls": []
+  },
+  {
+    "id": "ea493fa897c34c67",
+    "title": "「上限がある仕事」はオープンモデルへ──トークン爆発の時代に、今井翔太氏とNVIDIA井﨑武士氏が引くAIモデル選定の線",
+    "url": "https://codezine.jp/article/detail/30321",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T10:22:17.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcodezine.jp%2Farticle%2Fdetail%2F30321",
+    "category": "RELEASE",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\nコードズインを読み込むと、セキュリティチェックが実行されます。これは自動アクセスを防ぐための仕組みです。ユーザーは確認する必要があります。このプロセスは、開発者に重要なステップとして機能しています。\n\n課題は、サイトへの自動アクセスの防衛です。技術的には、サーバー側から認証を行うことで安全に処理されます。これにより、不正なアクセスを防ぐことができます。\n\n結論は、セキュリティチェックを成功させることで、サイトが正常に動作するようになります。推奨される方法は、ユーザー側で確認するものです。\n\n方法として、コードズインの読み込み後にセキュリティチェックを実行し、確認を行う必要があります。この手順は、開発者向けに重要なステップです。\n\n本文には、セキュリティチェックの詳細な手順や、自動アクセスの具体的な技術的な仕組みが記載されていません。そのため、これらの情報は補足として推測されています。",
+    "imageUrls": []
+  },
+  {
+    "id": "bd8a8398326b1df7",
+    "title": "靖国神社に不正アクセス　約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
+    "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T10:16:17.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003119%2F",
+    "category": "RELEASE",
+    "summary": "# 技術課題と対策の現状\n\nこの記事では、個人情報流出やシステム攻撃に関する重要な課題を整理しました。アクセスランキングから具体的な事例を抽出し、技術的な解決策や対策について議論されています。\n\n## 課題と対策の概要\n\n主な課題は、個人情報の漏�れやシステムへの攻撃です。例として、靖国神社の不正アクセスや、メール配信のユミルリンクによる漏�れが挙げられます。また、AI眼鏡の規制やメモリ使用時の快適性に関する議論も含まれています。\n\n## 解決策と対策\n\n対策としては、パスワードを紙に書き写し、一部「伏せ文字」で管理するよう推奨されています。また、決済処理への不正プログラムを記録する仕組みや、クライアント分離攻撃の防衛方法についても検討されています。\n\n## 今後の展望\n\nビジネスでの活用事例を探ることで、実用的な解決策を追求することが重要です。特に、海外と日本での普及率の違いを考慮した対策が必要とされています。",
+    "imageUrls": []
+  },
+  {
+    "id": "1634f64367cd5272",
+    "title": "2026 年、すべての主要ブラウザで使えるようになった CSS 機能",
+    "url": "https://sterfield.co.jp/blog/blog-44/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T10:02:13.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsterfield.co.jp%2Fblog%2Fblog-44%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け CSS 機能紹介\n\n**課題と技術**\n2026 年の新しい CSS 機能として、JavaScript を不要に扱うための 5 つの機能紹介します。これらはブラウザの安定版（Chrome 123〜Safari 26.2 など）で安定しており、既存のコードをそのまま適用できます。\n\n**結論**\nこれらの機能を活用することで、入力時の自動調整やリストのアニメーション、文字のバランスを整えることができます。特に日本語のボタン設計やリストの色分けに効果的です。\n\n**方法**\n1. **field-sizing**: `<textarea>` の大きさを文字量に合わせて自動的に調整します。\n2. **:open**: 要素が開いている状態を認識し、スタイルを適用します。\n3. **sibling-index() と sibling-count()**: リストの順序や数を CSS で制御します。\n4. **text-box**: フォントのズレを防ぎ、文字の真ん中を揃えます。\n5. **light-dark**: ライトモードとダークモードで画像やグラデーションを切り替えます。\n\n本文には具体的なコード例や詳細な機能説明が含まれていませんが、上記の項目は主要な機能の概要として提示されています。",
+    "imageUrls": [
+      "https://sterfield.co.jp/uploads/field_sizing_87ed035a86.gif",
+      "https://sterfield.co.jp/uploads/open_30df23aad0.gif",
+      "https://sterfield.co.jp/uploads/sibling_index_c8826b4555.gif",
+      "https://sterfield.co.jp/uploads/text_box_c45c0807d2.png",
+      "https://sterfield.co.jp/uploads/light_dark_b63821c425.png"
+    ]
+  },
+  {
+    "id": "d94209d51fc099d3",
+    "title": "(令和8年11月11日)アマゾンジャパン合同会社から申請があった確約計画の認定について | 公正取引委員会",
+    "url": "https://www.jftc.go.jp/houdou/pressrelease/2026/nov/261111_daigo.amazon.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T09:56:57.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.jftc.go.jp%2Fhoudou%2Fpressrelease%2F2026%2Fnov%2F261111_daigo.amazon.html",
+    "category": "RELEASE",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\nこのサーバーでは、特定のページへのアクセス権限がありません。エラーメッセージによると、接続が失敗している可能性があります。正確な解決策は、サーバー側の設定を確認する必要があります。ユーザーは、適切な認証情報を確認してアクセスを試みる必要があります。\n\n本文には、具体的な技術的な詳細や推奨される手順が含まれていません。そのため、専門用語の説明は必要ありませんが、基本的な仕組みについては理解することが重要です。この状況下では、開発者側が対応するべきであることが明確です。",
+    "imageUrls": []
+  },
+  {
+    "id": "073089d79e0dc4ed",
+    "title": "【速報】政府、AI開発事業者に罰則検討",
+    "url": "https://www.47news.jp/15215659.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T09:55:01.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.47news.jp%2F15215659.html",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\n記事は、高度な技術開発事業における新たな課題と対応策をまとめました。特に、人工知能（AI）のリスクに対する法改正を検討する政府の決定が注目されています。また、企業側も業務用機器のマーケティングや、サイバー攻撃対策の強化など、多様な領域で活動しています。\n\n結論として、政府は高性能 AI の暴走に罰則を設ける方針を示し、これは業界全体の安全性向上と信頼性の確保に寄与するものです。一方で、企業は顧客の省エネを支える新たなサービス開発や、セキュリティ対策の強化を重視する傾向にあります。\n\n方法としては、政府の指導下で法改正の検討が進められ、同時に企業側は業務内容の多様化と技術的な安全性を両立させることが求められています。具体的な施策には、専門家の意見や業界の取り組みに基づき進めるべきです。",
+    "imageUrls": [
+      "https://img.cf.47news.jp/static/bnr/bnr_google_preferred_pc.png",
+      "https://img.cf.47news.jp/static/corporate-banner/kyodo.png",
+      "https://img.cf.47news.jp/public/photo/906bd3b1ed53a5aa6bacf18f375a1ebf/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/1ad7100070fdc74f55fc42bbbfd04db5/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/e54a72a54661f959eeab430884c70da2/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/eddab47cb9329ef1d67703b38cee44d6/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/d5ab67367efcf9158751d027ccc64fdb/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/d1252b81b4ef93667a7d77f59ea4e510/photo.jpg",
+      "https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png",
+      "https://img.cf.47news.jp/public/photo/19aff13a36db390fc01d0d91deceaea0/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/e841a659ee6a282c67d663f7c9af28e1/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/835db51d49343456a564e445554793fa/photo.jpg",
+      "https://img.cf.47news.jp/static/special/nihonservice/300x250.jpg",
+      "https://img.cf.47news.jp/static/special/env_fukushima/300x250.jpg",
+      "https://img.cf.47news.jp/static/special/nayami_sodan/300x250.jpg",
+      "https://img.cf.47news.jp/public/photo/a05fc804bbd801326e0be77bef2bbf0f/photo.png",
+      "https://img.cf.47news.jp/public/photo/83a601b76260e0be71b95d9d3afcbb33/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/390065ac4fcd73b9c4d3f00a57ffe51b/photo.jpg"
+    ]
+  },
+  {
+    "id": "41c4a284b3ddf238",
+    "title": "政府、高性能AI暴走に罰則検討　法改正、開発事業者が対象 | NEWSjp",
+    "url": "https://news.jp/i/1493175213544620448",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T09:22:05.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.jp%2Fi%2F1493175213544620448",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\n政府は高性能人工知能のリスクに対処するため、AI 関連事業者に安全確保義務付けを義務化し、罰則制度を新設する方針を検討しています。これは年末までに法改正の内容を含めた制度見直しの全体像を示すものです。特にサイバー攻撃への悪用や暴走に対する対抗手段確保を目指しており、AI 事業者は研究から基盤モデル開発と利用者サービス展開まで細分化しているため、対象範囲の定義は今後の議論に収まっています。\n\n## 結論\n\n政府は AI 関連事業者に対し安全確保義務付けを義務化し、サイバー攻撃への悪用に対する罰則を強化する方針を示しています。これにより、AI 関連事業の安全性を確保する体制が構築されることを目標としています。\n\n## 方法\n\n課題解決の手段として、AI 事業者の基盤モデル開発と利用者サービスの展開を明確にすることで、対象範囲の定義を行います。また、米国の開発中の先端 AI の不正アクセスリスクや多発的なサイバー攻撃への懸念を考慮し、国内の利用者保護の実効性を確保する方針も示されています。\n\n本文には具体的な技術用語や詳細なプロセスの詳細情報は記載されていませんが、上記の要点に基づき、政府の対応方針と事業者の対応姿勢を整理した要約となります。",
+    "imageUrls": [
+      "https://img.jp.ekkowassets.com/c_limit,w_800,f_auto,q_auto:eco/ch/images/1493201501173416626/origin_1.jpg"
+    ]
+  },
+  {
+    "id": "c9be3fc3cf669d41",
+    "title": "【改定前受験推奨】Claude Certified Architect – Professional（CCAR-P）本日受験してきました。【合格体験記】",
+    "url": "https://qiita.com/takeshi_Qiita/items/a84c8eab09c878071daa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-11T09:09:14.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 課題と技術\nQiita Careers は、エンジニア向けにマッチした求人を提供するプラットフォームです。試験の準備において、英語・日本語の受験資格をクリアする必要があります。\n\n## 結論\n合格ラインは 720/1000 です。ただし、試験内容が 2026 年 12 月 7 日に改訂されるため、準備方法と環境に注意が必要です。\n\n## 方法\n試験の準備は、過去の実験経験に基づき問題集を復習します。まず CCDV-F を受けて基礎を築き、その後 CCCD-V-F の問題を解くことで、時間効率化を図ります。また、日本語試験では意味理解の精度を重視し、難しい設問も対応可能です。\n\n## 追加機能\nQiita Careers は、開発者向けに直訳調を避けた自然な日本語で文章を可読性向上にしています。また、9Go を使用してユーザー情報を検索・共有できます。試験対策として、暗記の時間を減らすために問題文の読み取りを丁寧に進めます。",
+    "imageUrls": [
+      "https://cdn.qiita.com/assets/public/advent_calendar/image-advent_calendar_being_held-bafa166cb2e60037f5e4ba3599642d8f.png"
+    ]
+  },
+  {
+    "id": "6cddd9c98e8471d3",
+    "title": "Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場",
+    "url": "https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T08:58:04.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-claude-interactive-connectors-full-tool%2F",
+    "category": "RELEASE",
+    "summary": "# AI Anthropic の新しいインタラクティブコネクタ機能\n\nAI Anthropic は、チャット内の操作画面を外部サービスに統合する「インタラクティブコネクタ」を導入し、アプリの編集画面を全画面上で開ける機能を拡張しました。従来のシステムではアプリの編集画面全体を開くことができませんが、今回のアップデートでは横表示や全画面表示に対応し、ユーザー自身が作業を依頼できるようになります。\n\nこの機能は、Notion や Box など複数のサービスとの連携を強化しています。例えば、PDF の強調表示や密文の隠蔽など、AI による指示に基づき自動的に対応できます。また、アプリの編集内容を反映させる仕組みも追加され、頻繁に使うアプリはサイドバーに固定できるよう設計されています。\n\nさらに、MCP Apps という新しい機能により、外部サービスとの連携を AI サービス内に表示する仕組みが強化されました。この機能は、Figma や Shopify などの他のサービスにも対応しており、組織の管理者が有効化することで利用可能です。今後の開発では、さらに多くのアプリとの連携機能を展開する方針を示しています。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/11/claude-interactive-connectors-full-tool/00_m.png",
+      "https://img.youtube.com/vi/Gy1jSeSzAhk/maxresdefault.jpg",
+      "https://i.gzn.jp/img/2026/04/29/claude-for-creative-work/00_m.png",
+      "https://i.gzn.jp/img/2026/11/11/claude-interactive-connectors-full-tool/snap9907_m.png",
+      "https://i.gzn.jp/img/2026/11/11/claude-interactive-connectors-full-tool/snap9908_m.png",
+      "https://i.gzn.jp/img/2014/05/01/google-docs-sheets-app/00_m.jpg",
+      "https://i.gzn.jp/img/2026/05/28/runway-mcp-chatgpt-claude/00_m.png",
+      "https://i.gzn.jp/img/2026/05/08/codex-chrome/00_m.png",
+      "https://i.gzn.jp/img/2026/06/18/claude-design-claude-code/00_m.png",
+      "https://i.gzn.jp/img/2023/10/04/microsoft-next-generation-onedrive/00_m.png",
+      "https://i.gzn.jp/img/2026/03/30/openai-codex-plugins/00_m.png",
+      "https://i.gzn.jp/img/2025/11/14/firefox-ai-window/00_m.png",
+      "https://i.gzn.jp/img/2026/11/11/gemini-4-carbon/00_m.png",
+      "https://i.gzn.jp/img/2026/11/11/gputaskman/00_m.png"
+    ]
+  },
+  {
+    "id": "7737e173e31a5988",
+    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T08:55:48.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fclaude.com%2Fresources%2Farticles%2Fsheets-whiteboards-data",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な要約\n\n## テーマ：課題と技術の概要\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n## 結論：主張と推奨\n開発者は Claude Whiteboards, Sheets, と Claude Data を beta にリリースし、プロジェクト間の出力をツールへ移行する手間を省き、チームの共同作業を継続できます。 certified queries と live sharing の機能は現在一般公開です。\n\n## 方法：解決策と技術の仕組み\n課題として、プロジェクトの出力を別のツールへ移行する手間を解消します。これにより、クラウド上のドキュメントやボードをそのまま編集・共有できます。また、チーム間でリアルタイムで議論を行うことができます。\n\n### 主な機能\n- **Claude Whiteboards**: 会議のメモやアクション項目をボードに転換し、時間軸と責任者を示しています。\n- **Claude Sheets**: パromptから公式表や公式データを作成し、編集・共有が可能です。\n- **Claude Data**: データストーリーや認証されたクエリ、ライブ共有機能を提供します。\n\n## 本文の補足\n本文には、開発者向けに直訳調を避けた自然な日本語の要約が含まれています。専門用語は短く説明しています。追加機能や対象バージョンについては、本文に記載されていないため、推測せず「本文に記載なし」と記述します。",
+    "imageUrls": []
+  },
+  {
+    "id": "ab304d7e5aed98bd",
+    "title": "アマゾン、サイトの仕組み変更へ　出品値下げ強要疑いで公取委が調査（朝日新聞） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/ead6f0a23b6d38419aad9a962b9e5afaab7db1cf",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T08:48:42.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.yahoo.co.jp%2Farticles%2Fead6f0a23b6d38419aad9a962b9e5afaab7db1cf",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\nアマゾンジャパンの通販サイト「マーケットプレイス」における「カートボックス」の仕組みが、公正取引委員会による確認結果として認定された。この調査は、出品者が自由に価格を決める権利を認め、独占禁止法違反の疑いを解消する「確約手続き」としての行政処分である。\n\n## 方法\n\n公取委員会は、アマゾンの改善計画を認めた上で、新たな表示対象となる仕組みの具体化について調査を終えた。この調査では、カートボックスという枠の表示ルールを維持しつつ、残る仕組みとして新たな表示方法を検討する方針を示した。また、海外での規制状況も考慮し、国内の市場競争性を維持する方針である。\n\n## 結論\n\n公取委員会は、アマゾンの改善計画を認定し、出品者の自由な価格設定を認めつつ、消費者への利益確保を目標としている。この決定により、独占禁止法違反の疑いから解放され、今後の市場競争において消費者の利益を最大化する方針である。",
+    "imageUrls": []
+  },
+  {
+    "id": "bff78d9dcdee39e4",
+    "title": "メール配信のユミルリンク、不正アクセスで約4786万件漏えい　JR東海やアイスタイルに影響",
+    "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T08:42:25.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003114%2F",
+    "category": "RELEASE",
+    "summary": "# 業界動向：企業情報漏洩とセキュリティ対策\n\n### 課題と技術\n業界動向として、企業間のメール配信サービス利用による情報漏洩が広がりました。ユミルリンクは、Cuenote FC の49システムに約5162万件の個人情報が流出したと発表しました。攻撃者はシステムの脆弱性を悪用し、データベースアクセスやログイン状態を盗み、管理画面からデータを取得しました。同社はこの問題について対応し、再発防止のためにAIを活用したソースコードレビューと監視体制を導入する方針を示しています。\n\n### 結論\n企業間の情報漏洩は拡大しており、セキュリティ対策の重要性が明確です。Cuenote FC の一部システムを除く他のサービスも影響を及ぼしているため、全体的な対応が必要です。\n\n### 方法\n情報の漏洩を防ぐには、システム脆弱性を修正し、不正プログラムの除去を進める必要があります。また、利用者のログイン状態を監視する体制や、AIを活用したソースコードレビューを採用することで、再発防止を図る方針が示されています。\n\n本文の長さは約350文字です。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003114/10011899/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003114/10011900/728"
+    ]
+  },
+  {
+    "id": "5ce581a3e6241989",
+    "title": "ビックカメラ 法人顧客の企業情報13万件余が流出 不正アクセス | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261111de74257",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T08:40:15.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261111de74257",
+    "category": "RELEASE",
+    "summary": "# 企業情報漏洩とサイバー攻撃への対応\n\nこの記事は、企業情報漏洩やサイバー攻撃のリスクについて、日本企業の対策を深掘り解説しています。特にビックカメラなどの法人顧客向け問い合わせフォームが不正アクセスを受け、13万3000件以上の個人情報が流出したという事実が報じられています。これにより、企業は個人情報保護の重要性を重視する必要があると強調されています。\n\n## 課題と解決方法\n企業は情報漏洩を防ぐためには、セキュリティソフトの導入や対策の徹底が必要です。また、AIコストの膨らみや経済制度の改革など、新たな課題も考慮する必要があります。\n\n## 結論\n企業は個人情報を守り、サイバー攻撃への備えを強化することが重要です。これにより、生活や事業にも影響を与えないよう対策を講じることが推奨されます。\n\n## 方法\n情報の漏洩を防ぐためには、企業側が適切なセキュリティ対策を講じることが不可欠です。また、政府や国際機関からの支援も重要な役割を果たします。",
+    "imageUrls": [
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74257/20261111de74257_E0000163655_1_l.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70851/20261105de70851_E0000147150_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71172/20261105de71172_E0000147138_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71650/20261106de71650_E0000148166_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71407/20261106de71407_E0000147128_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73045/20261109de73045_E0000155270_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73779/20261110de73779_E0000161157_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72816/20261109de72816_E0000159233_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72814/20261109de72814_E0000155204_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72709/20261109de72709_E0000154960_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70374/20261104de70374_E0000147000_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71158/20261105de71158_E0000148060_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70576/20261104de70576_E0000149517_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74972/20261112de74972_E0000168531_1_l.jpg",
+      "https://news.web.nhk/weather/tenki/tenki_h_01.jpg"
+    ]
+  },
+  {
+    "id": "2173f39e3ab70be1",
+    "title": "ディズニープラス、Meta Questで3D作品が視聴可能に",
+    "url": "https://av.watch.impress.co.jp/docs/news/2155492.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T08:39:39.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fav.watch.impress.co.jp%2Fdocs%2Fnews%2F2155492.html",
+    "category": "RELEASE",
+    "summary": "# ディズニープラスの3D配信開始\n\nディズニープラスは、Meta Quest 3/3S向けに3D配信を開始し、2027年にVRグラス「Meta VR Glasses」にも発売予定。これにより、従来のQuestシリーズで利用可能なアプリ内のナビゲーションバーから3Dコレクションアイコンを選択することで、対応作品を確認・視聴できます。\n\n音声や言語設定はプロフィールで設定されますが、英語のピクチャーバージョンの3D版を視聴する場合は、アプリ使用言語に関わらず自動的に再生される。また、「環境」アイコンを選ぶと、公式Xで公開されたプロモーション映像では、アベンジャーズタワーやタトゥイーンなどの作品のバーチャル空間を楽しめるよう設計されています。\n\n## 結論\nディズニープラスは、VRグラスへの拡張に対応し、英語の3Dコンテンツを視聴する機能を強化しています。\n\n## 方法\nアプリ内のナビゲーションバーから3Dコレクションアイコンを選択することで、対応作品を確認・視聴できます。また、言語設定や環境選択により、英語のピクチャーバージョンの3D版を自動的に再生します。\n\n## 本文に情報がない項目は推測せず「本文に記載なし」としてください。\n本文には、開発者向けへの推奨や具体的な機能の詳細な仕様などはありませんでした。上記の要点に基づき、要約した内容となります。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/avw/docs/2155/492/Disney-3d-Meta-Quest-1536x864_s.jpg",
+      "https://h.accesstrade.net/sp/rr?rk=0100ovpy00ld6b",
+      "https://m.media-amazon.com/images/I/31bhMt0borL._SL75_.jpg",
+      "https://m.media-amazon.com/images/I/31mbBkm513L._SL75_.jpg"
+    ]
+  },
+  {
+    "id": "31b127f10eb50557",
+    "title": "アマゾンが予想外の打診、公取委が頼ったドイツ　攻防2年の舞台裏：朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVCC0SKNVCCUTIL024M.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T08:36:05.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.asahi.com%2Farticles%2FASVCC0SKNVCCUTIL024M.html",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\nアマゾンジャパンの調査結果によると、公取委員会が「出品者の事業活動を制限している疑い」と指摘し、調査を終了しました。これは、デジタルプラットフォーム事業者による市場競争における重要な問題点です。\n\n## 方法\n\n調査は、公開された改善計画を認め、対象バージョンや利用者を重視して進めました。具体的な解決策は、アマゾンと公取委員会の対話を通じて、独占禁止法違反のリスクを特定しました。\n\n## 結論\n\n調査結果では、アマゾンの市場戦略が「公開価格設定」の観点から厳格な規制の対象となりました。これにより、デジタルプラットフォーム事業者はより透明化された競争環境を目指す必要があります。",
+    "imageUrls": []
+  },
+  {
+    "id": "f081d9cffdd01c19",
+    "title": "「アマゾンジャパン」に公取委が行政処分、他サイトの最安値以下の商品を「おすすめ出品」として優遇",
+    "url": "https://www.yomiuri.co.jp/national/20261111-GYT1T00255/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T08:18:15.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.yomiuri.co.jp%2Fnational%2F20261111-GYT1T00255%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\nAmazon JAPAN が独占禁止法違反の疑いがある場合、公正取引委員会が確約手続きを適用し、その改善計画を認定しました。これは独占禁止法違反の解決策として、公正取引委員会は同社を承認した結果です。\n\n## 方法\n\n競合他社サイトより安い商品を優遇し、値下げを余儀なくさせた場合、公正取引委員会が「拘束条件付き取引」の恐れを考慮して調査を行いました。表示方法を半年以内に改善する計画により、消費者に分かりやすく表示するよう約束しました。これにより、独占禁止法違反の認定は認められ、排除措置命令などは免除されることができました。\n\n## 本文の要約\n\n運営する通販サイトで競合他社サイトより安い商品を優遇し、値下げを余儀なくさせたのは独占禁止法違反の疑いがあるとして、公正取引委員会が行政処分を適用しました。表示方法を改めるとした同社の改善計画を認定し、Amazon JAPAN は「公開情報の透明性を高める」ことをコメントしました。この措置により、消費者は購入商品の価格や配送条件などを優先的に表示する仕組みが維持され、独占禁止法違反のリスクは軽減されました。",
+    "imageUrls": [
+      "https://www.yomiuri.co.jp/media/2026/11/20261111-GYT1I00256-1.jpg?type=large"
+    ]
+  },
+  {
+    "id": "fdd3fc833886d69f",
+    "title": "本物のサーバーを使わずに、障害対応の練習環境をブラウザで作る（TypeScript の状態モデルと PGlite）",
+    "url": "https://zenn.dev/tnk24/articles/9a04c98b030496",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-11T08:15:02.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--fwUmz5Lj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%259C%25AC%25E7%2589%25A9%25E3%2581%25AE%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2582%258F%25E3%2581%259A%25E3%2581%25AB%25E3%2580%2581%25E9%259A%259C%25E5%25AE%25B3%25E5%25AF%25BE%25E5%25BF%259C%25E3%2581%25AE%25E7%25B7%25B4%25E7%25BF%2592%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25EF%25BC%2588TypeScript%2520%25E3%2581%25AE%25E7%258A%25B6%25E6%2585%258B%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25A8%2520PGlite%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2591%25E3%2582%2593%25E3%2581%2591%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGlZWUY1TU40NHFCV0xyQ2VYSnZOcnpNTVV4dVhiR2xVbk5iN0x0WmlnWWNNZXNRPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：障害対応学習ゲームの概要\n\nこの記事では、IT インフラの基礎を「コマンドで覚える」学習ゲームとして開発したものです。開発者は実際にサーバーやネットワーク機器を使わずに、ブラウザ上で障害の発生と原因を再現する技術を構築しました。このプロジェクトは、AI 時代におけるインフラ理解の重要性を強調しており、単なる暗記ではなく、実際の状況に対応する能力を高めるための実践的なトレーニング環境を目指しています。\n\n## 課題と解決方法\n開発者は、ディスクがいっぱい、サービスが起動しない、ネットワークが途切れたり、データベースが遅いといった一般的な障害を、ブラウザ上で再現する仕組みを作りました。その解決方法は、状態モデルと本物のサーバーの挙動を区別し、ログを読み直して原因を特定するアルゴリズムに基づいています。特に、システムの状態を保持し、起動しないサービスやファイルの削除処理を正確に再現することで、実際の運用環境での対応力を高めることが目標です。\n\n## 結論\nこの学習ゲームは、IT インフラの仕組みを理解し、実際に問題を解決する能力を身につけるための実践的なツールとして機能します。開発者は、自身の知識と経験に基づき、実務で使える技術の構築を目指しています。\n\n## 方法\n環境構築の手間やコストを考慮し、ブラウザ上でサーバーの動作を再現するインフラクエストシステム「InfraQuest」を採用しました。状態モデルと本物のサーバーの挙動を比較して、障害対応の練習を行うことで、知識を実際に活用できるようになります。特に、ログの管理や起動しないサービスの処理、ネットワーク接続の問題などを正確に再現することで、実務での運用能力を向上させることが可能です。",
+    "imageUrls": []
+  },
+  {
+    "id": "7b97296144f88fd4",
+    "title": "字幕のタイミングQAをCIに載せる——SRTの重なり・行長・CPSを型で扱う",
+    "url": "https://zenn.dev/woshiliyana/articles/c1c1af3fb37d90",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-11T07:40:08.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--iioKlyfC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AD%2597%25E5%25B9%2595%25E3%2581%25AE%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0QA%25E3%2582%2592CI%25E3%2581%25AB%25E8%25BC%2589%25E3%2581%259B%25E3%2582%258B%25E2%2580%2594%25E2%2580%2594SRT%25E3%2581%25AE%25E9%2587%258D%25E3%2581%25AA%25E3%2582%258A%25E3%2583%25BB%25E8%25A1%258C%25E9%2595%25B7%25E3%2583%25BBCPS%25E3%2582%2592%25E5%259E%258B%25E3%2581%25A7%25E6%2589%25B1%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yana%2520Li%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFppSVRPcWlQdGlkX2tncEJMNE54Vi1heVFFZ2dqR3k1SUtuWXVSel9fU2tBMl9SRT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 字幕の品質チェックと CI 導入\n\n開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ**: 字幕の品質チェックと CI 導入\n結論：SRT のタイミング検証を TypeScript で実装し、CI に載せることで、誤り検出とレビュー時のばらつきを減らすことができます。\n方法：キューの時間重なりや文字数オーバーなどの異常を機械的に判定し、失敗するものを除外します。\n\n本文では、SRT のパースと検証ルールが定義されています。型は `Cue` と `Issue` を使用し、`MAX_CHARS_PER_LINE` や `MAX_LINES` など設定値を記述しています。解析関数 `parseSrt` はテキストをブロックごとに分割し、各キューの開始・終了時間とテキスト内容を抽出します。\n\n検証ルールでは、`start <= end` の場合や、文字数オーバー、CPS（文字数秒）などの異常を判定します。また、前のキューとの重なりも確認します。結果はコードに固定せず、設定ファイルや引数で調整可能であることが明記されています。最終的に、失敗する異常を除外し、運用時に適切な値を調整するプロセスが推奨されます。",
+    "imageUrls": []
+  },
+  {
+    "id": "590308af0e505b2a",
+    "title": "「AIとのチャット記録」が漏えいか、Notion　委託先に不正アクセス",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T07:05:45.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Faiplus%2Farticle%2F2611%2F11%2F2000003104%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Notion AI チャット記録漏洩リスクの対応\n\n**課題と技術**: Notion Labs が運営するクラウド型ワークスペース「Notion」において、AI サービス「Notion AI」のチャット記録が漏れたと発表された。これは委託先の Fireworks.ai に起因する不正アクセスの可能性を示している。影響範囲は全ワークスペースの 1％未満であるため、規模的には軽度だが、利用者の認証情報が含まれる可能性があるため注意が必要。\n\n**結論**: Notion AI の利用状況を分析する機能「Insights」のチャット記録が漏れ、密文や認証情報が含まれるリスクがある。これにより、ユーザーのセキュリティに配慮し、更新を促す必要があると推奨される。\n\n**方法**: 影響を受けたワークスペースの大半には利用者を示すラベルが付いていない現状を認識する。公式アカウントへの連絡を受け、漏え可能性があるチャット記録に記入した機密情報やパスワードなどを更新するよう呼び掛ける。不明な情報はメールで問い合わせるよう案内している。\n\n本文に記載なしの重要な点は、影響範囲の具体値や今後の対応方針について補足が必要であるが、現時点では明確な対策を提示している。",
+    "imageUrls": []
+  },
+  {
+    "id": "829cdd19eef0fd76",
+    "title": "まるで「RPG」　出品者を意のままにしたアマゾン「支配」の源泉 | 毎日新聞",
+    "url": "https://mainichi.jp/articles/20261111/k00/00m/020/063000c",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T06:37:17.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20261111%2Fk00%2F00m%2F020%2F063000c",
+    "category": "RELEASE",
+    "summary": "# アマゾンの公正取引委員による独占禁止法適用\n\n## 課題と結論\nアマゾンストアの運営において、公正な競争環境を維持する課題が明確です。米インターネット通販大手の日本法人「アマゾンジャパン」に独占禁止法の確約手続きが適用され、市場支配力を強める傾向にあります。しかし、この政策は公平性を損なう可能性があり、企業間の競争バランスを揺るぐ要因となっています。\n\n## 方法\n公正取引委員会は、特定の商品やサービスに対して独占禁止法を適用しました。これは、出品者の自由な価格設定を制限する措置であり、市場への支配力を強化する狙いです。しかし、この政策は実質的な公平性を損なうリスクがあるため、業界全体の議論が広がっています。\n\n## 本文の要約\nアマゾンストアでは、商品ごとに優先表示の枠が一つだけ存在し、「おすすめ出品」と呼ばれます。これにより、購入者が推奨された製品を購入する傾向があります。しかし、推奨されない製品は画面の片隅で表示され、購入への誘導には効果的です。また、価格や配送速度などの基準が明確に定められていないため、出品者の意見と解釈によって結果が変わる可能性があります。さらに、発送代行サービスの利用状況の影響も考慮されており、業界全体の利益構造が複雑化している現状を認識する必要があります。",
+    "imageUrls": [
+      "https://cdn.mainichi.jp/vol1/2019/06/18/20190618k0000m020267000p/9.jpg?1"
+    ]
+  },
+  {
+    "id": "9b3cf9cb6945d425",
+    "title": "ディスク上の普通の Markdown で長期記憶を持つ：AnyModelBot の配置、秘密フィルタ、journal.jsonl の確認手順",
+    "url": "https://zenn.dev/malachi_amb/articles/92436665ccb7df",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-11T06:35:39.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--1Aqc9AGH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25B9%25E3%2582%25AF%25E4%25B8%258A%25E3%2581%25AE%25E6%2599%25AE%25E9%2580%259A%25E3%2581%25AE%2520Markdown%2520%25E3%2581%25A7%25E9%2595%25B7%25E6%259C%259F%25E8%25A8%2598%25E6%2586%25B6%25E3%2582%2592%25E6%258C%2581%25E3%2581%25A4%25EF%25BC%259AAnyModelBot%2520%25E3%2581%25AE%25E9%2585%258D%25E7%25BD%25AE%25E3%2580%2581%25E7%25A7%2598%25E5%25AF%2586%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2582%25BF%25E3%2580%2581journa...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Malachi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：長期記憶の仕組みと確認手順\n\n## 課題と技術\nAnyModelBot はローカルエージェントとして動作しますが、長期記憶は「通常の Markdown ファイル」としてディスクに保存されています。この設計はアプリ開かなくても編集可能であり、鍵やパスワードを含むテキストは拒否されることでセキュリティを確保しています。また、会話セグメントの先頭には凍結スナップショットを挿入し、トピック本文が必要になった時だけ呼び出す仕組みです。\n\n## 結論\n長期記憶は SQLite をベースにローカルに保存し、ファイル構造はスコープ（team/bot/group）によって管理されています。この設計により、会話履歴の安全性と検索の効率化を実現しています。\n\n## 方法\n1. **設定手順**: Docker コンテナ内やデスクトップパスでデータディレクトリを作成します。\n2. **確認方法**: `ls -R ./data/memory/` を実行し、各スコープ内のファイル構造を確認します。\n3. **バックアップ**: `journal.jsonl` ファイルの追加履歴を確認し、データの安全性を確保します。\n\n本文に記載された情報は、セキュリティ対策と記憶管理の仕組みについて詳細な説明されています。",
+    "imageUrls": []
+  },
+  {
+    "id": "5566de4aeebdd1fd",
+    "title": "アマゾンに行政処分　出品者に値下げ強要の解消「確約」　公取委 | 毎日新聞",
+    "url": "https://mainichi.jp/articles/20261111/k00/00m/020/022000c",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T06:34:15.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20261111%2Fk00%2F00m%2F020%2F022000c",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\nアマゾンの日本法人「アマゾンジャパン」が、競合他社の価格設定を制限する行為について、公取委は独占禁止法違反の疑いを認定し、行政処分を確約手続きに適用しました。これは自主改善計画として認定され、市場競争力を低下させる不公正な手段とされるため、今後の自主的な改善計画の履行を監視する方針を示しています。\n\n## 方法\n\n課題解決の仕組みは、公取委による行政処分と、アマゾンジャパンが導入した「おすすめ出品」枠の機能化です。従来のシステムでは、同じ商品の最安値を競合他社に設定し、アマゾンが推奨するのみを表示していたため、消費者の認知度が低下していました。現在、アマゾンストア内のページレイアウトを変更し、条件を満たしていなくても最も価格が低い出品の情報と購入手続きを明確に示すことで、競争力のある価格と購入経路を消費者に提供しています。\n\n## 本文の要約\n\n導入された機能は「おすすめ出品」枠の整備であり、対象バージョンは2019年以降です。利用者の影響としては、競合他社の価格設定を制限する行為に対する公取委による行政処分と、市場競争力の低下を防ぐための自主的な改善計画の履行が確認されています。公開された情報は透明性を高め、消費者の選択を支援するようコメントされています。",
+    "imageUrls": [
+      "https://cdn.mainichi.jp/vol1/2021/04/09/20210409k0000m020097000p/9.jpg?1"
+    ]
+  },
+  {
+    "id": "d39182a9f63c9e7a",
+    "title": "Claude Opus 5.5とFable 5.2はどちらを使うべきか、Claude Codeで同じ課題を解かせて比べてみた",
+    "url": "https://qiita.com/MURAMASA2470/items/ad5a0cade2bd5b3165f9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-11T06:13:47.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：Claude Code モデル比較と効率化戦略\n\n## 課題と結論\n開発者は、モデルの選択においてコストとパフォーマンスのバランスを考慮する必要があります。本文では、Opus 5.5 と Fable 5.2 の両方のモデルを用いて、4 つの課題を実行した結果、どちらが優位であるかを比較しました。結論として、Fable 5.2 は出力トークン数が少なく、時間も短く、コスト効率が高い場合がありますが、特定の機能追加やテスト確認が必要なケースでは Opus 5.5 が適しています。\n\n## 方法\n課題の解決を効率化するために、モデルの設定と Effort の調整を重視しました。実装された 4 つの課題は、隠しテストで検証し、各モデルの性能とコストを比較しました。特に、出力トークン数の差や時間コストの差異を数値化し、API 定価との換算コストも計算しました。\n\n## 本文の注意点\n本文には具体的な導入手順や環境設定の詳細が記載されていません。そのため、実際の運用では参考になるモデルの組み合わせや、テスト方法の具体例は不明です。専門用語は必要に応じて簡潔に説明しています。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F243130%2Fd1992b6f-f651-4431-ba3f-c7e5bf9b11ad.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9df0509dab9d0dd20cd8cd6112f55f5b"
+    ]
+  },
+  {
+    "id": "eec52cc6a6f3fff0",
+    "title": "Claude Codeのeffortでトークン量はどれくらい変わるか検証してみた",
+    "url": "https://qiita.com/MURAMASA2470/items/620d6d6a8fd7fdc5f38e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-11T06:12:16.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け： Claude Code のモデル設定と効率化\n\n## 課題と技術\n開発者は、モデルの設定（effort）を変えてトークン量・時間・コストを比較しました。対象は Sonnet 5.5、Opus 5.5、Fable 5.2 の3 つのモデルです。環境は macOS 2.1.32 で、非対話モードで起動しました。\n\n## 結論\n設定を調整することで、出力トークン数は約1.2〜2.4倍に増加し、換算コストも変化します。低レベルのモデルではトークン量が減少し、高レベルでは増加傾向にあります。\n\n## 方法\n効率化のための設定変更とテストの実行により、各モデルの性能を比較しました。結果は、トークン量・時間・換算コストの差異が明確に示されました。特に、Fable 5.2 の設定変更によりコスト削減が見られたことが確認されました。\n\n本文では、各モデルの効率化効果と、設定変更後の具体的な値が詳細に記載されています。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F243130%2Fe03aa54a-3186-4413-9015-a322917b093c.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b0ec8a91a523bd5057c808c563c14b1d",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F243130%2F5c5b6452-4cac-4a55-a69b-b35c3c8ac2e1.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4d139cab7a82aeb4a5c6bc606d4a3bfc"
+    ]
+  },
+  {
+    "id": "cd56a38c7fb0d677",
+    "title": "無料プラン廃止とストレージ制限の衝撃！　「Microsoft 365 Education」新プランに見る――“アメとムチ”の戦略でGoogleの牙城は崩せるか",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2611/11/news066.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T06:04:45.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fpcuser%2Farticles%2F2611%2F11%2Fnews066.html",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法：Microsoft 365 Education のプラン改定\n\n## 結論\n教育機関向けに無料プランを廃止し、有償プランへの誘導を図る方針です。これにより、学生ユーザーの確保とコスト削減のバランスが課題となります。\n\n## 方法\n既存の無料プラン A1 を廃止し、新しい A0 や A2 の有償プランを導入します。これにより、Web 経由での一般提供を維持しつつ、標準機能の追加やストレージ容量制限を調整します。また、Student Use Benefit の廃止も同様の影響を招きます。\n\n## 本文の要約\nMicrosoft は教育機関向けに AI コピート機能をバンドルする新プランを発表しました。既存無料プラン A1 を廃止し、A0 や A2 の有償プランを導入する方針です。これにより、学生ユーザーの確保とコスト削減のバランスが課題となります。\n\n旧プランは無料で利用可能でしたが、新プランでは有償プランへの誘導が強化されます。標準機能の追加やストレージ容量制限により、ユーザーの満足度と運用コストが変わります。特に、デスクトップ版 Office の利用状況も変更されるため、組織の対応が必要となります。",
+    "imageUrls": [
+      "https://image.itmedia.co.jp/pcuser/articles/2611/11/ht1111_j01.jpg",
+      "https://image.itmedia.co.jp/pcuser/articles/2611/11/ht1111_j02.png",
+      "https://image.itmedia.co.jp/pcuser/articles/2611/11/ht1111_j03.jpg"
+    ]
+  },
+  {
+    "id": "e6773c2416451dc8",
+    "title": "AIを使って部屋のどこから鳴っているのか分からない謎の「ピッ」という音の発生源を突き止めた話",
+    "url": "https://gigazine.net/news/20261111-mysterious-beeps/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T06:03:42.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-mysterious-beeps%2F",
+    "category": "TUTORIAL",
+    "summary": "開発者ウィリソン氏は、AI コードリングツール Claude Code を活用して、電子音が鳴る場所を特定するシステム「Beep Locator」を開発しました。このシステムは、5 台のiPad やiPhone やMacBook Pro を使用し、各デバイスのマイクから音の到達時間を記録します。音の到達時間の違いを分析することで、電子音の発生源を推測します。さらに、周波数を調べる技術により周囲の雑音から電子音を分離する機能も実装されています。開発時は、ウィリソン氏が自然言語で指示するたびに機能を追加・修正し続けたため、最終的に約 40cm の範囲で発生源を絞り込むことができました。結果として、電池交換や警告音を鳴らしていた古い一酸化炭素検知器が見つかりました。この取り組みは、開発者自身が「耳」を与えられることを実証した点に興味深いと述べています。ソースコードはGitHub で公開されており、より詳細な情報は確認できます。\n\n結論：この研究は、AI を活用して電子音の発生源を特定する新しい技術である Beep Locator を提案し、開発者自身の経験に基づき、より正確な場所を推測できる仕組みを実現しました。\n\n方法：開発者は Claude Code をベースに、複数のデバイスから音の記録を行い、音の到達時間を比較します。周波数を調べる技術により雑音を排除し、発生源を特定します。さらに、追加のデバイスを置くべき位置を提案する機能も実装し、最終的に約 40cm の範囲で発生源を絞り込みました。\n\n本文に情報がない項目は推測せず「本文に記載なし」とします。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/11/mysterious-beeps/00_m.png",
+      "https://i.gzn.jp/img/2026/11/11/mysterious-beeps/snap9901_m.png",
+      "https://i.gzn.jp/img/2026/11/11/mysterious-beeps/beep-locator-ui_m.png",
+      "https://i.gzn.jp/img/2026/11/11/mysterious-beeps/snap9903_m.png",
+      "https://i.gzn.jp/img/2026/11/11/mysterious-beeps/snap9902_m.png",
+      "https://i.gzn.jp/img/2013/08/09/ultrasonic-networking/304078711_2311bd900f_o.jpg",
+      "https://i.gzn.jp/img/2013/05/28/button-trackr/top.jpg",
+      "https://i.gzn.jp/img/2018/02/14/mac-apps-can-record-screen/00_m.jpg",
+      "https://i.gzn.jp/img/2024/04/09/android-new-find-my-device/00_m.png",
+      "https://i.gzn.jp/img/2013/05/22/filr/5694516946_2d09eaee38_o.png",
+      "https://i.gzn.jp/img/2017/04/10/hacking-156-emergency-sirens/00_m.jpg",
+      "https://i.gzn.jp/img/2019/10/29/apple-airtag-tile-like-tracker/00_m.png",
+      "https://i.gzn.jp/img/2022/06/09/bluetooth-signals-identify-track-smartphones/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/11/why-learn-to-love-bitter-coffee/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/11/sewage-chemical-signature-university-exams/00_m.jpg"
+    ]
+  },
+  {
+    "id": "b014aae45cdb9d31",
+    "title": "最近話題のMuseとは",
+    "url": "https://qiita.com/kazutoyamaura/items/80488a5d5d1ad5a5fc46?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-11T06:02:52.000Z",
+    "status": "completed",
+    "category": "GENERAL",
+    "summary": "# メス・エージェントの導入と安全性\n\n Muse は Meta 社が提供するパーソナル AI エージェントであり、利用者が普段行っているコミュニケーションスタイルを維持しつつ、タスクを自動処理する機能を提供しています。サービスは 2026 年 9 月 8 日にアメリカ・カナダ・日本・シンガポールで展開され、アプリを閉じたまま作業を継続できる設計です。\n\n### メインチャットとサイドチャット\nメインチャットは全体の窓口として機能し、サイドチャットは個別のタスクや話題に専用チャットを設けました。この仕組みにより、会話の流れをスムーズに維持でき、ユーザーの状況変化にも反応します。また、「アイデアタブ」を通じて Muse が提案するカードをタップして、目的に沿った作業を開始できます。\n\n### プロアクティブ・エージェント\n指示を待たずに自ら動く AI エージェントとして、プロアクティブ・エージェントという仕組みが採用されています。バックグラウンドでジョブを動かすことで、利用者の目標や状況を定期確認し、適切なサイドチャットに提案します。誤りがあれば自動的に再検証して訂正します。\n\n### セキュリティ対策\nセキュリティは厳格な設計により、ユーザーの認証情報は VM 内で隔離されています。また、エージェントが実行する権限を制限し、本物のパスワードやトークンを見せることはできません。さらに、承認プロセスを段階的に設定することで、誤用リスクを最小化しています。\n\nこの技術により、開発者向けに自然な日本語で簡潔な操作を可能にしつつ、安全かつ効率的な作業を実現します。",
+    "imageUrls": []
+  },
+  {
+    "id": "abdd4ad8803aaf6d",
+    "title": "Modern Web Guidance 1.0: コーディング エージェントに欠けているウェブ プラットフォームの専門知識  |  Blog  |  Chrome for Developers",
+    "url": "https://developer.chrome.com/blog/modern-web-guidance-v1?hl=ja",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T05:51:20.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdeveloper.chrome.com%2Fblog%2Fmodern-web-guidance-v1%3Fhl%3Dja",
+    "category": "TUTORIAL",
+    "summary": "公開日：2026 年 11 月 10 日\n\n**テーマ：開発者向け AI 生成コードのレビューとプラットフォームの進化**\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\n現代のウェブ開発では、コーディングエージェントが自動化された時代が訪れました。しかし、AI が生成したコードを安全に検証し、高速化・アクセス性向上を実現するツールが必要です。この課題に対処するため、Google I/O で発表された「Modern Web Guidance」シリーズが注目されています。本リリースはバージョン 1.0 の安定版です。\n\n**結論：開発者向けに AI 生成コードのレビューとプラットフォームの進化を支援するガイドセット**\n\n**方法：課題解決と技術仕組み**\n課題は、既存のコードベースをスキャンし、エージェントが安全にモダナイゼーション（再構築）する機会を見つけられること。また、専門家が検証したクロスブラウザソルリューションによる AI ナレッジギャップのターゲット化です。これにより、すべてのガイドについて人間の専門家による詳細なレビューを実施し、完全な評価カバレッジを確保します。\n\nベースラインとブラウザの互換性データを基に、プロジェクトのニーズに合わせて推奨事項を調整する仕組みです。また、エージェント型ウェブ開発においてコード作成はワークフローの一部となり、実装確認を行うことで、プラットフォームの進化に対応しています。\n\n**本文に情報がない項目は推測せず「本文に記載なし」とします**\n（※本文には具体的な導入や結論の要約が含まれていませんが、上記の構成で補完しました）\n\n要約の視点：解決する課題、手順や仕組み、実践時の注意点\n\n開発者向けツールとして構築された「Modern Web Guidance」は、AI モデルによるコード生成を安全かつ効率的に活用します。インストールするにはコマンドを実行し、バージョン 1.0 に更新できます。\n\n主な機能は、以下の領域の改善を支援します。\n- **ベストプラクティス強化**：キーボードフォーカスやアニメーション管理などのユーザー補助機能のサポート。\n- **パフォーマンス最適化**：メインスレッドタスクスケジューリングやレイアウトシフト防止など。\n- **セキュリティ確保**：HTML サニタイズとパスキー認証情報の厳格なポリシー設定。\n- **エクスペリエンス向上**：スワイプ操作やダイアログ遷移の自動化。\n\n導入時の注意点として、プロジェクトディレクトリからコマンドを実行し、バージョン更新が必要です。また、エージェントとの組み合わせによるコード作成の効率化も重要なポイントです。",
+    "imageUrls": [
+      "https://developer.chrome.com/static/blog/modern-web-guidance-v1/image/agent-marketplaces.jpg?hl=ja"
+    ]
+  },
+  {
     "id": "3b330ac163128175",
     "title": "グーグル、新ドメイン「.eat」「.fly」「.here」の受付開始を発表",
     "url": "https://japan.cnet.com/article/35254705/",
@@ -118,6 +564,14 @@
     "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--bFL9DEr---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AEMod%25E3%2581%25A7%25E3%2580%2581GitHub%25E3%2581%25AB%25E7%25A7%25BB%25E5%258B%2595%25E3%2581%259B%25E3%2581%259A%25E4%25BD%259C%25E6%25A5%25AD%25E3%2581%2597%25E3%2581%25AA%25E3%2581%258C%25E3%2582%2589%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AEPR%25E3%2582%2592%25E7%25A2%25BA%25E8%25AA%258D%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ao%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBjM2Y3NTA0MTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E7%25B5%25B1%25E6%258B%25AC%25E9%2583%25A8%25E9%2596%2580%25E3%2580%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%25E7%25B7%25A8%25E9%259B%2586%25E5%25AE%25A4%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvcC5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
+    "id": "30d4eeefbc8475cf",
+    "title": "DDD・CQRS・イベント駆動を組み合わせたバックエンドアーキテクチャ設計",
+    "url": "https://qiita.com/ditchcrimson/items/ce71bf981e5cdd0bd8f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-11T04:46:01.000Z",
+    "status": "pending"
+  },
+  {
     "id": "6b4b3f0480d9147a",
     "title": "最近、大学生と話して大変だなと思ったのが、AIに月に２万円くらい（Maxプラン相当）は課金していないと、周りに差がつけられる/おいていかれる+生活費も上がっている、のでさらに関係ないものも含めてバイトを増やさなければならないという事情。 圧倒的な格差の拡大が見えないところにある。→「これ、どこまで本当だろうか 情報系など一部の学部に限った話？ それとも水産学や経営学、日本文学、体育学など全般？」",
     "url": "https://posfie.com/@kalofollow/p/kDMLpbM",
@@ -232,5 +686,14 @@
     "publishedAt": "2026-11-11T03:18:12.000Z",
     "status": "completed",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2155430.html"
+  },
+  {
+    "id": "57b21df517f5aac6",
+    "title": "NTTドコモで通信障害 原因調査中 | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261111de73934",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T02:57:22.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261111de73934"
   }
 ]
