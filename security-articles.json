@@ -1,5 +1,47 @@
 [
   {
+    "id": "8bdad5eddec179f5",
+    "title": "JetBrains製YouTrackにおけるクロスサイトスクリプティングの脆弱性",
+    "url": "https://jvn.jp/jp/JVN76799957/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-13T03:00:00.000Z"
+  },
+  {
+    "id": "1ff8c82d2e886e2a",
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月12日）",
+    "url": "https://jvn.jp/vu/JVNVU90821966/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-13T02:00:40.000Z"
+  },
+  {
+    "id": "8b44111b613877f8",
+    "title": "TightVNCおよびUltraVNCのWindows Viewerにおけるヒープベースのバッファオーバーフローの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU92656681/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-13T02:00:30.000Z"
+  },
+  {
+    "id": "f6777ef48840a86e",
+    "title": "ImageMagickを利用したアプリケーションにおける任意ファイル読み書きの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU95718857/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-13T02:00:20.000Z"
+  },
+  {
+    "id": "8eb90b3b74bcc558",
+    "title": "PromZardにおけるリモートコード実行の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU98641453/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-13T02:00:10.000Z"
+  },
+  {
+    "id": "c9e25ed52ef8d87e",
+    "title": "ComfyUIのComfyUI-Easy-Use拡張機能における認証不要のパストラバーサルの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU99429639/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-13T02:00:00.000Z"
+  },
+  {
     "id": "ebfb9852b8ec5f70",
     "title": "BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）",
     "url": "https://jvn.jp/vu/JVNVU97400824/",
