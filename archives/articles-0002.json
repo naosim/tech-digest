@@ -1,5 +1,281 @@
 [
   {
+    "id": "3d44ea2ca088269c",
+    "title": "【GASとVertexAIとLangChain】ローカルでも動作するように環境を構成する",
+    "url": "https://zenn.dev/aiforall/articles/ec21f8fb22971c",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-13T08:13:05.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--0hCrl_zL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590GAS%25E3%2581%25A8VertexAI%25E3%2581%25A8LangChain%25E3%2580%2591%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E3%2581%25A7%25E3%2582%2582%25E5%258B%2595%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E6%25A7%258B%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25B8%25E3%2581%2584%25E3%2581%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA3ODlkYTQ2NWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25BA%2520AI%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2591%25E3%2583%258B%25E3%2583%25BC%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlNTczY2Y0MzIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "a0358d304ec20190",
+    "title": "「この余白を2mmに」で直るチラシデザイン。Claude Codeと入稿まで。",
+    "url": "https://qiita.com/nttdata-ccs-techblog/items/71f81eba6a4bcf4de1df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T08:00:27.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "40467b9b12a4f446",
+    "title": "良品計画への不正アクセスについてまとめてみた - piyolog",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/13/162738",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T07:47:29.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F13%2F162738"
+  },
+  {
+    "id": "50a744fa85a721c4",
+    "title": "AIユーザーの平均労働時間は非AIユーザーより最大で90分長いことが判明",
+    "url": "https://gigazine.net/news/20261113-ai-users-have-long-worktime-than-non-ai-users/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T07:26:33.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261113-ai-users-have-long-worktime-than-non-ai-users%2F"
+  },
+  {
+    "id": "02aa6cc32eee76af",
+    "title": "TypeScriptの有用性を、実際に動かして確かめてみた",
+    "url": "https://qiita.com/MC_Engineer_Mtfuji/items/bef09d7c9e1288f38ad3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T07:20:36.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "2e494f2ccc4a6aa9",
+    "title": "バックアップ HDD の「静かな死」を防ぐ仕組み ― smartctl でヘルスチェック",
+    "url": "https://qiita.com/r-jw/items/bd4721fccc457bf8e64a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T07:15:13.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e5c615ea92a81ce3",
+    "title": "「Microsoft 365」の障害、発生から12時間を突破 ～メールサービスを中心に影響が拡大【16:45追記】／悪意ある攻撃ではない模様。解決に向けて明るい兆しが見えるも引き続き障害継続中【やじうまの杜】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2156298.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T06:55:30.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fserial%2Fyajiuma%2F2156298.html"
+  },
+  {
+    "id": "60fae97d9051d85e",
+    "title": "【Microsoft Fabric 入門 #1】60日間の試用版を始める手順",
+    "url": "https://qiita.com/Gen1112/items/99f80fa4e032f7b8de59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T06:53:30.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "33fb7d2de4dd26c6",
+    "title": "絶対に「お金の管理」だけはAIに任せてはならない理由",
+    "url": "https://japan.cnet.com/article/35254833/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T06:34:21.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254833%2F"
+  },
+  {
+    "id": "6275c7cbb06686a2",
+    "title": "初めてのチーム開発で効いたのは「同じものを見る」こと——ハッカソン2位の工夫と、ぶつかって学んだこと",
+    "url": "https://qiita.com/mmsbox/items/5f1486a1887f21218ee0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T06:33:23.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "9487434d9566dafa",
+    "title": "aws-emulatorにTerraformでリソースを作成できるか試してみる | フューチャー技術ブログ",
+    "url": "https://future-architect.github.io/articles/20261113a/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T06:21:05.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ffuture-architect.github.io%2Farticles%2F20261113a%2F"
+  },
+  {
+    "id": "bc67ba2d498edf34",
+    "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
+    "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T06:02:40.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fkaramage%2Farticles%2F5c3f8370b2b370"
+  },
+  {
+    "id": "c147822c87f36aba",
+    "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
+    "url": "https://ktlog.net/posts/claude-code-ai-ecosystem",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T05:21:58.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fktlog.net%2Fposts%2Fclaude-code-ai-ecosystem"
+  },
+  {
+    "id": "a2a04bd70fd10794",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 45",
+    "url": "https://qiita.com/maskot1977/items/6d3f5c504360cf7858c4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T05:06:38.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "cfbb42017aa38654",
+    "title": "「磁気テープ」再注目　生成AIの普及でデータ量莫大に　情報流出リスク低く需要高まる（テレビ朝日系（ANN）） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/5797fd48c4bd5ca4579498f09aa3fb2484b110b1",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T04:54:49.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.yahoo.co.jp%2Farticles%2F5797fd48c4bd5ca4579498f09aa3fb2484b110b1"
+  },
+  {
+    "id": "d1d260f31b76cca9",
+    "title": "Microsoft 365の接続障害が長期化　OutlookやCopilotなどに影響",
+    "url": "https://www.watch.impress.co.jp/docs/news/2156244.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T04:50:03.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fnews%2F2156244.html"
+  },
+  {
+    "id": "d108e2c604a7272a",
+    "title": "「Qoo10」不正アクセス、個人情報漏えい　「住所の地理座標」や「身体的特徴」も対象の可能性",
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003186/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T04:40:27.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F13%2F2000003186%2F"
+  },
+  {
+    "id": "f12721b3b8a68fb0",
+    "title": "Claude Fable 5.2はOpusの単価2倍、でも1タスクは約半額!? Mythos5.2との違いと使いどころ",
+    "url": "https://qiita.com/ryosuke_ohori/items/17995524b433cf04fd55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T04:26:32.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "6cc6563b2cef0387",
+    "title": "本番(prod)サーバーに自動処理を組んだのでまとめ",
+    "url": "https://qiita.com/metappi/items/b2319478cd692c9b492f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T04:23:59.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "5f3836ec490288c3",
+    "title": "虎柄ロボットに「阪神君」と命名　首相、フィジカルAIを体験　関連企業と意見交換",
+    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003182/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T04:20:24.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F13%2F2000003182%2F"
+  },
+  {
+    "id": "e7ebc7c94dc063c0",
+    "title": "QuarkusのCycloneDX ExtensionでSBOMを生成・埋め込み、実行中のアプリから取得してみた",
+    "url": "https://qiita.com/autonomura/items/15e2fdda0840f4a9c7e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T03:40:48.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "ecf1631fef5c96c8",
+    "title": "Unityを選ぶ企業は赤字体質である。",
+    "url": "https://qiita.com/roripika/items/bdeb5537efc1f27af726?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T03:29:15.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8d66c314a3d844fd",
+    "title": "2026年11月に発生したMicrosoft 365の接続障害についてまとめてみた - piyolog",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/13/114230",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T03:20:28.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F13%2F114230"
+  },
+  {
+    "id": "59572d3a6d5d938c",
+    "title": "AWS SAAに737点で合格。Udemyの講座を流し見して、模擬試験に集中した話",
+    "url": "https://qiita.com/ktdatascience/items/2e52969a445c07cd3ff4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T03:07:04.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "9aed5e1b1c457db8",
+    "title": "Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2156117.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T02:57:17.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2156117.html"
+  },
+  {
+    "id": "260b2f24e6f19f6b",
+    "title": "生成AI時代のちょっとしたツール開発で、TypeScriptの直接実行を活用",
+    "url": "https://zenn.dev/imsh/articles/f07297354cfd88",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-13T02:51:31.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--_PzztnR9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2581%25A1%25E3%2582%2587%25E3%2581%25A3%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25A7%25E3%2580%2581TypeScript%25E3%2581%25AE%25E7%259B%25B4%25E6%258E%25A5%25E5%25AE%259F%25E8%25A1%258C%25E3%2582%2592%25E6%25B4%25BB%25E7%2594%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:imsh%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmOWZjMjc2YjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "1807481fe5acb195",
+    "title": "GoogleのGemini搭載スマートグラス「Intelligent Eyewear」が予約受付開始、70以上の言語のリアルタイム翻訳やハンズフリーでのAI操作が可能",
+    "url": "https://gigazine.net/news/20261113-google-intelligent-eyewear/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T02:41:14.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261113-google-intelligent-eyewear%2F"
+  },
+  {
+    "id": "d83b3cd3f837d094",
+    "title": "意外な用途も？ 日本語のローマ字入力が限界まで遅くなる「史上最悪のキー配列」が公開中【やじうまWatch】",
+    "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2156140.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T02:38:21.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Finternet.watch.impress.co.jp%2Fdocs%2Fyajiuma%2F2156140.html"
+  },
+  {
+    "id": "ba5df5352b53eeac",
+    "title": "Claude Codeに同じ調査を繰り返させないためのメモの残し方",
+    "url": "https://qiita.com/kentasatomi/items/06ccfbf7f6a2a24883ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T02:34:48.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "dfef5851101dbc3e",
+    "title": "Microsoft、Linux版「Autoruns」を公開 ～自動起動するプログラムを洗い出せるSysinternalsツール／「Rust」言語で開発。「systemd」や「cron」、ブラウザー拡張機能などをカバー",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2155574.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T02:33:31.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2155574.html"
+  },
+  {
+    "id": "c83f28a4964a6818",
+    "title": "【笠原一輝のユビキタス情報局】 フアン氏辞任のNVIDIA、33年の成功を支えたCUDAと次のリーダーの条件",
+    "url": "https://pc.watch.impress.co.jp/docs/column/ubiq/2156149.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T02:15:10.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fubiq%2F2156149.html"
+  },
+  {
+    "id": "d68bdb0502999af3",
+    "title": "TS/JSでasync関数の実行を直列化する",
+    "url": "https://zenn.dev/algoartis/articles/sequence-async",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-13T02:13:38.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--VMYl3SkO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TS%252FJS%25E3%2581%25A7async%25E9%2596%25A2%25E6%2595%25B0%25E3%2581%25AE%25E5%25AE%259F%25E8%25A1%258C%25E3%2582%2592%25E7%259B%25B4%25E5%2588%2597%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:rk%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I1M2Y5MDFhMWYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:ALGO%2520ARTIS%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlmYTI4ZjI0NDYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
     "id": "e59c77d90cdd429c",
     "title": "「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない",
     "url": "https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -2508,6 +2784,17 @@
     "status": "completed",
     "category": "TUTORIAL",
     "summary": "# 経済的自滅と教育投資の二重効果\n\n本動画は、国家経済を自滅させる政府政策を客観的に解明するポッドキャストです。記事では「財源幻想」という誤解と、教育投資の真の経済的制約を解説します。\n\n## 課題と解決方法\n課題は、個人の家計のルールを適用して政府の財政を制限する誤解であり、これが経済を自滅させる問題です。解決策は、現代貨幣理論や機能的財政の視点に基づき、政府支出の本当の制限を「インフレ率」という実物資源に理解することです。\n\n## 仕組みとプロセス\n教育投資は短期的な需要効果（ケインズ効果）と長期的な供給・成長効果（AKモデル）の両方を同時に支える「二重のエンジン」です。財源不足により、この二つのエンジンが逆回転し、短期的な景気冷え込みと将来の成長力破壊を招きます。\n\n## 実践的な注意点\n現実社会への影響として、研究者の雇用不安定化や投資の短期化が問題となります。経済モデルを基礎とし、政府政策を修正する上で重要な視点です。\n\n本文では専門用語は短く説明されていますが、重要な概念は正確に理解することが重要です。",
+    "imageUrls": []
+  },
+  {
+    "id": "6e3ed2b977931699",
+    "title": "耳で聞く！ システム設計 視点の 行動経済学 3",
+    "url": "https://qiita.com/maskot1977/items/09d92705ae323e88fca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-11T02:29:49.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\nこの記事は、国家の財政破綻とシステム設計の根本問題について、技術的視点から解説しています。主な課題は、「財源幻想」という認識のバグであり、供給能力を守るシステム設計を追求するものです。\n\n## 結論\n\n財源主義に基づく国家設計は、供給能力の低下に陥り、自滅する危険性があります。解決策はインセンティブ構造の再設計と継続的なシステム監視・アップデートです。\n\n## 方法\n\n課題を解決するために、以下の技術的アプローチが推奨されます。\n1. **報酬ハッキングの回避**：AI や人間社会における指標ハックの仕組みを避けることで、本質的な価値創造を促進します。\n2. **ロバストなシステム設計**：1 人のハッカーで崩壊するシステムを設計し、堅牢性を確保します。\n3. **不信コストの削減**：信頼関係の維持のために不必要な防衛コストを削減し、資源を新たな価値創造に活用します。\n\n本文では、この解決策について具体的なアクションプランと、システム設計の継続的な「監査とアップデート」が強調されています。",
     "imageUrls": []
   }
 ]

@@ -1,16 +1,5 @@
 [
   {
-    "id": "6e3ed2b977931699",
-    "title": "耳で聞く！ システム設計 視点の 行動経済学 3",
-    "url": "https://qiita.com/maskot1977/items/09d92705ae323e88fca8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-11T02:29:49.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "# 課題と解決方法\n\nこの記事は、国家の財政破綻とシステム設計の根本問題について、技術的視点から解説しています。主な課題は、「財源幻想」という認識のバグであり、供給能力を守るシステム設計を追求するものです。\n\n## 結論\n\n財源主義に基づく国家設計は、供給能力の低下に陥り、自滅する危険性があります。解決策はインセンティブ構造の再設計と継続的なシステム監視・アップデートです。\n\n## 方法\n\n課題を解決するために、以下の技術的アプローチが推奨されます。\n1. **報酬ハッキングの回避**：AI や人間社会における指標ハックの仕組みを避けることで、本質的な価値創造を促進します。\n2. **ロバストなシステム設計**：1 人のハッカーで崩壊するシステムを設計し、堅牢性を確保します。\n3. **不信コストの削減**：信頼関係の維持のために不必要な防衛コストを削減し、資源を新たな価値創造に活用します。\n\n本文では、この解決策について具体的なアクションプランと、システム設計の継続的な「監査とアップデート」が強調されています。",
-    "imageUrls": []
-  },
-  {
     "id": "2caf91dd6694e8ae",
     "title": "「画面数×人月」はもう通じない？見積もり単位の変遷と、バイブコーディング時代の見積もり書",
     "url": "https://qiita.com/TH_stickey/items/f55fb76055988cf9d0ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -2217,6 +2206,15 @@
     "source": "Qiita Popular",
     "publishedAt": "2026-11-08T13:24:19.000Z",
     "status": "pending"
+  },
+  {
+    "id": "6da1ea920be7c4b4",
+    "title": "GitHub - libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux",
+    "url": "https://github.com/libracoder/kiri",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-08T13:13:52.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.com%2Flibracoder%2Fkiri"
   },
   {
     "id": "d82134415d4d3786",
