@@ -1,5 +1,84 @@
 [
   {
+    "id": "77ad4b5e0c1f8f09",
+    "title": "今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi",
+    "url": "https://note.com/at_sushi_at/n/n2e6ea3453e37",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T09:51:50.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fat_sushi_at%2Fn%2Fn2e6ea3453e37"
+  },
+  {
+    "id": "d6009a1c52124890",
+    "title": "「この漫画って誰が作ってるの?」Claude Code の複数エージェントで株価の漫画を毎日出す仕組み",
+    "url": "https://zenn.dev/satowan/articles/claude-code-multi-agent-manga-pipeline",
+    "source": "Zenn (playwright)",
+    "publishedAt": "2026-11-15T07:47:17.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--lvJIskCv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2581%2593%25E3%2581%25AE%25E6%25BC%25AB%25E7%2594%25BB%25E3%2581%25A3%25E3%2581%25A6%25E8%25AA%25B0%25E3%2581%258C%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%258B%25E3%2581%25AE%253F%25E3%2580%258DClaude%2520Code%2520%25E3%2581%25AE%25E8%25A4%2587%25E6%2595%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A7%25E6%25A0%25AA%25E4%25BE%25A1%25E3%2581%25AE%25E6%25BC%25AB%25E7%2594%25BB%25E3%2582%2592%25E6%25AF%258E%25E6%2597%25A5%25E5%2587%25BA%25E3%2581%2599%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2595%25E3%2581%25A8%25E3%2582%258F%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QxMDk1ZGMxNTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "cbfc9166dfa6bd5c",
+    "title": "『バックエンドの知識地図』を読んだ感想 ─ 現代のバックエンド学習をつなぐ一冊",
+    "url": "https://qiita.com/tomokusaba/items/015330c008f62355894c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-15T06:42:37.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "805ab52aaff9cb68",
+    "title": "【速報】スペースXの「スターシップ」が発射台に初帰還！　第15回飛行試験でキャッチ成功",
+    "url": "https://sorae.info/space/20261115-starship-15.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T05:42:37.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsorae.info%2Fspace%2F20261115-starship-15.html"
+  },
+  {
+    "id": "b9bfdf18920c3c33",
+    "title": "プラレールの上を走るペンプロッタを、人間と一緒に作った話【前編】――作る話｜Kohya S.",
+    "url": "https://note.com/kohya_ss/n/nb028d0974cdd",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T05:01:38.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fkohya_ss%2Fn%2Fnb028d0974cdd"
+  },
+  {
+    "id": "d4b93f9bdee33d29",
+    "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
+    "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T04:23:12.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Funsoluble_sugar%2Farticles%2F8cdf1efc01e6cb"
+  },
+  {
+    "id": "cc5a2edc3b455d39",
+    "title": "グーグルに16年間勤務、55歳で突然解雇…スーパーのレジ係に転職した私が直面した「3つの試練」",
+    "url": "https://crea.bunshun.jp/articles/-/60720",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T04:22:33.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcrea.bunshun.jp%2Farticles%2F-%2F60720"
+  },
+  {
+    "id": "9028c3fa26ca5dd2",
+    "title": "【入緑記事】凡人向け入緑記事（灰色～入緑まで）",
+    "url": "https://qiita.com/akih1r/items/13b55d807e8e085247c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-15T03:46:52.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "679187892d1c9134",
+    "title": "Claude Codeに同じ調査を繰り返させないためのメモの残し方 - Qiita",
+    "url": "https://qiita.com/kentasatomi/items/06ccfbf7f6a2a24883ff",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T03:23:23.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Fkentasatomi%2Fitems%2F06ccfbf7f6a2a24883ff"
+  },
+  {
     "id": "13a00b1397edcfb5",
     "title": "独プールで15人体調不良　マイクロソフト障害影響 | NEWSjp",
     "url": "https://news.jp/i/1494496378441958289",
@@ -18,6 +97,14 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.yomiuri.co.jp%2Fscience%2F20261112-GYT1T00160%2F"
   },
   {
+    "id": "f416c6ebad3f3916",
+    "title": "AWS Client VPNの設定でハマったポイントとその過程で得た気づき",
+    "url": "https://qiita.com/amarelo_n24/items/f9b563de2eeeb8d3f8cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-15T02:09:26.000Z",
+    "status": "pending"
+  },
+  {
     "id": "6a9e11ad18f3bf9e",
     "title": "pingしながら問題の切り分けまでしてくれるspingが良さげかも | kawarimidoll.com",
     "url": "https://kawarimidoll.com/posts/202610201/",
@@ -27,6 +114,51 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fkawarimidoll.com%2Fposts%2F202610201%2F"
   },
   {
+    "id": "7e744903f0023b5b",
+    "title": "Vue 3 × Vuetify 3 / Bootstrap 5 の画面設計・AIイベント実装・APIモックを1画面で完結させるWeb RAD",
+    "url": "https://zenn.dev/t_shamoji/articles/fbae478379db50",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-15T01:35:39.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--mQZKTCod--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Vue%25203%2520%25C3%2597%2520Vuetify%25203%2520%252F%2520Bootstrap%25205%2520%25E3%2581%25AE%25E7%2594%25BB%25E9%259D%25A2%25E8%25A8%25AD%25E8%25A8%2588%25E3%2583%25BBAI%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E5%25AE%259F%25E8%25A3%2585%25E3%2583%25BBAPI%25E3%2583%25A2%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25921%25E7%2594%25BB%25E9%259D%25A2...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2582%2583%25E3%2582%2582%25E3%2581%2598%25E5%25A4%25AA%25E9%2583%258E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdhOTAwYjNlZDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "174a6846a0d9134f",
+    "title": "離れた人と同じタイマーを見る ― 身内用の同期タイマーを、ログイン不要の公開版「Tomo Timer」に作り直した",
+    "url": "https://zenn.dev/hayhide23/articles/tomo-timer-firebase-sync",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-15T01:28:20.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--z_TuQR7S--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259B%25A2%25E3%2582%258C%25E3%2581%259F%25E4%25BA%25BA%25E3%2581%25A8%25E5%2590%258C%25E3%2581%2598%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%259E%25E3%2583%25BC%25E3%2582%2592%25E8%25A6%258B%25E3%2582%258B%2520%25E2%2580%2595%2520%25E8%25BA%25AB%25E5%2586%2585%25E7%2594%25A8%25E3%2581%25AE%25E5%2590%258C%25E6%259C%259F%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%259E%25E3%2583%25BC%25E3%2582%2592%25E3%2580%2581%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E4%25B8%258D%25E8%25A6%2581%25E3%2581%25AE%25E5%2585%25AC%25E9%2596%258B%25E7%2589%2588%25E3%2580%258CTomo%2520Timer%25E3%2580%258D%25E3%2581%25AB%25E4%25BD%259C%25E3%2582%258A%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2580%25B1%25E6%259C%25AB%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDdWdENBemZRZjF3anpwOU5uZXllRzBBTUtZdlBER1lzcFZxaktSQlBXdlJBc2hBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "ceaca00c7d6c75a0",
+    "title": "E2E、全部の PR で回す必要ある？ コストと安全性を両立する、リリース前とラベルの使い分け",
+    "url": "https://zenn.dev/tzp/articles/5f96fc39fe1014",
+    "source": "Zenn (playwright)",
+    "publishedAt": "2026-11-15T01:24:11.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--CID7oBFT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:E2E%25E3%2580%2581%25E5%2585%25A8%25E9%2583%25A8%25E3%2581%25AE%2520PR%2520%25E3%2581%25A7%25E5%259B%259E%25E3%2581%2599%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%2582%25E3%2582%258B%25EF%25BC%259F%2520%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A8%25E5%25AE%2589%25E5%2585%25A8%25E6%2580%25A7%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2599%25E3%2582%258B%25E3%2580%2581%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E5%2589%258D%25E3%2581%25A8%25E3%2583%25A9%25E3%2583%2599%25E3%2583%25AB%25E3%2581%25AE%25E4%25BD%25BF%25E3%2581%2584%25E5%2588%2586%25E3%2581%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A6%25E3%2581%25A5%25E3%2581%25A3%25E3%2581%25B4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NiM2I5ZjA5N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "291d3ded8aa33b49",
+    "title": "相手6匹を入れると「出す3匹」を理由付きで教えてくれるアプリを自作して、マスターボール級達成【ポケモンチャンピオンズ】",
+    "url": "https://zenn.dev/potato_revo/articles/7bc3c249016e46",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-15T01:09:35.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--pHIaVCsg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%259B%25B8%25E6%2589%258B6%25E5%258C%25B9%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%25E3%2581%25A8%25E3%2580%258C%25E5%2587%25BA%25E3%2581%25993%25E5%258C%25B9%25E3%2580%258D%25E3%2582%2592%25E7%2590%2586%25E7%2594%25B1%25E4%25BB%2598%25E3%2581%258D%25E3%2581%25A7%25E6%2595%2599%25E3%2581%2588%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258C%25E3%2582%258B%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E7%25B4%259A%25E9%2581%2594%25E6%2588%2590%25E3%2580%2590%25E3%2583%259D%25E3%2582%25B1%25E3%2583%25A2%25E3%2583%25B3%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2594%25E3%2582%25AA%25E3%2583%25B3%25E3%2582%25BA%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BD%25E3%2581%25A6%25E3%2581%25A8%25E7%25B6%25AD%25E6%2596%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ5NTc1Njg2ZWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "62f27d151e38bd99",
+    "title": "「信号機の画像を選んでください」にサヨナラ。Cloudflare Turnstile を SPA に組み込んだらボット対策とUXの両立が最高",
+    "url": "https://zenn.dev/92me/articles/704e376f0b35b4",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-15T01:00:05.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--fqCHSK2R--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E4%25BF%25A1%25E5%258F%25B7%25E6%25A9%259F%25E3%2581%25AE%25E7%2594%25BB%25E5%2583%258F%25E3%2582%2592%25E9%2581%25B8%25E3%2582%2593%25E3%2581%25A7%25E3%2581%258F%25E3%2581%25A0%25E3%2581%2595%25E3%2581%2584%25E3%2580%258D%25E3%2581%25AB%25E3%2582%25B5%25E3%2583%25A8%25E3%2583%258A%25E3%2583%25A9%25E3%2580%2582Cloudflare%2520Turnstile%2520%25E3%2582%2592%2520SPA%2520%25E3%2581%25AB%25E7%25B5%2584%25E3%2581%25BF%25E8%25BE%25BC%25E3%2582%2593%25E3%2581%25A0%25E3%2582%2589%25E3%2583%259C...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:92.M.E.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2V4Sl94Y0hsNERLN1p2UkhoOVpWSFRPOVQ5V0p2eTRmbW1vaHY1ZTF2Y3c2Y1pjRUI9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
     "id": "b2cab59406a7bcf5",
     "title": "Not todo: 技術者倫理がなければ作る予定だったもの一覧 | ActiveTK's Note",
     "url": "https://note.activetk.jp/etc/uncensored-dev-list",
@@ -34,6 +166,32 @@
     "publishedAt": "2026-11-15T00:59:00.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.activetk.jp%2Fetc%2Funcensored-dev-list"
+  },
+  {
+    "id": "0512d7ae5f2a8df2",
+    "title": "AIアシスタント「Grok Bot」をセットアップして、メール整理から献立・買い物エージェントまで作ってみた",
+    "url": "https://qiita.com/junko105106/items/dbf759f029e31a5fa325?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-15T00:48:37.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "480d8924f7e22fa2",
+    "title": "TypeScriptのnoUncheckedIndexedAccessで配列・辞書のundefined事故を防ぐ",
+    "url": "https://zenn.dev/sponge841841/articles/2026-11-06-typescript-no-unchecked-indexed-access",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-15T00:01:51.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--6d2jK0gX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TypeScript%25E3%2581%25AEnoUncheckedIndexedAccess%25E3%2581%25A7%25E9%2585%258D%25E5%2588%2597%25E3%2583%25BB%25E8%25BE%259E%25E6%259B%25B8%25E3%2581%25AEundefined%25E4%25BA%258B%25E6%2595%2585%25E3%2582%2592%25E9%2598%25B2%25E3%2581%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A1%25E3%2581%25A3%25E3%2581%25A1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgzMDYyMzRhYzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "709df486be58916b",
+    "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
+    "url": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T00:01:08.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261115-ai-isnt-replacing-sres-its-deskilling%2F"
   },
   {
     "id": "974071e406155489",
@@ -52,6 +210,31 @@
     "publishedAt": "2026-11-14T23:39:10.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F15%2F2000003207%2F"
+  },
+  {
+    "id": "24976b96ba7e2a6c",
+    "title": "Chromium Embedded Framework (CEF) のROMとRAMの使用量をローエンド機向けにどこまで削減できるか？",
+    "url": "https://qiita.com/rairaii/items/bad396ec591698160afb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T23:08:45.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1d055fdace7e3239",
+    "title": "AIが書いたコードは使って確かめる ― 舞台アプリ開発のレビュー記録",
+    "url": "https://qiita.com/oosawak@github/items/a93703112834983bc1f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T23:01:56.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1b2dbb14c7e8f263",
+    "title": "Linux Kernel Internals",
+    "url": "https://kernel-internals.org/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T22:39:53.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fkernel-internals.org%2F"
   },
   {
     "id": "7bab7d840af812a2",
@@ -99,6 +282,31 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Faws.amazon.com%2Fjp%2Fblogs%2Fnews%2Fpractical-steps-to-minimize-key-exposure-using-aws-security-services%2F"
   },
   {
+    "id": "abc73ee46472b49e",
+    "title": "【Vitest + RTL】Reactアプリをテストする",
+    "url": "https://qiita.com/ryu0947/items/f9d1cf940005b7a7909a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T15:35:42.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "7da58d3dd07f6e75",
+    "title": "社長の一言は重い。RAGにも忖度させてみた（重み付け検索）",
+    "url": "https://qiita.com/kikuziro/items/43b360420d0cdcbf190c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T15:30:41.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "dec183a037cb9e95",
+    "title": "自作フィードリーダーを作った - A Day in the Life",
+    "url": "https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T15:23:09.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsecon.dev%2Fentry%2F2026%2F11%2F12%2F220000-my-own-feed-reader%2F"
+  },
+  {
     "id": "ec4816d8d96c79e6",
     "title": "AI悪用の攻撃拠点、千台発見　サイトの弱点探索、不正侵入疑い",
     "url": "https://www.47news.jp/15231027.html",
@@ -106,6 +314,15 @@
     "publishedAt": "2026-11-14T14:55:47.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.47news.jp%2F15231027.html"
+  },
+  {
+    "id": "f91aaf8d31347505",
+    "title": "Netflixが値上げ　最安の広告つきプランは月額990円、4K対応「プレミアム」は2590円に",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2611/14/news017.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T14:13:58.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F14%2Fnews017.html"
   },
   {
     "id": "5c62c52b7c5e2cf5",
@@ -205,6 +422,24 @@
     "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--6Cg78RVV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Nuxt%25204%25E3%2581%25AE%25E5%25A4%259A%25E8%25A8%2580%25E8%25AA%259ESSG%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2581%25A7%25E3%2580%2581%25E3%2583%258F%25E3%2582%25A4%25E3%2583%2589%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E5%25BE%258C%25E3%2581%25AB%25E8%25A8%2580%25E8%25AA%259E%25E8%25A8%25AD%25E5%25AE%259A%25E3%2582%2592%25E5%258F%258D%25E6%2598%25A0%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ExtMax%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDl3ajRmRWMwdWVGZWdOOVZKQWhMSGV1TVE4NzJrNWFLazlsM3E0ZWF2MGRveWJBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
+    "id": "83b1b7dbe183c670",
+    "title": "E2E Test というハーネス — AI時代の自動テスト民主化",
+    "url": "https://speakerdeck.com/daishukojima/ttf2026-e2e-test-harness",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T09:13:27.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fdaishukojima%2Fttf2026-e2e-test-harness"
+  },
+  {
+    "id": "40539638c8049dda",
+    "title": "iPad mini を「持ち歩ける仕事道具」にしたアクセサリ｜Kyohei - OSS, 外資IT",
+    "url": "https://note.com/kyohei_dev/n/ncd04abe5aebc",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T08:56:30.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fkyohei_dev%2Fn%2Fncd04abe5aebc"
+  },
+  {
     "id": "a2e04494b7e95c06",
     "title": "AI時代に小さく出すなら、まず Hono + Cloudflare Workers",
     "url": "https://zenn.dev/yu_uya_h/articles/hono-react-cloudflare-workers-spa-api",
@@ -241,6 +476,15 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcrea.bunshun.jp%2Farticles%2F-%2F60719"
   },
   {
+    "id": "59ec20e4f199dee3",
+    "title": "マザーボードは、ほぼ壊れない ―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序",
+    "url": "https://clivelab.jp/blogs/news/motherboard-rarely-fails",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T07:57:47.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fclivelab.jp%2Fblogs%2Fnews%2Fmotherboard-rarely-fails"
+  },
+  {
     "id": "451eddb843c1bd82",
     "title": "AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 | The Update",
     "url": "https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/",
@@ -263,6 +507,14 @@
     "url": "https://qiita.com/Nana_777/items/6be40f2779bb25e69484?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-14T07:28:23.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "890f0a58378cae11",
+    "title": "最初に「あい」を学ぶことば日本語でプログラミング入門 「Mindで定番アルゴリズム」リンク集",
+    "url": "https://qiita.com/mylifewithviolin/items/9b3f33b109264928752b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T07:10:21.000Z",
     "status": "pending"
   },
   {
@@ -290,6 +542,14 @@
     "publishedAt": "2026-11-14T06:30:52.000Z",
     "status": "pending",
     "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Damx9OiO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%259B%25BD%25E5%258B%25A2%25E8%25AA%25BF%25E6%259F%25BB%25E3%2581%25AE%25E5%25B0%25B1%25E6%25A5%25AD%25E8%2580%2585%25E6%2595%25B0%25E3%2582%2592%25E8%2581%25B7%25E6%25A5%25AD%25E3%2582%25AC%25E3%2583%2581%25E3%2583%25A3%25E3%2581%25AE%25E6%258E%2592%25E5%2587%25BA%25E7%258E%2587%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E2%2580%2595%25E2%2580%25954%252C509%25E8%2581%25B7%25E5%2590%258D%25E3%2581%25AE%25E7%25A2%25BA%25E7%258E%2587%25E3%2581%25A8%25E8%2590%25BD%25E3%2581%25A8%25E3%2581%2597%25E7%25A9%25B4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:caspworks%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRmYjcyOWYzYmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "71c4f76a67a45a6a",
+    "title": "RTX 5070 TiでローカルAI VTuberを自作した話 ― Ollama × Live2D × TTS",
+    "url": "https://qiita.com/4eena/items/acf90b128e188791bb48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T06:16:38.000Z",
+    "status": "pending"
   },
   {
     "id": "5b1dcd6940ed51f0",
@@ -324,6 +584,14 @@
     "publishedAt": "2026-11-14T04:56:46.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2156192.html"
+  },
+  {
+    "id": "05d67d1dc6c79867",
+    "title": "AWS Security ハンズオンで学ぶ、フロンティアモデルを活用したコードレビュー",
+    "url": "https://qiita.com/soulgemanalyst/items/20e7c72cc2006a331445?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T04:54:47.000Z",
+    "status": "pending"
   },
   {
     "id": "d9c5b02bf9db0e2f",
@@ -387,6 +655,15 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fnews%2F2156470.html"
   },
   {
+    "id": "7616d128c8d95aad",
+    "title": "【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に - BBCニュース",
+    "url": "https://www.bbc.com/japanese/articles/cmy5xy6yvn95o",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T02:40:37.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.bbc.com%2Fjapanese%2Farticles%2Fcmy5xy6yvn95o"
+  },
+  {
     "id": "26a46cce7cf42b66",
     "title": "An update on our recent security incident · Cursor",
     "url": "https://cursor.com/blog/security-incident-update",
@@ -394,6 +671,14 @@
     "publishedAt": "2026-11-14T02:05:25.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcursor.com%2Fblog%2Fsecurity-incident-update"
+  },
+  {
+    "id": "00f0406735595cdb",
+    "title": "エンジニアなら全問正解したい！セキュリティ攻撃手法の一問一答15問【答えは折りたたみ】",
+    "url": "https://qiita.com/pds_siken/items/a7032fe29f9ec113463b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T01:35:50.000Z",
+    "status": "pending"
   },
   {
     "id": "12dd858d4f8a7822",
@@ -437,6 +722,14 @@
     "publishedAt": "2026-11-14T00:52:42.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fclaude.com%2Fresources%2Farticles%2Fbuilding-always-on-agents"
+  },
+  {
+    "id": "398e6db319304a10",
+    "title": "0。3回連続で拒否されてきた`git checkout -B main origin/main`を、今日2つのリポジトリに投げたら、拒否された回数はこの数字だった",
+    "url": "https://qiita.com/Hideki_Tamae/items/d67159e5cde6132eab13?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T00:48:49.000Z",
+    "status": "pending"
   },
   {
     "id": "cd7e9fe42638e89d",
@@ -490,6 +783,15 @@
     "publishedAt": "2026-11-13T23:23:29.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F14%2F2000003193%2F"
+  },
+  {
+    "id": "bad9040f6254111c",
+    "title": "エヌビディアめぐるスパイ疑惑の女性が設立した中国企業、輸出禁止のAI半導体を入手 米報道",
+    "url": "https://www.afpbb.com/articles/-/3662361",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T23:07:12.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.afpbb.com%2Farticles%2F-%2F3662361"
   },
   {
     "id": "02f8a0eed1fadfdd",
@@ -570,314 +872,5 @@
     "publishedAt": "2026-11-13T21:16:23.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fpcuser%2Farticles%2F2611%2F14%2Fnews013.html"
-  },
-  {
-    "id": "2bb21d513db95555",
-    "title": "AI返信の約束を送信前に検出する：納期・料金・次の行動の承認ゲート",
-    "url": "https://zenn.dev/miraigent/articles/ai-reply-promise-review-gate",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-13T20:48:42.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--argNGxUI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E8%25BF%2594%25E4%25BF%25A1%25E3%2581%25AE%25E7%25B4%2584%25E6%259D%259F%25E3%2582%2592%25E9%2580%2581%25E4%25BF%25A1%25E5%2589%258D%25E3%2581%25AB%25E6%25A4%259C%25E5%2587%25BA%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259A%25E7%25B4%258D%25E6%259C%259F%25E3%2583%25BB%25E6%2596%2599%25E9%2587%2591%25E3%2583%25BB%25E6%25AC%25A1%25E3%2581%25AE%25E8%25A1%258C%25E5%258B%2595%25E3%2581%25AE%25E6%2589%25BF%25E8%25AA%258D%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kirisaki%2520Kazuya%2520%257C%2520...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U5ODBhNjQwODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "2ecf0a57a84a79c7",
-    "title": "jquery/jquery",
-    "url": "https://github.com/jquery/jquery",
-    "source": "GitHub JavaScript Monthly Trending Repositories",
-    "publishedAt": "2026-11-13T19:29:25.995Z",
-    "status": "pending",
-    "imageUrl": "https://opengraph.githubassets.com/56867741981f9a1fbacb57bbb48cade75f4c88f70744e7dc45ae06e96313d4a8/jquery/jquery"
-  },
-  {
-    "id": "a8e069192ac28aea",
-    "title": "社畜2年目で意識していること",
-    "url": "https://qiita.com/TumoTumo/items/68cc6c02cc702f322f2c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-13T18:03:46.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "555217e7e57fc9f3",
-    "title": "AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた",
-    "url": "https://qiita.com/yama3133/items/11a360fc97ed3ec09742?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-13T16:43:26.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "e4e79699d01b6260",
-    "title": "35日でフロントエンドの基礎を完全に理解する #34 - 総合演習",
-    "url": "https://zenn.dev/kipcop/articles/f35-vue-34-comprehensive",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-13T16:21:39.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--C2H59Kz4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:35%25E6%2597%25A5%25E3%2581%25A7%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%25E3%2582%2592%25E5%25AE%258C%25E5%2585%25A8%25E3%2581%25AB%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2520%252334%2520-%2520%25E7%25B7%258F%25E5%2590%2588%25E6%25BC%2594%25E7%25BF%2592%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:k.ike%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzB5X0dHdXdYN0R2NUdXamlMU0FaLTI5OHhBcFBSLW9pMEhMY2lEZ2dBSHVVdDdESHM9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "a9e2724f44c4ec78",
-    "title": "ブラウザだけで連番PNGをMP4にする（WebCodecs + Mediabunny）",
-    "url": "https://zenn.dev/bytescope/articles/png-sequence-to-mp4-webcodecs",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-13T16:18:54.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--HlSObdoK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E9%2580%25A3%25E7%2595%25AAPNG%25E3%2582%2592MP4%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25EF%25BC%2588WebCodecs%2520%252B%2520Mediabunny%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ByteScope%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IzNWUxNzc1MzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "c13d53ab0bbb0f46",
-    "title": "「あの人は館長の次くらいに偉い」国会図書館でバイトしていた頃、仕事をしてる姿を見たことがない人がいた→COBOLの話題から始まる往年の技術者の話",
-    "url": "https://togetter.com/li/2770134",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T16:00:06.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2770134"
-  },
-  {
-    "id": "623a1cbd77358ed6",
-    "title": "予測はできていた。それでもCLIが失敗した理由",
-    "url": "https://zenn.dev/yusuke_shiki/articles/prediction-succeeded-cli-failed",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-13T15:52:06.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--2mHOVe0D--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BA%2588%25E6%25B8%25AC%25E3%2581%25AF%25E3%2581%25A7%25E3%2581%258D%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2580%2582%25E3%2581%259D%25E3%2582%258C%25E3%2581%25A7%25E3%2582%2582CLI%25E3%2581%258C%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yusuke%2520Shiki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3N2FkZjAzYjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "8a7563b260ce3836",
-    "title": "【個人開発】研究室の「めんどくさい」を撲滅するアプリ『行こlab』をExpo  × Supabaseで作った話",
-    "url": "https://zenn.dev/goto6056738/articles/029cc81cf8eb9f",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-13T15:38:42.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--v5Y74Zle--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E3%2580%2591%25E7%25A0%2594%25E7%25A9%25B6%25E5%25AE%25A4%25E3%2581%25AE%25E3%2580%258C%25E3%2582%2581%25E3%2582%2593%25E3%2581%25A9%25E3%2581%258F%25E3%2581%2595%25E3%2581%2584%25E3%2580%258D%25E3%2582%2592%25E6%2592%25B2%25E6%25BB%2585%25E3%2581%2599%25E3%2582%258B%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2580%258E%25E8%25A1%258C%25E3%2581%2593lab%25E3%2580%258F%25E3%2582%2592Expo%2520%2520%25C3%2597%2520Supabase%25E3%2581%25A7%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2594%25E3%2581%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTR0OFk5UzAwNUhBODNDWkYyOVZfN0NmUTRvR3QwLUpDLXpzWFg4dnVZM2x6UmlnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "050471de9b610533",
-    "title": "【速報】マネックス証券、マイナカード画像漏えいか",
-    "url": "https://www.47news.jp/15227159.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T15:36:10.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.47news.jp%2F15227159.html"
-  },
-  {
-    "id": "40e78db6601d46e6",
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T15:32:13.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fhuggingface.co%2Fblog%2Fggml-org%2Fllama-cpp-v1"
-  },
-  {
-    "id": "7c1272d133835317",
-    "title": "Chrome拡張機能から note の見出し画像を登録するまでに当たった 5 つの壁",
-    "url": "https://zenn.dev/shibuhachi/articles/note-eyecatch-chrome-extension",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-13T15:29:50.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--iW7qM9Zh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Chrome%25E6%258B%25A1%25E5%25BC%25B5%25E6%25A9%259F%25E8%2583%25BD%25E3%2581%258B%25E3%2582%2589%2520note%2520%25E3%2581%25AE%25E8%25A6%258B%25E5%2587%25BA%25E3%2581%2597%25E7%2594%25BB%25E5%2583%258F%25E3%2582%2592%25E7%2599%25BB%25E9%258C%25B2%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AB%25E5%25BD%2593%25E3%2581%259F%25E3%2581%25A3%25E3%2581%259F%25205%2520%25E3%2581%25A4%25E3%2581%25AE%25E5%25A3%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2581%25B6%25E3%2581%25AF%25E3%2581%25A1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJhYzAxOTg5MTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "4050cb04cdde10d0",
-    "title": "【Agent Skills】モデルが賢くなるとスキルはどうなる？",
-    "url": "https://qiita.com/ryu-ki/items/202d150ad48dbccf7981?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-13T15:22:50.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "2fb7a3262770d093",
-    "title": "「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない - Qiita",
-    "url": "https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T14:42:54.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Ftsutorm%2Fitems%2Fc9ab1e1c64474c341d77"
-  },
-  {
-    "id": "d31019f1706c6aef",
-    "title": "人間＋AIを「チーム」としてプロセスを再設計する",
-    "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T14:24:54.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Flittlehands%2Fai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1"
-  },
-  {
-    "id": "d4622388c82c4a06",
-    "title": "Fable 5.2は物理モデリング音源の実装も作曲もすごい - きしだのHatena",
-    "url": "https://nowokay.hatenablog.com/entry/2026/11/13/101644",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T14:22:52.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnowokay.hatenablog.com%2Fentry%2F2026%2F11%2F13%2F101644"
-  },
-  {
-    "id": "bc0ecbc90f2ec80a",
-    "title": "YOLO の追加学習にリグレッションテストを",
-    "url": "https://zenn.dev/xtone/articles/detection-regression",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-13T14:09:58.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3YASnJOj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:YOLO%2520%25E3%2581%25AE%25E8%25BF%25BD%25E5%258A%25A0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25AB%25E3%2583%25AA%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:koshien%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjYmIwM2VhZTQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:xtone%2520tech%2520blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MyMTBiMDYzYWEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "2d9ee37850b9a4f3",
-    "title": "AWSでAssumeRoleって2回連続でできるの？試してみたら普通にできた話（ロールチェイニング）",
-    "url": "https://qiita.com/nkrk/items/90ca7ee3a3df66d12b2a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-13T14:03:05.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "ee8ae92bd4b7f3c0",
-    "title": "二層 k-ε モデル",
-    "url": "https://qiita.com/openyanagi/items/ed4e431267bace10d0a6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-13T14:02:03.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "9aad9f3d8f5cca9c",
-    "title": "WebゲームとLINEミニアプリを同じコードベースで配布する設計",
-    "url": "https://zenn.dev/shige7000/articles/66462ab8bb6827",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-13T13:46:43.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Toyq8XmB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Web%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25A8LINE%25E3%2583%259F%25E3%2583%258B%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E5%2590%258C%25E3%2581%2598%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E9%2585%258D%25E5%25B8%2583%25E3%2581%2599%25E3%2582%258B%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2595%25B7%25E6%25B4%25B2%25E6%25B8%25AF%25E7%2594%25BA%25E9%259B%25BB%25E6%25B0%2597%25E5%25B7%25A5%25E4%25BA%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjODk2OTBhMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "a77e85cf0d419a3b",
-    "title": "米国はトランピズムを「なかったこと」にはできない » p2ptk[.]org",
-    "url": "https://p2ptk.org/notes/5679",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T13:32:42.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fp2ptk.org%2Fnotes%2F5679"
-  },
-  {
-    "id": "a35ab5967ef47f2c",
-    "title": "大阪でCopilotの初心者向け研修の講師をやる予定なのに障害で使えず…他のAIは使用禁止、代替ツールなし「お気の毒すぎる」「これは泣ける」→フル座学で研修を乗り切った",
-    "url": "https://togetter.com/li/2770072",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T13:27:39.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2770072"
-  },
-  {
-    "id": "7e5c3e9977e00e23",
-    "title": "学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねたら「全部AIです」と言われた、Figmaとかだと思ったらツールごと全部AIとHTMLで作ってた",
-    "url": "https://togetter.com/li/2770106",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T13:27:08.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2770106"
-  },
-  {
-    "id": "af5f8cdb7731aba8",
-    "title": "マネジメントされる側の仕事は「文句」を言うこと",
-    "url": "https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T13:23:56.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Friyaamemiya%2Fslides-export-013b776f-8661-4e92-bac0-1ac4285999f9"
-  },
-  {
-    "id": "79d0d9bb8b13e7e0",
-    "title": "Let’s Write a PostScript Interpreter",
-    "url": "https://beyondloom.com/blog/postscript.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T13:12:14.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fbeyondloom.com%2Fblog%2Fpostscript.html"
-  },
-  {
-    "id": "02f60bc74b696ee0",
-    "title": "古い機器をスマートホームデバイスとしてよみがえらせる「Home Assistant Connect AUX-2」が発売開始",
-    "url": "https://gigazine.net/news/20261113-home-assistant-connect-aux-2/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T13:02:09.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261113-home-assistant-connect-aux-2%2F"
-  },
-  {
-    "id": "e675b5e1cb9d7991",
-    "title": "Claude の Chrome 拡張で管理画面を1時間操作したら、その日のトークンの15%を使っていた",
-    "url": "https://zenn.dev/claire_ai/articles/kakuchou-iriguchi",
-    "source": "Zenn (playwright)",
-    "publishedAt": "2026-11-13T12:40:17.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--xl4rhxVw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520%25E3%2581%25AE%2520Chrome%2520%25E6%258B%25A1%25E5%25BC%25B5%25E3%2581%25A7%25E7%25AE%25A1%25E7%2590%2586%25E7%2594%25BB%25E9%259D%25A2%25E3%2582%25921%25E6%2599%2582%25E9%2596%2593%25E6%2593%258D%25E4%25BD%259C%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E3%2581%259D%25E3%2581%25AE%25E6%2597%25A5%25E3%2581%25AE%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%25AE15%2525%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25AF%25E3%2583%25AC%25E3%2582%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFlMGExNzA4ZTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "2b2470182077c41e",
-    "title": "GASでも本格的なWebアプリを作れるようにしてみたい",
-    "url": "https://zenn.dev/tiger_oshima/articles/gasboost-four-foundations",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-13T12:34:34.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--cI6z_4ib--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GAS%25E3%2581%25A7%25E3%2582%2582%25E6%259C%25AC%25E6%25A0%25BC%25E7%259A%2584%25E3%2581%25AAWeb%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258C%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Taiga%2520Oshima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk5qMmwySlVPV1dxUzRJWWpHRXB5X2RBTlBuRURYdnlOSEJrRUI1ZGs1ZkFpRFB3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "fc7b6adc497d41d0",
-    "title": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
-    "url": "https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T12:34:09.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fnews%2F2156449.html"
-  },
-  {
-    "id": "4f1223ecf42b7e21",
-    "title": "「とりあえず触ってみてください」で受入テストを始めていませんか？要件定義で決める受入基準の書き方",
-    "url": "https://qiita.com/TH_stickey/items/23d26568962034b72cf8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-13T12:17:32.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "9819260ae3ded47a",
-    "title": "Claude Codeで学園祭の入場QRシステムを作った ― サーバーなし・無料でCloudflare Workersに載せるまで",
-    "url": "https://zenn.dev/hayhide23/articles/monpass-cloudflare-workers",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-13T12:11:02.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--XnuZD4he--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E5%25AD%25A6%25E5%259C%2592%25E7%25A5%25AD%25E3%2581%25AE%25E5%2585%25A5%25E5%25A0%25B4QR%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2580%2595%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AA%25E3%2581%2597%25E3%2583%25BB%25E7%2584%25A1%25E6%2596%2599%25E3%2581%25A7Cloudflare%2520Worke...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2580%25B1%25E6%259C%25AB%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDdWdENBemZRZjF3anpwOU5uZXllRzBBTUtZdlBER1lzcFZxaktSQlBXdlJBc2hBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "f815bda6015db293",
-    "title": "ng: Neovim のためのシンプルな GUI",
-    "url": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T11:38:14.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fshougo%2Farticles%2Fng-nvim-simple-gui"
-  },
-  {
-    "id": "7e818c3ce5d70af7",
-    "title": "データセンターの排熱でエビ養殖、NTT系が実験　育ったら食べられる？　担当者に聞いてみた",
-    "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T11:33:08.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F13%2F2000003200%2F"
-  },
-  {
-    "id": "66c6196c3bccea12",
-    "title": "中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた",
-    "url": "https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T11:28:01.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261113-china-ai-nvidia-blackwell-gpu%2F"
-  },
-  {
-    "id": "540573cecd73b5b7",
-    "title": "当社サービスへの不正アクセスに関するご報告",
-    "url": "https://plaid.co.jp/news/20261113/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T11:27:34.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fplaid.co.jp%2Fnews%2F20261113%2F"
   }
 ]
