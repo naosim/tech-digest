@@ -1,39 +1,5 @@
 [
   {
-    "id": "c7ad1de19b549e4d",
-    "title": "Windows 11のエクスプローラーが重くて、Rustでファイルマネージャーを作った話",
-    "url": "https://qiita.com/samek86/items/0e8acb5dfd0b80b5fda2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-11T02:02:57.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "8b2e881bb9907dc9",
-    "title": "エディオン、クレカ番号＋セキュリティコードも一部漏えいか　決済処理に不正プログラム、エラーログにも記録",
-    "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003091/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-11T01:56:33.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003091%2F",
-    "category": "RELEASE",
-    "summary": "# エディオン決済セキュリティ問題への対応と影響\n\n### 結論\nエディオンは、決済処理における不正プログラムによる情報漏洩を防止し、ユーザーへの影響を最小化する措置を講じる。ただし、一部のログ記録の漏洩可能性については新たなリスクが確認された。\n\n### 方法\nECサイトおよびアプリの緊急停止を実施し、システム脆弱性を補強する対策を策定している。また、被害拡大を防ぐため、パスワード漏洩対象者は変更を求めるメールを順次送る方針を確立している。\n\n### 本文の要約\nエディオンは、11 月 9 日に発表した ECサイトへの不正アクセス続報で、決済処理に不正なプログラムが組み込まれ、最大 556 回分のカード情報を第三者に漏洩した可能性を報告した。また、注文画面でのエラー発生時にシステムログに記録されていたカード番号やセキュリティコードも漏洩するリスクが確認された。同社はカード情報をサーバに残さない仕組みを採用し、最初から漏え対象に含まれていない状態であったが、新たなリスクが判明した。不正プログラムは PC 向け決済情報入力処理に組み込まれ、スマートフォンからの操作では対象外だった。また、ギフトカードの今後の扱いは検討中である。パスワード漏洩対象者は変更を求めるメールを順次送る方針を確立している。最終的に EC サイトの再開については未定である。",
-    "imageUrls": [
-      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003091/10011827/728",
-      "https://www.itmedia.co.jp/news/article/image/2611/11/2000003091/10011828/728"
-    ]
-  },
-  {
-    "id": "0cc511a2115f14c0",
-    "title": "2026年11月11日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-    "url": "https://qiita.com/ennagara128/items/16da3f3418ad1d1f3daa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-11T01:34:00.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\nこの記事は、AIポッドキャストの更新スケジュールと、開発者向けに推奨される技術の活用方法について紹介します。特に、Pyxel 3.0 のレトロ 3D ゲームエンジン機能の導入や、集中力散漫エンジニアが突破した AWS データ処理システムについては、具体的な運用手順や実装例を提示しています。また、脆弱性の分析結果や、心理的安全性の向上に向けた行動経済学的なアプローチについても、実践的なアドバイスを含めています。\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で 350〜450 文字を目安に要約します。次の 3 項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点：追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\n要約本文:\n開発者向けに AI ポッドキャストの更新スケジュールと、新しい技術の活用方法を紹介しています。Pyxel 3.0 のレトロ 3D ゲームエンジン機能の導入や、集中力散漫エンジニアが突破した AWS データ処理システムについては、具体的な運用手順や実装例を提示しています。また、脆弱性の分析結果や、心理的安全性の向上に向けた行動経済学的なアプローチについても、実践的なアドバイスを含めています。特に、React のアンマウントや OCI データベースのマネージメントなど、具体的な技術の活用事例も記載されています。これらは開発者向けに推奨される機能と、実際の運用例として提示されており、読者が適切な技術レベルに合わせて利用できるよう設計されています。",
-    "imageUrls": []
-  },
-  {
     "id": "cfa17ed37cd8dd23",
     "title": "システム設計視点の行動経済学 全60回 総復習",
     "url": "https://qiita.com/maskot1977/items/d811bfa98fd0ee273bb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -12736,6 +12702,15 @@
     "imageUrls": []
   },
   {
+    "id": "b8c6e2b761608707",
+    "title": "AIペネトレーションテストツール「Strix」を試してみた",
+    "url": "https://zenn.dev/turquoise123/articles/df481032f6b405",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-10-20T03:52:06.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fturquoise123%2Farticles%2Fdf481032f6b405"
+  },
+  {
     "id": "1c7c3c49ddbe88bd",
     "title": "Amazon Connect Customer Global Resiliency で、ビジネスユーザーはリンクされたリージョン間における回復性の準備状況を可視化できるようになりました",
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview",
@@ -12842,6 +12817,15 @@
     "category": "RELEASE",
     "summary": "# 課題と解決方法\n\n### 課題\nリードレプリカのスナップショット作成の時間と柔軟性が制限されていたため、バックアップやディスタリカバリー（DR）ワークフローの予測が困難でした。特にマルチ AZ を有効にする際、最初のフルスナップショットが完了するまでの時間が長くなり、スケジュールの予測精度が低下しました。\n\n### 結論\nAmazon RDS for SQL Server ではリードレプリカのスナップショットデータが保持されることで、昇格後のスナップショット作成が迅速化し、DR のスケジュールをより予測可能なものにします。\n\n### 方法\nリードレプリカの手動スナップショットの取得や自動バックアップの有効化を実現し、レプリカ削除時の自動バックアップも可能にします。ただし、ポイントインタイムリカバリ（PITR）はサポートされていません。この機能はリージョン内およびクロスリージョンの両方のリードレプリカで利用可能です。\n\n本文には追加された機能や対象バージョンの詳細な変更が記載されており、特に自動バックアップの設定や PITR の対応については本文に記載なしとなっています。",
     "imageUrls": []
+  },
+  {
+    "id": "21a9d41371e70788",
+    "title": "リトルの法則で考える障害時のキャパシティプランニング",
+    "url": "https://zenn.dev/rea9r/articles/littles-law-capacity-planning",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-10-19T01:09:02.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Frea9r%2Farticles%2Flittles-law-capacity-planning"
   },
   {
     "id": "5137889a7afd4887",
@@ -13018,6 +13002,15 @@
     "publishedAt": "2026-09-10T10:10:12.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithubnext.com%2Fprojects%2Fchopin%2F"
+  },
+  {
+    "id": "2325358d2c0981dc",
+    "title": "インサイトの見つけ方｜松本健太郎",
+    "url": "https://comemo.nikkei.com/n/nfb193e006207",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-09-02T00:51:36.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcomemo.nikkei.com%2Fn%2Fnfb193e006207"
   },
   {
     "id": "bef55810ab408c88",
