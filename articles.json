@@ -1,5 +1,86 @@
 [
   {
+    "id": "13a00b1397edcfb5",
+    "title": "独プールで15人体調不良　マイクロソフト障害影響 | NEWSjp",
+    "url": "https://news.jp/i/1494496378441958289",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T02:57:16.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.jp%2Fi%2F1494496378441958289"
+  },
+  {
+    "id": "4e49be0114e0e526",
+    "title": "「人工知能学会」で「おじさん構文」の研究発表、問われる「若者に絵文字を使っていいのか」問題…ＡＩとの関係は",
+    "url": "https://www.yomiuri.co.jp/science/20261112-GYT1T00160/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T02:53:25.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.yomiuri.co.jp%2Fscience%2F20261112-GYT1T00160%2F"
+  },
+  {
+    "id": "6a9e11ad18f3bf9e",
+    "title": "pingしながら問題の切り分けまでしてくれるspingが良さげかも | kawarimidoll.com",
+    "url": "https://kawarimidoll.com/posts/202610201/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T02:09:07.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fkawarimidoll.com%2Fposts%2F202610201%2F"
+  },
+  {
+    "id": "b2cab59406a7bcf5",
+    "title": "Not todo: 技術者倫理がなければ作る予定だったもの一覧 | ActiveTK's Note",
+    "url": "https://note.activetk.jp/etc/uncensored-dev-list",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T00:59:00.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.activetk.jp%2Fetc%2Funcensored-dev-list"
+  },
+  {
+    "id": "974071e406155489",
+    "title": "個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）",
+    "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T23:49:57.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ffabscene.com%2Fnew%2Finterview%2Fsolidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck%2F"
+  },
+  {
+    "id": "ad73c6f1d0bd6bd8",
+    "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超　マスク氏らも賛同、米議会は追及継続",
+    "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T23:39:10.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F15%2F2000003207%2F"
+  },
+  {
+    "id": "7bab7d840af812a2",
+    "title": "登録なしで触れるデモモードの作り方：14サービスのうち12に入れた匿名IDとサンプルデータ",
+    "url": "https://zenn.dev/sakidori/articles/20261029-demo-mode-anonymous-id-sample-data",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-14T21:13:43.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vITXobz---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2599%25BB%25E9%258C%25B2%25E3%2581%25AA%25E3%2581%2597%25E3%2581%25A7%25E8%25A7%25A6%25E3%2582%258C%25E3%2582%258B%25E3%2583%2587%25E3%2583%25A2%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%25EF%25BC%259A14%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2581%25AE%25E3%2581%2586%25E3%2581%25A112%25E3%2581%25AB%25E5%2585%25A5%25E3%2582%258C%25E3%2581%259F%25E5%258C%25BF%25E5%2590%258DID%25E3%2581%25A8%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sakidori%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwNTgxN2IyYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "69e61eb32f8a522b",
+    "title": "ローカルLLMで動く翻訳拡張機能「Sakutto」を開発した話",
+    "url": "https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-14T20:02:29.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--nCcPGbDV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25E7%25BF%25BB%25E8%25A8%25B3%25E6%258B%25A1%25E5%25BC%25B5%25E6%25A9%259F%25E8%2583%25BD%25E3%2580%258CSakutto%25E3%2580%258D%25E3%2582%2592%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2598%25E3%2582%2583%25E3%2582%2580%25E3%2581%25BE%25E3%2582%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZhOTYxZWVkNTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "ca4561bd82bcca36",
+    "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",
+    "url": "https://p2ptk.org/monopoly/5681",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T18:54:45.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fp2ptk.org%2Fmonopoly%2F5681"
+  },
+  {
     "id": "565c5f4c5a94bfb6",
     "title": "常時稼働エージェントの作り方（Claude公式ブログを資料化）",
     "url": "https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata",
@@ -7,6 +88,15 @@
     "publishedAt": "2026-11-14T16:06:17.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fminorun365%2Fjouji-kadou-ejento-no-tsukurikata"
+  },
+  {
+    "id": "629e483222f91abe",
+    "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services",
+    "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T15:38:44.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Faws.amazon.com%2Fjp%2Fblogs%2Fnews%2Fpractical-steps-to-minimize-key-exposure-using-aws-security-services%2F"
   },
   {
     "id": "ec4816d8d96c79e6",
@@ -142,6 +232,15 @@
     "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--hnYh8iPe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%2520%25E3%2581%25A7%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E6%2593%258D%25E4%25BD%259C%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%25E5%2585%25A5%25E3%2582%258A%25E3%2581%25AE%25E6%2589%258B%25E9%25A0%2586%25E6%259B%25B8%2520PDF%2520%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B8%25AD%25E9%2587%258E%25EF%25BC%25A0CareCraft%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc3MDdiM2MzMmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
+    "id": "086291c43e95e20b",
+    "title": "55歳でグーグル本社をクビになった私が、4つのバイトのかけもち生活を通して思い出した「肉体労働の価値」とは",
+    "url": "https://crea.bunshun.jp/articles/-/60719",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T08:01:46.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcrea.bunshun.jp%2Farticles%2F-%2F60719"
+  },
+  {
     "id": "451eddb843c1bd82",
     "title": "AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 | The Update",
     "url": "https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/",
@@ -216,6 +315,15 @@
     "source": "Qiita Popular",
     "publishedAt": "2026-11-14T05:51:49.000Z",
     "status": "pending"
+  },
+  {
+    "id": "295224a9b96131fe",
+    "title": "「PowerShell 7.7」が一般公開 ～.NET 11ベース、セキュリティ強化や新コマンドを追加／2年サポートの「標準期間サポート」（STS）リリース",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2156192.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T04:56:46.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2156192.html"
   },
   {
     "id": "d9c5b02bf9db0e2f",
@@ -338,6 +446,15 @@
     "publishedAt": "2026-11-14T00:47:56.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUC13B0E0T11C26A1000000%2F"
+  },
+  {
+    "id": "22fba76862912808",
+    "title": "マイクロソフト、大規模障害が映す「トリレンマ」　問われる優先順位 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGH138MZ0T11C26A1000000/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T00:44:47.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOGH138MZ0T11C26A1000000%2F"
   },
   {
     "id": "f684fe74f2808cb7",
@@ -630,6 +747,15 @@
     "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Toyq8XmB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Web%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25A8LINE%25E3%2583%259F%25E3%2583%258B%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E5%2590%258C%25E3%2581%2598%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E9%2585%258D%25E5%25B8%2583%25E3%2581%2599%25E3%2582%258B%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2595%25B7%25E6%25B4%25B2%25E6%25B8%25AF%25E7%2594%25BA%25E9%259B%25BB%25E6%25B0%2597%25E5%25B7%25A5%25E4%25BA%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjODk2OTBhMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
+    "id": "a77e85cf0d419a3b",
+    "title": "米国はトランピズムを「なかったこと」にはできない » p2ptk[.]org",
+    "url": "https://p2ptk.org/notes/5679",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T13:32:42.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fp2ptk.org%2Fnotes%2F5679"
+  },
+  {
     "id": "a35ab5967ef47f2c",
     "title": "大阪でCopilotの初心者向け研修の講師をやる予定なのに障害で使えず…他のAIは使用禁止、代替ツールなし「お気の毒すぎる」「これは泣ける」→フル座学で研修を乗り切った",
     "url": "https://togetter.com/li/2770072",
@@ -753,129 +879,5 @@
     "publishedAt": "2026-11-13T11:27:34.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fplaid.co.jp%2Fnews%2F20261113%2F"
-  },
-  {
-    "id": "525baf1907f86cb2",
-    "title": "QRコードで順番待ちができるサービスを作った：サーバーレス構成と個人情報を扱う設計",
-    "url": "https://zenn.dev/sma_machi/articles/afc10ac8c055fd",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-13T11:26:04.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--B6CyvoS---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:QR%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E9%25A0%2586%25E7%2595%25AA%25E5%25BE%2585%25E3%2581%25A1%25E3%2581%258C%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%259A%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2583%25AC%25E3%2582%25B9%25E6%25A7%258B%25E6%2588%2590%25E3%2581%25A8%25E5%2580%258B%25E4%25BA%25BA%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E6%2589%25B1%25E3%2581%2586%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B9%25E3%2583%259E%25E3%2581%25BE%25E3%2581%25A1%2520Sma-Machi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA2MDI2ZjU3NTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "39395df7a9a35a3b",
-    "title": "マイクロソフトの障害 在宅勤務の人はどう対応した？ | NHKニュース",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75652",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T11:08:58.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261113de75652"
-  },
-  {
-    "id": "d4000432aec76278",
-    "title": "地理空間情報と詰将棋に見るLLMの課題　―空間・状態・制約を扱う過程に共通点はあるか―",
-    "url": "https://qiita.com/lehukuku0120/items/6d4bcb83608e653a3e24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-13T10:59:14.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "5899022d27b59aa6",
-    "title": "『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
-    "url": "https://joisino.hatenablog.com/entry/searchrecbook",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T10:50:54.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjoisino.hatenablog.com%2Fentry%2Fsearchrecbook"
-  },
-  {
-    "id": "2f725b30197ac996",
-    "title": "ゲームのコードのわずか0.1％未満にAIを使用したことを公表しただけで400件以上の低評価レビューが殺到",
-    "url": "https://gigazine.net/news/20261113-indie-game-used-ai-bad-review/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T10:30:24.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261113-indie-game-used-ai-bad-review%2F"
-  },
-  {
-    "id": "c922c209c6c4ae39",
-    "title": "Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事前に対処しておくのがシステム部だろうが！」と言われ、反抗して早退…連絡の受け手は必然的に私に",
-    "url": "https://togetter.com/li/2770045",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T09:58:17.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2770045"
-  },
-  {
-    "id": "3acb0aab47d45be3",
-    "title": "#26 Home Repo パターン",
-    "url": "https://blog.lai.so/2026-11-13/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T09:55:47.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.lai.so%2F2026-11-13%2F"
-  },
-  {
-    "id": "a8d3d88b4b97fec9",
-    "title": "Proxmox × Cisco：Open vSwitchのRSTPで起動・ネットワーク変更時の約30秒待ちを短縮する",
-    "url": "https://qiita.com/hshimomu/items/56618894a7e07af50d74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-13T09:21:27.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "bb562c0305a96e02",
-    "title": "Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで",
-    "url": "https://gigazine.net/news/20261113-firefox-vpn/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T09:17:59.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261113-firefox-vpn%2F"
-  },
-  {
-    "id": "c27863eb711e5bb0",
-    "title": "お客様からメールもCopilotも使えないと問い合わせが来て「Microsoft 365が障害発生してまして」と伝えたら「そんなのCopilotに聞いたらすぐ復旧するでしょ」と言われた",
-    "url": "https://togetter.com/li/2769964",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T08:56:38.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2769964"
-  },
-  {
-    "id": "c19dec4d5a121073",
-    "title": "GitHub Actionsのneedsを解析して、最長の依存の連なりと循環を見つける",
-    "url": "https://zenn.dev/a1221/articles/github-actions-needs-critical-path",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-13T08:49:37.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--yDw_Ngke--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Actions%25E3%2581%25AEneeds%25E3%2582%2592%25E8%25A7%25A3%25E6%259E%2590%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E6%259C%2580%25E9%2595%25B7%25E3%2581%25AE%25E4%25BE%259D%25E5%25AD%2598%25E3%2581%25AE%25E9%2580%25A3%25E3%2581%25AA%25E3%2582%258A%25E3%2581%25A8%25E5%25BE%25AA%25E7%2592%25B0%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "54917d0dee2ba67d",
-    "title": "オンラインゲームポータルサイト『ハンゲ（hange）』不正アクセスについて(第4報) | ENSAPIA Tokyo株式会社",
-    "url": "https://ensapia-tokyo.com/news/topics/id=21412/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T08:38:59.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fensapia-tokyo.com%2Fnews%2Ftopics%2Fid%3D21412%2F"
-  },
-  {
-    "id": "2f367b15f29a9513",
-    "title": "【解説】 AIの先駆者、誤った判断で破滅……エヌビディアのフアンCEO辞任 - BBCニュース",
-    "url": "https://www.bbc.com/japanese/articles/cjy5xype60l0o",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T08:29:46.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.bbc.com%2Fjapanese%2Farticles%2Fcjy5xype60l0o"
-  },
-  {
-    "id": "d0af51959486966e",
-    "title": "知人の「録画映像」が会議に現れる　北朝鮮の暗号資産窃取「FaceStealer」、FBIが盗撮動画900本超を押収 | テクノエッジ TechnoEdge",
-    "url": "https://www.techno-edge.net/article/2026/11/13/5722.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-13T08:27:37.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.techno-edge.net%2Farticle%2F2026%2F11%2F13%2F5722.html"
   }
 ]

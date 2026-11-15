@@ -1,63 +1,5 @@
 [
   {
-    "id": "2caf91dd6694e8ae",
-    "title": "「画面数×人月」はもう通じない？見積もり単位の変遷と、バイブコーディング時代の見積もり書",
-    "url": "https://qiita.com/TH_stickey/items/f55fb76055988cf9d0ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-11T02:25:25.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "9d81f6d51e333c21",
-    "title": "C#のclosed recordとRust・Swift・TypeScript・Java・Goのunion表現を比べる",
-    "url": "https://zenn.dev/jtechjapan_pub/articles/payment-union-six-languages",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-11T02:18:05.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--KYSW_R21--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:C%2523%25E3%2581%25AEclosed%2520record%25E3%2581%25A8Rust%25E3%2583%25BBSwift%25E3%2583%25BBTypeScript%25E3%2583%25BBJava%25E3%2583%25BBGo%25E3%2581%25AEunion%25E8%25A1%25A8%25E7%258F%25BE%25E3%2582%2592%25E6%25AF%2594%25E3%2581%25B9%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tomohisa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E0YzA4MzFkMDkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dUY1NlSXBBM09KME83a1ZzWG1WUjhvYWpqN3RHVVV2QTJDZ2hKS2c9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
-    "id": "766519ad5b2c64f2",
-    "title": "「AIで漏洩した？と思うくらいに同感同意」キャリア女性のロールモデルとして、メチャクチャ有能な働きマンを出されても困るという話に賛同が集まる",
-    "url": "https://togetter.com/li/2769100",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-11T02:16:09.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2769100"
-  },
-  {
-    "id": "e6d86e43eca24ad8",
-    "title": "1600万画素の画像を生成できる画像生成AI「MiniMax-H3-Image」が登場、ローカルで実行可能で画像編集や複数画像参照にも対応",
-    "url": "https://gigazine.net/news/20261111-minimax-h3-image/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-11T02:11:42.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-minimax-h3-image%2F",
-    "category": "TUTORIAL",
-    "summary": "# AI 4K image generation の新技術：MiniMax H3-Image\n\n開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：AI 画像生成の新しい技術**\n2026 年 11 月 11 日公開された「MiniMax H3-Image」は、動画生成 AI「MiniMax H3」から派生した画像生成モデルです。従来の高解像度生成では、低解像度画像をアップスケーラーで生成する複雑なフローを避けることで、1600 万ピクセルの画像を実用的速度で直接生成できます。オープンウェイトモデルとして Hugging Face で公開されており、ComfyUI の公式ワークフローも提供されています。\n\n**結論：解決した課題と推奨**\nこの技術は、高解像度画像の生成速度を劇的に向上させることで、ゲームやインテリアなどの実用用途での画像生成を可能にします。また、ライセンスは自由利用可能です。ただし、ComfyUI の設定として初期設定が 4 メガピクセルであるため、真価を確認する際は 16 メガピクセルに設定することが推奨されます。\n\n**方法：解決手順と仕組み**\n課題を解決するためには、モデルの公開と ComfyUI の導入が必要です。画像生成と編集を一つのモデル内で行うことができます。具体的な手順は、Open weights を選択し、6 ステップで設定する過程です。また、参照画像の指定やマップでの場所指定など、多様な用途に対応しています。\n\n**本文記載なしの項目：注意点**\n本文には具体的な使用例や操作手順の詳細なステップが記載されていません。そのため、実装時の注意点については補足情報として推測し、「本文に記載なし」と記述します。専門用語は必要とされるため、簡潔に説明しています。",
-    "imageUrls": [
-      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/00_m.png",
-      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/02_m.png",
-      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/03_m.png",
-      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/04_m.png",
-      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/05_m.png",
-      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/06_m.png",
-      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/09_m.png",
-      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/07_m.png",
-      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/08_m.png",
-      "https://i.gzn.jp/img/2026/10/02/flux-3-image/00_m.png",
-      "https://i.gzn.jp/img/2026/10/26/hy-nomas-interactive-world-model/00_m.png",
-      "https://i.gzn.jp/img/2026/10/16/krea-3-beta/00_m.png",
-      "https://i.gzn.jp/img/2026/10/16/flux-3-image-klein/00_m.png",
-      "https://i.gzn.jp/img/2026/05/15/flux-outpainting/00_m.png",
-      "https://i.gzn.jp/img/2025/08/19/qwen-image-edit/00_m.png",
-      "https://i.gzn.jp/img/2025/08/01/flux-1-krea-dev/00_m.jpg",
-      "https://i.gzn.jp/img/2025/03/19/stable-virtual-camera/00_m.jpg",
-      "https://i.gzn.jp/img/2026/11/11/three-workers-die-tata-india-iphone-factory/00_m.jpg",
-      "https://i.gzn.jp/img/2026/11/11/gigazine-review-survey/00_m.jpg"
-    ]
-  },
-  {
     "id": "c7ad1de19b549e4d",
     "title": "Windows 11のエクスプローラーが重くて、Rustでファイルマネージャーを作った話",
     "url": "https://qiita.com/samek86/items/0e8acb5dfd0b80b5fda2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -4696,6 +4638,15 @@
       "https://asset.watch.impress.co.jp/img/ktw/docs/2154/506/005_l.jpg",
       "https://asset.watch.impress.co.jp/img/ktw/docs/2154/506/006_l.jpg"
     ]
+  },
+  {
+    "id": "867bfc08fd5e34e2",
+    "title": "XCPEマルウェアの解析と国内における観測実態",
+    "url": "https://blog.nicter.jp/2026/11/xcpe_campaign/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-06T12:02:26.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.nicter.jp%2F2026%2F11%2Fxcpe_campaign%2F"
   },
   {
     "id": "3afa2996c7c1f5a1",
@@ -11018,6 +10969,15 @@
     "imageUrls": []
   },
   {
+    "id": "acfb8cc32b21102c",
+    "title": "AIの時代だからこそ、強い型付けのIaCツールをつくっている",
+    "url": "https://mizzy.org/blog/2026/11/02/2/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-03T00:41:03.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmizzy.org%2Fblog%2F2026%2F11%2F02%2F2%2F"
+  },
+  {
     "id": "33bf20452d39120d",
     "title": "片方だけ保存されても壊れない：処理IDと追記方式でPrismaと外部APIをまたぐ保存を設計する",
     "url": "https://zenn.dev/elletech/articles/46b95a7f41efe3",
@@ -12831,6 +12791,15 @@
     "imageUrls": []
   },
   {
+    "id": "bd17f36a071152cc",
+    "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
+    "url": "https://kawarimidoll.com/posts/202610182/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-10-19T08:36:48.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fkawarimidoll.com%2Fposts%2F202610182%2F"
+  },
+  {
     "id": "6a20cd2598907ca5",
     "title": "AWS Elemental MediaConnect Router が高ビットレートモードをサポート開始",
     "url": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/mediaconnect-router-high-bitrate/",
@@ -13094,6 +13063,15 @@
     "publishedAt": "2024-01-25T07:44:56.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgpui.rs%2F"
+  },
+  {
+    "id": "a4d63b0c2ebc02b3",
+    "title": "データカタログをNotionからdbt docsに切り替えた話",
+    "url": "https://zenn.dev/luup_developers/articles/data-kouno-20231210",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2023-12-10T14:47:19.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fluup_developers%2Farticles%2Fdata-kouno-20231210"
   },
   {
     "id": "f1ce050338fdf049",

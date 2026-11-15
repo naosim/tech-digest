@@ -1,5 +1,138 @@
 [
   {
+    "id": "525baf1907f86cb2",
+    "title": "QRコードで順番待ちができるサービスを作った：サーバーレス構成と個人情報を扱う設計",
+    "url": "https://zenn.dev/sma_machi/articles/afc10ac8c055fd",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-13T11:26:04.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--B6CyvoS---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:QR%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E9%25A0%2586%25E7%2595%25AA%25E5%25BE%2585%25E3%2581%25A1%25E3%2581%258C%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%259A%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2583%25AC%25E3%2582%25B9%25E6%25A7%258B%25E6%2588%2590%25E3%2581%25A8%25E5%2580%258B%25E4%25BA%25BA%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E6%2589%25B1%25E3%2581%2586%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B9%25E3%2583%259E%25E3%2581%25BE%25E3%2581%25A1%2520Sma-Machi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA2MDI2ZjU3NTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "39395df7a9a35a3b",
+    "title": "マイクロソフトの障害 在宅勤務の人はどう対応した？ | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75652",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T11:08:58.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261113de75652"
+  },
+  {
+    "id": "d4000432aec76278",
+    "title": "地理空間情報と詰将棋に見るLLMの課題　―空間・状態・制約を扱う過程に共通点はあるか―",
+    "url": "https://qiita.com/lehukuku0120/items/6d4bcb83608e653a3e24?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T10:59:14.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "5899022d27b59aa6",
+    "title": "『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+    "url": "https://joisino.hatenablog.com/entry/searchrecbook",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T10:50:54.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjoisino.hatenablog.com%2Fentry%2Fsearchrecbook"
+  },
+  {
+    "id": "2f725b30197ac996",
+    "title": "ゲームのコードのわずか0.1％未満にAIを使用したことを公表しただけで400件以上の低評価レビューが殺到",
+    "url": "https://gigazine.net/news/20261113-indie-game-used-ai-bad-review/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T10:30:24.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261113-indie-game-used-ai-bad-review%2F"
+  },
+  {
+    "id": "c922c209c6c4ae39",
+    "title": "Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事前に対処しておくのがシステム部だろうが！」と言われ、反抗して早退…連絡の受け手は必然的に私に",
+    "url": "https://togetter.com/li/2770045",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T09:58:17.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2770045"
+  },
+  {
+    "id": "3acb0aab47d45be3",
+    "title": "#26 Home Repo パターン",
+    "url": "https://blog.lai.so/2026-11-13/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T09:55:47.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.lai.so%2F2026-11-13%2F"
+  },
+  {
+    "id": "a8d3d88b4b97fec9",
+    "title": "Proxmox × Cisco：Open vSwitchのRSTPで起動・ネットワーク変更時の約30秒待ちを短縮する",
+    "url": "https://qiita.com/hshimomu/items/56618894a7e07af50d74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-13T09:21:27.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "bb562c0305a96e02",
+    "title": "Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで",
+    "url": "https://gigazine.net/news/20261113-firefox-vpn/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T09:17:59.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261113-firefox-vpn%2F"
+  },
+  {
+    "id": "c27863eb711e5bb0",
+    "title": "お客様からメールもCopilotも使えないと問い合わせが来て「Microsoft 365が障害発生してまして」と伝えたら「そんなのCopilotに聞いたらすぐ復旧するでしょ」と言われた",
+    "url": "https://togetter.com/li/2769964",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T08:56:38.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2769964"
+  },
+  {
+    "id": "c19dec4d5a121073",
+    "title": "GitHub Actionsのneedsを解析して、最長の依存の連なりと循環を見つける",
+    "url": "https://zenn.dev/a1221/articles/github-actions-needs-critical-path",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-13T08:49:37.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--yDw_Ngke--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Actions%25E3%2581%25AEneeds%25E3%2582%2592%25E8%25A7%25A3%25E6%259E%2590%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E6%259C%2580%25E9%2595%25B7%25E3%2581%25AE%25E4%25BE%259D%25E5%25AD%2598%25E3%2581%25AE%25E9%2580%25A3%25E3%2581%25AA%25E3%2582%258A%25E3%2581%25A8%25E5%25BE%25AA%25E7%2592%25B0%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "54917d0dee2ba67d",
+    "title": "オンラインゲームポータルサイト『ハンゲ（hange）』不正アクセスについて(第4報) | ENSAPIA Tokyo株式会社",
+    "url": "https://ensapia-tokyo.com/news/topics/id=21412/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T08:38:59.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fensapia-tokyo.com%2Fnews%2Ftopics%2Fid%3D21412%2F"
+  },
+  {
+    "id": "2f367b15f29a9513",
+    "title": "【解説】 AIの先駆者、誤った判断で破滅……エヌビディアのフアンCEO辞任 - BBCニュース",
+    "url": "https://www.bbc.com/japanese/articles/cjy5xype60l0o",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T08:29:46.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.bbc.com%2Fjapanese%2Farticles%2Fcjy5xype60l0o"
+  },
+  {
+    "id": "d0af51959486966e",
+    "title": "知人の「録画映像」が会議に現れる　北朝鮮の暗号資産窃取「FaceStealer」、FBIが盗撮動画900本超を押収 | テクノエッジ TechnoEdge",
+    "url": "https://www.techno-edge.net/article/2026/11/13/5722.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T08:27:37.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.techno-edge.net%2Farticle%2F2026%2F11%2F13%2F5722.html"
+  },
+  {
+    "id": "1365c6d19ef1d8e1",
+    "title": "たった0.8Bで53言語対応。翻訳特化型ローカルLLM「PLaMo 3 Translate」を試す【使ってわかるAI PC】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2156218.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T08:26:20.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fserial%2Fusecopilotpc%2F2156218.html"
+  },
+  {
     "id": "3d44ea2ca088269c",
     "title": "【GASとVertexAIとLangChain】ローカルでも動作するように環境を構成する",
     "url": "https://zenn.dev/aiforall/articles/ec21f8fb22971c",
@@ -153,6 +286,15 @@
     "source": "Qiita Popular",
     "publishedAt": "2026-11-13T04:26:32.000Z",
     "status": "pending"
+  },
+  {
+    "id": "b4c0fcf3556849a8",
+    "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
+    "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T04:25:07.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fpivotmedia%2Farticles%2Frisk-based-testing-for-uat"
   },
   {
     "id": "6cc6563b2cef0387",
@@ -2796,5 +2938,63 @@
     "category": "RELEASE",
     "summary": "# 課題と解決方法\n\nこの記事は、国家の財政破綻とシステム設計の根本問題について、技術的視点から解説しています。主な課題は、「財源幻想」という認識のバグであり、供給能力を守るシステム設計を追求するものです。\n\n## 結論\n\n財源主義に基づく国家設計は、供給能力の低下に陥り、自滅する危険性があります。解決策はインセンティブ構造の再設計と継続的なシステム監視・アップデートです。\n\n## 方法\n\n課題を解決するために、以下の技術的アプローチが推奨されます。\n1. **報酬ハッキングの回避**：AI や人間社会における指標ハックの仕組みを避けることで、本質的な価値創造を促進します。\n2. **ロバストなシステム設計**：1 人のハッカーで崩壊するシステムを設計し、堅牢性を確保します。\n3. **不信コストの削減**：信頼関係の維持のために不必要な防衛コストを削減し、資源を新たな価値創造に活用します。\n\n本文では、この解決策について具体的なアクションプランと、システム設計の継続的な「監査とアップデート」が強調されています。",
     "imageUrls": []
+  },
+  {
+    "id": "2caf91dd6694e8ae",
+    "title": "「画面数×人月」はもう通じない？見積もり単位の変遷と、バイブコーディング時代の見積もり書",
+    "url": "https://qiita.com/TH_stickey/items/f55fb76055988cf9d0ad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-11T02:25:25.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "9d81f6d51e333c21",
+    "title": "C#のclosed recordとRust・Swift・TypeScript・Java・Goのunion表現を比べる",
+    "url": "https://zenn.dev/jtechjapan_pub/articles/payment-union-six-languages",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-11T02:18:05.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--KYSW_R21--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:C%2523%25E3%2581%25AEclosed%2520record%25E3%2581%25A8Rust%25E3%2583%25BBSwift%25E3%2583%25BBTypeScript%25E3%2583%25BBJava%25E3%2583%25BBGo%25E3%2581%25AEunion%25E8%25A1%25A8%25E7%258F%25BE%25E3%2582%2592%25E6%25AF%2594%25E3%2581%25B9%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tomohisa%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E0YzA4MzFkMDkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%2591%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dUY1NlSXBBM09KME83a1ZzWG1WUjhvYWpqN3RHVVV2QTJDZ2hKS2c9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "766519ad5b2c64f2",
+    "title": "「AIで漏洩した？と思うくらいに同感同意」キャリア女性のロールモデルとして、メチャクチャ有能な働きマンを出されても困るという話に賛同が集まる",
+    "url": "https://togetter.com/li/2769100",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T02:16:09.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2769100"
+  },
+  {
+    "id": "e6d86e43eca24ad8",
+    "title": "1600万画素の画像を生成できる画像生成AI「MiniMax-H3-Image」が登場、ローカルで実行可能で画像編集や複数画像参照にも対応",
+    "url": "https://gigazine.net/news/20261111-minimax-h3-image/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T02:11:42.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261111-minimax-h3-image%2F",
+    "category": "TUTORIAL",
+    "summary": "# AI 4K image generation の新技術：MiniMax H3-Image\n\n開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：AI 画像生成の新しい技術**\n2026 年 11 月 11 日公開された「MiniMax H3-Image」は、動画生成 AI「MiniMax H3」から派生した画像生成モデルです。従来の高解像度生成では、低解像度画像をアップスケーラーで生成する複雑なフローを避けることで、1600 万ピクセルの画像を実用的速度で直接生成できます。オープンウェイトモデルとして Hugging Face で公開されており、ComfyUI の公式ワークフローも提供されています。\n\n**結論：解決した課題と推奨**\nこの技術は、高解像度画像の生成速度を劇的に向上させることで、ゲームやインテリアなどの実用用途での画像生成を可能にします。また、ライセンスは自由利用可能です。ただし、ComfyUI の設定として初期設定が 4 メガピクセルであるため、真価を確認する際は 16 メガピクセルに設定することが推奨されます。\n\n**方法：解決手順と仕組み**\n課題を解決するためには、モデルの公開と ComfyUI の導入が必要です。画像生成と編集を一つのモデル内で行うことができます。具体的な手順は、Open weights を選択し、6 ステップで設定する過程です。また、参照画像の指定やマップでの場所指定など、多様な用途に対応しています。\n\n**本文記載なしの項目：注意点**\n本文には具体的な使用例や操作手順の詳細なステップが記載されていません。そのため、実装時の注意点については補足情報として推測し、「本文に記載なし」と記述します。専門用語は必要とされるため、簡潔に説明しています。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/00_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/02_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/03_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/04_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/05_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/06_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/09_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/07_m.png",
+      "https://i.gzn.jp/img/2026/11/11/minimax-h3-image/08_m.png",
+      "https://i.gzn.jp/img/2026/10/02/flux-3-image/00_m.png",
+      "https://i.gzn.jp/img/2026/10/26/hy-nomas-interactive-world-model/00_m.png",
+      "https://i.gzn.jp/img/2026/10/16/krea-3-beta/00_m.png",
+      "https://i.gzn.jp/img/2026/10/16/flux-3-image-klein/00_m.png",
+      "https://i.gzn.jp/img/2026/05/15/flux-outpainting/00_m.png",
+      "https://i.gzn.jp/img/2025/08/19/qwen-image-edit/00_m.png",
+      "https://i.gzn.jp/img/2025/08/01/flux-1-krea-dev/00_m.jpg",
+      "https://i.gzn.jp/img/2025/03/19/stable-virtual-camera/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/11/three-workers-die-tata-india-iphone-factory/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/11/gigazine-review-survey/00_m.jpg"
+    ]
   }
 ]
