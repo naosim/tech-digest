@@ -5,8 +5,48 @@
     "url": "https://github.com/ConardLi/garden-skills",
     "source": "GitHub JavaScript Monthly Trending Repositories",
     "publishedAt": "2026-11-16T15:33:48.625Z",
-    "status": "pending",
-    "imageUrl": "https://opengraph.githubassets.com/339e867a5da5300a04a4b5081f8334d3696eafaafdb22794631717174bd67a60/ConardLi/garden-skills"
+    "status": "completed",
+    "imageUrl": "https://opengraph.githubassets.com/339e867a5da5300a04a4b5081f8334d3696eafaafdb22794631717174bd67a60/ConardLi/garden-skills",
+    "category": "RELEASE",
+    "summary": "# 開発者向け AI エンゲージメントスキルの紹介\n\nこの記事は、AI コードエージェント（Claude Code, Cursor など）に直訳調を避けた自然な日本語を提供する技術的なガイドです。主なテーマは、モデル API の利用方法や、クリエイティブな動画制作ツールとしての機能です。\n\n## 結論\n本記事は、開発者向けに AI エンゲージメントスキルを提供し、モデル API を活用しつつ、動画制作や Web ペpresentation を構築する技術を提案しています。\n\n## 方法\n課題として、AI エンゲージメントスキルの開発と運用について解説されています。具体的な解決方法は、`npx installskills CLI` を使用し、各プロジェクトのインストール手順を記載しています。また、モデル API の利用方法や、動画制作ツールとしての機能については、詳細な技術的な説明も含まれています。\n\n## 本文に情報がない項目は推測せず「本文に記載なし」としてください。\n要約の視点では、追加・変更された機能や対象バージョン、利用者への影響を中心にまとめています。ただし、本文には具体的な機能の変更やバージョン情報は記載されていません。",
+    "imageUrls": [
+      "https://camo.githubusercontent.com/c00cd6b7a27476269d0ec7681c43d64a6b5310254a2d6261dbde64be44f50de5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f436f6e6172644c692f67617264656e2d736b696c6c733f7374796c653d666c61742d73717561726526636f6c6f723d626c7565",
+      "https://camo.githubusercontent.com/1c0951ef75f55aae59c3eaa87c7b3a28712b2a222c468ce52638a2b39a9229ef/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f436f6e6172644c692f67617264656e2d736b696c6c733f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/eb338142a0d2efe17b6dfcc654b9159b3dd90dbecdaf2d9e0b15410de7c84548/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e3f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/f616f2dfdebafbc144faec888d492769d910062667c15ca2c60953d7da2a6550/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736b696c6c732d362d6f72616e67653f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/1787beed4fb9b6bb518f6199471b2493f256a9d01f158ec1169e09ff355649dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737065632d534b494c4c2e6d642d626c61636b3f7374796c653d666c61742d737175617265",
+      "https://github.com/ConardLi/garden-skills/raw/main/dist/imgs/covers/motion-showreel.webp",
+      "https://github.com/ConardLi/garden-skills/raw/main/dist/imgs/covers/web-video-presentation.webp",
+      "https://camo.githubusercontent.com/c2d238c392c0cb394134c372fed7d5b4ba0c4f1bea1255f7f28505474fa73964/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d766964656f2f67616c6c6572792e77656270",
+      "https://github.com/ConardLi/garden-skills/raw/main/dist/imgs/covers/web-design-engineer.webp",
+      "https://camo.githubusercontent.com/76ed913ef454ca6f3846633e3b2a0013deac8474da7a48b59b4951e78f493fed/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f6165736f702e77656270",
+      "https://camo.githubusercontent.com/5aec05be13537555fa21e343f753f3dba88c133996e001cad5f89f8ed5fb1617/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f6d756a692d6b656e79612d686172612e77656270",
+      "https://camo.githubusercontent.com/0d669b62e12a4aef7031c242d080323fdc853227a25babbc9b77c4b8f2ed7ce4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f6d6f6e6f636c652d6d6167617a696e652e77656270",
+      "https://camo.githubusercontent.com/9819a6ba99dd07d1ad40f0594bc016cc6475690b15994d908295c5d0f63600fe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f7374726970652d70726573732e77656270",
+      "https://camo.githubusercontent.com/e524f58b22171fe73e08a8720dc45518ee3f4946c06bbedb863801a69ad7b1ca/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f626c6f6f6d626572672d7465726d696e616c2e77656270",
+      "https://camo.githubusercontent.com/12e80e518c00bb89843768f5fbf2281e81e54bd1eaefb6c2e4b08cb896804a85/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f6c696e6561722e77656270",
+      "https://camo.githubusercontent.com/5f81271b9bd8a31efb8aa2f9b2f369b6bbe2875a2b4950b5bc81698309be81a4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f76657263656c2d6d6573682e77656270",
+      "https://camo.githubusercontent.com/b2555bb89fadd8331139ca629e8a2884803d066f5e0a388678b47bd6a9bebb17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f74756674652d64617461696e6b2e77656270",
+      "https://camo.githubusercontent.com/4b02ff41c802bda71d02989af2b558de1d66e7a3a260d74b5fd42f1875125dac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f6d69642d63656e747572792d6d6f6465726e2e77656270",
+      "https://camo.githubusercontent.com/febc7b9dc7d2be429682bb18552a6094e59547d0afec2fa0ca34ac66ab35aa6b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f79326b2d726574726f667574757269736d2e77656270",
+      "https://camo.githubusercontent.com/08ff6cc012fd814f79e4602640bd6dca33e36163d03a599ced32b8c39629d5a3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f626c6f6f6d626572672d627573696e6573737765656b2d7475726c65792e77656270",
+      "https://camo.githubusercontent.com/95747d9c4ee183a09970d2ebfd466616b57bbdb70775d9b447af24c31c522b34/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f6163746976652d7468656f72792e77656270",
+      "https://github.com/ConardLi/garden-skills/raw/main/dist/imgs/covers/gpt-image-2.webp",
+      "https://camo.githubusercontent.com/db3d551cafb0d724840bc67f1d5d57c15b1d95ae27241ac7c285583ebc2e5289/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f65646974696e672d776f726b666c6f77732f6261636b67726f756e642d7265706c6163656d656e742f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/e7975d9e306bcd40398ec2566a5c63f725ad08bf75660429d137311f51f32ea3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f75692d6d6f636b7570732f636861742d696e746572666163652d7363656e652f332d7468756d622e77656270",
+      "https://camo.githubusercontent.com/507c3b95ca40d8e66871429c72ba365d87e4a919b83169848fef33bf2cb2fab5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f75692d6d6f636b7570732f6c6976652d636f6d6d657263652d75692f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/30ce15b759ab2373678b87ad237426cc6224334f20be2288fb37d12e14192555/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f75692d6d6f636b7570732f70726f647563742d636172642d6f7665726c61792f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/eaa997a88125e85bc3012819c2280af2d14badde75124bb6a62c152703f4a037/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f696e666f67726170686963732f62656e746f2d677269642d696e666f677261706869632f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/290a7aa314c1fce0a3d2a6e873bd2b5661acec5faff7816930bf70fe0ac96488/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f746563686e6963616c2d6469616772616d732f73797374656d2d6172636869746563747572652f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/34a80c58407716624b2a26948c745c96f507987e78c6f1deed4dfc915126afb8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f736c696465732d616e642d76697375616c2d646f63732f64656e73652d6578706c61696e65722d736c696465732f322d7468756d622e77656270",
+      "https://camo.githubusercontent.com/55662c4fbf174d6612566157d61ee63a8a0c8fdbce3fb6cd5cba7c933a2f0f79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f6d6170732f666f6f642d6d61702f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/978e0ce1383457311d7fe874263845c355dc84feb0408355fe62e63002941511/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f70726f647563742d76697375616c732f6578706c6f6465642d766965772d706f737465722f322d7468756d622e77656270",
+      "https://camo.githubusercontent.com/f952869a7533607c5fca97b964e92d0f01324b918c3e51e5db32664822cf0bfa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f61636164656d69632d666967757265732f6e657572616c2d6e6574776f726b2d6172636869746563747572652f322d7468756d622e77656270",
+      "https://camo.githubusercontent.com/5f3f56b38b680d5ac8c8d6ebd8198e8695181caa7c5cd11659fdb237ec13ff1f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f6272616e64696e672d616e642d7061636b6167696e672f636f736d657469632d7061636b6167696e672f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/2b6fa41389e8863b13547968acec6b8f0aab12d48d695575fb73a88786569f0f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f73746f7279626f617264732d616e642d73657175656e6365732f616e696d652d6b65792d76697375616c2f312d7468756d622e77656270",
+      "https://github.com/ConardLi/garden-skills/raw/main/dist/imgs/covers/beautiful-article.webp",
+      "https://github.com/ConardLi/garden-skills/raw/main/dist/imgs/covers/kb-retriever.webp"
+    ]
   },
   {
     "id": "80ef3a1bffe4c270",
@@ -14,8 +54,11 @@
     "url": "https://zenn.dev/keibaikoubai/articles/keibai-koubai-gis-ai-2026",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-16T13:46:09.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--5tuvZ2Gi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E4%25B8%258D%25E5%258B%2595%25E7%2594%25A3%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2580%2591%25E5%2585%25A8%25E5%259B%25BD%25E3%2581%25AE%25E7%25AB%25B6%25E5%25A3%25B2%25E3%2583%25BB%25E5%2585%25AC%25E5%25A3%25B2%25E7%2589%25A9%25E4%25BB%25B6%25E3%2582%2592GIS%25E5%259C%25B0%25E5%259B%25B3%25C3%2597AI%25E3%2581%25A7%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E3%2580%258CKeibai-koubai%25E3%2580%258D%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Keibai-koubai%2520Tech...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3drclg4YmkzSEI3b1hBU3VGOFdYLTlrclNON05QejhfdHdZQms3YWYzTXBWLVFGTT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--5tuvZ2Gi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E4%25B8%258D%25E5%258B%2595%25E7%2594%25A3%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2580%2591%25E5%2585%25A8%25E5%259B%25BD%25E3%2581%25AE%25E7%25AB%25B6%25E5%25A3%25B2%25E3%2583%25BB%25E5%2585%25AC%25E5%25A3%25B2%25E7%2589%25A9%25E4%25BB%25B6%25E3%2582%2592GIS%25E5%259C%25B0%25E5%259B%25B3%25C3%2597AI%25E3%2581%25A7%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E3%2580%258CKeibai-koubai%25E3%2580%258D%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Keibai-koubai%2520Tech...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3drclg4YmkzSEI3b1hBU3VGOFdYLTlrclNON05QejhfdHdZQms3YWYzTXBWLVFGTT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "# 不動産競売・公売市場のDXプラットフォーム開発\n\nこの記事は、日本の不動産市場における「不動産競売物件（BIT）」と「国税庁の公売物件」を効率よく分析するための新しい技術プラットフォームの開発について解説します。従来のデータ処理には、分散したPDFファイルや位置情報の曖昧さが課題となっており、これらを解決するために開発された「Keibai-koubai」システムが提案されています。\n\n## 課題と解決方法\n\n主な技術的課題は以下の3点に集約されます。\n1. **データ分散と非構造化**：管轄裁判所ごとにPDFファイルが分散しており、検索が困難です。\n2. **位置情報の視認性不足**：住所表記の揺らぎにより、地図上の直感的な比較が難しいです。\n3. **相場比較の難しさ**：売却基準価額と実際の相場との差を即座に判断することができません。\n\nこれらを解決するため、ブラウザ上で操作可能なGIS可視化プラットフォームとして開発しました。システム全体構成では、Next.jsベースのフロントエンドとLeaflet地図描画を採用し、国土交通省の公開データを連携しています。特に、「3点セット」のPDFファイルを自動解析し、構造を整理したデータを作成するAI技術も導入されています。\n\n## 結論\n\nこのプラットフォームは、専門的なデータ分析を一般の人々にも直感的に理解できる環境を目指しています。これにより、競売や公売市場の価格比較を容易にすることが可能になり、投資や購入の判断を支援する価値があります。\n\n## 方法\n\n課題を解決するために、以下の手順と仕組みが採用されています。\n- **データ正規化**：住所表記の統一とジオコーディングの安定化を処理パイプラインで行います。\n- **地図検索の最適化**：バウンディングボックスベースのマップ検索を行い、パフォーマンスを向上させます。\n- **AI解析の活用**：3点セットの要約と相場ギャップ算出を行うことで、割安度シグナルを抽出します。\n\n## 注意点\n\n導入前に、データ正規化の正確性とGISの精度について確認することが重要です。また、複数の物件が同一座標に存在する場合は、微細なジッターを適用することで視認性を保つ必要があります。",
+    "imageUrls": []
   },
   {
     "id": "f0e64d4e2d877663",
@@ -23,8 +66,11 @@
     "url": "https://zenn.dev/claudycat/articles/0d468dd38c8231",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-16T11:57:36.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--SRLp9ohs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E4%25B8%25AD%25E3%2581%25AE%25E5%25BF%259C%25E7%25AD%2594%25E3%2581%258B%25E3%2582%2589%25E3%2580%2581%25E6%258E%25A8%25E8%25AB%2596%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E6%2580%259D%25E8%2580%2583%25E3%2583%2596%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592%25E5%258F%2596%25E3%2582%258A%25E5%2588%2586%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Claudy%2520Cat%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk84QWNGcXhOZzdfSTJNNm05TWRjZFNEZ1ZsdDVvRl8xVThUUzdWdm5lUzNUNEx1OD1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--SRLp9ohs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E4%25B8%25AD%25E3%2581%25AE%25E5%25BF%259C%25E7%25AD%2594%25E3%2581%258B%25E3%2582%2589%25E3%2580%2581%25E6%258E%25A8%25E8%25AB%2596%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E6%2580%259D%25E8%2580%2583%25E3%2583%2596%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592%25E5%258F%2596%25E3%2582%258A%25E5%2588%2586%25E3%2581%2591%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Claudy%2520Cat%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk84QWNGcXhOZzdfSTJNNm05TWRjZFNEZ1ZsdDVvRl8xVThUUzdWdm5lUzNUNEx1OD1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "開発者側は、直訳調を避けた自然な日本語で、350〜450 文字の要約を提出します。\n\n**テーマ：執筆ツールとしての課題と解決方法**\n小説の続き提案ツール「Sumire」は、ローカル LLM を活用し、思考プロセスを分離する仕組みを実装しました。推論モデルによる応答に思考文が混ざる問題に対し、タグ（<|channel>〜<channel|>）で思考ブロックを抽出し、テキストとして返す設計です。Tab で入力し、Esc で確認します。\n\n**結論：思考分離により、直訳調の文章作成が可能になる**\n推論モデルの応答から思考ブロックを分離することで、文章の構成が明確化され、読者の理解を向上させることができます。\n\n**方法：タグによる思考抽出とテキスト出力**\n1. 推論サーバーとの通信で差分を受け取り、思考ブロックの位置を特定する。\n2. 分離器として、思考ブロックとテキストを別々に処理する。\n3. 最終的に、思考を除いたテキストを出力する。\n\n本文には情報がない項目は「本文に記載なし」とします。追加機能やバージョン情報は、現状の設計範囲内です。",
+    "imageUrls": []
   },
   {
     "id": "2bd6775051de126a",
@@ -32,8 +78,11 @@
     "url": "https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T11:51:33.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Fkotowazaman%2Fitems%2F9ee7c475a475e7527b0e"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Fkotowazaman%2Fitems%2F9ee7c475a475e7527b0e",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：AI 時代での学習効率と勉強会の価値\n\n**テーマ**: AI 時代に学習方法と知識共有の進化\n結論：AI を活用した自発的な学習と、実践的な議論が最も効果的である\n方法：AI を活用し、現場のコードを参照しながら自己学習を行うことで、会議室での議論の必要性を低下させる\n\n本文では、開発者向けに AI による学習効率の向上と、会議室での勉強会への批判を提示する内容です。調査結果によると、開発者は AI を活用して解決策を探索する習慣を形成しており、これにより知識の共有コストを大幅に削減できます。しかし、専門的な技術の理解や実践的な議論には、人間が直接関与することが不可欠であることが示されています。特に、会議室での学習は「AI による自己満足」だけでなく、現場の業務効率化やスキル向上にも貢献する重要な機会です。そのため、適切なテーマ選びと実践的な議論を重視することが重要です。",
+    "imageUrls": []
   },
   {
     "id": "6dd67588efc2aeeb",
@@ -41,8 +90,11 @@
     "url": "https://mainichi.jp/articles/20261116/ddm/001/010/121000c",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T11:43:33.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20261116%2Fddm%2F001%2F010%2F121000c"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20261116%2Fddm%2F001%2F010%2F121000c",
+    "category": "RELEASE",
+    "summary": "# 課題と技術の概要\n記事は、ウクライナ軍がモスクワの露インターネット施設を無人航空機で攻撃した事実を報告しています。同規模の過去3回の攻撃に加え、ロシアによる偽情報の拡散に対抗する新たな戦略として、人工知能を用いたソーシャルメディアの悪化を防ぐ取り組みが提言されています。\n\n## 結論\nウクライナはデータセンター攻撃の復�性を出す一方で、AIを活用したソーシャルメディアの悪化対策を強化する方針を示しています。これにより、社会の分断や憎悪の拡散を防ぐための対称的な対応が求められます。\n\n## 方法\n攻撃の目的はデータセンターであり、結果として偽情報の拡散対策を実施するものです。ウクライナ側は、AIを活用したソーシャルメディアの改善を目標とし、これにより信頼性の高い情報環境を構築する方針です。\n\n本文には具体的な技術的な詳細や運用手順が記載されていませんが、一般的な攻撃と防御の対比を通じて、対策の概要が示されています。",
+    "imageUrls": []
   },
   {
     "id": "3867c130b2d24a63",
@@ -50,8 +102,18 @@
     "url": "https://ascii.jp/elem/000/004/450/4450424/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T11:18:56.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fascii.jp%2Felem%2F000%2F004%2F450%2F4450424%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fascii.jp%2Felem%2F000%2F004%2F450%2F4450424%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な要約\n\n**テーマ：技術課題と検証内容**\n最新パーツ性能チェックで Surface Laptop Ultra（128GB メモリー）の検証結果、NVIDIA の「RTX Spark N1X」ソック搭載PCの販売開始が確認された。この製品は ARM ベースの CPU と GeForce RTX 50 シリーズ相当の GPU を組み合わせ、オフラインでの AI エージェントを動かすための SoC である。主な特徴はメインメモリーと VRAM が合体したユニファイドメモリーを採用し、128GB のメモリ容量を持つことでローカル AI をサポートする可能性がある。ただし、18 コア CPU 版の下位モデルでは 32 GB メモリーで制限されているため、クラウド AI の利用は前提となる。基本パフォーマンスについては既にファーストレビューで傾向が示されている。\n\n**結論：推奨される構成と性能比較**\nRTX Spark の性能検証結果によると、VRAM の割当を手動で変更できる設計であることが明確である。64〜128 GB のメモリを持つ上位モデルのみが完全な AI エージェントの運用が可能であり、32 GB 未満のモデルはクラウド AI の利用が前提となる。既存のディスクリート GeForce やノート PC の GeForce を対比した検証では、VRAM に載せきれないデータはメインメモリーに置くことが可能であるという点も確認された。\n\n**方法：検証環境と技術運用**\n比較対象として、Ryzen ベースの自作 PC と Razer Blade 16 の両方を用意し、RTX 5090、5070 Ti、5060 Ti の 3 つの GeForce を使用した環境を準備した。GPU の仕様は異なるため、メモリー容量とバス幅の違いを考慮した検証を行った。RTX Spark の設定ではメモリー割当を VRAM に設定し、電源プランを「パフォーマンス」にすることで、既存のハードウェアとの比較が可能であることが確認された。\n\n本文には具体的な性能値やデータ詳細が含まれていないため、推測は行わない。重要なお見出しは上記通りです。",
+    "imageUrls": [
+      "https://ascii.jp/asciiclub_files/clip/image/fav.png",
+      "https://ascii.jp/img/btn_printart.gif",
+      "https://ascii.jp/img/2026/11/11/4550438/l/bf4d5953ed41a07e.png",
+      "https://ascii.jp/img/2026/11/11/4550439/l/495209fb9382f0e4.png",
+      "https://ascii.jp/img/2026/11/15/4552275/l/49c125cb5f90e9cc.jpg",
+      "https://ascii.jp/img/2026/11/11/4550440/l/fce8ad86cd44f6b2.png"
+    ]
   },
   {
     "id": "d8001b6edc901239",
@@ -59,8 +121,11 @@
     "url": "https://speakerdeck.com/masasuzu/2026-11-16-jaws-ug-kontena-shibu-31-yuru-lt-taikai-ecr-no-raifusaikuru-porishi-o-ii-kanji-ni-settei-shitai-ecr-lifecycle-policy",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T10:59:31.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fmasasuzu%2F2026-11-16-jaws-ug-kontena-shibu-31-yuru-lt-taikai-ecr-no-raifusaikuru-porishi-o-ii-kanji-ni-settei-shitai-ecr-lifecycle-policy"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fmasasuzu%2F2026-11-16-jaws-ug-kontena-shibu-31-yuru-lt-taikai-ecr-no-raifusaikuru-porishi-o-ii-kanji-ni-settei-shitai-ecr-lifecycle-policy",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\n開発者向けに、直訳調を避けた自然な日本語で要約します。\n\nECR のライフサイクルポリシーは、イメージの管理を自動化する重要な仕組みです。設定例では、リリースタグ（v*）を 30 個残し、推定されたタグなしは 14 日で削除するルールが適用されます。これにより、古いイメージは自動で消え、コスト削減と安全性を確保できます。\n\nしかし、この仕組みには課題があります。画像のアーカイブ機能や、タスク起動時の pull 処理により、使っていないイメージが消えない場合があります。特に、ECS や Lambda のタスクが参照しているイメージの削除は、デプロイ時にダイジェスト単位で処理されるため、アーカイブ化されたイメージも削除されません。\n\nこの問題は、ECR の公式に良い仕組みを用意していないという指摘があります。また、手動的な更新や、開発者側での調査により、最後の記録時間（lastRecordedPullTime）を更新する仕組みが導入されています。\n\n最終的には、アーカイブストレージクラスの導入により、コスト削減と保存義務への対応が可能になります。しかし、使っていないイメージが消えない問題は、アーカイブ化されていないまま残る可能性があります。\n\n結論として、ECR のライフサイクルポリシーは適切に設計されているものの、すべてのケースをカバーする仕組みは不足しているため、開発者側での調査や再現が推奨されます。",
+    "imageUrls": []
   },
   {
     "id": "78582db63c69c530",
@@ -68,8 +133,17 @@
     "url": "https://zenn.dev/ekispert_api/articles/claude-code-mods",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-16T09:42:12.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--j25ZyDrc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AEmod%25E3%2581%25A7%25E3%2580%2581AI%25E3%2581%25AB%25E6%25B8%25A1%25E3%2582%258B%25E5%2589%258D%25E3%2581%25AB%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%2592%25E4%25BC%258F%25E3%2581%259B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:lyusei%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzllZWU4MmU5MDMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E9%25A7%2585%25E3%2581%2599%25E3%2581%25B1%25E3%2581%2582%25E3%2581%25A8%2520API%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IzNTg2MDY4NjUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--j25ZyDrc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AEmod%25E3%2581%25A7%25E3%2580%2581AI%25E3%2581%25AB%25E6%25B8%25A1%25E3%2582%258B%25E5%2589%258D%25E3%2581%25AB%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%2592%25E4%25BC%258F%25E3%2581%259B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:lyusei%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzllZWU4MmU5MDMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E9%25A7%2585%25E3%2581%2599%25E3%2581%25B1%25E3%2581%2582%25E3%2581%25A8%2520API%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IzNTg2MDY4NjUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：課題と技術**\n開発者は、API 呼び出しやログからアクセスキーやトークンを直接読み取るリスクを避けるために、Claude Code の拡張機能である `mod` を導入しました。この仕組みは、ツール実行結果やプロンプト送信時のキー情報をモデルに送る前に「マスク（隠す）」するプラグインを実装することで、情報漏洩を防ぐ方法です。特に、環境変数やトークンなどの秘密値が含まれるログやコードをそのまま読み取る場合のリスクが指摘されています。\n\n**結論：推奨方法**\nこの解決策は、モデルへのデータ送受信前とトランスクリプトへの保存前に両方の側でキー情報を隠すことで、AI が文脈を勝手に補って作業を進めるのを防ぎます。設定ファイルや環境変数の値の形式が公開されているものには注意し、形式が公開されていないものはそのまま読み取る必要があります。\n\n**方法：実装と仕組み**\n`mod` は JavaScript や TypeScript の関数を差し込み、イベントを監視してキー情報を処理します。3 つのフック（イベント発火、プロンプト送信、ツール実行結果）に設定されています。各フックで、指定された環境変数や URL パラメータなどの秘密値を `[MASKED:変数名]` の形式に変換し、モデルへのデータ送受信とトランスクリプトの保存前に適用します。例として、GitHub トークンや AWS シークレットアクセスキーは、形式が公開されていない場合はそのまま読み取る必要があります。簡易的なコードも提供されています。\n\n本文の長さを考慮して、専門用語は短く説明しています。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/05d8336419e56e9481f5c606.png?sha=d69c3eb94c47520935699a3c03ac7a8095016c61",
+      "https://static.zenn.studio/user-upload/deployed-images/df9774413678235f48e47cf9.png?sha=8194e1511cde37e58c487b073a7a568730f234f3",
+      "https://static.zenn.studio/user-upload/deployed-images/d0cb65c07c09d44637fd589c.png?sha=64c27ced2c64c53f3f695ded7b3737da1c4d9140",
+      "https://static.zenn.studio/user-upload/deployed-images/0177229fbcdf635e8fbb987b.png?sha=b289e7b38249ee515a37027a7c4d05bd5eae8c7f",
+      "https://static.zenn.studio/user-upload/deployed-images/14b4015d4779615621f11eb8.png?sha=a390c36d09dadac1ee0ed6da1612041866d09053"
+    ]
   },
   {
     "id": "e7a0d517e87f4948",
@@ -77,8 +151,25 @@
     "url": "https://gigazine.net/news/20261116-apple-basic-wozniak/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T09:36:18.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261116-apple-basic-wozniak%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261116-apple-basic-wozniak%2F",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：BASIC の設計とアセンブリ化の歴史\n\n**テーマ**: 開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約してください。\n\n本文の内容は、ウォズニアック氏が 1986 年の Apple World Convention で語った内容です。彼は、座って BASIC を書きながら、手作業でアセンブルを構築したという体験を振り返っています。当時の開発環境では、開発ツールを購入する余裕がなかったため、紙の上でコードを書き、その結果として手書きのコピーが唯一の記録となりました。\n\nこの経験は、単純なプログラム設計の基礎となるものであり、現在のプログラミング言語の設計思想と直結します。BASIC は最初からアセンブリ言語ではなく、16 進数をそのまま入力する離れ業でした。これにより、開発者がツールを購入する余裕がない時代を振り返る重要な事例となります。\n\n結論として、現在のプログラミング言語の設計は、当時の紙上での手作業に基づいた単純なプログラム設計思想と深く結びつき、現代のソフトウェア開発において基礎となる重要な概念です。\n\n方法としては、開発者自身でコードを書きながら、その結果として手書きのコピーを記録する体験を振り返ることで、現在の設計思想を理解することが可能です。また、この歴史的背景を理解することで、より適切なツールや技術を選択できる可能性があります。\n\n本文には具体的な手順や仕組みの詳細は記載されていませんが、上記の要約で補足できます。開発者にとって、過去の経験と現在の設計思想の関係性を理解することは、より良い技術選択や開発プロセスを支援する重要なステップとなります。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/16/apple-basic-wozniak/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/16/apple-basic-wozniak/snap0440_m.png",
+      "https://i.gzn.jp/img/gsc/banner/20261110-adguard-windows-mac/d33701e30a6c2c3a4eb5a0963d46d7a8.png",
+      "https://i.gzn.jp/img/2016/06/20/xerox-alto-restoration/00_m.jpg",
+      "https://i.gzn.jp/img/2023/11/03/apple-cpu-architecture/00_m.jpg",
+      "https://i.gzn.jp/img/2020/11/29/next-with-steve-jobs/00_m.jpg",
+      "https://i.gzn.jp/img/2026/09/11/apple-ceo-john-ternus-iphone-duo/00_m.jpg",
+      "https://i.gzn.jp/img/2014/05/01/fifty-years-of-basic/kurtzandstudent.jpg",
+      "https://i.gzn.jp/img/2021/10/06/celebrating-steve-jobs/00_m.png",
+      "https://i.gzn.jp/img/2013/11/13/apple-ii-dos-source-code/00-top.jpg",
+      "https://i.gzn.jp/img/2020/09/16/fpga-xc2064-reverse-engineering/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/16/ai-literary-world/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/16/chatgpt-wallet/00_m.png"
+    ]
   },
   {
     "id": "f2dd81ed72093523",
@@ -86,8 +177,18 @@
     "url": "https://news.yahoo.co.jp/articles/d64fdb4cf9415c9dfec64845ae1402f94ee1eef3",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T09:31:58.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.yahoo.co.jp%2Farticles%2Fd64fdb4cf9415c9dfec64845ae1402f94ee1eef3"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.yahoo.co.jp%2Farticles%2Fd64fdb4cf9415c9dfec64845ae1402f94ee1eef3",
+    "category": "RELEASE",
+    "summary": "# 課題：カーシェアリングサービスの不正アクセスとデータ漏洩\n\n結論：タイムズカーサービスは、9 月末時点での会員数が前月比 0.3％減り、不正アクセスによる個人情報流出が影響していることが指摘されています。\n\n方法：\nサービス開始以来、会員数は月次ベースで減少する傾向にあります。しかし、9 月下旬の調査結果では、個人情報が流出した運転免許証画像のデータが延べ約 146 万人分と確認されました。また、退会する人や新規登録者が相次いだため、単純な数値比較では誤差が生じています。\n\n本文に記載された主な問題は、不正アクセスによる情報漏洩です。対策として、個人情報を暗号化しているものの、退会者や新規登録者の対応が必要です。今後のサービスは、データ管理の徹底と適切な対応を重視する必要があると見られます。",
+    "imageUrls": [
+      "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261116-00000133-kyodonews-000-11-view.jpg?pri=l&w=640&h=417&exp=10800",
+      "https://mitsumame-pctr.c.yimg.jp/4jkl4CfYnbWoWyzD5J8BramA3RbH9NNTaMyJrck6kpgxP9Tg-udoIZw3Wb3BoKAc2WWOdyqKL1ulpNzJ4rMjbQWTUgwQkA1eqZmlSSu0ZhrbhQrY-KlSPdnKA6BRg8ERX5Mqjr6KSO6g0Ef6azVw3xS2YtFSI8lqlpNOxnD7COk=",
+      "https://mitsumame-pctr.c.yimg.jp/4jkl4CfYnbWoWyzD5J8BrTFHzPlzkKHRqanJDq70dMv3RkCtgue8vCgQG2bA29LGe5IDlXvAblRzN0YGfdPOi9sFym74PD9EibUnmsT9p22BdMY-fIvLi_P0x-dLqoEUBYfkAEVUJzyxnjpR6Bcn6Xu8FnenQ9_hnyocMpO0AjA=",
+      "https://mitsumame-pctr.c.yimg.jp/4jkl4CfYnbWoWyzD5J8BrbGyPX_Djb4O4stquGXRu00auwP1B7SVJsym3oDEQyN2iAD-3UvUcQxhM0O_elpc3Oi4mLd-1fjyyfDS50Cz8z_EoIrdhR1_NqxTMyA4cZhE3uor6BagJADC3qCbxiZBZDHogk7FUz8e2nf25V_RKHQ=",
+      "https://mitsumame-pctr.c.yimg.jp/4jkl4CfYnbWoWyzD5J8BrTFHzPlzkKHRqanJDq70dMsAPy3vHp750raQRcLYdBuZHBqS-16rpWBzuzGqrHxYv8oeX-CUMSaTkulOpOGrrZIfP4X7woPm9mBYIN7LK4NdDlOKsvnn2sLzrN8fj5XqhlokEWiVOGjDoCfzbGNRuEQ=",
+      "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJtuOkIFxq9jFAR0HxRP6qHrojkV_-4-EWlaOi0ygkNFRSBLWdOtiecLS-bBz-K5Ad3-txF8eV_Sa4o1wy7JlvJvwcEq4VBf0bYiAXOmUCCvf3TZqXbcCem9xjlSVbpgR_EkL29vHXMNqAW-UL2wZSWgBHTM6G8DyI6w5Zk14Yb7CA=="
+    ]
   },
   {
     "id": "24ae06882d9580fb",
@@ -95,8 +196,11 @@
     "url": "https://zenn.dev/matsutake_prgrm/articles/value-and-defaultvalue-are-different",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-16T09:00:05.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--OYOQWmPu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%2520Hook%2520Form%25E3%2581%25AE%25E5%2580%25A4%25E3%2581%258C%25E9%2580%2581%25E4%25BF%25A1%25E5%25BE%258C%25E3%2581%25AB%25E6%25B6%2588%25E3%2581%2588%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25AF%25E3%2580%2581React%252019%25E3%2581%258Cform.reset%2528%2529%25E3%2582%2592%25E5%2591%25BC%25E3%2581%25B6%25E3%2581%258B%25E3%2582%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BE%25E3%2581%25A4%25E3%2581%259F%25E3%2581%2591%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmYjg0Y2M2ZjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--OYOQWmPu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%2520Hook%2520Form%25E3%2581%25AE%25E5%2580%25A4%25E3%2581%258C%25E9%2580%2581%25E4%25BF%25A1%25E5%25BE%258C%25E3%2581%25AB%25E6%25B6%2588%25E3%2581%2588%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25AF%25E3%2580%2581React%252019%25E3%2581%258Cform.reset%2528%2529%25E3%2582%2592%25E5%2591%25BC%25E3%2581%25B6%25E3%2581%258B%25E3%2582%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BE%25E3%2581%25A4%25E3%2581%259F%25E3%2581%2591%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmYjg0Y2M2ZjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\nこの記事は、React Hook Form の形式処理における重要な問題点について解説しています。編集ページ保存時に値が失われる現象を調査し、原因を特定しました。問題の根本原因是「送信後の再確認」であり、サーバー側には正しい値が届いているためです。\n\n## 結論\n\n編集画面での保存機能は、React 19 の仕様により、送信後に自動的に値をリセットする設計になっています。これにより、ユーザーが手動で入力した値を保持できない状態になります。この現象は公式に書かれているため、内部の名前変更は影響しません。\n\n## 方法\n\n解決策として、以下の 3 つのアプローチが提案されています。\n\n1. **デフォルト値を設定する**：各 input に `defaultValue={item.title}` を設定し、成功時にサーバーから値を返すことを併記する。\n2. **設計変更する**：編集画面の表示機能のみを削除し、新規作成時の正しい挙動に準拠する。\n3. **例外処理を回避する**：`redirect()` の例外を考慮し、try/catch を不要にすることで、Next.js のリドレクトループを破棄しないよう注意が必要である。\n\n本文には、環境設定や GitHub の提案情報が含まれていますが、解決策の概要は上記の通りです。",
+    "imageUrls": []
   },
   {
     "id": "6b529ba6707692d5",
@@ -104,8 +208,15 @@
     "url": "https://forest.watch.impress.co.jp/docs/news/2156753.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T08:21:28.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2156753.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2156753.html",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\n米Microsoftは、直訳調を避けた自然な日本語で350〜450文字の要約を行います。\n\n## テーマ：記事が扱う課題や技術は何か\n米Microsoftは、11月16日に発生した「Microsoft 365」「Exchange Online」の大規模障害について、暫定版のインシデント事後レポート（PIR）を公開しました。この障害は、ネットワークゲートウェイが世界規模でダウンすることで発生し、メールクライアントへのアクセスや配信が遅延を招きました。特に「Teams」「SharePoint」「OneDrive」などのサービスにも影響がありました。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nこの不具合は、複数の要因が重なってサーバーの応答能力を低下させ、最終的に80％以上のサーバーが対応できなくなりました。最終的な解決策として、Windowsコードのアップデートやサーバーをグループ単位でサービスから外し、再起動を行う手順が提案されています。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n障害の原因は、ネットワークゲートウェイが世界規模でダウンすることです。その対策には、遅延されたメールの配信期限を延長する機能や、容量の追加、トラフィックの振り向けや接続処理の監視強化などがあります。最終的な解決策として、サーバーをグループ単位でサービスから外し、アップデートを適用して再起動することで、段階的にサービスを復旧させます。\n\n本文には詳細な技術用語は含まれていませんが、専門用語は必要に応じて短く説明しています。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/wf/docs/2156/753/image1_l.png",
+      "https://asset.watch.impress.co.jp/img/wf/docs/2156/753/image2_l.png",
+      "https://images-na.ssl-images-amazon.com/images/P/0367024292.09._SCTZZZZZZZ_PE.jpg"
+    ]
   },
   {
     "id": "e6c41a193449821c",
@@ -113,8 +224,13 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T08:20:22.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F16%2F2000003226%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F16%2F2000003226%2F",
+    "category": "RELEASE",
+    "summary": "米創業者ジェンズン・フアン氏の退任は、単なる不倫ではなく、国家安全保障や中国関連売上への影響を伴う深刻なハニートラップと見なされる。この事件により、NVIDIA の半導体業界への影響が複雑化し、従来の戦略の再構築が必要となる。\n\nフアン氏の功績は、GPU の開発に成功し、CUDA の普及を促すことで、AI 分野の主導権を確立した。しかし、その後の企業戦略の転換や、Groq LPU の導入により、NVIDIA の地位が再評価される。この変化は、創業者としてのフアン氏の判断と、半導体業界全体の動向を反映する重要な事実となる。\n\n今後の影響については、技術的な革新と企業の戦略的調整が複雑に絡み合う。専門用語は短く説明し、本文の要約としてまとめられている。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/16/2000003226/10012206/728"
+    ]
   },
   {
     "id": "544263fb5289801e",
@@ -131,8 +247,16 @@
     "url": "https://www.nikkei.com/article/DGXZQOUC1651Z0W6A111C2000000/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T08:15:02.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUC1651Z0W6A111C2000000%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUC1651Z0W6A111C2000000%2F",
+    "category": "RELEASE",
+    "summary": "清食品はLINE の登録者情報が漏洩を報告しました。対象は計137万4157件のユーザーであり、9月9日から11月5日まで利用者が個人情報を流出したことが確認されています。特にカップヌードルのキャンペーンプログラム開始に伴い、氏名、住所、電話番号などの543件の情報が流出したという問題が指摘されました。また、ソニックムーブのCOMSBIサービスも不正アクセスを受けたケースがあり、企業への報告を受けました。\n\n結論として、LINE のアカウント登録者情報の漏洩は企業や個人に被害を及ぼす可能性があります。これにより、キャンペーン業務の委託先への不正アクセスや情報漏洩が発生するリスクが懸念されています。\n\n方法として、関連企業や業界への報告を行い、対策を講じることが推奨されます。専門用語は必要なく、一般的な説明で理解しやすいよう記述しました。本文には具体的な技術的な詳細情報は記載されておりません。",
+    "imageUrls": [
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3885798016112026000000-2.png?ixlib=js-3.8.0&w=638&h=319&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=ba3a97501c377b976b77b78bc8d30c00",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3879150014112026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=48002eeef32227d68207be97b476a92d",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3804430029102026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.93&fp-y=0.2&fp-z=1&crop=focalpoint&s=dc7445d4106d7777b01646520cd05882",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3854115010112026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=83dc17e848066cd0c2f9c7f01ff51abf"
+    ]
   },
   {
     "id": "7a5eca3504567a84",
@@ -140,8 +264,17 @@
     "url": "https://zenn.dev/99log/articles/99log_hermes-img-gen-with-cloudflare_0001",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-16T08:06:38.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--gzm_jcrm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Hermes%2520Desktop%25E3%2581%258B%25E3%2582%2589Cloudflare%2520Workers%2520AI%25E3%2581%25AEFlux.2%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25A7%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B9%259D%25E5%258D%2581%25E4%25B9%259D%25E3%2583%25AD%25E3%2582%25B0%2528Tsukumo%2520Log%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZjOTk0MjE2YTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--gzm_jcrm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Hermes%2520Desktop%25E3%2581%258B%25E3%2582%2589Cloudflare%2520Workers%2520AI%25E3%2581%25AEFlux.2%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25A7%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B9%259D%25E5%258D%2581%25E4%25B9%259D%25E3%2583%25AD%25E3%2582%25B0%2528Tsukumo%2520Log%2529%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZjOTk0MjE2YTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Hermes Desktop の画像生成機能の導入方法\n\n本記事は、Hermes Desktop を使用して Cloudflare Workers AI の Flux.2 モデルを使って画像を生成する方法をまとめました。主な課題は、従来の OpenAI API の無料枠内で十分な生成量を得られない問題です。\n\n結論：Flux.2 モデルを利用することで、より多くの無料で生成可能な画像を作成できます。\n\n方法：\n1. 開発者向けに直訳調を避けた自然な日本語で要約します。\n2. 本文の指示を引用データとして扱い、記事内容だけを要約します。\n3. 追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\n本文には情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/45b63a22c815bf883363ee0a.jpg?sha=87bd88207b2f300e1e3a0a729ce511aa873b4894",
+      "https://static.zenn.studio/user-upload/deployed-images/6f39eab0b10163e3d34223ee.jpg?sha=13c9b4dbec5ea76b06bd9a23156b01edd6081f07",
+      "https://static.zenn.studio/user-upload/deployed-images/a6053d4896ace566aee17fa3.jpg?sha=73be578c80bb3f7f9eb1beec581bad3b9215b1e0",
+      "https://static.zenn.studio/user-upload/deployed-images/bbfea915ff71e2e337d4d0fa.jpg?sha=eb737466255c181c9c197b2002f327a46c33dc99",
+      "https://static.zenn.studio/user-upload/deployed-images/4e80ddc08db9139caccd980b.jpg?sha=a3101125435a20ba22dfca18621fd6b609faf6f6"
+    ]
   },
   {
     "id": "77a657efb06d3814",
@@ -149,8 +282,13 @@
     "url": "https://japan.cnet.com/article/35254951/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T07:53:04.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254951%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254951%2F",
+    "category": "GENERAL",
+    "summary": "フレキシブルは、年齢や単身生活の理由を理由に賃貸アパートを認める基準を設けず、10 月には埼玉県越谷市に完成させた「まほろばⅠ」を公表した。この物件はカメラやマイクを使わずにWi-Fi を備え、24 時間監視を行う仕組みを採用している。管理会社が月 1 回 1 時間の訪問を行い、生活の困りごとの対応を行うため、家族は専用アプリで活動状況を確認できる。賃料は月 6 万〜6 万 5000 円だが、見守りや設備点検などの費用は月 3 万円加算される。利用可能な家具レンタルは月額 5000 円と設定されている。入居には自立生活の条件があり、介護が必要な人は入居できない。審査を通過した場合は保証人が必要なし、審査を失敗した場合は保証会社の審査を適用する制度がある。また、身元引受契約も別途必要となる。一般的な賃貸住宅であり、介護サービスは提供しないため、Amazon アソシエイトとして収益を得ている。\n\n結論：フレキシブルは年齢や単身生活の理由を理由に賃貸住宅を認める基準を設けず、Wi-Fi を備えつつ監視を行う新しい賃貸アパートを公開し、利用可能な家具レンタルや設備点検対応を強化する。\n\n方法：物件は木造 2 階建てで東武スカイツリーラインの大袋駅から徒歩 10 分に位置し、管理会社が月 1 回 1 時間の定期訪問を行い、生活の困りごとの対応を行う。利用可能な家具レンタルは月額 5000 円と設定されており、入居には自立した生活ができる条件がある。審査を通過した場合は保証人・保証会社が不要になるが、審査を失敗した場合は同社の保証制度を利用する必要がある。\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。",
+    "imageUrls": [
+      "https://japan.cnet.com/storage/2026/11/16/dab224f66c359a9b9ea3cbc453cbe779/body-01.jpg"
+    ]
   },
   {
     "id": "b9dd952b18bd7326",
@@ -158,8 +296,19 @@
     "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003229/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T07:25:40.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Faiplus%2Farticle%2F2611%2F16%2F2000003229%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Faiplus%2Farticle%2F2611%2F16%2F2000003229%2F",
+    "category": "RELEASE",
+    "summary": "米 Google は 11 月 12 日、AI モデル「Gemini 4 Hydrogen」とを発表しました。このモデルは低コストで日々の作業をサポートする方針を示しています。性能としては、Carbon と Argonを上回っており、思考レベルの深さを設定できますが、応答遅延やタイムアウトなどの注意点があります。安全性については、画像を含む入力に対する安全性も改善しましたが、不当な回答拒否も増加しました。\n\n開発者向けに利用する主な方法は、複数のモデルを組み合わせた開発です。Google Antigravity の「Orchestrator」機能により、上位モデルと Hydrogen を自動切り替えることができます。このツールはコーディングやテストの実行を担うことで、開発効率を向上させます。また、Google スライド生成やデータ分析などの知識労働にも利用可能です。\n\n無料枠は Gemini アプリや Google 検索、API など全ユーザーを対象に提供されています。有料プランの加入者はモデル選択メニューから明示的に選べるようになります。企業向けには Google Workspace や Gemini for business で提供するサービスもあります。開発者は API の料金を意識し、適切な設定を行う必要があります。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/aiplus/article/image/2611/16/2000003229/10012224/728",
+      "https://www.itmedia.co.jp/aiplus/article/image/2611/16/2000003229/10012225/728",
+      "https://www.itmedia.co.jp/aiplus/article/image/2611/16/2000003229/10012226/728",
+      "https://www.itmedia.co.jp/aiplus/article/image/2611/16/2000003229/10012227/728",
+      "https://www.itmedia.co.jp/aiplus/article/image/2611/16/2000003229/10012228/728",
+      "https://www.itmedia.co.jp/aiplus/article/image/2611/16/2000003229/10012229/728",
+      "https://www.itmedia.co.jp/aiplus/article/image/2611/16/2000003229/10012230/728"
+    ]
   },
   {
     "id": "d3d30c16fa10dafc",
@@ -167,8 +316,147 @@
     "url": "https://www.watch.impress.co.jp/docs/news/2156736.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T07:20:06.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fnews%2F2156736.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fnews%2F2156736.html",
+    "category": "RELEASE",
+    "summary": "# ハンズ渋谷店の営業終了と展示\n結論：ハンズ渋谷店は1978年開業以来48年間の歴史を振り返る展示で、最終営業日は顧客メッセージを書く機会となりました。\n方法：店舗の構造や装飾、展示内容について詳細な情報が含まれています。\n本文に情報がない項目は「本文に記載なし」とします。\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\nハンズ渋谷店は1978年開業以来48年の歴史を振り返る展示として営業を終了しました。店舗の構造は「スキップフロア」として独特で、階段の壁にはアート作品や案内が設置されています。最終営業日は顧客メッセージを書く機会となりましたが、展示は100カット以上の写真と古いチラシを再現しました。店舗の装飾には木材や金属材など多様な素材が使われており、顧客の思い出を残すことができました。しかし、最終営業日は売り切れの状況でした。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/000_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/001_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/117_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/002_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/003_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/004_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/005_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/006_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/007_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/008_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/009_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/010_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/011_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/012_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/013_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/014_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/015_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/016_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/017_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/019_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/018_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/020_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/022_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/021_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/023_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/024_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/025_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/026_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/027_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/028_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/029_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/030_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/031_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/032_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/033_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/034_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/035_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/036_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/037_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/038_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/040_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/041_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/042_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/043_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/044_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/045_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/046_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/092_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/049_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/051_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/050_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/047_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/048_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/053_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/052_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/054_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/056_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/055_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/057_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/058_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/059_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/060_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/062_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/063_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/064_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/065_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/066_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/067_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/068_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/069_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/070_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/071_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/061_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/074_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/072_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/073_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/075_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/076_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/077_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/078_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/079_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/080_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/091_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/081_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/095_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/082_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/083_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/084_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/085_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/086_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/087_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/089_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/093_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/094_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/096_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/098_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/099_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/100_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/101_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/102_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/103_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/104_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/105_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/106_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/107_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/108_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/109_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/110_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/111_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/112_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/113_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/114_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/115_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/116_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/118_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/119_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/120_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/121_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/039_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/122_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/123_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/124_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/125_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/126_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/127_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/128_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/129_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/130_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/131_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/132_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/133_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/134_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/135_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/136_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/736/137_s.jpg"
+    ]
   },
   {
     "id": "4d28c30f6f5518f3",
@@ -176,8 +464,11 @@
     "url": "https://bruceroettgers.eu/blog/protomaps/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T07:17:37.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fbruceroettgers.eu%2Fblog%2Fprotomaps%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fbruceroettgers.eu%2Fblog%2Fprotomaps%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な要約\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n## 課題と技術の概要\n開発者は Mapboard プロジェクトにおいて、Mapbox の高額な料金（1k 単位）や CDN の運用コストについて検討しました。Protomaps というタイルフォーマットを採用し、単一のファイルで可視化し、CDN に利用可能です。この技術により、グローバルなデータセットを低コストで管理することが可能となりました。\n\n## 結論\n本記事は、Mapbox の高額な料金と CDN の運用コストを削減する上で、Protomaps を活用した解決策を提案しています。特に、S3 への接続やダウンロード速度制限の設定を通じて、運用コストを大幅に低下させることが推奨されています。\n\n## 方法\n課題解決の具体的な手順として、以下のステップが挙げられています。\n1. **ファイルの保存**: S3 に接続し、ファイルをアップロードする設定を行います。\n2. **ダウンロード制御**: ダウンロード速度制限や請求数制限を設定することで、過剰なデータ転送を防ぎます。\n3. **CDN 設置**: Bunny.net を利用し、グローバルなサーバーにアクセスします。\n\n本文では、具体的な技術的な手順やコストの計算方法が詳細に説明されています。専門用語は短く説明されており、重要な情報は本文に記載されています。",
+    "imageUrls": []
   },
   {
     "id": "518c13a382c40fbb",
@@ -185,7 +476,16 @@
     "url": "https://qiita.com/inoyu-qiita/items/f2e2d1006407a4d5f28e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-16T07:01:39.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：AI アガント間のコードレビュー機能\n\n**課題と技術**:\n開発者 Kenn Ejima は、Mac アプリの Kanary に追加された `/relay` を利用し、Claude・Codex・Cursor の間で自然な会話を行う機能を提案した。この機能は、AI 同士が自動で会話を続けるのではなく、ユーザーが指定した指示に基づき、各 AI に個別のチャットを切り替える仕組みである。\n\n**結論**:\nこのシステムは、開発者側がコードレビューを行い、指摘を AI に返して実装を修正するプロセスを自動化することで、会話の流れを崩さずに柔軟に調整できることを示している。無料プランでは 75 回まで送信可能だが、認証処理の複雑さは手作業が必要である。\n\n**方法**:\n課題は、開発者がコードや提案を AI に渡す際に誤解や重複を防ぐという点である。解決策として、`/relay` の後ろに指示を書き、各 AI（Claude と Codex）に役割を指定し、会話のやり取りを柔軟に変える仕組みを採用した。具体的な実装は、開発者がコードを編集せず、チャット内での回答を行うことで、セキュリティ上のリスクを最小化している。\n\n本文には詳細な機能の仕様やテスト結果が含まれていないため、専門用語は短く説明しているが、重要な点はすべて記載されている。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2Fcc5ed51c-4650-4514-8274-974c363389f8.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=531995c0cb624b116fd503f150a6d5cd",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2Fabab5788-d00d-45b0-9648-310b0ba5fdca.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=52cacbebe344c6399cc0090413639923",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2F6c695700-cc43-4151-abbe-803c3b4bb785.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e315960622209f2622ff627865592c1c",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2Fe3ddde1b-5ce9-475a-87e3-e816ae80f811.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=86f35edff257c8f90354e681e12c6fc2",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2F1257b3ef-8c71-4a5e-a610-127782409c65.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7603050717c5578e0bc30f9c00f52395"
+    ]
   },
   {
     "id": "2cde983c58779ea7",
@@ -193,8 +493,13 @@
     "url": "https://zenn.dev/yhay81/articles/202611-parapdf",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-16T06:45:15.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--LLDUvwZw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25B7%25A8%25E5%25A4%25A7%25E3%2581%25AAPDF%25E3%2582%2592React%25E3%2581%25A7%25E5%25BF%25AB%25E9%2581%25A9%25E3%2581%25AB%25E6%2589%25B1%25E3%2581%2586%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25A2%25E3%2580%2581ParaPDF%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yusuke%2520Hayashi%2520%252F%2520%25E6%259E%2597%2520%25E8%25A3%2595%25E8%25BC%2594%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NmZDNiYjJkZjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--LLDUvwZw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25B7%25A8%25E5%25A4%25A7%25E3%2581%25AAPDF%25E3%2582%2592React%25E3%2581%25A7%25E5%25BF%25AB%25E9%2581%25A9%25E3%2581%25AB%25E6%2589%25B1%25E3%2581%2586%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25A2%25E3%2580%2581ParaPDF%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yusuke%2520Hayashi%2520%252F%2520%25E6%259E%2597%2520%25E8%25A3%2595%25E8%25BC%2594%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NmZDNiYjJkZjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法：ParasPDF の導入と性能改善\n\n開発者は、React アプリで巨大な PDF を扱う際に、仮想化ライブラリの組み合わせ方について研究を行いました。従来の react-pdf は、ページを連続スクロールして読み込む必要があるため、ユーザー体験が劣りやすい問題が発生する可能性があります。この課題を解決するために、ParasPDF を導入し、パフォーマンスを向上させるための設計を提案しました。\n\n## 課題と解決方法\n\n開発者は、1,000 ページの文書を表示する際の描画コストと、仮想化ライブラリの組み合わせ方について実装を検討しました。React アプリでは、ページ番号や内部リンクの移動を管理し、スクロール位置を連動させる必要があります。従来の react-window を組み合わせることで、リストの行の高さを反映し、ページの寸法と表示倍率を調整する仕組みが導入されました。\n\nまた、仮想化により描画済みのキャンバスを再描画しないよう設計しました。React の更新回数を削減し、メインスレッドのブロック時間を短縮することで、パフォーマンスを向上させることが目標となりました。\n\n## 結論\n\nParasPDF を導入することで、React アプリでの巨大な PDF の表示は効率化され、ユーザー体験が改善されます。特に、スクロール中の React 更新回数を減らし、キャンバス分の推定メモリを削減する効果が期待されています。このアプローチにより、開発者はよりスムーズな PDF ビューアを提供できるようになります。\n\n## 方法\n\nParasPDF は、仮想化ライブラリの組み合わせ方を実装し、ページの配置と描画制御をアプリ側で管理します。具体的な実装には、goToPage()、setScale()、goToDestination() などを使用します。また、ワーカーや関連ファイルの配信設定も適切に設定することで、パフォーマンスを維持します。\n\n導入時には、React のバージョン 19.3 以降が必要です。Vite や Webpack を使用する場合、ビルド時にファイルが配信されます。アプリ側では、操作ボタンの作り方も用意されており、ツールバーの見た目や配置は自由です。\n\n## 本文記載なし\n\n本文には、具体的なコード例や詳細な機能仕様が含まれていませんでした。そのため、一部の情報は推測されたものです。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/ea93394d598adb25174e84c6.png?sha=cebb2be80cd4db21ab474417d04666e89f5d0498"
+    ]
   },
   {
     "id": "d484f92dfb2db6d1",
@@ -202,7 +507,10 @@
     "url": "https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-16T06:26:17.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：AI 時代での学習方法と勉強会への推奨\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 解決する課題、手順や仕組み、実践時の注意点を中心にまとめてください。\n\n## テーマ：開発者向け：AI 時代での学習方法と勉強会への推奨\n\n本記事は、AI 時代に学習効率を高めるための戦略と、知識の共有方法について解説しています。従来の会議室での集中講義とは異なり、個人が自身のコードに合わせて質問を投げかけ、AI を活用した解決策を探すのが推奨されています。調査結果によると、開発者はすでに自分のコードや知識を持ち、AI に質問することで解決速度を劇的に向上させたことが明らかです。\n\n## 結論：学習効率の向上と参加の必要性\n\n学習効率を高めるためには、AI を活用して手を動かすことが重要です。また、参加は価値があると考えられますが、無意味な勉強会を選ぶべきではありません。具体的な課題や成果に基づき、適切なテーマを選び、実践的な議論を行うことが推奨されます。\n\n## 方法：課題解決と学習プロセス\n\n課題解決には、個人が自身のコードを基に質問し、AI を活用して情報を収集する方が効くことが示されています。また、会議室での勉強会は実質不要であるという主張もあります。しかし、特定のテーマに基づき議論を行うことで、より価値のある学びが可能になります。参加のメリットとして、登壇者の理解を深めたり、聞き手の評価を向上したりする点があります。ただし、無意味な議論や資料の共有には注意が必要です。",
+    "imageUrls": []
   },
   {
     "id": "66b36c83d0a1ca58",
@@ -210,8 +518,17 @@
     "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news066.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T06:09:59.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fpcuser%2Farticles%2F2611%2F16%2Fnews066.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fpcuser%2Farticles%2F2611%2F16%2Fnews066.html",
+    "category": "RELEASE",
+    "summary": "アイネックスのアクセサリー類は、マザーボード用ブザー基板 BZ-02 と、SATA 電源接続 ARGB コントローラー RLD-CL01 の 2 つが注目されています。前者は組み立て中の検証やベンチマーク時に状態を確認する際に利用可能で、価格約 600 円です。後者は SATA ポートの余剰を補完する役割を持ち、8 種類の発光パターンや切り替え速度などを調整できる ARGB LED コントローラーとして、価格約 800 円です。SATA 電源コネクターの接続により、需要が増加しているという状況も確認できます。\n\n結論：アイネックスのアクセサリー類は、マザーボード検証用ブザー基板と、SATA 接続用の ARGB コントローラーとして、価格設定と機能特性が明確に定義されています。\n\n方法：\n1. マザーボード用ブザー基板 BZ-02 を組み立て中の検証やベンチマーク時に利用する。\n2. SATA 電源接続の ARGB コントローラー RLD-CL01 を、SATA ポートの余剰を補完する。\n\n本文に記載なしの項目は「SATA ポートの余剰を補完する役割」という具体的な機能説明を含んでいます。",
+    "imageUrls": [
+      "https://image.itmedia.co.jp/pcuser/articles/2611/16/ht1116_fu01.jpg",
+      "https://image.itmedia.co.jp/pcuser/articles/2611/16/ht1116_fu02.jpg",
+      "https://image.itmedia.co.jp/pcuser/articles/2611/16/ht1116_fu03.jpg",
+      "https://image.itmedia.co.jp/pcuser/articles/2611/16/ht1116_fu04.jpg",
+      "https://image.itmedia.co.jp/pcuser/articles/2611/16/ht1116_fu05.jpg"
+    ]
   },
   {
     "id": "775a2b959f8cc2f8",
@@ -219,8 +536,13 @@
     "url": "https://blog.recruit.co.jp/data/articles/ai-review-skills/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T05:51:34.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.recruit.co.jp%2Fdata%2Farticles%2Fai-review-skills%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.recruit.co.jp%2Fdata%2Farticles%2Fai-review-skills%2F",
+    "category": "TUTORIAL",
+    "summary": "開発現場の AI エージェントによるコードレビューを効率化するために、開発者向けに設計された skill を提案しました。このシステムは、AI が下書きする指摘を段階的に分類し、レビュワーが個別に確認・修正後投稿する仕組みです。\n\n**課題と解決方法**\nPR のレビューコメントを AI に任せることで、コードを書くスピードは向上しましたが、正確性と設計理解の面で課題がありました。その解決策として、レビューコメントの下書きを AI に任せる skill を作成しました。このシステムは、AI が「must」「want」「nits」「ask」の4 つのラベルを自動分類し、適切な修正を提示します。\n\n**推奨される手順**\n1. **要件と実装の对齐**: PR の差分と設計ドキュメントを開き、要件と実装を突き合わせる。\n2. **分類と下書き**: 指摘を必須、可読性、細部、質問の4 つのラベルに分類し、AI に下書きする。\n3. **修正確認**:レビュワーが承認後、個別にインラインコメントとして投稿する。\n4. **文面調整**: AI の指摘には固い文面を修正し、受け手の理解度を高める。\n\n**実践時の注意点**\nAI の指摘には業務仕様や意図が異なる可能性があるため、必ず「must」以外に「ask」のラベルで質問を添えることで、作者の意図を補完する必要がある。また、差分だけを見て外れな指摘を特定する際は、リンク先のチケットやスレッドを確認し、要件と実装の対応表を作成する必要がある。\n\nこのシステムは、レビューの正確性と設計理解を両立させることで、開発現場の生産性を向上させることができます。",
+    "imageUrls": [
+      "https://blog.recruit.co.jp/data/articles/ai-review-skills/img/example.png"
+    ]
   },
   {
     "id": "80681cb73ba09edb",
@@ -228,8 +550,14 @@
     "url": "https://www.watch.impress.co.jp/docs/news/2156720.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T05:22:52.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fnews%2F2156720.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fnews%2F2156720.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け Google AI プロフェッショナル認定証の無料受講情報\n\n**テーマ**: 開発者向けに無料の AI 学習プログラムと認定証の提供\n**結論**: 日本リスキリングコンソーシアムは、AI 活用を学べる無料講座と Google の認定証を提供し、累計 78 万人の受講者を達成している。\n**方法**: オンライントレーニングプログラム「Google AI プロフェッショナル認定証」の無料受講アカウント提供。学習時間は 7〜10 時間程度で誰でも受講可能。また、月額 2,900 円アクセス権も付与される。\n\n本文には、無料枠の受付終了の具体的な時間と、リスキリング活動の開始時期や終了予定まで詳細な情報は記載されていますが、具体的な技術的な仕組みの詳細は未記載です。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/720/ai1_s.jpg",
+      "https://asset.watch.impress.co.jp/img/ipw/docs/2156/720/ai2_s.jpg"
+    ]
   },
   {
     "id": "2734940a69cc055e",
@@ -237,8 +565,11 @@
     "url": "https://zenn.dev/yokoyama0523/articles/36932d9901d656",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-16T05:15:42.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--zokDgQzV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Canvas%25202D%25E3%2581%25A7%25E3%2580%2581%25E7%2582%25B9%25E3%2582%2592%25E6%25A1%259C%25E3%2581%25AE%25E5%25BD%25A2%25E3%2581%25AB%25E4%25B8%25A6%25E3%2581%25B9%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuki%2520Yokoyama%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsveS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--zokDgQzV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Canvas%25202D%25E3%2581%25A7%25E3%2580%2581%25E7%2582%25B9%25E3%2582%2592%25E6%25A1%259C%25E3%2581%25AE%25E5%25BD%25A2%25E3%2581%25AB%25E4%25B8%25A6%25E3%2581%25B9%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuki%2520Yokoyama%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsveS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "# 技術記事：Web サイトの円形表現とレイアウト最適化\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n**テーマ：記事が扱う課題や技術は何か**\nこの記事では、Web サイトのトップページにある点の集まりを円・地球儀・桜などの形状に変える技術を解説しています。具体的な実装例として、Canvas 2D を使用し、特定の数値の点を輪郭の上に並べる方法を記述しています。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\n最終的に、角度で等分して点の位置を計算し、輪郭の長さに基づいて点が揃えることで、円形に収まるだけでなく、花びらの形状や切れ込みを正確に再現する解決策を示しています。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n1.  **点の配置**: 指定された点数を円郭りの長さで等分し、角度で位置を決定します。\n2.  **花びら作成**: 楕円を生成し、中心から外へずらして花びらの形状を作ります。\n3.  **重なり排除**: 5 枚の花びらを重ねた際、中心からの距離だけを残し、全体の輪郭の線として処理します。\n4.  **切れ込み追加**: 花びらの真ん中に半径を小さくすることで、桜のような形を作ります。\n5.  **最適化**: 点の数を増やしても問題なく収まるよう、輪郭の長さに基づき位置を計算し、重なるのを防ぎます。\n\n本文には具体的なコードの記述が含まれていますが、専門用語は短く説明しています。重要な情報は上記のステップでまとめられています。",
+    "imageUrls": []
   },
   {
     "id": "5f1428e53db6254d",
@@ -246,7 +577,10 @@
     "url": "https://qiita.com/maskot1977/items/e4dfa5aec8a77192dbbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-16T05:04:10.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 日本経済衰退の「財源主義バグ」と Python のシミュレーション\n\nこの記事は、現代貨幣理論（MMT）の視点から、人口減少による日本の衰退を分析する動画の要約です。従来の世間の通念では、人口減少は衰退の原因として見なされるが、本記事は政府の「財源主義」と呼ばれる予算ルールシステムがその根本的なバグであると主張しています。\n\n## 課題と解決方法\n課題は、人口減少に伴う経済的悪循環を客観的に解析し、政府の支出方針を改善することです。具体的な解決方法は、現行の財源主義ルール（モデル A）と代替する機能的財政ルール（モデル B）の比較実験を行うことで、人口減少下でも安定成長を達成できる仕組みを導き出しました。\n\n## 結論\n日本の経済衰退は自然現象ではなく、不況時に支出を絞り込むという「自己破壊的なバグを持つ OS」を継続している結果です。この結論から、AIやロボティクスが労働投入の前提を変化させる時代において、社会全体の生産性や人間の価値を再定義する必要性が明確になります。\n\n## 方法\n具体的な手順は、Python を基にした 40 年間のマクロ経済シミュレーションを行うことです。現行の財源主義ルールと機能的財政ルールを比較検証し、人口減少下でも生産性向上と安定成長を実現する仕組みを構築しました。",
+    "imageUrls": []
   },
   {
     "id": "2c7598dcfded358e",
@@ -254,8 +588,11 @@
     "url": "https://arshad.fyi/posts/yuku-parser.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T05:00:48.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Farshad.fyi%2Fposts%2Fyuku-parser.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Farshad.fyi%2Fposts%2Fyuku-parser.html",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：直訳調を避けた自然な日本語要約\n\nこの記事は、Zig の言語で開発した Yuku という JavaScript と TypeScript パーサーの解説です。従来の AST（抽象解析樹）とは異なる設計が採用されています。\n\n## 課題と解決方法\nYuku は、標準的な AST をベースに直訳調を避けた自然な日本語の記述を採用しました。この設計は、メモリアンガリングの効率化と、JavaScript の読み込み速度向上を目指しています。\n\n### 仕組みの概要\n1. **メモリ構造**：各ノードが独立したヘップに allocation を与え、すべての依存関係をチェーン状に処理します。\n2. **インデックス代替**：ポインタラースを u32 のインデックスで置き換えることで、動的なアクセスを避けます。\n3. **スクリッチスタック**：ブロック内の状態を保存する scratch スタックを使用し、解析時にメモリアンガリングの負担を軽減します。\n\n## 結論\nこの設計は、標準的な AST をベースに直訳調を避けた自然な記述を採用することで、高性能な解析と簡潔なコード記述を実現しています。\n\n## 方法\nYuku は、標準的な AST をベースにインデックス代替の構造を採用し、スクリッチスタックを使用します。この方法は、メモリアンガリングの効率化と、JavaScript の読み込み速度向上を目指しています。\n\n本文には詳細なコードや技術用語は含まれていますが、要約として主要な仕組みとメリットをまとめました。",
+    "imageUrls": []
   },
   {
     "id": "ae6a8953120fe7d3",
@@ -283,7 +620,10 @@
     "url": "https://qiita.com/maskot1977/items/c56d123a2fb6673fa90c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-16T04:50:21.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 人手不足の罠とシステム設計の再設計\n\nこの記事は、日本国内での「人手不足」という現象を、システム設計と行動経済学の視点から解明するものです。従来の見方では、頭数の不足ではなく、低賃金・低生産性なビジネスモデルによる安価な労働力の不足として捉え直すことで、問題の根本を明らかにします。\n\n主な課題は、政府補助金や市場原理に従って「痛み止め依存」に陥り、自動化投資や人材育成を回避する支配戦略です。これにより、社会全体の進化への投資が行われなくなります。また、日本特有の「建前」や行政の予算枠組みにより、システム設計から社会統合コストを意図的に除外し、市場原理から外れた不合理的施策が通ってしまう構造的な罠も指摘されています。\n\n解決策として、長期的な健全性を重視する根本治療（DX や人材育成）を短期的な指標で評価する政治や経営者の短視に抵抗し、真の制約は「供給能力」であるという認識を深めます。最終的に、人間が痛みを耐え続ける仕組みを再設計することで、循環的な問題解決へと転換させることが推奨されます。",
+    "imageUrls": []
   },
   {
     "id": "b49238b31e57f41e",
@@ -291,8 +631,14 @@
     "url": "https://note.com/kon_yu/n/n5bf7289d3e9f",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T04:50:13.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fkon_yu%2Fn%2Fn5bf7289d3e9f"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fkon_yu%2Fn%2Fn5bf7289d3e9f",
+    "category": "RELEASE",
+    "summary": "# 札幌部屋解約と2拠点ライフの検討\n\n## 課題と技術\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。要約の視点: 追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\n## 結論\nこの文章では、フリーランスソフトウェアエンジニアが札幌を自宅として解約し、2拠点生活を検討する理由とメリットを解説しています。主な理由は「帰省時のリモートワーク環境の確保」と「移動の身軽さ」です。また、UR賃貸住宅の自動化システムとスマートホームの導入により、快適な生活を実現したことが示されています。最終的に「南北に長い地理的特性を活かし、季節ごとに快適な場所へ移動するという多拠点ライフは、日本の気候風土にあった方式なんだね」と結論付けられています。\n\n## 方法\n課題を解決する技術と仕組みについて説明されています。\n1. **UR賃貸住宅の自動化スクリプト**：空き状況を自動チェックし、条件に合う部屋を確保するシステムです。\n2. **スマートホームの導入**：IoT家電の自動化（照明、温度制御など）を徹底し、環境管理を効率化します。\n3. **Wi-Fiと通信網構築**：楽天モバイルとメルカリでのホームルーター購入により、工事不要で快適なインターネット環境を維持します。\n\n本文には具体的な技術の仕様や詳細な導入手順は記載されていませんが、自動化システムとIoT家電の導入により、生活の質を向上させたことが示されています。",
+    "imageUrls": [
+      "https://assets.st-note.com/img/1794731352-aY9bJPSVXMHf4NWIx7vOrUnA.jpg?width=1200",
+      "https://assets.st-note.com/img/1794731352-SGEnCTslWxcFNAUKdtQuYVrZ.jpg?width=1200"
+    ]
   },
   {
     "id": "a95a81c695c57fde",
@@ -314,7 +660,20 @@
     "url": "https://qiita.com/kizuku_tabata/items/79e3411b93aff5c46177?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-16T04:28:02.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：OSS スニペットの検証ツールと導入方法\n\n最近、AI コーディングツールを用いる機会が増えましたが、既存の OSS と AI の生成コードが類似する問題が発生しました。ライセンス条件の確認が必要となり、単にコードの生成を認めるだけでは不十分です。本記事では、SCANOSS を活用した「OSScope」ツールで、AI 生成コードの検証方法と導入手順を説明します。\n\n## 課題と結論\n開発チームが AI を前提とした開発を進めようとした際、「 OSS スニペット」という問題が発生しました。この問題は、ライセンス条件の確認や、既存コードとの照合を正確に評価することが重要です。本ツールは、スキャン結果をエビデンスとして記録し、開発現場での判断を支援する仕組みを提供します。結論として、AI 生成コードの安全性とライセンス対応を明確に確認することで、プロジェクトの継続性が確保されます。\n\n## 方法\nSCANOSS をベースに自作ツールの「OSScope」を作成し、4 ステップで作業を行います。\n1. **スキャン**: zip や Git リポジトリから対象ファイルを選択し、照合方法（外部送信や社内エンジン）を選択します。\n2. **自動仕分け**: 一致率やライセンスタイプを自動的に判定し、「確認が必要」「対象外」として表示します。\n3. **判断記録**: 一致した行はスキャン結果として記録し、次回のスキャンで再確認を行います。\n4. **結果出力**: CSV で最終的な結果をダウンロードできます。\n\nこのツールは、ソースコードの直接復元ではなく、コードの特徴をハッシュ値に変換して照合情報を提供します。社内のルールに基づき、同意ダイアログを通じてスキャンプロセスを開始し、結果を記録する仕組みです。\n\n## 本文記載なし\n本文には追加機能や対象バージョンなどの詳細情報は記載されていません。ただし、導入時の確認手順と結果出力の形式は明確に説明されています。専門用語は短く説明しています。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F885072%2Fc5a7f1f4-1dc3-4787-9147-3f60749742b3.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d7bf37ec4ee22929d600298603f82d42",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F885072%2F921f2d80-60d2-44f5-b802-175b6959383a.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=5865c4e57e6eec19b6d4ac33401b97e6",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F885072%2F4abb8a5a-fc9d-4c08-8398-7c463395cf0a.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=bff83f650a4c40495e39c575d10e05aa",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F885072%2F3a631e50-8003-42eb-b4b2-70959eacc548.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9c463c0e2248aad0df225af7e435cf97",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F885072%2F401ef604-367a-4f5e-8c8e-e4f6bff49ee6.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9082cacc377c62cbdccc017613822ddc",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F885072%2F3543ae55-b7fd-4ace-a108-1c955dea29eb.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9e617417d82923de4cadceccf4b53fea",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F885072%2Fd6f4fdfe-ba78-4b75-8359-3da7183e77a4.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=427b03c210dfd1f7715ba49409818cb6",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F885072%2Fb86ed3d5-5773-498d-98aa-1438e1fa909f.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=6c88dfaa64e81c930f15bd65b34c5bf5",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F885072%2F09da2b43-da4d-4238-beea-46801fad6b15.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ab6055fbd7f2b477cb23810d3f67a3d8"
+    ]
   },
   {
     "id": "80afdda7c683ee44",
@@ -322,8 +681,11 @@
     "url": "https://zenn.dev/polyco/articles/e05cb28c569801",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-16T03:49:18.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3-kyxGX9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:mizchi%252Fmutator%2520%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Tatsunori%2520Nakano%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkY2VhNDgwYWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNDg0ZDExOTguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3-kyxGX9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:mizchi%252Fmutator%2520%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Tatsunori%2520Nakano%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkY2VhNDgwYWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNDg0ZDExOTguanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "GENERAL",
+    "summary": "# AI のテスト生成と検証方法\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\n## テーマ：記事が扱う課題や技術は何か\nこの研究では、AI が書きまくったテストの品質を評価し、人間の検証方法について検討しました。StrykerJS と Vitest を比較した結果、AI のテスト生成には重要な誤検出が発生することが発見されました。特に、コードの変異（文字の書き換え）によってテスト結果が変わるケースが多数存在し、その漏れを特定する必要があります。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nStrykerJS と Vitest を比較した結果、AI のテスト生成には約 487 件の変異が検出されましたが、正確な判定率は低いことが確認されました。人間の検証方法により、誤検出を減らし、信頼性の高いテスト生成が可能と推測されます。また、StrykerJS のベンチマークでは標準設定より遅くなる傾向が見られるため、適切な環境設定が必要です。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n課題は、AI が生成したテストの品質を評価することです。この研究では、変異ごとにテストを実行し、結果を記録する仕組みを採用しました。StrykerJS は `disableBail` を設定することで、すべての変異を処理します。また、`--kill-matrix` を使用することで、検出されたテストを記録できます。検証方法として、人間の確認を経て、候補のテストを特定し、最終的に判定を行います。\n\n本文には、具体的な技術用語や詳細な手順は記載されていませんが、StrykerJS と Vitest の比較、変異の検出、人間の検証プロセスについて重要な情報を提示しています。",
+    "imageUrls": []
   },
   {
     "id": "ef6cb7be2170695f",
@@ -346,7 +708,12 @@
     "url": "https://qiita.com/maskot1977/items/8054ca6abbe944b09562?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-16T03:03:12.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 課題と結論の概要\n\n本記事は「システム設計視点の行動経済学」を第63回で展開し、日本経済環境における主張の不成立性を解明しました。従来の「金利チャネル神話」という見方から、現実的な条件を考慮した分析を導き出しました。\n\n## 課題と結論\n記事は、日本の経済環境下では「金利が上がすぎる」「上げられない」という矛盾する主張が成立しないことを示しています。これは、金利の種類を誤って認識し、ゼロ金利制約（ZLB）や財源幻想などの設計変数に依存した分析に基づいています。\n\n## 方法\n課題を解決するために、以下の4つの視点で構造を解剖しました。\n1. **システム設計**: 3種類の金利の分離と認知的関門の解消\n2. **行動経済学**: 動機付けられた論拠の整合性検証\n3. **財源幻想**: 純コストの見かけ値と実質的な影響の比較\n4. **国家レジリエンス**: ヒステリシスへの対応と供給能力の確保\n\n## 結論\n日本の現実条件（デフレ・需要不足、ZLB）下では、主張A、B、Cのいずれも成立しません。利上げ実施の真因は「必要性」ではなく、「選択の問題」となり、財政効果の存続が確立されています。最終的に、設計変数を客観的に検証することで、財源幻想から抜け出す唯一の道となります。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F211162%2Fb3fd5a76-9e94-4670-8b8f-5a8542b4ebc8.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=13434a79f8930b784b26a75206408548"
+    ]
   },
   {
     "id": "b03db242de3ac174",
@@ -354,8 +721,13 @@
     "url": "https://www.afpbb.com/articles/-/3662533",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T02:26:57.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.afpbb.com%2Farticles%2F-%2F3662533"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.afpbb.com%2Farticles%2F-%2F3662533",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：エヌビディアのジェンスン・フアン復帰とAI戦略\n\n**テーマ**: エヌビディアのCEO 復帰と AI 競争における課題\n**結論**: フアン氏の復帰は企業への信頼を強化する一方で、中国製 AI モデルとの対立や投資戦略の再考が必要である。\n**方法**: 署名者の支持拡大と、企業の「AI 中央銀行」という地位確立、同時に投資バブル批判と中国製 AI 問題の解決策の検討\n\n本文では、米実業家イーロン・マスク氏とウーバーの共同創業者が、エヌビディアのジェンスン・フアン CEO の復帰を支持する公開書簡に署名した。署名者は 15 万 8000 人を超え、全従業員の 18％ に相当する規模で広がっている。この支持は、フアン氏が「AI のゴッドファーザー」と称される地位を確立していることを物語っている。\n\nしかし、同社への批判も存在する。投資バブルの批判と、中国製 AI モデルの支持による対立が懸念されている。また、企業幹部間の危機対応チームの結成や、次期 CEO の選定について議論が進んでいる。最終的に、エヌビディアは自社製半導体の密輸を認識し、投資戦略の再考を行う必要があると示唆されている。",
+    "imageUrls": [
+      "https://afpbb.ismcdn.jp/mwimgs/3/5/810x540/img_356f517bd3d70a241e1f6c844c951c2685969.jpg"
+    ]
   },
   {
     "id": "679b180e2ef351be",
@@ -363,8 +735,13 @@
     "url": "https://japan.cnet.com/article/35254932/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T02:22:54.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254932%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254932%2F",
+    "category": "TROUBLESHOOT",
+    "summary": "NTT ドコモは、5G SA 契約者の通信障害を報告しました。11 月 16 日、全国規模の障害が発生し、音声通話やデータ通信が利用できない状況です。調査では復旧の見込みが明らかになりつつありますが、短期間に繰り返される可能性があるため、再発防止の要点として端末のネットワーク設定を 4G に切り替えるか、機内モードをオン・オフに試すことが推奨されています。5G SA以外のサービスを利用する MVNO は影響を受けませんが、緊急通報も利用可能です。現在、X の不満の声やユーザーの乗り換えを検討する声も現れています。関連記事の情報を参照することで、適切な対応が可能です。本文に記載なし",
+    "imageUrls": [
+      "https://japan.cnet.com/storage/2026/11/16/d605ebf672bd6ef7411d140833fbce9c/large_.jpg"
+    ]
   },
   {
     "id": "3b8f095d34fc4caa",
@@ -412,8 +789,11 @@
     "url": "https://www.afpbb.com/articles/-/3662509",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T02:04:42.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.afpbb.com%2Farticles%2F-%2F3662509"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.afpbb.com%2Farticles%2F-%2F3662509",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：衛星通信競争への対応と技術的変化\n\n## 結論\n米アマゾン・ドット・コムはロケット打ち上げ失敗により衛星網を失うことで、競争力に直面しました。しかし、ユナイテッド・ローンチ・アライアンス（ULA）の「バルカン」ロケット運用やスペースXの成功実験を通じて、新たな技術的課題と解決策が提示されています。\n\n## 方法\n開発者は直訳調を避けた自然な日本語で要約します。主な課題は衛星通信競争への対応です。具体的な解決方法は、宇宙船の再利用可能性を示すスペースXの成功事例や、アマゾンとの契約状況の現状を説明します。\n\n## 本文の要約\n2026年11月16日、米アマゾンがロケット打ち上げ失敗により衛星40基を失いました。創業者ジェフ・ベゾスはイーロン・マスク氏の競争に打撃を受けました。ユナイテッド・ローンチ・アライアンスの「バルカン」ロケット運用では、15日の打ち上げで過去最多となる計画が実施されました。しかし、ブルー・オリジンの「ニューグレン」の爆発により打ち上げは停止しました。スペースXの超大型ロケット試験でも成功し、ロケット再利用の実現可能性を示しました。これらは開発者向けに重要な技術的変化と解決策を提示しています。",
+    "imageUrls": []
   },
   {
     "id": "a5903c47256c4f35",
@@ -500,8 +880,11 @@
     "url": "https://zenn.dev/t_shamoji/articles/3e8cb719df6994",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-16T01:44:57.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--NTCrm92Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F2D%25E5%259E%258B%25E7%25B4%2599CAD%25E3%2580%258CHobbyCAD%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25EF%25BD%259C%25E3%2583%2599%25E3%2582%25B8%25E3%2582%25A7%25E6%25B3%2595%25E7%25B7%259A%25E3%2582%25AA%25E3%2583%2595%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25A8%25E5%25BC%25A7%25E9%2595%25B7%25E7%25A9%258D%25E5%2588%2586%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E7%25AD%2589%25E9%2596%2593%25E9%259A%2594%25E3%2583%2594%25E3%2583%2583%25E3%2583%2581%25E8%25A8%2588%25E7%25AE%2597%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2582%2583%25E3%2582%2582%25E3%2581%2598%25E5%25A4%25AA%25E9%2583%258E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdhOTAwYjNlZDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--NTCrm92Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F2D%25E5%259E%258B%25E7%25B4%2599CAD%25E3%2580%258CHobbyCAD%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25EF%25BD%259C%25E3%2583%2599%25E3%2582%25B8%25E3%2582%25A7%25E6%25B3%2595%25E7%25B7%259A%25E3%2582%25AA%25E3%2583%2595%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25A8%25E5%25BC%25A7%25E9%2595%25B7%25E7%25A9%258D%25E5%2588%2586%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E7%25AD%2589%25E9%2596%2593%25E9%259A%2594%25E3%2583%2594%25E3%2583%2583%25E3%2583%2581%25E8%25A8%2588%25E7%25AE%2597%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2582%2583%25E3%2582%2582%25E3%2581%2598%25E5%25A4%25AA%25E9%2583%258E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdhOTAwYjNlZDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "# レザークラフト・布小物・ペーパークラフトの設計ツール開発\n\n## 課題と解決方法\n開発者は、PC で設計する際に Adobe Illustrator や汎用 CAD を試すと、寸法駆動の設計や作業フローに壁をぶつかりました。これらを解決するために、ブラウザベースの「HobbyCAD」を開発しました。このツールは、曲線の等間隔ピッチ計算、縫い代オフセット、A4 実寸印刷など、高精度的な設計をワン画面で完結させることで、作業効率を劇的に向上させます。\n\n## 仕組みと技術\nHobbyCAD は Vue 3 + TypeScript + SVG を基に開発し、2D幾何計算アルゴリズムを実装しています。特に重要な機能は、曲線上の等間隔ピッチを正確に設定する「弧長ルックアップテーブル」による計算方法です。また、型紙の仕上がり線から平行オフセット線を引く際、直線や曲線の交点を補間するマイター結合処理も採用されています。最終的に、印刷時の余白自動縮小により、0.1mm 単位の設計でも正確なA4 実寸を出力します。\n\n## 実践的な注意点\n設計ツールは非常に強力ですが、実際の作業では以下の注意点があります。\n- クラウドアップロードのプライバシー保護について、インストール不要でブラウザでの利用が可能です。\n- 曲線の計算精度やオフセット距離の設定には注意が必要です。\n- A4 実寸印刷時の余分な調整をワンクリックで切り替える機能も利用できます。\n\nこのツールは、設計作業の効率化と品質向上に貢献する重要なソリューションとして推奨されます。",
+    "imageUrls": []
   },
   {
     "id": "f56ddfa63df1daaa",
@@ -545,7 +928,10 @@
     "url": "https://qiita.com/tomokoro/items/41cc59d0085fa03c5d52?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-16T01:31:54.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Gemini 4 Hydrogen の導入と活用方法\n\n**テーマ**: 開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。\n\n本文の主な情報は、Google DeepMind が発表した Gemini 4 シリーズのモデル「Gemini 4 Hydrogen」の特性と、開発者の活用方法です。\n\n**結論**:\nこのモデルは日常開発や高速ループに適しているため、Carbon や Argon モデルとは使い分けるべきです。特に処理速度の向上とハルシネーションの削減により、ツール呼び出しの失敗を防ぐことができます。\n\n**方法**:\n開発環境「Google Antigravity」のorchestrator機能を活用し、複数のモデルを並行で実行することでコスト削減と時間短縮が可能です。また、SDK のアップデートやパラメータ設定の注意点を意識する必要があります。\n\n本文には具体的な活用シーンや技術的特徴の詳細は記載されていますが、専門用語は必要に応じて説明しています。",
+    "imageUrls": []
   },
   {
     "id": "ef5c60042ace764b",
@@ -553,7 +939,10 @@
     "url": "https://qiita.com/kmatsuda_slj/items/7629dc7ca925cccc0799?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-16T01:29:46.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\n**テーマ：AI との対話による思考の整理と言語化練習**\n\nこの記事は、AI を活用して考えを整理する方法について解説しています。作者は、AI への相談や先輩との相談を通じて、自分の考えを言葉にすることで理解力を向上していると認識しています。特に、AI の回答を見て「伝えたかったのはどこか違う」という現象を指摘し、目的を補ったり、質問を分けたりする技術を推奨しています。\n\n**結論：言語化練習を通じて思考の整理と対話能力の向上**\n\n作者は、AI への依頼だけでなく、先輩との相談を通じて、自分の考えを明確に articulate（表現）する力を養うことを目標としています。これにより、専門用語や難しい概念を簡潔に説明し、他人にも理解しやすい言葉遣いを学べるようになることが可能になります。最終的には、自身の思考プロセスを記録し、他者と共有することで、より正確な判断を下す能力が向上するとの見解です。\n\n**方法：思考の整理と対話の練習**\n\n課題は、複雑な考えを言葉にすることで理解しやすい表現を確立することです。解決策として、以下の手順が提案されています。まず、自分が何を伝えたいのか、なぜそう考えたのかを明確にします。次に、相手に確認したい点を具体的に質問し、その反応も記録します。最後に、AI の回答や先輩の相談を通じて、自分の考えを再確認する機会を作ります。このプロセスを繰り返すことで、思考の整理と言語化の練習が効果的になります。\n\n本文には具体的な技術用語や手順の詳細は記載されていませんが、一般的な対話手法と言語化の練習として解釈できます。専門用語は必要とされる場合は、簡潔に説明しています。",
+    "imageUrls": []
   },
   {
     "id": "500b53773b18ad47",
@@ -602,7 +991,10 @@
     "url": "https://qiita.com/inukai-masanori/items/141e960b0bab8015bdae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-16T00:52:08.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 課題と解決方法\n\n開発者向けに直訳調を避けた自然な日本語で要約します。\n\n**課題：AI 生成された文章が読みにくく、人間との対話の質を低下させる現象**\n開発者はチャットでの依頼やレビューを見て、AI を介したコミュニケーションが「放っておくと良くない方向に転がりやすい」と感じています。この問題は、文字過多で背景や目的が混ざり合い、認知負荷を押し付けることと、人間との対話を妨げる「AI Slop（人工知能のゴミ）」という問題です。また、AI が文章を作らせることで書くコストは下がったものの、読みのコストも低下し、人間が自分の考えを伝えることが難しくなるリスクがあります。\n\n**解決方法：仕組み化と人間のフィードバック**\n課題を解決するには、まず「仕組み化」を検討します。例えば、メンションや文字数をフックに要約したりする仕組みを導入することで、受け手の負担を減らすことができます。しかし、仕組み化は送る側の機会も消えてしまうため、まずは「ちょっと読みにくいです」という人間のフィードバックを受け取ることが重要です。また、AI への依頼時に人間との対話を避けるのではなく、具体的な要望や背景を明確に伝えることで、適切な対応が可能になります。\n\n**実践的な注意点：読み込みの意識とコミュニケーションの質**\n読みにくい文章は、読者が時間を使わずに済む可能性があります。そのため、読みにくいと感じたら、自分の言葉で相手にフィードバックする必要があると推奨します。また、送る側も、AI の意見や FB を下書きさせずに、最初に必要な情報かどうかを確認し、削りきれない場合はドキュメントとしてリンクを置くべきです。最終的に、人間から「ちょっと読みにくいです」という具体的な言葉で解決を図る必要があります。\n\n本文では、開発者向けに直訳調を避けた自然な日本語で要約しました。",
+    "imageUrls": []
   },
   {
     "id": "ff90a5d2de97248e",
@@ -610,8 +1002,11 @@
     "url": "https://zenn.dev/sora_kumo/articles/novel-creator-info",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-16T00:48:47.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vHSyTp5K--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A7%25E5%25B0%258F%25E8%25AA%25AC%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258F%25E3%2583%258E%25E3%2583%2599%25E3%2582%25AF%25E3%2583%25AA%25E3%2581%25AE%25E6%258A%2580%25E8%25A1%2593%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%25A9%25BA%25E9%259B%25B2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VlZTgzMDYyMDQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vHSyTp5K--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A7%25E5%25B0%258F%25E8%25AA%25AC%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258F%25E3%2583%258E%25E3%2583%2599%25E3%2582%25AF%25E3%2583%25AA%25E3%2581%25AE%25E6%258A%2580%25E8%25A1%2593%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E7%25A9%25BA%25E9%259B%25B2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VlZTgzMDYyMDQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "# ノベクリ：AI 小説作成における課題と解決法\n\n**テーマ**: AI に小説を書かせるために必要な設計と実装\n結論：プロンプトの整合性を保ち、物語構造や伏線の管理を徹底することで、長編物語の品質を保つことができます。\n方法：段階的な創作フロー、コンテキストエンジニアリング、人間主導の協調ワークフローを組み合わせて運用する\n\n本文では、LLM が短編小説だけでなく、長編物語の構成崩壊を防ぐための設計が解説されています。プロンプトを単一の指示で文章を出すだけでは、リズムやキャラクターの統一性、伏線の管理といった問題が発生します。これらを解決するため、ノベクリという Web アプリケーションの設計と実装が重視されています。\n\n**課題解決の手順**:\nまず、創作プロセスを段階的に落とし込むワークフローを用意し、各節（シーン）には視点人物や場所、登場人物などのメタデータを紐付けます。これにより、執筆時に AI が迷わない土台を作ります。また、コンテキストエンジニアリングではベクトル検索と名前一致の確定参照を組み合わせて、優先度付きの文字数予算管理を行います。\n\n**技術の仕組み**:\nCloudflare Workers を中心とした単一配信アーキテクチャを採用し、コスト削減を重視しています。Hono API や MCP サーバーを活用し、サーバー専用モジュールを動的导入で遅延読み込みを避けます。さらに、エンドツーエンド型安全通信とリアルタイムストリーミングを実現します。\n\n**実践時の注意点**:\n知識境界の明確化が重要です。確定事実や直前ダイジェストを構造化し、未回収伏線の分離を行います。過去本文の抜粋は設定・固有名詞の整合確認用のみです。執筆後の自動検証により、初登場人物の描写抜けチェックや口調ブレチェックを行います。最後に人間が主導権を握る協調ワークフローを採用し、提案カードと差分確認を行うことで、AI の勝手にデータ書き換えるリスクを防ぎます。\n\nこの設計により、プロンプトを工夫するだけでなく、創作データの構造化と知識境界の明示を通じて、長編物語の品質を保つことができます。",
+    "imageUrls": []
   },
   {
     "id": "2e79def76a8e4ef2",
@@ -619,7 +1014,10 @@
     "url": "https://qiita.com/Tukirukiki/items/300f5807ed912a64c748?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-16T00:37:43.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：Jotai の状態管理ライブラリの使い分けと機能**\n\nReact 19.3.1 をベースにした Jotai を使って、グローバルな state を作成する仕組みについて解説します。Context や Recoil との比較に加え、原子の作成方法と使い分けの例を提示します。環境設定やエラー処理の注意点も記載しています。\n\n**結論：Jotai は Context よりコード量が少なく、React 19 に対応しているため推奨されるライブラリです。**\n\n**方法：state の読み書きと機能の具体例**\n\n課題は、複数のコンポーネント間で同じ値を共有し、その値を変更する仕組みを簡潔に実装することです。\n- **原子の作成**: `atom` を導入し、状態の初期値を設定します。\n- **値を変える**: `useSetAtom` を使用して、値を変更します。\n- **値を読む**: `useAtomValue` を使用して、値を読み返します。\n- **両方を読み書き**: `useAtom` を使用します。\n\n各フックの使い分けや、Context の代替案を明確に説明しています。コードの複雑化を防ぐための設計パターンも解説しています。\n\n本文には必要な情報は含まれており、専門用語は短く説明しています。要約の視点として、解決する課題と実践時の注意点を中心にまとめました。",
+    "imageUrls": []
   },
   {
     "id": "408de55181f5499d",
@@ -627,7 +1025,23 @@
     "url": "https://qiita.com/masashige0904/items/22f2836485ecc25ee527?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-16T00:37:01.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# API ログ設計と検索戦略の解説\n\nAPI ログはサーバー内の処理記録であり、調査に必要な記録を探す際に重要な役割を果たします。ログレベルや形式の使い分けによって、必要な情報を収集し、検索効率を向上させることが重要です。\n\n## 課題と解決方法\n\nログに残す項目を決めることで、調査が必要な記録を探すことができます。特に「処理に失敗しました」と残っても、どのリクエストが失敗したのか分かります。また、情報過多になるリスクがあるため、認証情報や個人情報を含めずに適切に設計する必要があります。\n\n## 具体的な手順\n\n1. **ログレベルの使い分け**\n   - trace で詳細な診断情報を取得\n   - debug で調査用の詳細情報を収集\n   - warn で異常があり再試行を進める場合\n   - error で要求された処理の失敗\n   - fatal で起動不能などの状態を記録\n\n2. **共通のログAPI 設計**\n   - アプリのログ出力を統一する仕組みを作る\n   - パスワードや認証情報など、不要な情報を排除するルールを設定\n\n3. **ログ形式の調整**\n   - 複数行のログを1行にまとめることで検索の容易性を確保\n   - JSON の形式で検索値を独立した項目に分割\n\n## 実践的な注意点\n\nログライブラリの選択や設定は、要件を満たすか確認する必要があります。特に、HTTP の4xx エラーは一律に error にするのではなく、運用上の異常かどうかを判断することが重要です。また、テストでは明確な偽データを使い、残したい項目が出ることに加えて、禁止した値が出ないことも確認する必要があります。\n\nこの設計により、API ログの設計と検索を一般化し、読者の皆様に持ち帰れるよう整備できます。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4496006%2F99c453ae-83af-4359-b1b5-b28f66b8e447.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9c16105aa7ac7e5a9f7454fc465fac9c",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4496006%2Fcb62a5be-ccee-4e5c-9547-c6c624a1c827.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e9138c8180df5f5c1fa9aacd861e8855",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4496006%2F1a292bb6-e56b-48ec-8842-f83f0ed1fb96.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=0ef89395bda68b1ab68c944b73f8cdc7",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4496006%2F7274fa78-7877-4049-a7bf-3ffbe1adc02e.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e5c83803ac1366d486dbdea7133d82da",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4496006%2F169d6e74-15c5-4722-9da7-63c8c7bc4a89.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=71c59104be0a9a02b90e7ac0f781d105",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4496006%2Faa3ca2f4-a6f4-42ca-aa16-7474ed8891c6.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=1dcf198245500b852e70e60a5ae234ad",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4496006%2Fcb151b71-1471-485c-abc7-a6fdf65d1c82.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d0b9e96f20b21013131e328e6936418d",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4496006%2F97c778dc-ba99-433a-acc2-6cc3b4df0231.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=3ecf27987f59774ab1726b757aeced9a",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4496006%2F2d44f8ef-88fe-4ca2-8f88-ede044bd2958.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=025b85bec26e5a603640609c8e54ee10",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4496006%2Fb68c0913-c58e-461c-94f0-ad1109f8c81e.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7fb1b15f5547ddd4bfc9a8359c26e70f",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4496006%2F1d5e07c4-d5ec-40a9-bb44-b836ed8b31ee.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e8077880751f32e31a20d67bab857012",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4496006%2Fb0e6d701-a919-4b9b-a750-ea89c751a1f5.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a71762c6f00876e00d116b3e641017d2"
+    ]
   },
   {
     "id": "906d6168c1b9c7cc",
@@ -635,8 +1049,11 @@
     "url": "https://zenn.dev/cosoado/articles/supabase-pooler-listen-notify-multigres",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-16T00:19:32.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--SHbSkvDr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Supabase%2520%25E3%2581%25AE%2520LISTEN%252FNOTIFY%2520%25E3%2581%258C%2520pooler%2520%25E8%25B6%258A%25E3%2581%2597%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%25E5%2595%258F%25E9%25A1%258C%25E3%2580%2581Multigres%2520%25E3%2581%25A7%25E8%25A7%25A3%25E6%25B1%25BA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2593%25E3%2581%259D%25E3%2581%2582%25E3%2581%25A9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAwZTU0YWEwN2EuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--SHbSkvDr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Supabase%2520%25E3%2581%25AE%2520LISTEN%252FNOTIFY%2520%25E3%2581%258C%2520pooler%2520%25E8%25B6%258A%25E3%2581%2597%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%25AA%25E3%2581%2584%25E5%2595%258F%25E9%25A1%258C%25E3%2580%2581Multigres%2520%25E3%2581%25A7%25E8%25A7%25A3%25E6%25B1%25BA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2593%25E3%2581%259D%25E3%2581%2582%25E3%2581%25A9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzAwZTU0YWEwN2EuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TROUBLESHOOT",
+    "summary": "# 課題と解決方法\n\nCosoado Lab の開発チームは、直訳調を避けた自然な日本語で要約します。\n\n## 課題と解決方法\n\n開発者は、`LISTEN` を発行しても通知が届かないという現象を報告しました。これは `Transaction pooler`（ポート 6543）のセッション状態によるものです。`TXN_MODE` の設定により、トランザクション終了後接続がプールに返却され、購読機能は消えるためエラーになります。\n\n## 結論\n\n`DATABASE_URL` が Transaction pooler に設定されていると、`LISTEN` は機能しないという結論です。解決策として、`DIRECT_URL`（ポート 5432）専用クライアントを使用することで、セッション状態を維持する必要があることが明かされました。また、`Supabase Realtime SDK` を使用したブラウザ配信でも対応可能です。\n\n## 再発防止の要点\n\n`txn_mode_leak_action` の追加により、`LISTEN/UNLISTEN` やセッション SET を検知し、サイレント失敗を防ぐための対策が導入されました。現在、Kubernetes 環境では `Multigres` が対応していますが、マネージド環境にはまだ導入されていない現状を認識しています。\n\n本文の長さを考慮して、必要な情報のみを要約しました。",
+    "imageUrls": []
   },
   {
     "id": "e460fefa89168163",
@@ -669,7 +1086,10 @@
     "url": "https://qiita.com/takumi_engineer/items/5a2dffdff4af6e9f45ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-16T00:00:17.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\n配送一覧画面の更新時に、同一行の複数回の更新により「配達済」から「出発」へ返る不正な遷移が発生する問題が解決されています。この問題は、単一のSQL 文で遷移ルールを定義し、履歴を記録することで解決します。\n\n## 結論\n\n更新APIは、対象行のロック、遷移の確認、バージョン照合、履歴挿入を1つのSQL文で行います。これにより、同時更新による衝突や履歴の不一致を防ぎ、正確なステータス管理を実現しています。\n\n## 方法\n\nPostgreSQL 10以降の環境下で、Python 3 と FastAPI を使用し、DB 接続と遷移ルールを定義します。\n\n- **許可された遷移**は、`status_transitions` テーブルに定義された値のみを許可します。\n- **履歴**は、更新行に自動的に挿入されます。\n- **バージョン管理**は、バージョン10以降の機能を使用し、バージョンの照合を確保します。\n\n動作確認では、正常な遷移と、古いバージョンでの更新による衝突を防ぎ、正確な記録を行います。",
+    "imageUrls": []
   },
   {
     "id": "20697b76b0f17956",
@@ -703,8 +1123,11 @@
     "url": "https://zenn.dev/a1221/articles/astro-7-upgrade-build-failures",
     "source": "Zenn (TypeScript)",
     "publishedAt": "2026-11-15T23:36:39.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--d59WH7HD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Astro%25205%25E3%2581%258B%25E3%2582%25897%25E3%2581%25B8%25E4%25B8%258A%25E3%2581%2592%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Tailwind%25E3%2581%25AE1%25E8%25A1%258C%25E3%2581%25A7%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%25E3%2581%258C%25E8%2590%25BD%25E3%2581%25A1%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--d59WH7HD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Astro%25205%25E3%2581%258B%25E3%2582%25897%25E3%2581%25B8%25E4%25B8%258A%25E3%2581%2592%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Tailwind%25E3%2581%25AE1%25E8%25A1%258C%25E3%2581%25A7%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%25E3%2581%258C%25E8%2590%25BD%25E3%2581%25A1%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# アストロ 7.4.12 への移行ガイド\n\n## 課題と技術の概要\n開発者は、直訳調を避けた自然な日本語で、350〜450 文字の要約を求めました。本文では、Astro 5.16 から 7.4.12 までの重大なバージョンアップに伴う変更と、特に導入すべきポイントを解説します。\n\n## 結論\nAstro 7 は Node 22.23.4 以上が必要です。また、Cloudflare Pages の .node-version ビルド設定や、Vite 8 の CSS 圧縮エラーの解決方法について重要な情報を提示します。\n\n## 方法\n主な課題は以下の通りです。\n\n1. **Markdown プラグインの変更**\n   - `@astrojs/markdown-remark` パッケージの更新により、処理系が変更されました。\n   - 導入時は `unified` を使用し、`remarkPlugins` と `rehypePlugins` を明確に設定する必要があります。\n\n2. **旧コンテンツコレクションの廃止**\n   - Astro 6 のタイプ変更により、`src/content/config.ts` に配置を変更する必要があります。\n   - スラグが ID だけになる点や、スループ処理の最適化を考慮します。\n\n3. **48 個のエラーの原因**\n   - `---` の行数が増えたことで、エラーが発生しました。\n   - ファイルごとの最初の 1 行を読み直す必要があります。\n\n4. **Vite 8 の CSS 圧縮エラー**\n   - `lightningcss` を使用した場合、パソルの順序が問題となります。\n   - `astro.config.mjs` を修正し、正しいクラスを指定します。\n\n本文には、すべての重要な情報を記載しており、専門用語は短く説明しています。",
+    "imageUrls": []
   },
   {
     "id": "07a78d9501aa54f9",
@@ -712,7 +1135,10 @@
     "url": "https://qiita.com/kuma_3838/items/e8a11dd95f319a1545d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-15T23:34:57.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Obsidian の日報ポップアッププラグインの自作方法\n\n記事は、Raycast の拡張機能では表示可能な画面に制限されているため、POPUP で開くための方法を提案するものです。特に、ユーザーが異なるアプリや環境で動作を想定し、カスタムプラグインを作成したケースを解説します。\n\n## 課題と解決方法\n開発者は、単一のアプリのウィンドウを操作するのではなく、すべてのアプリ（特に Raycast や Obsidian）に一致させる必要があります。これには、拡張機能の画面表示設定や、ローカルサーバーの起動方法など複数の技術的アプローチが必要です。\n\n## 結論\n自作プラグインは MIT ライセンスで公開されていますが、個人用に作成し、AI に渡せる情報として提供しています。アップデートによる内容変更のリスクを考慮し、設定を適切に調整することで、すべてのアプリでの正確なポップアップを実現しました。\n\n## 方法\n1. **プラグインの設計**: Obsidian の拡張機能の画面表示制限を回避するため、独自のコードを作成しました。\n2. **サーバー設置**: ローカル HTTP サーバーを構築し、ランチャーから呼び出す仕組みを構築しました。\n3. **設定調整**: フルスクリーンの上や他のアプリとの統合を最適化し、隠す機能（Blur イベント）を追加しました。\n4. **テスト**: 複数の環境（Chrome、デスクトップなど）での動作確認を行いました。\n\n本文には、特定の機能の追加やバージョン変更の詳細は記載されていませんが、既存プラグインの改変に基づき、個人用に作成したコードを提示しています。",
+    "imageUrls": []
   },
   {
     "id": "1419703daeff452b",
@@ -720,7 +1146,10 @@
     "url": "https://qiita.com/kuma_3838/items/a5145ee73f86646c64ec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-15T23:34:43.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "GENERAL",
+    "summary": "# 時間管理の重要性と戦略\n\n**課題**: 開発者向けに、時間術の重要性と具体的な解決方法について解説する。\n\n**結論**: 一度しかない人生を楽しみ、時間を制することで、仕事や生活を効率的に行うことが可能である。\n\n**方法**:\n1. **任務の定義**: 任務は「花を用意すること」ではなく、目的を明確に定義する必要がある。待ち合わせのゴールも時間までに到着することになる。\n2. **手段から目的へ**: 勉強やプレゼンなどには手段（英語）よりも目的（話せること）を重視し、スライドを使わずにプロトタイプを完成させる。\n3. **締め切りへの対応**: 「なるはや病」などの曖昧な指示は避けるべきであり、明確な期限と目的をセットで伝える必要がある。\n\n本文では、時間管理の重要性を強調し、具体的な行動例としてビル・ゲイツの花準備や英語でのプレゼン、そしてラストスパート志向からの転換を述べている。開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約しました。",
+    "imageUrls": []
   },
   {
     "id": "efd382f342da4f8b",
@@ -774,8 +1203,13 @@
     "url": "https://www.itmedia.co.jp/business/articles/2611/16/news031.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-15T22:16:38.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fbusiness%2Farticles%2F2611%2F16%2Fnews031.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fbusiness%2Farticles%2F2611%2F16%2Fnews031.html",
+    "category": "RELEASE",
+    "summary": "メルカリのアプリ開発現場では、従来のフロントエンドとバックエンドの専門職を分離する体制を解体し、フルスタック開発へと移行しています。これにより、開発スピードは劇的に速化しましたが、同時に品質維持の課題が現れます。生成AIによるコードやデザインの自動生成により、人間によるレビューの負担が増大しているため、作業プロセスの再設計が必要とされています。\n\n「人が担うべき本当の仕事」を明確にすることで、UI 作成の時間短縮と創造的な発想の支援を実現する方針を示しています。開発チームは1〜3人の少人数で、誰でもアイデアを形にできるプロダクトビルダーへと変革が進んでいます。ただし、AI による自動化化に伴い、人間による品質担保の役割が再定義される新たな壁が立ち上がっています。\n\n結論として、開発プロセスの再設計と AI の活用により、より高い品質とスピードを実現する戦略が推奨されています。\n\n方法：\nメルカリはフロントエンドからバックエンドまでを含めたフルスタック開発を推進し、UI 作成の自動化化と生成AIを活用しています。これにより、開発チームは1〜3人の少人数で、設計と実装を一体化して進めています。品質維持の課題には、人間によるレビューの負担増とコード量の増加に伴う品質確認の難易度があります。",
+    "imageUrls": [
+      "https://image.itmedia.co.jp/business/articles/2611/16/dk_o1.jpg"
+    ]
   },
   {
     "id": "7a160811c8dcfde7",
@@ -952,7 +1386,10 @@
     "url": "https://qiita.com/J-T_ky2g/items/07108c0b8ccc779a0424?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-15T16:02:51.000Z",
-    "status": "pending"
+    "status": "completed",
+    "category": "TROUBLESHOOT",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n Vitest のテスト時に Supabase の delete を実行する際にエラーが発生する問題について解説します。通常のテスト環境では select を含む処理は動作しないため、実装のモック設定が適切でないことが原因です。解決策として、モックを適用するのではなく、実際に Select を使用したままテストを行うべきであることが明かされています。また、検索やツールとの比較により、正確な解決が可能であるという報告もあります。\n\nこの問題は、開発者がツール内の設定を誤解してテスト環境に接続してしまうことで発生しているため、適切な設定を維持することが重要です。再発防止のポイントは、モック設定の正確性とテスト環境の適切性を確認することです。\n\n本文には具体的な解決方法や技術の動作の詳細が記載されており、専門用語は必要ありません。開発者は、テスト環境の設定を適切に管理することで、エラーを避けることが可能です。",
+    "imageUrls": []
   },
   {
     "id": "726238db5b88948e",
