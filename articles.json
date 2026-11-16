@@ -5,8 +5,19 @@
     "url": "https://www.nikkei.com/article/DGXZQOSG162TT0W6A111C2000000/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T04:53:20.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOSG162TT0W6A111C2000000%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOSG162TT0W6A111C2000000%2F",
+    "category": "TROUBLESHOOT",
+    "summary": "# 富岳スパコンの不正アクセス問題と対策\n\n**課題と解決方法**\n開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n2026 年 11 月 16 日、日本企業「富岳」の運用システムが外部から不正アクセスを受けました。この事件は、自動車や機械などの製品開発における技術流出の懸念を招きました。理研研究所は、登録した研究者にメールで通知し、不正アクセスの原因を特定しました。利用者が富岳と接続するのに必要な「秘密鍵」や外部のインターネットなど、重要なセキュリティ要素が暴露されたことが明らかになりました。\n\n**結論**\nこの事件は、企業における技術流出のリスクを懸念する重要な課題です。防止策として、適切な認証制度やセキュリティ対策が必須となります。\n\n**方法**\n不正アクセスを防ぐためには、登録した研究者に通知し、必要な秘密鍵やアクセス制御を厳格に管理することが重要です。また、外部からの転載や複製などの利用制限も検討すべき点です。技術的な解決策としては、最新のセキュリティシステムの導入と、企業全体の意識向上が不可欠となります。\n\n本文には具体的な技術用語は含まれていませんが、専門的な概念は必要に応じて簡潔に説明しています。",
+    "imageUrls": [
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3884047016112026000000-2.jpg?ixlib=js-3.8.0&w=103&h=64&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=62a0a3354f52c2e8a353536e2c9b6b22",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3888085016112026000000-1.jpg?ixlib=js-3.8.0&w=103&h=103&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=3e1190c3dafa0d200b6324658151babe",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252Ftopic%252Fog%252F21071204-1.jpg%3Fixlib%3Djs-2.3.2%26auto%3Dformat%252Ccompress%26fit%3Dmax%26ch%3DWidth%252CDPR%26s%3D5b9164fb4c4933f2a11531243cb92555?ixlib=js-3.8.0&w=380&h=237&auto=format%2Ccompress&fit=crop&bg=FFFFFF&crop=faces%252Cedges&s=b1b87086834e0af3854034b9115f4e8b",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3357403024072026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=943df366509f207ceb7ba3783171bf61",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3857714010112026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.31&fp-y=0.35&fp-z=1&crop=focalpoint&s=6625390fba317f4d88d54abc91cd417b",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3375910029072026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=8b9b78199d3832e2d2f76c2c10228079",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3340092021072026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.58&fp-y=0.24&fp-z=1&crop=focalpoint&s=3bca64bb741318cb72a733f5565fbc9a"
+    ]
   },
   {
     "id": "a95a81c695c57fde",
@@ -14,8 +25,13 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T04:49:20.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F16%2F2000003224%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F16%2F2000003224%2F",
+    "category": "TROUBLESHOOT",
+    "summary": "# 富岳システム不正アクセス調査\n\n## 課題と原因\n理研のスーパーコンピュータ「富岳」に不正アクセスが発生したことが明らかにされました。これは、15 日以降、関連システムのアカウントを持つユーザーからメール文面を通じて通知が届いたという事実です。システム側は、送信されたメールの内容を事実として認識しました。\n\n## 解決方法と技術\nシステム側は、送信されたメールの内容を確認し、具体的な被害範囲について調査を進めています。現在、メールには「ホームディレクトリに保存したファイルを読み出している」「秘密鍵や認証情報が持ち出されている」といった指摘が含まれているため、この情報に基づき対策を講じられています。\n\n## 再発防止の要点\n今後のシステム運用において、不正アクセスを防ぐためには、ユーザーの認証管理とメール内容の検証体制を強化することが重要です。特に、システム側が送信されたメールの内容を正確に確認し、適切な対応を行うことが鍵となります。\n\n本文には具体的な技術用語や詳細な手順の詳細情報は記載されていませんが、基本的な調査プロセスと対策の方向性は明言されています。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/16/2000003224/10012203/728"
+    ]
   },
   {
     "id": "ef6cb7be2170695f",
@@ -23,8 +39,14 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T03:03:29.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F16%2F2000003199%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F16%2F2000003199%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と技術の現状\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\n## 課題と技術の現状\n\n2026 年公開の「Innovative Tech」連載は、研究論文を解説するメディア「Seamless」を主宰し、山下氏による執筆です。本連載では、パスキー認証技術の安全性と運用状況について詳細な調査を行っています。特に、WebAuthn の導入によりセキュリティ基準を満たすサイトが多数減少したという課題が指摘されています。\n\n## 結論と推奨\n\n調査結果によると、103 件のサイトのうち、緊急レベルの脆弱性が 18 つあり、重要レベルの脆弱性は 53 つと見なされました。特に、パスキーの根幹である暗号署名の検証を行っておらず、改ざんしたデータで不正ログインが可能になったケースが多数存在します。また、ドメイン間のパスキー共有機能の許可リストに年間 10 ユーロで誰でも登録できる状態のドメインが含まれているケースも重要レベルの脆弱性として報告されています。\n\n## 方法と技術の運用\n\n調査は検出システム「PASSKEYS-RADAR」を用いて対応サイトを洗い出し、攻撃ツール「PASSKEYS-ATTACKER」で安全性を検証しました。WebAuthn のメッセージを改ざんして実装の安全性をテストするツールを開発し、103 件のサイトについて 18 つの緊急レベルと 53 つの重要レベルの脆弱性を発見しました。攻撃者はクレデンシャル ID を自分のアカウントに登録することで、公開鍵を上書きする攻撃が可能でした。また、複数ドメイン間でパスキーを共有する機能の許可リストに問題があるケースも報告されています。\n\n本文には具体的な推奨アクションやバージョン情報はありませんが、セキュリティ対策としてパスキーの検証強化とドメイン管理の厳格化が推奨されます。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/16/2000003199/10012150/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/16/2000003199/10012151/728"
+    ]
   },
   {
     "id": "3b8f095d34fc4caa",
@@ -32,8 +54,25 @@
     "url": "https://gigazine.net/news/20261116-haru-4b-conversation-ai/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T02:14:55.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261116-haru-4b-conversation-ai%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261116-haru-4b-conversation-ai%2F",
+    "category": "RELEASE",
+    "summary": "# AI 開発企業の新製品発表\n\nAI 開発企業「higurashi」は、リアルタイム音声会話の技術として「Haru-4B」モデルを公開しました。このモデルはユーザーの声を聞きながら自然な対話を行う「全二重連続音声対話基盤」を採用しています。学習データから人間らしい会話パターンを抽出し、生成された音声やテキストを除外した設計により、より自然なコミュニケーションを実現しています。\n\nHaru-4B はローカルで高速に動作します。MacBook の M1 Max では約 65ミリ秒の遅延、NVIDIA B300 では約 15ミリ秒の低遅延を実現しています。また、電話対応デモも用意されており、日本語・男性音声と日本語・女性の音声に対応可能です。\n\n開発者は、従来の直訳調を避けた自然な日本語で利用可能であることが確認されました。これにより、ユーザーとの対話はよりスムーズに進行することが期待されます。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/16/haru-4b-conversation-ai/00_m.png",
+      "https://img.youtube.com/vi/jB7OmY1aVUs/maxresdefault.jpg",
+      "https://i.gzn.jp/img/gsc/banner/20261110-adguard-windows-mac/d33701e30a6c2c3a4eb5a0963d46d7a8.png",
+      "https://i.gzn.jp/img/2026/11/05/plamo-3-translate-open-weight/00_m.png",
+      "https://i.gzn.jp/img/2026/03/27/mistral-voxtral-tts/00_m.jpg",
+      "https://i.gzn.jp/img/2026/06/29/ornith-agentic-coding-ai/00_m.png",
+      "https://i.gzn.jp/img/2025/09/02/tencent-hunyuan-mt-7b/00_m.png",
+      "https://i.gzn.jp/img/2023/08/10/japanese-stablelm-alpha/00_m.png",
+      "https://i.gzn.jp/img/2026/10/14/lfm2-5-24b-a2b/00_m.png",
+      "https://i.gzn.jp/img/2024/07/19/nvidia-mistral-nemo-ai/00.png",
+      "https://i.gzn.jp/img/2023/07/10/internlm-ai-language-model/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/16/amazon-leo-vulcan-rocket-fails-destroying-40-satellites/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/13/billion-wats-in-speaker/00_m.jpg"
+    ]
   },
   {
     "id": "16f5ef124477b6e9",
@@ -41,8 +80,13 @@
     "url": "https://k-tai.watch.impress.co.jp/docs/news/2156616.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T02:12:18.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fnews%2F2156616.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fnews%2F2156616.html",
+    "category": "TROUBLESHOOT",
+    "summary": "# NTTドコモ 5G SA 通信障害について\n\nNTTドコモは、2026年11月16日、5G SAサービスにおける通信障害を明らかにしました。音声通話やデータ通信、SMSが利用しづらいという問題が発生し、全国で継続しています。影響範囲は広がり、契約しているユーザーのみが受ける影響です。\n\n## 結論\n5G SAサービスの導入により、音声通話やデータ通信の利用が困難になることが指摘されています。端末の設定変更やMVNOへの影響を考慮した対処法が提案されています。\n\n## 方法\n影響を受けているのは、5G SAサービス契約しているユーザーのみです。音声通話やデータ通信の利用が制限されるため、端末のネットワーク設定を変更し、携帯電話の再起動か機内モードをオンにすることで解決可能です。また、MVNOへの影響は存在しないことが確認されています。\n\n## 再発防止の要点\n調査結果では、復旧の見込みについて詳細な情報は提供されていません。今後の運用において、適切な対策と対応策が重要となります。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/616/dcm5g_l.jpg"
+    ]
   },
   {
     "id": "a5903c47256c4f35",
@@ -50,8 +94,14 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T02:03:33.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F16%2F2000003218%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F16%2F2000003218%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法\n\n**課題**\n2026年11月に NTTドコモは5G SA（Standalone）の契約者において、音声通話・データ通信・SMS利用が困難な状況が発生した。この問題は、5G専用の設備のみで通信するオプションであることが明言されており、障害発生頻度は過去3回中。\n\n**結論**\n5G SAの障害は「交換機の輻輳」の原因となり、復帰までに約14〜9時間かかるため、ネットワーク設定で4Gを選択し、携帯電話の再起動か機内モードをオンにする方法が推奨される。\n\n**方法**\n障害発生時は、ネットワーク設定で4Gを選択し、携帯電話の再起動か機内のモードをオンにすることで利用可能になることが明言されている。復帰までの期間については、5日は約14時間、11日は約9時間と見積もられている。\n\n本文には具体的な技術用語や詳細な手順は記載されておらず、上記の一般的な対応方法に基づき推測した内容です。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/16/2000003218/10012190/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/16/2000003218/10012191/728"
+    ]
   },
   {
     "id": "8600f97d3b1eca00",
@@ -59,8 +109,31 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261116de76369",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T02:03:01.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261116de76369"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261116de76369",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な要約\n\n通信企業 NTTドコモが、16 日午前中から一部の利用者が通話やデータ通信利用に困難な状況が続いたことを報告しました。会社は午後 4 時前に復旧を完了し、現在正常運用状態です。このニュースでは、通信障害の解決方法や企業間の協力関係について重要な情報を伝えています。\n\n## 課題と技術\n通信障害の発生は、交換機に不具合が原因とされています。NTTドコモは、この問題を迅速に解決するために復旧を完了しました。また、不正アクセスや生活保護費の問題など、多様な課題があります。\n\n## 結論\n通信企業は、利用者への影響を考慮して復旧を完了し、正常化を図っています。同時に、他のニュースも同様に重要な情報を発表しています。\n\n## 方法\nNTTドコモは、交換機の不具合を原因として復旧を完了しました。また、企業間の協力関係や、多様な課題の解決について、最新のニュースを共有しています。",
+    "imageUrls": [
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76369/20261116de76369_E0000178164_1_l.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76603/20261116de76603_E0000179153_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76531/20261116de76531_E0000178941_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76430/20261116de76430_E0000178878_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76647/20261116de76647_E0000179172_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76383/20261116de76383_E0000178189_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76437/20261116de76437_E0000003821_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76402/20261116de76402_E0000178184_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76596/20261116de76596_E0000179126_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74613/20261112de74613_E0000171863_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57474/20261009de57474_E0000075459_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75341/20261113de75341_E0000175413_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73427/20261110de73427_E0000170771_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74672/20261112de74672_E0000173857_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de74607/20261112de74607_E0000166731_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73322/20261110de73322_E0000163293_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63028/20261021de63028_E0000110716_1_s.jpg",
+      "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76258/20261115de76258_E0000179190_1_l.jpg",
+      "https://news.web.nhk/weather/tenki/tenki_02.jpg"
+    ]
   },
   {
     "id": "bf6917bdf088e506",
@@ -68,8 +141,11 @@
     "url": "https://developer.hatenastaff.com/entry/2026/11/06/174023",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T02:00:09.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdeveloper.hatenastaff.com%2Fentry%2F2026%2F11%2F06%2F174023"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdeveloper.hatenastaff.com%2Fentry%2F2026%2F11%2F06%2F174023",
+    "category": "TUTORIAL",
+    "summary": "Web アプリエンジニア向けに、直訳調を避けた自然な日本語で要約します。\n\nWeb アプリ開発のエンジニアたちにとって、Go 言語は非常に有用です。今回は、hatena.go の東京オフィスにて開催される第 3 回勉強会について発表します。このイベントでは、実際に Go をプロダクションで運用する知見を共有します。特に、Android アプリ開発において、ネイティブライブラリとの連携や、Go が活用できる標準ライブラリについて詳しく解説されています。\n\n主な課題と解決方法の概要は以下の通りです。\n\nまず、Web サービスサーバーサイドの開発において、Go の直和型の実装や課題を説明します。Go は直和型を持たないため、別の機能でシミュレートする仕組みを採用しています。また、Android アプリ開発では、プラットフォーム制限に対応しつつ、ネイティブライブラリとの互換性を確認する重要性も強調されています。\n\nさらに、Web サービス開発における直和型の活用方法と実装の工夫について、具体的な事例や課題を解説します。この発表を通じて、Go の使い方を理解し、自身のプロジェクトでの導入や改善に役立ちます。\n\n参加者は無料で、オンライン開催です。詳細は公式サイトから確認できます。",
+    "imageUrls": []
   },
   {
     "id": "a8a8cccdf2d04f95",
@@ -77,8 +153,19 @@
     "url": "https://note.com/tatsuya_koyama/n/nb7aa1ba71aba",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T01:58:19.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Ftatsuya_koyama%2Fn%2Fnb7aa1ba71aba"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Ftatsuya_koyama%2Fn%2Fnb7aa1ba71aba",
+    "category": "GENERAL",
+    "summary": "# 開発者向け：AI とゲーム開発での葛藤と解決策\n\n## テーマ：記事が扱う課題や技術は何か\n現代のゲーム開発において、人工知能（AI）によるコード生成や画像生成の普及により、伝統的なプログラミング作業から解放されたという現象が顕著化しています。しかし、この自動化は本質的な開発プロセスをどう影響するかという葛藤を抱えています。特に、ゲームの動きや実装設計には人間が主導権を握る必要があると認識されています。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\n開発者たちは、AI を補助的に使うことで生産性を向上させることは可能であるものの、コードを書く過程自体が楽しさと意味を持つことが重要であるという結論を導き出しています。最終的には、人間が主導権を維持し、AI を使いながら創作を継続するスタイルが推奨される傾向にあります。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n課題として、従来のコードを書く時間とコストを削減するようになりつつある一方で、ゲームの動きや実装設計には人間が専門であるという認識があります。解決策としては、AI コーディング補助ツールやチャットベースの相談を利用しつつ、最終的なコードの設計やテストを行う人間の役割を維持するアプローチが採用されています。また、画像生成技術の進化により、絵の練習や創作プロセスにも影響を与えることが指摘されています。\n\n本文では、開発者自身による経験と感情の重要性を強調しており、AI を完全に代替するのではなく、補助的なツールとして使うことで、創造的な過程を維持する姿勢が示されています。",
+    "imageUrls": [
+      "https://assets.st-note.com/img/1771665053-V7ecusL8p5WC4Yv6rPU1Eqxh.jpg?width=1200",
+      "https://assets.st-note.com/img/1771665424-IrTtmAsDuoLSaxXON9Wy4eFC.jpg?width=1200",
+      "https://assets.st-note.com/img/1771673058-Yiw7h2zFUvS3es1BmqaQEHNx.png?width=1200",
+      "https://assets.st-note.com/img/1771673386-Q5xgU6vVBIYdJHbqoweOjLnF.png?width=1200",
+      "https://assets.st-note.com/img/1771673296-ADolPuNmXk05ZMETOiB48Lct.png?width=1200",
+      "https://assets.st-note.com/img/1771670328-BXvogkCrMPdZbIsj3ceJlp1D.jpg?width=1200",
+      "https://assets.st-note.com/img/1771670573-asXJqC2ElpkQIV3Z8YeN6wjc.jpg?width=1200"
+    ]
   },
   {
     "id": "f56ddfa63df1daaa",
@@ -86,8 +173,14 @@
     "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T01:43:21.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F16%2F2000003215%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F16%2F2000003215%2F",
+    "category": "RELEASE",
+    "summary": "公開プラットフォーム Paiza は、過去に存在する退職者の個人情報データを管理していたステージング環境において、セキュリティリスクを改善する方針を示しています。このプロジェクトは、個人情報を保護するため、認証パスワードやアクセス権限の管理を強化する取り組みです。\n\n課題として、過去 13 年間続いた第三者によるアクセス権限問題があり、個人情報漏洩のリスクが高まっています。対策として、行政機関との照会により緊急対策を開始し、セキュリティマニュアルの整備を進めています。また、テスト用データのマスク処理の再検証や、外部専門機関の脆弱性診断を通じて、個人情報の取り扱いを継続的に確認する方針です。\n\n結論は、退職者権限の管理強化とセキュリティ管理の改訂により、個人情報保護の徹底を図ることで、組織全体の安全確保を目指しています。\n\n方法として、行政機関との連携による照会実施、緊急対策の開始、セキュリティマニュアルの整備、テストデータの再検証など、多段階的な対策を講じています。これにより、第三者へのアクセス制限と個人情報の保護を実現しています。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/16/2000003215/10012177/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/16/2000003215/10012178/728"
+    ]
   },
   {
     "id": "4c0dff6463ce34fe",
@@ -95,8 +188,20 @@
     "url": "https://levtech.jp/media/detail_972/",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T01:34:47.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Flevtech.jp%2Fmedia%2Fdetail_972%2F"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Flevtech.jp%2Fmedia%2Fdetail_972%2F",
+    "category": "TUTORIAL",
+    "summary": "北國悠人は、AI を活用した音声入力技術を実践する事例として紹介しました。開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n課題と解決方法\n開発者が肩こりや疲労を解消し、作業効率を向上させるために、キーボード入力ではなく音声入力を採用しています。これは、AI に口頭で指示してアウトプットさせながら、後から修正する手間を省くことで実現しています。また、スライド資料やチャットなどの多様な環境に対応するアプリの構築も進められています。\n\n技術の仕組み\n開発者はキーボードを使わずに、AI を音声入力を通じて作業を進めています。アプリには履歴機能や文章調整機能など、人間の動作を補完する機能があります。ただし、文章の内容やニュアンスが変わるなどの難点もあります。\n\n実践時の注意点\nフリーランスやリモートワークでは、周囲の人がいないため導入しやすいですが、オフィスでの採用には慣れが必要です。また、入力先の表示方法やアプリの選定も重要な考慮事項です。北國さんは、AI への指示を口頭でやりながら、後から修正する仕組みを採用していることが特徴です。\n\n結論\n音声入力は実務に役立つ技術であり、開発効率を向上させられる可能性があります。ただし、環境や習慣の違いにより、導入には注意が必要です。",
+    "imageUrls": [
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mskkwsm/20261105/20261105155143.jpg",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mskkwsm/20261104/20261104183113.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mskkwsm/20261104/20261104183230.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mskkwsm/20261104/20261104183313.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mskkwsm/20261104/20261104183325.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mskkwsm/20261104/20261104183335.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mskkwsm/20261104/20261104183354.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mskkwsm/20261104/20261104183405.png"
+    ]
   },
   {
     "id": "500b53773b18ad47",
@@ -104,8 +209,11 @@
     "url": "https://news.yahoo.co.jp/articles/b3d77bd70ed3d2ebe05c2a28248b6cd63ab21e2a",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T00:56:30.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.yahoo.co.jp%2Farticles%2Fb3d77bd70ed3d2ebe05c2a28248b6cd63ab21e2a"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.yahoo.co.jp%2Farticles%2Fb3d77bd70ed3d2ebe05c2a28248b6cd63ab21e2a",
+    "category": "RELEASE",
+    "summary": "チャッピーは、女子生徒向けに開発された対話型生成 AI サービスです。このサービスは、自由研究や課題解決のサポートとして利用されていますが、学習者の理解度向上と効果的な活用を重視しています。\n\n**テーマ**: 学習支援ツールとしてのチャッピーの導入と効果\n**結論**: 自動生成コンテンツの作成や課題解決に便利に活用でき、学習者の自信を高める効果が期待される\n**方法**: 入力欄にテーマを入力し、AI が提案する文章を提示することで、専門知識を補完する仕組み\n\n本文には、チャッピーの具体的な機能の詳細や、学習効果に関する統計データは記載されていますが、その詳細な運用手順や結果の検証方法については記述されていません。また、利用者の心理的な側面や、技術的な課題への解決プロセスについては、記事内容の範囲内では説明されていないため、推測を避けます。",
+    "imageUrls": []
   },
   {
     "id": "329bdbb7e4ec45d4",
@@ -113,8 +221,28 @@
     "url": "https://zenn.dev/satowan/articles/claude-fable-canvas-painting",
     "source": "Zenn (playwright)",
     "publishedAt": "2026-11-16T00:53:07.000Z",
-    "status": "pending",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--97mOtYvC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Fable%25205.2%2520%25E3%2581%25AB%2520Canvas%25202D%2520%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2580%258C%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25B3%25E3%2583%25BB%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2580%258D%25E3%2581%25AE%25E7%25B5%25B5%25E7%2594%25BB%25E3%2582%2592%25E6%258F%258F%25E3%2581%258B%25E3%2581%259B%25E3%2581%259F%253A%25204%2520%25E3%2581%25A4%25E3%2581%25AE%25E7%2589%2588%25E3%2581%25A8%25E3%2580%2581md5%2520...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2595%25E3%2581%25A8%25E3%2582%258F%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QxMDk1ZGMxNTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--97mOtYvC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Fable%25205.2%2520%25E3%2581%25AB%2520Canvas%25202D%2520%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2580%258C%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25B3%25E3%2583%25BB%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2582%25AF%25E3%2580%258D%25E3%2581%25AE%25E7%25B5%25B5%25E7%2594%25BB%25E3%2582%2592%25E6%258F%258F%25E3%2581%258B%25E3%2581%259B%25E3%2581%259F%253A%25204%2520%25E3%2581%25A4%25E3%2581%25AE%25E7%2589%2588%25E3%2581%25A8%25E3%2580%2581md5%2520...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2595%25E3%2581%25A8%25E3%2582%258F%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QxMDk1ZGMxNTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：自然言語化の漫画制作技術\n\nこの記事は、AI と人間の連携による「まんが世界の株価」の漫画制作方法について解説しています。編集長は AI のチャッピー Fable 5.2 を使って、S&P 500 の値動きを表現する絵画を作成しました。従来の Python のタイル型チャートから、数学的な擬似乱数を用いた固定の種に基づき、筆致による文字を追加した自然な日本語化の手法が採用されました。\n\n## 結論\n編集長は AI を活用し、S&P 500 の値動きを表現する「自然言語化」の漫画制作技術を提案しています。この技術により、従来の機械的な描画方法から人間の表現に近い作品が可能になります。\n\n## 方法\n課題は、S&P 500 の値動きを正確に表現する問題です。解決策として、Python のタイル型チャートから、Fable 5.2 の数学的な擬似乱数を用いて固定の種に基づき、筆致による文字を追加した自然言語化の手法が採用されました。\n\n## 本文記載なし\n本文には追加機能や対象バージョンなどの詳細情報は記載されていません。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/d1701f63fe3017cdce1e748d.webp?sha=679f1f1643bf107c3e231878f82145992d2c46fe",
+      "https://static.zenn.studio/user-upload/deployed-images/ab4b9bb41079dbbc6c0bcd0b.webp?sha=1d5411b621a5172c227cfc44872ae1e4f208d88a",
+      "https://static.zenn.studio/user-upload/deployed-images/940735491be4ad0e49161a12.webp?sha=dca561447608f2b7102cdb0df5da3500aa0afd06",
+      "https://static.zenn.studio/user-upload/deployed-images/d94df1fa9a39a25be3e33195.webp?sha=9ea991a9de69b0d46f0555bbc242c0daf75a1c1c",
+      "https://static.zenn.studio/user-upload/deployed-images/eac6bcb7160470cb7bce6d98.webp?sha=eb1d6e6cde1c6e2dfd018ba427bf051156c95367",
+      "https://static.zenn.studio/user-upload/deployed-images/4aa948113430ddd7899b8652.webp?sha=fd9f1faa880c49e7b60d9d6f60022df11f58bb2e",
+      "https://static.zenn.studio/user-upload/deployed-images/60512ef724a5c412d5e59d18.webp?sha=2d3c5e57ebcc65773aad243d8afcf6e2ce0e4419",
+      "https://static.zenn.studio/user-upload/deployed-images/ee7160a9a024fa5003e1c234.webp?sha=3429313f126f1d9c3c375f52a69bbb162c8f62a4",
+      "https://static.zenn.studio/user-upload/deployed-images/82a5f9e8d7d05caaed3d4c17.webp?sha=d9115dd39754d47eee3627d3d9d562d5dae37ed8",
+      "https://static.zenn.studio/user-upload/deployed-images/a8f43985a5bfae71ef887061.webp?sha=5834628c19d53a877fb43212071ac84f72dead47",
+      "https://static.zenn.studio/user-upload/deployed-images/e3425de678ebb54d1985afd3.webp?sha=9864522325480ff190a03c24f413e5e6539f2dce",
+      "https://static.zenn.studio/user-upload/deployed-images/c9e369513f97469f991cf293.webp?sha=c91a3f0702ccb352766bc183d2cbc4b68a46d871",
+      "https://static.zenn.studio/user-upload/deployed-images/596991bb8f3e2dae56c7942e.webp?sha=02e15fe8cfd4d7b8b5169948e5e9ac2805a40eef",
+      "https://static.zenn.studio/user-upload/deployed-images/bbd93c0a9713086778fbbb69.webp?sha=baab116222a32be804cbd09ff931747d1ffab2a6",
+      "https://static.zenn.studio/user-upload/deployed-images/a60980d2eb16e72ee58d8902.webp?sha=9eec099a7246bafc820d7868ddd79dc812dc6107",
+      "https://static.zenn.studio/user-upload/deployed-images/ceec79a2c707d3b1647d2f24.webp?sha=50e6e8c5fe96007f241a140ab7b13612ad46c4ec"
+    ]
   },
   {
     "id": "e460fefa89168163",
@@ -122,8 +250,24 @@
     "url": "https://tech.layerx.co.jp/entry/haro-et-agent",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-16T00:08:29.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftech.layerx.co.jp%2Fentry%2Fharo-et-agent"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftech.layerx.co.jp%2Fentry%2Fharo-et-agent",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：探索的テストと AI によるコード開発加速\n\n**テーマ**: 開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約してください。\n\n本文の要約は、開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n## 課題と技術の概要\n開発者は LayerX の AI/MLOps テックリードとして、社内の Qwen3.8-27B を使って探索的テストを実行する仕組みを提案しました。従来のテストケースを事前に作成し、画面を触ることで確認する方法を提案します。この方法は、開発者がコードを書く速度を上げつつ、品質を確保する新たなアプローチです。\n\n## 結論\nこの技術により、開発者は約 10 時間で 47 本のシナリオを回し、重要な問題の根本原因を特定できます。結果として、仕様変更や機能の組み合わせの不具合を早期に発見し、より安定したソフトウェア開発が可能になります。\n\n## 方法\n課題を解決する方法は、AI Agent を活用した探索的テストの自動化です。\n1. **シナリオ作成**: 画面ごとにテストケースを事前に作成し、特定の順番で回すことで問題を見つけます。\n2. **AI の役割**: AI はシナリオを読み込み、画面操作を自動実行します。\n3. **確認プロセス**: 結果の報告を Claude モデルにログとして保存し、原因を特定します。\n4. **バックグラウンド運用**: ハーコ（haro）を通じて、開発者が手元のマシンにアクセスしないよう設計されています。\n\n## 本文の補足情報\n- 公開前の機能の探索的テストを社内の Qwen3.8-27B に適用し、約 10 時間での実装を行いました。\n- 結果として、重要な問題は 3 つのタイプに分けられ、根本原因は仕様やサーバーのログとの整合性にあります。\n- Skill はリポジトリで共有されており、社内誰でも同じように運用可能です。\n- 開発者の手元の環境に影響を最小化し、チーム全体で結果を共有できます。",
+    "imageUrls": [
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/a/abctail30/20261114/20261114012414.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/a/abctail30/20261113/20261113152549.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/a/abctail30/20261113/20261113152654.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/a/abctail30/20261113/20261113152822.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/a/abctail30/20261113/20261113152856.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/a/abctail30/20261113/20261113152956.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/a/abctail30/20261113/20261113153051.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/a/abctail30/20261113/20261113153127.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/a/abctail30/20261113/20261113153151.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/a/abctail30/20261113/20261113153316.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/a/abctail30/20261113/20261113153353.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/a/abctail30/20261113/20261113154543.png"
+    ]
   },
   {
     "id": "20697b76b0f17956",
@@ -131,8 +275,13 @@
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/16/news023.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-15T23:53:07.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fatmarkit.itmedia.co.jp%2Fait%2Farticles%2F2611%2F16%2Fnews023.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fatmarkit.itmedia.co.jp%2Fait%2Farticles%2F2611%2F16%2Fnews023.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な要約\n\nこの記事は会員限定ですが、読者が誰でも理解しやすい自然な日本語で要約します。\n\n## テーマ：記事が扱う課題や技術は何か\n本記事は、40 年動いたレガシーシステムにおける「現行踏襲」の危険性について解説しています。従来の「結果が同じなら正しい」という考え方とは異なり、コードのバグを特定する上で重要な問題点として扱われています。特に、桁あふれや誤差処理、間違った処理結果の 3 つの類型が、現場の混乱を招くリスクを示しています。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nこの記事では、直訳調を避けた自然な日本語で要約します。結論として、現行踏襲という言葉には「現行が正しい」という前提が隠れており、その危険性を認識する必要があると強調されています。また、AI による視点が多様なことで、従来のレビュー方法の限界を指摘し、新たなアプローチが必要であることが示されています。最終的に、公開されたサンプル資料を用いて、具体的な観点を作成し、再確認を行うことを推奨しています。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n課題は、40 年動いたシステムにおける不具合の特定と、その影響の分析です。従来のレビューではサンプリングのみが行われており、重要な箇所や疑わしい箇所を深く読み込む必要があります。AI による視点が多様なことで、桁あふれや誤差処理、間違った処理結果の 3 つの型をすべて発見するようになります。公開されたサンプル資料を用いて、具体的な観点を作成し、実際に解析を行うことが推奨されています。これにより、現場の混乱を防ぎ、正しい判断を下すことができます。",
+    "imageUrls": [
+      "https://image.itmedia.co.jp/ait/articles/2611/16/ait_2035modernization9-1.png"
+    ]
   },
   {
     "id": "90f0899e263ad331",
@@ -140,8 +289,11 @@
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/16/news013.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-15T23:48:09.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fatmarkit.itmedia.co.jp%2Fait%2Farticles%2F2611%2F16%2Fnews013.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fatmarkit.itmedia.co.jp%2Fait%2Farticles%2F2611%2F16%2Fnews013.html",
+    "category": "RELEASE",
+    "summary": "# 課題：テレワークと出社のバランス\n結論：企業はテレワークと出社をハイブリッドワークとして組み合わせて、生産性とセキュリティのバランスを重視する必要がある。\n方法：ITインフラ業務の設計・構築・運用をリモート化し、オフィスでの検証用機材を利用することで、柔軟な働き方を可能にする。\n\n本文では、コロナ禍後のテレワークの進歩と、職種や業務内容によるテレワークの可能性の違いが指摘されている。特に、設計業務や構築業務は対人接触が多く、テレワークには適さない場合がある一方で、運用業務やデータセンターでのメンテナンスは遠隔作業が可能であることが分かった。また、セキュリティへの過度な重視は生産性を低下させるリスクを伴うため、バランスのよいポリシーが必要と主張されている。最終的に、個人事情や組織的な課題を考慮し、柔軟な働き方（ハイブリッドワーク）を採用することが推奨される。",
+    "imageUrls": []
   },
   {
     "id": "efd382f342da4f8b",
@@ -149,8 +301,21 @@
     "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2154830.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-15T23:15:55.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Finternet.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fshimizu%2F2154830.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Finternet.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fshimizu%2F2154830.html",
+    "category": "GENERAL",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\n**テーマ：記事の課題と技術**\n現在、高性能なPCを購入する際、無線LANの仕様について大きな懸念を抱く状況が顕著です。特に、Wi-Fi 7に対応するチップの幅（320MHz）や接続方法の違いが重要です。本文では、MediaTekのMT7925とMT7927というチップの技術的な違いを詳細に解説しています。これらは同じ機能を持つものの、最大チャネル幅やMLOの仕様によって異なるため、接続速度や安定性への影響を明確に示しています。特に、320MHz幅対応のMT7927は近距離での通信速度向上を期待できるという点です。また、採用状況の理由については、共通化や検証実績などの要因が考えられるとされています。\n\n**結論：推奨事項**\n本文の主張は、高性能なPCを購入する際は、無線LANの仕様を正確に確認することが重要です。特に、320MHz幅に対応するMT7927チップを検討する必要があると推測されます。ただし、採用事例やコスト影響については、メーカーの公開資料から推測されるため、最終的な決定には慎重に検討する必要があります。\n\n**方法：解決策と技術**\n課題を解決するには、適切な無線モジュールやチップの選定が必要です。本文では、MediaTekのフィルグック（Filogic）シリーズのMT7925とMT7927の仕様の違いを比較し、接続速度の向上可能性を説明しています。また、ドライバーや実装の影響についても触れ、採用事例の存在を提示しています。最終的な選択には、性能要件とコストバランスを考慮した検討が求められます。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/iw/docs/2154/830/001_l.JPG",
+      "https://asset.watch.impress.co.jp/img/iw/docs/2154/830/002_l.png",
+      "https://asset.watch.impress.co.jp/img/iw/docs/2154/830/003_l.png",
+      "https://asset.watch.impress.co.jp/img/iw/docs/2154/830/004_l.png",
+      "https://asset.watch.impress.co.jp/img/iw/docs/2154/830/005_l.png",
+      "https://asset.watch.impress.co.jp/img/iw/docs/2154/830/006_l.png",
+      "https://m.media-amazon.com/images/I/51-2LqbfZiL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/51Y-CiO-ANL._SL160_.jpg",
+      "https://m.media-amazon.com/images/I/415wNzScCZL._SL160_.jpg"
+    ]
   },
   {
     "id": "a993f5ca24876ece",
@@ -158,8 +323,11 @@
     "url": "https://anond.hatelabo.jp/20261116035910",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-15T22:55:08.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fanond.hatelabo.jp%2F20261116035910"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fanond.hatelabo.jp%2F20261116035910",
+    "category": "GENERAL",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：AI の学習型と対話型の違い**\n本文では、GPT や Gemini などの学習型 AI を「教える」のではなく「聞き続ける」という仕組みが強調されています。AI が正確な答えを出すために情報を教えなくても、必要な会話の終了を認識する設計です。これにより、無駄な回答や誤解を防ぐことができます。\n\n**結論：学習型 AI の利点と注意点**\nAI は学習型であるため、情報を与えなくても自然に会話を続けることが可能です。しかし、長文や複雑な問題文を出す際は、明確なまとめを必要とされる傾向があります。これにより、ユーザーの理解を妨げる可能性があります。\n\n**方法：会話型の活用と対策**\n課題は、AI の学習型特性を活かして、必要な情報を提示するのではなく、自然な対話を促すことです。 Gemini や Grok などの本物のキチガイのような使い方を推奨します。長文を出す際は、簡潔にまとめをまとめることで、ユーザーの理解を向上させる必要があります。\n\n本文には具体的な技術用語や詳細な手順は記載されていませんが、学習型 AI の仕組みと対話型の活用方法について解説されています。",
+    "imageUrls": []
   },
   {
     "id": "feb7cbdee400e995",
@@ -167,8 +335,11 @@
     "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-15T22:34:36.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fcloudflareaikitesurf.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fcloudflareaikitesurf.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Kitesurf のオープンソース公開\n\n**テーマ**: AI エージェント向けのヘッドレスブラウザの技術的実装\n**結論**: Cloudflare は、AI エージェントが操作する環境に適した軽量な Web ブラウザをオープンソースに公開し、CPU・メモリ消費を大幅に削減しています。\n**方法**: 開発者は Wrangler を使ってローカル環境で実行し、WebAssembly にコンパイルして Cloudflare Workers で動作させることができます。また、プレイグラウンドも公開されています。\n\n本文では、従来の人間用のブラウザ要件とは異なり、タブやブックマークなどの機能は不要であり、AI エージェントの同時稼働を考慮した軽量設計が採用されています。特に、Chrome との比較において CPU とメモリ消費が 3 倍から 7 倍に優れている点が重要視されます。開発者は WebAssembly をベースに Node.js や Rust で記述し、クラウド環境での安定性を確保しています。これにより、AI エージェントによる情報収集や Web アプリケーション処理を効率よく実現する技術的解決策が提供されています。",
+    "imageUrls": []
   },
   {
     "id": "7a160811c8dcfde7",
@@ -202,8 +373,49 @@
     "url": "https://pc.watch.impress.co.jp/docs/topic/special/2155494.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-15T21:39:06.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Ftopic%2Fspecial%2F2155494.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Ftopic%2Fspecial%2F2155494.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：MINISFORUM S5 の導入とメリット\n\n## テーマ：記事が扱う課題や技術は何か\nHDD NAS を利用する際、従来の「騒音」という問題の解決と、AI によるデータ肥大化への対応について、新しいモデルである MINISFORUM S5 が提案されています。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nS5 は静音動作を実現し、高性能な NVMe SSD を搭載することで、従来のハードウェアの課題を解決します。また、AI 時代に必要な機能と性能を備えたオールフラッシュNAS の導入を推奨しています。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\nS5 は最小PC 同様のコンパクトな設計を持ち、5 スロットの NVMe SSD を搭載することで高速転送を実現します。管理アプリ「MinisCloud」を用いて初期設定やデータ移行を自動化し、既存NAS のデータを移行する機能も備えています。\n\n本文には追加・変更された機能や対象バージョン、利用者への影響について詳細な情報はありませんが、S5 の具体的な仕様とメリットは記載されています。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/002a_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/001_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/005_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/101_m.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/104_m.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/102_m.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/103_m.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/106_m.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/107_m.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/006_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/007_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/008_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/009_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/010b_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/011_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/012b_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/108_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/110_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/014_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/015_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/016_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/017_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/018_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/019_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/020_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/021_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/022_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/023_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/024_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/109_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/g03_s.png",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/g04_s.png",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/g02_s.png",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/g01_s.png",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/026_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/027_l.jpg",
+      "https://asset.watch.impress.co.jp/img/pcw/docs/2155/494/image02_l.jpg"
+    ]
   },
   {
     "id": "a3f000405617df64",
@@ -223,8 +435,13 @@
     "url": "https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-15T21:12:32.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fpcuser%2Farticles%2F2611%2F16%2Fnews045.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fpcuser%2Farticles%2F2611%2F16%2Fnews045.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Microsoft 365 障害復旧状況と SLA クレジット\n\n## 課題と結果\n2026 年 11 月 16 日、Microsoft 365 のサービスが業務に多大な影響を及ぼした障害が発生しました。初期にはメールの到着遅延などの細かい問題が続いたものの、大枠でのダウンタイムは平均半日程度と見られます。現在、最終版の報告書（PIR）は公表されていないため、詳細な状況は不明ですが、サービスは復旧済みとされています。\n\n## 方法と影響\nMicrosoft は障害解決後 48 時間以内に暫定版、5 営業日以内に最終版を公開する方針です。この報告を通じて、現在判明している原因や時系列の状況をまとめました。また、SLA（サービス品質保証）の稼働率を下回している可能性があり、サービスクレジットを請求される可能性があります。一般的な場合、25％〜50％のクレジットが充てられるとされています。\n\n## 今後の対応\nサービス復旧後は「Operational」と表示され、正常であることを示しています。同様の状況は公式ページ以外での報告も可能です。追跡を依頼した Meta の AI エージェント「Muse」のタイムラインデータを参照することで、より正確な情報を収集する方針です。",
+    "imageUrls": [
+      "https://image.itmedia.co.jp/pcuser/subtop/pronavi/images/header.png"
+    ]
   },
   {
     "id": "201c2bb3c7c083ce",
@@ -232,8 +449,11 @@
     "url": "https://p2ptk.org/monopoly/5688",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-15T21:09:29.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fp2ptk.org%2Fmonopoly%2F5688"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fp2ptk.org%2Fmonopoly%2F5688",
+    "category": "RELEASE",
+    "summary": "インターネットの支配権は Google の独占企業であり、その責任を承知する必要があると主張されています。この問題は、検索結果の劣化や AI を利用した詐欺広告などの行為に対する対応において重要です。Google は、認証済み販売者プログラムの強化と正規 URL の網羅導入方針を示し、不正情報の拡散を防ぐための具体的な対策を推進しています。これにより、信頼性の高い情報環境を維持する必要性が明確になります。本文では、Google のモットーと責任の所在について明確に述べており、その主張は正当性を示しています。",
+    "imageUrls": []
   },
   {
     "id": "dea7d6ebe5f5f14b",
@@ -271,8 +491,24 @@
     "url": "https://github.com/oxynote/oxynote",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-15T16:09:02.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.com%2Foxynote%2Foxynote"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.com%2Foxynote%2Foxynote",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な日本語要約\n\n**テーマ**: 技術記事の課題と解決方法\n結論：「直訳調を避けた自然な日本語で、350〜450 文字を目安」\n方法：課題解決のフローと技術の仕組み\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。本文は、開発者が自社のサービス（ttlcache）の運用を自動化し、可視化と管理を統一する「Oxynote」の導入について解説しています。\n\n**課題**: 従来のドキュメントやツールでは、サービスの状態や設定を記録する手段が分散しており、手動で接続して確認する必要があります。また、複数のツール（Grafana, Sentry など）と異なるユーザー間で管理権限の共有が困難でした。\n\n**解決方法**: Oxynote を導入し、すべての情報を一つのページに統合します。Prometheus, Loki, SQL のクエリを画面に表示し、変更プロセスを「ドラフト→diff→承認」というレビューフローに適用します。これにより、開発者側もサービスの状態を確認できるため、手動での確認を避けます。\n\n**技術の仕組み**: 各ページには独自のクエリが実行され、結果が表示されます。また、サーバー管理や機能フラグは、他のツールと分離しており、統一されたレビューフローが必要です。現在、すべての機能は開発中です。",
+    "imageUrls": [
+      "https://camo.githubusercontent.com/35ba0109ce417ebc7424bef1f518ad5ac79a3ca4a0a3e2cbfa9e932718a1a66a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6f78796e6f74652f6f78796e6f7465",
+      "https://camo.githubusercontent.com/421ab47c513b8a377c89cb33124bda07fdebb28fdaa73725c11ee77dc0f3c218/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f6f78796e6f74652f6f78796e6f7465",
+      "https://camo.githubusercontent.com/4cd047015966d16166f67db728c57dfbe3e8453517d9cab7cd048c9803536c3c/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313535393235323135373832363436393938383f6c6162656c3d446973636f7264266c6f676f3d646973636f7264266c6f676f436f6c6f723d776869746526636f6c6f723d353836354632",
+      "https://github.com/oxynote/oxynote/raw/main/docs/images/logs-and-metrics-light.webp",
+      "https://github.com/oxynote/oxynote/raw/main/docs/images/chart-editor-light.webp",
+      "https://github.com/oxynote/oxynote/raw/main/docs/images/logs-light.webp",
+      "https://github.com/oxynote/oxynote/raw/main/docs/images/dashboard-light.webp",
+      "https://github.com/oxynote/oxynote/raw/main/docs/images/slash-command-light.webp",
+      "https://github.com/oxynote/oxynote/raw/main/docs/images/search-box-light.webp",
+      "https://github.com/oxynote/oxynote/raw/main/docs/images/review-light.webp",
+      "https://github.com/oxynote/oxynote/raw/main/docs/images/collaboration-light.webp",
+      "https://github.com/oxynote/oxynote/raw/main/docs/images/mcp-light.webp"
+    ]
   },
   {
     "id": "726238db5b88948e",
@@ -336,8 +572,11 @@
     "url": "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-15T14:03:44.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fpostgresql_194ai.html"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fpostgresql_194ai.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：PostgreSQL 19 リリース延期の背景と影響\n\nオープンソースのリレーショナルデータベース「PostgreSQL」は、AI によるコードレビューの支援により、以前よりバグを発見しやすい環境となりました。これにより、正式リリース直前のβ4で多数の新機能が取り下げられ、スケジュールが延後化しました。\n\n### バータ版のリリース\nβ1 は2026年6月に公開されました。この時点では、例年通り9月または10月の正式リリースを予定していたため、延期の事実として宣言されています。\n\n### 対象機能の取り下げ\nβ4で取り下げられた主な機能は、SQL/PGQ プロパティグラフの読み取り専用ビューとしての機能や、データチェックスクリプトのサポートなどです。これらは当初の計画された機能の一部でした。\n\n### アーキテクチャ上の影響\n一部の機能にはアーキテクチャ上の大きな問題があり、β期間内での修正が困難でした。また、LLM によるコードレビューにより、数多くの不具合報告が急激に発生しました。これは、従来の開発プロセスと比べて数日〜数ヶ月の時間がかかります。\n\n### 今後の見通し\nコミュニティの指摘によると、AI の進化によりバグ発見の速さが増大しており、最終的には改善される見込みです。しかし、現在では正式リリースの延期が事実上確立されています。",
+    "imageUrls": []
   },
   {
     "id": "8fcef5f10c96df94",
@@ -447,8 +686,16 @@
     "url": "https://blog.nishimu.land/entry/2026/11/15/143815",
     "source": "はてなブックマーク IT 人気記事",
     "publishedAt": "2026-11-15T11:30:38.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.nishimu.land%2Fentry%2F2026%2F11%2F15%2F143815"
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.nishimu.land%2Fentry%2F2026%2F11%2F15%2F143815",
+    "category": "RELEASE",
+    "summary": "# AIE Code Summit 2026 の「No AI Slop: A Manifesto」の解説\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n## テーマ：記事が扱う課題や技術は何か\nAIE Code Summit 2026 の参加者が書いた「No AI Slop: A Manifesto」を読み、AI が生産性を低下させる「スロップ（Slop）」という問題について議論したものです。この宣言は、AI を導入する際に責任を放棄せず、人間の思考と品質を重視する理念を示しています。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nAI を使うことで品質や読者の体験に責任を持たないまま出力を横流するとスロップが発生するリスクがあることが指摘されています。宣言の核心は、AI に依存せず、自分の思考と責任を持って成果を出すというものです。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\nスロップを防ぐためには、AI の出力を横流せず、責任を持って評価する必要があると主張されています。また、レビューコストの削減やコード品質の向上を図るためのアプローチも提言されています。\n\n本文には具体的な技術用語は少ないため、専門用語は短く説明しています。最終的には、AI を使いながら人間の判断を置き換えるのではなく、それを補強するよう考えなければならないという結論が明確です。",
+    "imageUrls": [
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/S/Sixeight/20261115/20261115143458.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/S/Sixeight/20261115/20261115143512.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/S/Sixeight/20261115/20261115143505.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/S/Sixeight/20261115/20261115143519.png"
+    ]
   },
   {
     "id": "e97e64d508d19164",
