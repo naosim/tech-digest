@@ -1,16 +1,5 @@
 [
   {
-    "id": "cfa17ed37cd8dd23",
-    "title": "システム設計視点の行動経済学 全60回 総復習",
-    "url": "https://qiita.com/maskot1977/items/d811bfa98fd0ee273bb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-11T01:30:08.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：システム設計視点の行動経済学総復習\n\nこの記事は、Arc I から Arc VII の全行程を総復習し、システム設計における行動経済学的な原理を整理しました。主要なテーマは、制度設計が感情ではなくインセンティブ設計として再構築されるという「認知経路」です。\n\n## 課題と技術\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。本文には情報がない項目は推測せず「本文に記載なし」とします。重要な情報は専門用語を短く説明しています。\n\n## 結論\n日本の制度的バグを、感情ではなくインセンティブ設計の問題として工学的に再フレーミングする旅です。特に第 33 回の「沈黙の螺旋」と第 51〜56 回の「チリングエフェクト連鎖構造」の接続が印象的とされています。最終的には「Security by Design」という処方箋で制度設計を締めくくります。\n\n## 方法\n課題をどう解決するか、技術がどう動くか、どのように使うかを解説します。\n- **認知経路重視**: 「フレーミングの変化→問いの質の変化→制度設計の変化」を重視する認知経路です。\n- **インセンティブ設計**: 政策論では「知識→行動→変化」ではなく、「フレーミングの変化→問いの質の変化→制度設計の変化」を重視します。\n- **セキュリティ・デザイン**: 「言語レベルの Security by Design」という原則で、差別論争を転換する設計手法です。\n\n本文には具体的な機能やバージョン情報は記載されていませんが、主要な概念は明確に整理されています。",
-    "imageUrls": []
-  },
-  {
     "id": "10323d908697b653",
     "title": "偽TikTokアプリによるスマートフォンの遠隔操作と不正決済についてまとめてみた - piyolog",
     "url": "https://piyolog.hatenadiary.jp/entry/2026/11/11/094815",
@@ -13047,6 +13036,15 @@
     "publishedAt": "2025-03-26T02:44:29.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpocket-id.org%2F"
+  },
+  {
+    "id": "d193f8ef02d4f76f",
+    "title": "GitHub - owasp-dep-scan/dep-scan: OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as",
+    "url": "https://github.com/owasp-dep-scan/dep-scan",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2024-02-07T06:32:48.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.com%2Fowasp-dep-scan%2Fdep-scan"
   },
   {
     "id": "a53da0d783f047f6",
