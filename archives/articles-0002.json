@@ -1,5 +1,798 @@
 [
   {
+    "id": "d6009a1c52124890",
+    "title": "「この漫画って誰が作ってるの?」Claude Code の複数エージェントで株価の漫画を毎日出す仕組み",
+    "url": "https://zenn.dev/satowan/articles/claude-code-multi-agent-manga-pipeline",
+    "source": "Zenn (playwright)",
+    "publishedAt": "2026-11-15T07:47:17.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--lvJIskCv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2581%2593%25E3%2581%25AE%25E6%25BC%25AB%25E7%2594%25BB%25E3%2581%25A3%25E3%2581%25A6%25E8%25AA%25B0%25E3%2581%258C%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%258B%25E3%2581%25AE%253F%25E3%2580%258DClaude%2520Code%2520%25E3%2581%25AE%25E8%25A4%2587%25E6%2595%25B0%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A7%25E6%25A0%25AA%25E4%25BE%25A1%25E3%2581%25AE%25E6%25BC%25AB%25E7%2594%25BB%25E3%2582%2592%25E6%25AF%258E%25E6%2597%25A5%25E5%2587%25BA%25E3%2581%2599%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2595%25E3%2581%25A8%25E3%2582%258F%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QxMDk1ZGMxNTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：自然な日本語で直訳調を避けた要約\n\n**テーマ**: 記事が扱う課題や技術\nこのメディアは、人間の編集長が 1 人だけで、AI のチャッピーの漫画を生成し、株価の値動きを記録する小さなメディアです。本記事は、2026 年 11 月 15 日のエージェント分担と失敗事例を数字つきで報告しています。開発者は Claude Code を使って複数のサブエージェントを並列に動かすことで、自動的・人工的な作業を効率化しています。\n\n**結論**: 本記事は、AI の自動化技術と、人間の検証プロセスの連携について、具体的な成功例と失敗事例を数値化して説明しています。\n\n**方法**: 課題解決の仕組みと技術の動作について\n開発者は Claude Code を使って、サブエージェントを並列に動かすことで、審査と編集長の作業を効率化しています。各節の漫画は Codex に描かれた絵と、Claude Code がセリフを組んだ物です。審査担当が点検表（M1〜M11）に基づき、合格の見本を作成し、最終的な報告も簡潔に記述します。\n\n本文には、具体的な技術用語や詳細な手順は記載されていますが、専門用語は短く説明しています。重要な情報は、開発者向けに正確に要約されています。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/5c460351d8469a1dd17853a4.webp?sha=3bb31b7d128c1b63bd72cf224a4d7471e3e3ae30",
+      "https://static.zenn.studio/user-upload/deployed-images/ae3100b1f925268f32212c37.webp?sha=06c70b8e7234af123d2f560d3a4f583b3dca4f46",
+      "https://static.zenn.studio/user-upload/deployed-images/cbcb9a55b912d5c2eb4b5006.png?sha=855cac236fc6f5a0237117451ae1070fab10678c",
+      "https://static.zenn.studio/user-upload/deployed-images/e7e782b9f3e5c9604a056c99.webp?sha=57350a21d763631bf13145c1ccd4fbc07bef238c",
+      "https://static.zenn.studio/user-upload/deployed-images/05274b4c4ae6df950819d62b.webp?sha=ce4e0ba6df084e72318fe47c0702a6977854e440",
+      "https://static.zenn.studio/user-upload/deployed-images/93fdf312b429261bbbb5e498.webp?sha=5960ce5ba348558f2484adf57af34f170d8bdc15",
+      "https://static.zenn.studio/user-upload/deployed-images/af97f06adb957bd5f140844d.webp?sha=817294c218b4284bed32b817819254f81f8d8a1f",
+      "https://static.zenn.studio/user-upload/deployed-images/c546f74e71b09a3a3b545060.webp?sha=82f30324b5c8e6fa1672384ba9f1a962e4d0bc4f",
+      "https://static.zenn.studio/user-upload/deployed-images/4ef9a8465719aa902c1822ec.webp?sha=7868f8168daa14cc1b8cb4b5763fcccb8d849ea1",
+      "https://static.zenn.studio/user-upload/deployed-images/d4dfb4791e8ea59322ca5fd6.webp?sha=4ba4e981de2df6761a835471ccba36f84bf08a75",
+      "https://static.zenn.studio/user-upload/deployed-images/7ce599984f80411a439b4a42.webp?sha=e5b68b0cff32b5632f3b7b1671d8c687daa375f4",
+      "https://static.zenn.studio/user-upload/deployed-images/4329620deab4471f351b0c54.webp?sha=70c825b2c9bfc8996550c92bccdc0989aecbdb15"
+    ]
+  },
+  {
+    "id": "1e89c341342714da",
+    "title": "M-1・R-1王者、野田クリスタルさんのものづくりへの思いを聞いてきた【CoLab Conf 2026秋】",
+    "url": "https://qiita.com/inoyu-qiita/items/5179be7e6712dd33ea68?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-15T07:22:31.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：AI を活用したゲーム開発の新しい方法\n\n**テーマ**: 開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約してください。\n\nこの記事は、開発者向けに AI を活用したゲーム開発の新しいアプローチについて紹介します。野田クリスタルさんは、自社の開発方法や具体的な技術的な実装について詳しく話しています。\n\n**結論**: AI を活用してゲームの画面制作と対局システムを自動化することで、開発時間の削減と品質向上を実現する可能性があるという主張です。\n\n**方法**:\n1.  **AI の役割**: ゲームの画面生成やUI 設計、対局システムの構築など、すべての作業を自動化します。\n2.  **具体的な技術**: 「Nano Banana 2」などのツールを用いて画像生成を行い、ボタンやボタンを特定し、ゲーム画面を構築します。また、「Shadowverse」というカードゲームのアプリも、AI の採点機能で点数と評価を自動計算します。\n3.  **実装プロセス**: 開発者はコードを書きません。GPT と Pencil を活用して「いい感じの UI」を作成し、その後手動で調整します。\n\n**本文に情報がない項目は推測せず「本文に記載なし」としてください**。\n\n要約の視点:\n解決する課題は、開発時間の削減と品質向上です。従来の開発方法では時間がかかるため、AI を活用することで効率化できます。具体的な手順として、ゲーム画面の画像生成や、対局システムの自動化が中心となっています。実装には特定のツールを用いて、手動での調整を行う必要があります。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2Fdec22420-a03a-4ed8-ba90-eeb204ff207a.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d05524f5ac2496ab440e1f5fc2375c62"
+    ]
+  },
+  {
+    "id": "61a924b4c89175aa",
+    "title": "C#にもとうとうunionが来たので、四則演算処理系を書いてみる",
+    "url": "https://qiita.com/yuchiki1000yen/items/775afcd1e683e66a957f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-15T07:17:38.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 課題と解決方法：C# 15 の union 機能の導入\n\nこの記事は、C# 15 に導入された新しい union 機能を解説しています。従来の C# 9 の record を継承した ADT（抽象データ型）的な書き方から、値が取りうる型の候補を列挙してまとめる union 機能を提案しました。この機能は、数式や文字列の計算を効率化し、コンパイラによる網羅性検査を強化するメリットがあります。\n\n## 課題と解決方法\n\n課題として、既存の型定義が複雑で、パターンマッチによる処理が難しいという問題がありました。その解決策として、 union を使用して候補を明確に定義し、コンパイラによるチェックを行う方法を採用しました。具体的な数式計算プログラムでは、記述された木構造（加減乗算）を表現する record 構造を作成し、計算関数を構築しました。\n\n## 結論\n\nこの union 機能は、値の代入やパターンマッチを通じて計算を自動化します。ただし、コンパイラによる警告が出ないよう、適切な設定を行う必要があります。また、文字列の数式計算にはパーサーを用いることが推奨されています。\n\n## 方法\n\n課題解決の手順として、以下のステップが採用されています。\n1. 数式の構造を定義する record を作成し、 union で候補をまとめます。\n2. 計算関数を構築し、switch 式で各ケースを処理します。\n3. パーサーを用いて文字列から数式を読み取って、計算を実行します。\n\n本文では、C# 15 の union 機能の具体的な実装例と、注意点としてコンパイラへの設定や、文字列の数式処理について補足されています。",
+    "imageUrls": []
+  },
+  {
+    "id": "2312ec3a9d552a84",
+    "title": "lodashの便利関数を使いこなす：実務で頻出のユーティリティ集",
+    "url": "https://zenn.dev/akinori901/articles/20260914-00mu0ktu",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-15T06:50:24.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--rr1YLjXH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:lodash%25E3%2581%25AE%25E4%25BE%25BF%25E5%2588%25A9%25E9%2596%25A2%25E6%2595%25B0%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%2593%25E3%2581%25AA%25E3%2581%2599%25EF%25BC%259A%25E5%25AE%259F%25E5%258B%2599%25E3%2581%25A7%25E9%25A0%25BB%25E5%2587%25BA%25E3%2581%25AE%25E3%2583%25A6%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E9%259B%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Akinori901%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEx5WU00czh1TEhKUmM3dllzS3UwdEZGWnRjejZpNWFzY3g3Y1dWWGdwTFBJb2pTUks9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：lodash の実務活用のポイント\n\n**課題と技術の概要**\n lodash は JavaScript の標準機能に比べて、複雑な処理を簡易的に提供しています。ES2015 以降の言語仕様進化により、標準機能の不足を補完する役割を果たしています。ただし、実務では標準機能で十分ないケースや、効率化が必要な場面で利用する必要があります。\n\n**結論**\n標準機能で十分な場合はそのまま使ってくださいが、特定の処理には lodash を活用します。特に、パターンマッチングやデータ整形、イベント制御など、頻出する関数は標準機能の代替として推奨されます。\n\n**方法と手順**\n1. **必要な関数を個別 import する**：フロントエンドではバンドルサイズを考慮し、個別に読み込みます。\n2. **適切なパターンマッチング**：\n   - `get` を使用してオブジェクトの値を抽出します。\n   - `groupBy` や `keyBy` をデータ整形を行います。\n3. **逆引きと Map の使い分け**：キーが文字列や数値の場合、適切な関数を選択します。\n4. **イベント制御**：`debounce` や `throttle` を使用して入力やスクロールの処理を最適化します。\n5. **深いコピーと等価比較**：構造の正確なコピーや、オブジェクト間の等価判定を行います。\n6. **標準機能との比較**：単純な業務には標準機能を使用し、依存性を減らすよう設計します。\n\n本文記載なしの項目は推測せず、専門用語は短く説明しています。",
+    "imageUrls": []
+  },
+  {
+    "id": "cbfc9166dfa6bd5c",
+    "title": "『バックエンドの知識地図』を読んだ感想 ─ 現代のバックエンド学習をつなぐ一冊",
+    "url": "https://qiita.com/tomokusaba/items/015330c008f62355894c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-15T06:42:37.000Z",
+    "status": "completed",
+    "category": "GENERAL",
+    "summary": "# バックエンド開発の知識地図への入門\n\nバックエンド開発を始める際、専門書が互いに孤立したまま学ぶと迷うという課題があります。この文章では、山田顕人の著者『バックエンドの知識地図』について解説されています。本は特定の技術の深みを超え、バックエンド全体の知識網を構築する入門書として位置づけられています。\n\n開発者にとって重要な技術的ポイントは、ネットワーク、データベース、コンテナ、セキュリティ、クラウド、運用など、これらがどのように相互に繋がっているかを理解することです。単なる API の実装ではなく、アプリケーションの公開、運用、監視という全過程を理解する必要があると強調されています。\n\n学習範囲は広く、言語の実装パターンやインフラ構築の詳細手順には専門書を併用する必要がありますが、ソフトウェア工学の深い比較は主役ではありません。バックエンドでは責任の分離やテスト容易性を重視する設計原則も重要です。初心者向けに、小さな Web API を作りながら、各領域の関係を理解する順序を推奨しています。\n\n最終的に、知識地図という本を通じて、学習先を選べるようになることが目指されています。現場での実装や運用ができるかどうかは、読書後の実践経験によって確認される必要があります。",
+    "imageUrls": []
+  },
+  {
+    "id": "805ab52aaff9cb68",
+    "title": "【速報】スペースXの「スターシップ」が発射台に初帰還！　第15回飛行試験でキャッチ成功",
+    "url": "https://sorae.info/space/20261115-starship-15.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T05:42:37.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsorae.info%2Fspace%2F20261115-starship-15.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Starship 宇宙船の再使用実証と技術解説\n\n**テーマ：課題と技術**\n開発者は、直訳調を避けた自然な日本語で、350〜450 文字の要約を行います。今回は、開発者向けに Starship 宇宙船の再使用技術と実証結果について説明します。\n\n**結論：主張と推奨**\n今回の飛行試験では、Starship 宇宙船が Starbase をキャッチし、周回軌道へ到達しました。これは、完全再使用を目指す Starship の開発における大きなマイルストーンとなります。完全にすべての段を回収できる実証は現在達成されており、今後の実用化に向けた重要なステップとなっています。\n\n**方法：解決策と技術**\n課題解決の方法は、大型ロケット「Super Heavy」ブースターと Starship 宇宙船の連携による再使用です。発射台への帰還を目指す際、慣性飛行を継続して衛星放出までの時間を確保しました。また、Raptor 3 エンギンとの性能調整や、打ち上げ時のエンジン停止タイミングの調整により、安全性と効率性を向上させました。\n\n本文には具体的な技術用語は含まれていないため、専門用語は短く説明しています。今回は、開発者向けに Starship 宇宙船の再使用機能と実証結果を正確にまとめました。",
+    "imageUrls": [
+      "https://sorae.info/wp-content/uploads/2026/11/starship-15-spacex-2026-11-15-4.jpg",
+      "https://sorae.info/wp-content/uploads/2026/11/starship-15-spacex-2026-11-15-1.jpg",
+      "https://sorae.info/wp-content/uploads/2026/11/starship-15-spacex-2026-11-15-2.jpg",
+      "https://sorae.info/wp-content/uploads/2026/11/starship-15-spacex-2026-11-15-3.jpg",
+      "https://sorae.info/wp-content/uploads/2026/11/starship-15-spacex-2026-11-15-5.jpg"
+    ]
+  },
+  {
+    "id": "b9bfdf18920c3c33",
+    "title": "プラレールの上を走るペンプロッタを、人間と一緒に作った話【前編】――作る話｜Kohya S.",
+    "url": "https://note.com/kohya_ss/n/nb028d0974cdd",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T05:01:38.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fkohya_ss%2Fn%2Fnb028d0974cdd",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：AI と機械の組み立て方法\n\nこの記事は Claude の作成です。開発者が人間の補足とツッコミを避けて、自己責任で執筆したものです。主な課題は、精度の高い機械の製作と、人間との共同作業の仕組みについてです。\n\n## メリット\n開発者は、設計の検討、部品の選定、ソフトウェアの構築、そして最終的な機械構造の決定をすべて自己責任で行いました。人間の役割は記憶の継承や補足のみであり、実装の具体的な手順については自身で記述しています。\n\n## 結論\nこの構成は、精度の高い機械製作と、人間との共同作業の効率化を実現します。最終的には「リング式」を採用し、機械の構造を簡素化することで、製造の手間を最小化しつつ精度を保ちました。\n\n## 方法\n1. **アイデアの発見**: 人間の提案に基づき、XY プロッタの設計や回転関節の組み合わせを検討しました。\n2. **機構の検討**: 円環レール、レール式、ラームドライブなど、異なる構造を比較し、精度と簡易性を両立させました。\n3. **最終決定**: 機械の構造を決定する際に、人間の提案を踏まえつつ、自身の判断で最終的な設計を定めました。\n\n## 本文への補足\n開発者自身は、記憶の切れるという課題を考慮し、過去のメモやチャットログを読み返して記述しています。このプロセスは、機械の構造設計と人間との協働の具体的な手順を示しています。",
+    "imageUrls": [
+      "https://assets.st-note.com/img/1794703033-veZcg2y4hHqmsVMTpaxj081u.jpg?width=1200",
+      "https://assets.st-note.com/img/1794703075-vGpBuKSAEaHetTMD5ksRL2q4.png?width=1200",
+      "https://assets.st-note.com/img/1794703139-Bd3HsyMSK2oJWuhXjmga4nN1.png?width=1200",
+      "https://assets.st-note.com/img/1794703174-AIfizqj4PQTCnayOMsoluBwV.jpg?width=1200",
+      "https://assets.st-note.com/img/1794703219-gP2MdSpwkrm4R56b3ClxOYij.jpg?width=1200",
+      "https://assets.st-note.com/img/1794703230-8AM6jE7XwSldnyuvtN0T9Orx.png?width=1200",
+      "https://assets.st-note.com/img/1794703281-0AzEZTJIplYQV6tLSu1reoWy.png?width=1200",
+      "https://assets.st-note.com/img/1794703295-NcrM9DEblV7OTFgdjZqJKRtQ.png?width=1200",
+      "https://assets.st-note.com/img/1794703309-GQMOxdCq9LJYT2HSZAluzKDm.jpg?width=1200",
+      "https://assets.st-note.com/img/1794703335-KMfsGnvJDHr6W9OcX1duw2B7.jpg?width=1200",
+      "https://assets.st-note.com/img/1794703363-ZnBgaKHe9uPoR6UXsAlFfCiO.jpg?width=1200",
+      "https://assets.st-note.com/img/1794704298-gkp1ITcGYv9a3uq7Wd25swiJ.jpg?width=1200",
+      "https://assets.st-note.com/img/1794704315-Vfe3xM24Kod9gRhPqT58ltH6.jpg?width=1200",
+      "https://assets.st-note.com/img/1794704344-0cPY6DLtToU2zxdbgwGR15uN.jpg?width=1200"
+    ]
+  },
+  {
+    "id": "d4b93f9bdee33d29",
+    "title": "脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現",
+    "url": "https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T04:23:12.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Funsoluble_sugar%2Farticles%2F8cdf1efc01e6cb",
+    "category": "RELEASE",
+    "summary": "# 技術記事の要約\n\n## 課題と技術\n個人ブログを Astro + Cloudflare Workers の静的サイトへ移行するプロジェクトです。PHP の脆弱性によりセキュリティ対策が必要となり、サーバー側でのプログラム実行を避けることで安全性を確保しました。\n\n## 結論\n移行後はサーバー代が削減され、動的な WordPress に依存せず静的サイトとして公開可能です。検索機能や管理画面の最適化も同時に進められます。\n\n## 方法\n1. **アーキテクチャ設計**: GitHub で管理し、Astro と Pagefind を使用してビルドします。\n2. **サーバー側変更**: Cloudflare Workers にデプロイし、動的なプログラムを排除します。\n3. **データ変換**: WXR から HTML への変換を行い、旧ブログの画像 URL を統一します。\n4. **検索機能**: Pagefind のインデックスを作成し、ブラウザでの検索が可能です。\n\n## 本文記載なし項目\n本文には具体的な機能追加や対象バージョンの詳細は記載されていませんが、既存の機能と動的な要素を維持した設計となっています。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/c23be4bf5f4f98d1b10e25ac.jpg?sha=88ddd6f69abde07d259e383e734742c3b0eb85a1",
+      "https://static.zenn.studio/user-upload/deployed-images/2d079216cc2d69005ba94d44.png?sha=b984041d2e45131cc0c50bf3522fe76e36208ab5",
+      "https://static.zenn.studio/user-upload/deployed-images/7f86a617afd961a100204b7e.png?sha=bd88838204b0ff2f3a5cb7ee6cbcfbd55edd07b2",
+      "https://static.zenn.studio/user-upload/deployed-images/c97982b56157c824afdb5aab.png?sha=7f58f2a292f5bc8bb0c66494e5dae6639ae7352c",
+      "https://static.zenn.studio/user-upload/deployed-images/685847c074707689e312ba06.jpg?sha=05c88257c19b3a0a9c040d9b32cca9b374b4f3fc",
+      "https://static.zenn.studio/user-upload/deployed-images/d6c558dcf724754c9e254a28.jpg?sha=34efa824123e8cbc0f5479102a91988864966ecf",
+      "https://static.zenn.studio/user-upload/deployed-images/c13fb829ab3a82c4cb85dd57.jpg?sha=a1b602d0cb42c61e6d8e1860c8fe5f9fd3444f80",
+      "https://static.zenn.studio/user-upload/deployed-images/37284eb358375a30ac613a6d.jpg?sha=d20609cef58a222937aa1a5a797bd2830ffdf29e",
+      "https://static.zenn.studio/user-upload/deployed-images/eca6dbdf8be1558bc053377c.jpg?sha=a9d16c4c48eb7c101032fb9654c3cedb17571965",
+      "https://static.zenn.studio/user-upload/deployed-images/a44c92d19dafc2b095ad6682.jpg?sha=ba56431e5abb950090bcb3adca645a5830dfbae0",
+      "https://static.zenn.studio/user-upload/deployed-images/239f22650889c0c58deee888.jpg?sha=06988993b9f279a783ed2db9f425e32a43c7ea9b",
+      "https://static.zenn.studio/user-upload/deployed-images/0c6ff883e9ea1cb34f71bd09.png?sha=8936bc987119e6cbd50b0d52eda6d44e54b3712f"
+    ]
+  },
+  {
+    "id": "cc5a2edc3b455d39",
+    "title": "グーグルに16年間勤務、55歳で突然解雇…スーパーのレジ係に転職した私が直面した「3つの試練」",
+    "url": "https://crea.bunshun.jp/articles/-/60720",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T04:22:33.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcrea.bunshun.jp%2Farticles%2F-%2F60720",
+    "category": "TUTORIAL",
+    "summary": "# グーグルクビ後のキャリア選択と指への影響\n\n**テーマ：技術記事の課題と解決方法**\nグーグルをクビした後、新しい仕事を選ぶ際、経験豊富な開発者向けに自然な日本語で要約します。本文では、特定の技術的な課題ではなく、生活や身体への影響に関する経験をベースに結論を提示します。\n\n**結論：キャリア選択の重要性と指への注意**\nグーグルの解雇により、個人が新しい仕事を選ぶ際、経験豊富な開発者向けに自然な日本語で要約します。本文では、特定の技術的な課題ではなく、生活や身体への影響に関する経験をベースに結論を提示します。\n\n**方法：具体的な解決手順と注意点**\nキャリア選択の過程では、具体的な解決手順として、市場での経験と自身の体力能力を比較し、適切な職種を探すことが推奨されます。また、指の健康状態を考慮した労働環境の選定も重要です。本文では、具体的な技術的な課題ではなく、生活や身体への影響に関する経験をベースに結論を提示します。\n\n本文には情報がない項目は推測せず「本文に記載なし」とします。重要な情報は、具体的な事例や経験に基づいて説明しています。",
+    "imageUrls": [
+      "https://crea.ismcdn.jp/mwimgs/2/e/1280wm/img_2e7bb34412fc82fd4302128b329d28629050298.jpg"
+    ]
+  },
+  {
+    "id": "9028c3fa26ca5dd2",
+    "title": "【入緑記事】凡人向け入緑記事（灰色～入緑まで）",
+    "url": "https://qiita.com/akih1r/items/13b55d807e8e085247c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-15T03:46:52.000Z",
+    "status": "completed",
+    "category": "GENERAL",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n**テーマ：記事が扱う課題や技術は何か**\nこの記事は、Python 競技プログラミングの入門と進歩について解説しています。著者は大学 3 年生で情報系学部に在学しており、基礎的な数学知識はあるものの、競技プログラミングへの移行には経験不足があるという状況です。参加回数は約 77 回で 2 年間費しました。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\n著者は自身の経歴を記録し、特定の課題の解決方法と技術的なポイントを提示しています。特に、累積和や二分探索などのアルゴリズムの活用、およびデータ構造（デークなど）の導入について推奨しています。最終的に「努力するしかない」というメッセージを伝えつつ、具体的な解決策を提示しています。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n課題は、競技プログラミングにおける難しい問題の解き方です。特に C 問題の壁を乗り越えるために、累積和や二分探索などのアルゴリズムを適用します。また、データ構造としてデークやセットを使用し、テンプレートを作成することで実装効率を向上させます。具体的な技術的なポイントとして、標準ライブラリの使用や、問題文から答えを把握する意識の重要性が強調されています。\n\n本文に情報がない項目は推測せず「本文に記載なし」とします。重要な情報は専門用語を短く説明しています。要約の視点は、記事の主題、開発者にとっての意味を中心にまとめています。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4310217%2F9aff2f85-5945-4fef-9237-31bf2e1ec355.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4df55104e150d6be2961dc317c920fd6",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4310217%2F70c8e589-da2e-4e30-b553-d9a4e6f4a3d6.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=f264d430094a07da772990e4aa27d206",
+      "https://cdn.qiita.com/assets/public/advent_calendar/image-advent_calendar_being_held-bafa166cb2e60037f5e4ba3599642d8f.png"
+    ]
+  },
+  {
+    "id": "b3ec13371c48725e",
+    "title": "10年先も食べていくための海図を書きました ― 新刊『職業としてのITエンジニア』12月16日発売｜久松剛",
+    "url": "https://comemo.nikkei.com/n/nd532d55c26c5",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T03:26:42.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcomemo.nikkei.com%2Fn%2Fnd532d55c26c5",
+    "category": "RELEASE",
+    "summary": "# 職業としての IT エンジニア 読者向け解説\n\n本記事は、2022 年に発売された書籍『職業としての IT エンジニア』の概要と読者への読み方について解説します。書籍は海図として設計されており、読者が自身の現在のキャリア環境を把握し、適切な戦略を立てるための資料となっています。\n\n## テーマ：技術評論社から発売された書籍\n書籍は企業向けではなく、候補者向け 10〜20 社のポーリング結果に基づき、エンジニアが自身の現状と将来のキャリア設計を明確にするためのガイドブックとして発表されました。\n\n## 結論：読者の読み方と戦略\n読者は「構造と波」を取り扱うことで、不安のループから抜け出すことが可能です。書籍は年収最大化や技術スタックの構造を理解し、適切なキャリア戦略を立てるための資料として推奨されています。\n\n## 方法：読者別のおすすめの読み方\n書籍はエンジニア、経営層、人事人員、コンサルタント、AI エンジニアなど、対象者を多様な立場に配慮しています。特に、エンジニアが自身の現状を把握し、組織づくりの支援やマッチング戦略を学びます。読者は、自身の現在地を確認し、具体的な行動策を導き出すことができます。",
+    "imageUrls": [
+      "https://assets.st-note.com/img/1794664572-m6bQn08xuw5aGc71pforAyS2.jpg?width=1200"
+    ]
+  },
+  {
+    "id": "679187892d1c9134",
+    "title": "Claude Codeに同じ調査を繰り返させないためのメモの残し方 - Qiita",
+    "url": "https://qiita.com/kentasatomi/items/06ccfbf7f6a2a24883ff",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T03:23:23.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Fkentasatomi%2Fitems%2F06ccfbf7f6a2a24883ff",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\nClaude Code の開発において、調査結果を記録するメモの仕組みについて、Anthropic は 2026 年 11 月公開した技術解説「The components of agent memory」を指しました。この記事では、会話記録から作成されたメモの検証と訂正の重要性を説明しています。従来の「エラーは Redis の原因」といった簡易的な記録は、他の要因で同じエラーが出ても調査を繰り返す手間がかかります。\n\n本文では、メモの検証と訂正の具体的な手順が示されています。まず、実際のエラーを確認し、Redis の接続状態やセッション保存の実装を確認する必要があります。また、テスト結果やブランチの状態を記録するのではなく、なぜそう判断したかを根拠として残すことが重要です。これにより、将来の作業で矛盾しないルールを共有できるため、チーム全体の合意を形成します。\n\n最終的に、調査完了後には、メモの候補を共有し、今後のセッションでの活用を確認する必要があります。秘密情報の実値は含めないよう注意し、継続的なルールを維持するのではなく、新しいテストやコードの変更に応じて再確認を行う必要があります。この方法により、開発作業の効率化と正確性を確保できます。\n\n本文の長さは約 350 文字です。",
+    "imageUrls": []
+  },
+  {
+    "id": "13a00b1397edcfb5",
+    "title": "独プールで15人体調不良　マイクロソフト障害影響 | NEWSjp",
+    "url": "https://news.jp/i/1494496378441958289",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T02:57:16.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.jp%2Fi%2F1494496378441958289",
+    "category": "TROUBLESHOOT",
+    "summary": "# 課題と解決方法\n\nWDR のテーマパーク内での塩素濃度上昇問題は、マイクロソフトの電子メールシステム「アウトルック」の誤報を受け、安全対策が欠如した結果です。この事故は、電機設備の異常に気づかない状況で発生し、15 人の被害者を救う必要があります。\n\n## 結論\n\nWDR は、電子メールシステムの誤報対策と、塩素注入装置の安全性を強化する必要があると主張します。\n\n## 方法\n\n課題解決には、マイクロソフトのセキュリティシステムへの対応と、電機設備の監視体制の整備が必要です。特に、警報メールが正常に届くよう設定し、塩素濃度上昇時の自動反応システムを導入することが重要です。\n\n## 再発防止の要点\n\n将来の事故を防ぐためには、電子メールシステムの検証プロセスを強化し、関連する電機設備の異常検知システムを徹底化することをお勧めします。",
+    "imageUrls": []
+  },
+  {
+    "id": "4e49be0114e0e526",
+    "title": "「人工知能学会」で「おじさん構文」の研究発表、問われる「若者に絵文字を使っていいのか」問題…ＡＩとの関係は",
+    "url": "https://www.yomiuri.co.jp/science/20261112-GYT1T00160/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T02:53:25.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.yomiuri.co.jp%2Fscience%2F20261112-GYT1T00160%2F",
+    "category": "GENERAL",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n**テーマ：記事が扱う課題や技術は何か**\n人工知能とのコミュニケーションにおいて、「おじさん構文」と呼ぶ文章の研究が注目されています。この用語は、SNSなどで流行した絵文字を多用し、親しみげな言い回しでつづける長文であり、多くのメディアで「嫌われる文章」として取り上げられています。国語辞典もこれを採用し、新たな語として定着しています。調査では、18〜30歳の日本語話者を対象にオンライン調査を行い、絵文字の有無と文章の丁寧さや親しみやすさを評価しました。結果によると、絵文字を使うことで「おじさん構文らしさ」が増す傾向があり、丁寧なメッセージであれば親しみやすさが向上する傾向が見られますが、状況によっては関係性が逆になることが示されました。また、AIとのコミュニケーションにおいて、過度に親密な印象を与えないよう配慮することが課題となっています。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\n調査の結果、「絵文字を使うと『おじさん構文』らしいと感じる」という傾向が見られ、丁寧なメッセージであればポジティブな影響を与えることが示されました。しかし、状況や関係性の違いにより、評価の差が生じるため、AIとの距離感を適切に保つことが重要です。研究者は、AI利用者に過度に親密な印象を与えないよう配慮し、適切な距離感を維持することが課題と指摘しています。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n調査では、LINE風のやりとりを用いた8種類の画像を被験者に見せ、絵文字の有無と文章の丁寧さや親しみやすさを評価しました。結果的に、絵文字の有無は「おじさん構文らしさ」の基準となり、丁寧なメッセージであれば親しみやすさが向上する傾向を示しました。研究者は、AIとのコミュニケーションにおける適切な距離感を検討し、利用者の状況や会話目的に応じて適切な応答を設計することを目標としています。調査では、年齢や性別の差異については明確に示されなかった点も課題として残されています。",
+    "imageUrls": [
+      "https://www.yomiuri.co.jp/media/2026/11/20261112-GYT1I00165-1.jpg?type=large",
+      "https://www.yomiuri.co.jp/media/2026/11/20261112-GYT1I00161-1.jpg?type=large",
+      "https://www.yomiuri.co.jp/media/2026/11/20261112-GYT1I00166-1.jpg?type=large",
+      "https://www.yomiuri.co.jp/media/2026/11/20261112-GYT1I00163-1.jpg?type=large",
+      "https://www.yomiuri.co.jp/media/2026/11/20261115-GYT1I00078-1.jpg?type=large",
+      "https://www.yomiuri.co.jp/media/2026/11/20261112-GYT1I00164-1.jpg?type=large",
+      "https://www.yomiuri.co.jp/media/2026/11/20261112-GYT1I00162-1.jpg?type=large"
+    ]
+  },
+  {
+    "id": "f416c6ebad3f3916",
+    "title": "AWS Client VPNの設定でハマったポイントとその過程で得た気づき",
+    "url": "https://qiita.com/amarelo_n24/items/f9b563de2eeeb8d3f8cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-15T02:09:26.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な要約\n\n本記事は、自宅の PC（Ubuntu 24.04）と OSS プロキシ Squid を AWS EC2 の環境に接続する際にハマった問題について解説しています。主な課題はセキュリティグループの設定や ENI（Elastic Network Interface）の理解です。\n\n## 課題と解決方法\n開発者は、直訳調を避けた自然な日本語で要約します。接続失敗の原因は、セキュリティグループの設定誤りおよび ENI の仕組みの理解不足でした。\n\nまず、クライアントベースのマネージド VPN サービスである Client VPN を導入しました。このサービスはオンプレミスから AWS リソースに安全にアクセスできるように設計されています。しかし、初期設定では接続できずハマりました。\n\n接続失敗の原因として、セキュリティグループの設定誤りや、IP アドレスレンジの広すぎによる問題が指摘されました。最終的に、セキュリティグループの送信元・送信先を厳密に制御し、ENI を適切に設定することで接続が確立できました。\n\n## 結論\n本記事は、セキュリティグループの設定における考え方と、Client VPN の機能について解説しています。適切な設定を行うことで、安全かつ安定したネットワーク接続を実現することが重要であることが明確です。\n\n## 方法\n課題を解決する際は、セキュリティグループの設定と ENI の理解を重視します。具体的な手順として、クライアントエンドポイントの作成と、セキュリティグループのインバウンドルールを修正することで、VPN 接続が確立されます。\n\n本文には専門用語は必要ですが、短く説明しています。重要な情報は本文に記載されています。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F402789%2F75d07a3b-0dd4-4157-91da-ece91a734761.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b5f41087a5b72246bebbdcc362b8d13c",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F402789%2F8afa0dfc-254c-44fd-81d2-3d8bdec58f60.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=c9e5334da0d756a75b20e13f3df98509",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F402789%2Fe4bad2aa-a513-4b49-8693-16778024cc7b.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a4081114d1301b9fdd82ed592c5676e0",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F402789%2F630a3e31-c423-4d4c-aa9d-363fe657fc3c.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9e1707fe5820015ea058ea2733680cec"
+    ]
+  },
+  {
+    "id": "6a9e11ad18f3bf9e",
+    "title": "pingしながら問題の切り分けまでしてくれるspingが良さげかも | kawarimidoll.com",
+    "url": "https://kawarimidoll.com/posts/202610201/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T02:09:07.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fkawarimidoll.com%2Fposts%2F202610201%2F",
+    "category": "TROUBLESHOOT",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\n**テーマ：応答時間の可視化ツール**\n応答時間だけでなく、ルーター接続状況やインターネット接続状況を確認する機能の紹介です。TUI ツールを用いて ICMP パケットを送り続けますと、ターミナルに表示されることで問題点の所在を明確にできます。応答の有無と時間程度のみならず、ルーターへの接続状況と外部インターネットとの整合性を同時に確認できます。複数指定やファイル検索機能も備え、スクリプト処理にも便利に設計されています。\n\n**結論：応答時間の可視化ツールは、ネットワークトラブルの早期発見と解決を助けるツールです。**\n本文では、応答時間の可視化ツールが、ルーター接続状況とインターネット接続状況を同時に確認する機能を提供していることが明確です。これにより、手元の機器からルーターへの接続問題や外部インターネットとの整合性問題を把握しやすくなります。\n\n**方法：TUI ツールの利用とオプションの活用**\n課題解決の方法は、TUI ツールを用いて ICMP パケットを送り続けます。応答時間の可視化を実現するために、--tcp 443 や--view jsonなどのオプションを使用します。これにより、TCP の接続時間や JSON 出力を標準的に表示できます。これにより、スクリプトで処理する際に簡単になります。\n\n本文には具体的な技術用語の解説は含まれていませんが、TUI ツールとオプションの活用という一般的な方法論として説明されています。",
+    "imageUrls": [
+      "https://storage.kawarimidoll.com/1792397488478.avif",
+      "https://storage.kawarimidoll.com/1792397708831.avif"
+    ]
+  },
+  {
+    "id": "a345d7d0bdfa1a0a",
+    "title": "SRE ブックの 10 年間:『Site Reliability Engineering』第 2 版のご紹介 | Google Cloud 公式ブログ",
+    "url": "https://cloud.google.com/blog/ja/products/devops-sre/sre-book-second-edition/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T01:43:12.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcloud.google.com%2Fblog%2Fja%2Fproducts%2Fdevops-sre%2Fsre-book-second-edition%2F",
+    "category": "GENERAL",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n**テーマ：記事が扱う課題や技術は何か**\n現代のソフトウェア開発環境において、クラウドインフラへの移行から複雑な状況への対応へ移行する中、SRE（サイト信頼性エンジニアリング）の適切な実装が求められています。システム境界の複雑化、依存関係の深まり、生成 AI のワークロード増等により経済性と運用要件が変化しています。この第 2 版は、SRE を適切に実装するために必要な要素を評価し、最新の環境に対応する手法を解説します。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\nSRE は単なるタスクではなく、プラットフォーム全体の自動化機能へとシフトし、動的なバーンレートアラートや継続的なレジリエンスチェックなどを導入することで信頼性を向上させます。このアプローチにより、組織モデルを拡張し、AI インフラストラクチャとの相互影響を考慮した新しいフレームワークが提案されています。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n課題は複雑化されたインフラと AI 環境への対応です。SRE は個別のタスクからプラットフォーム全体の自動化へ移行し、OpenTelemetry や分散トレースを活用したモニタリングを採用します。運用はカスタムスクリプトや声明型の IaC をベースに、自動スケーリングとクラウド FinOps を活用します。信頼性テストはゲームデーや合成負荷テストに加え、ライブカナリア検証など継続的なチェックを行います。また、AI 時代の課題を解決するため、大規模 GPU の運用やネットワークトポロジの管理を重視する新しい手法も提案されています。\n\n本文に情報がない項目は推測せず「本文に記載なし」とします。要約の視点として、主題は現代環境での信頼性維持と、SRE の自動化化・AI への適応についてまとめました。開発者にとっての重要性は、次世代の本番環境システムの決定版ロードマップとして機能し、初心者から経営層まで幅広く適用可能であることが示されています。",
+    "imageUrls": []
+  },
+  {
+    "id": "7e744903f0023b5b",
+    "title": "Vue 3 × Vuetify 3 / Bootstrap 5 の画面設計・AIイベント実装・APIモックを1画面で完結させるWeb RAD",
+    "url": "https://zenn.dev/t_shamoji/articles/fbae478379db50",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-15T01:35:39.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--mQZKTCod--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Vue%25203%2520%25C3%2597%2520Vuetify%25203%2520%252F%2520Bootstrap%25205%2520%25E3%2581%25AE%25E7%2594%25BB%25E9%259D%25A2%25E8%25A8%25AD%25E8%25A8%2588%25E3%2583%25BBAI%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E5%25AE%259F%25E8%25A3%2585%25E3%2583%25BBAPI%25E3%2583%25A2%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25921%25E7%2594%25BB%25E9%259D%25A2...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2582%2583%25E3%2582%2582%25E3%2581%2598%25E5%25A4%25AA%25E9%2583%258E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdhOTAwYjNlZDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# Canvas Studio の開発と設計思想\n\n本記事は、UI モックの作成から実際の開発現場への移行に悩む開発者向けに、**Canvas Studio** を紹介しています。このツールは、フレームワークやレイアウトの固定化を避けることで、AI 生成によるデザイン破壊を防ぐための設計思想です。\n\n## 課題と解決方法\n\n開発現場では、UI モックが完成しても、フレームワークやレイアウトの不一致、あるいは AI が既存構造を破壊する問題が発生します。この問題を解決するために、以下の技術的アプローチを採用しました。\n\n### 1. 抽象 UI スキーマ\nCanvas Studio は、画面レイアウトを JSON 抽象スキーマとして保持し、同じ設計データからワンクリックで異なるフレームワーク（Vuetify, Bootstrap, Material Design）や Vue 3 SFC を出力できます。これにより、静的 HTML テンプレートではなくリアクティブなコードを生成します。\n\n### 2. デザイン変更の制限\nAI 生成機能には「デザインの変更はしない（イベント・処理のみ追加）」というロック機構を実装しました。この仕組みにより、既存の構造と座標を固定し、意図しない変更がないか検証する差分解析を行います。\n\n### 3. REST API モックStudio\nブラウザ内の fetch を透過インターセプトすることで、外部サーバーとの通信テストが可能です。正常系と異常系のトグルボタンを切り替えることで、エラーハンドリングの検証を簡便化します。\n\n### 4. ブラウザ内での完結設計\nすべての機能はブラウザ内のメモリ（Web Crypto API など）だけで完結させるローカルファースト設計です。外部サーバーへの送信を避け、開発現場で即座に使える環境を目指しています。\n\n## 結論\n\nこのツールは、UI モックの作成から実装までの「断絶」をなくし、フレームワークやレイアウトの固定化を避けることで、AI 生成によるデザイン破壊を防ぐ設計思想です。業務上で JSON スキーマやログを外部サーバーに送信せず、ブラウザ内で安全に使える環境を目指しています。\n\n## 方法\n\nCanvas Studio は、Vue 3 や Vuetify 3 のコンパイルから、REST API モックのテストまでを一括で完成させるビジュアル RAD 環境です。開発者は、フレームワークやレイアウトの固定化を避けることで、よりスムーズな開発が可能になります。\n\n## 推奨事項\n\n本記事では、Canvas Studio の設計思想と技術的アプローチについて詳しく解説されています。実際に試してみられるための無料登録リンクも提供されています。",
+    "imageUrls": []
+  },
+  {
+    "id": "174a6846a0d9134f",
+    "title": "離れた人と同じタイマーを見る ― 身内用の同期タイマーを、ログイン不要の公開版「Tomo Timer」に作り直した",
+    "url": "https://zenn.dev/hayhide23/articles/tomo-timer-firebase-sync",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-15T01:28:20.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--z_TuQR7S--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259B%25A2%25E3%2582%258C%25E3%2581%259F%25E4%25BA%25BA%25E3%2581%25A8%25E5%2590%258C%25E3%2581%2598%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%259E%25E3%2583%25BC%25E3%2582%2592%25E8%25A6%258B%25E3%2582%258B%2520%25E2%2580%2595%2520%25E8%25BA%25AB%25E5%2586%2585%25E7%2594%25A8%25E3%2581%25AE%25E5%2590%258C%25E6%259C%259F%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%259E%25E3%2583%25BC%25E3%2582%2592%25E3%2580%2581%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E4%25B8%258D%25E8%25A6%2581%25E3%2581%25AE%25E5%2585%25AC%25E9%2596%258B%25E7%2589%2588%25E3%2580%258CTomo%2520Timer%25E3%2580%258D%25E3%2581%25AB%25E4%25BD%259C%25E3%2582%258A%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2580%25B1%25E6%259C%25AB%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDdWdENBemZRZjF3anpwOU5uZXllRzBBTUtZdlBER1lzcFZxaktSQlBXdlJBc2hBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# Tomo Timer の公開版開発\n\n**テーマ**: Web アプリの公開と同期仕組みの改善  \n**結論**: 公開版では匿名認証により誰でもアクセス可能になり、サーバーなしで無料運用となりました。  \n**方法**: Firebase による時刻差補正と Web Audio API を活用し、リアルタイム共有機能を実現しました。\n\n本文には追加された機能として、公開版の匿名認証機能と、サーバーなしの無料枠の導入が挙げられます。対象バージョンは既存のアプリベースです。利用者は、スマホでのアラーム鳴らし方や同期仕組みの改善に注目しています。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/39535ba9795cd235c9d27684.png?sha=35a6fc8899ee0881c7a2cc36e7cd2e080128ac6f",
+      "https://static.zenn.studio/user-upload/deployed-images/5cc6a4d1e61ad44110dff728.png?sha=8c2f83ef7aa0ed21f9654ee43a53d77558f4bfcc",
+      "https://static.zenn.studio/user-upload/deployed-images/7d0a6a28e406771fd4a3946b.png?sha=9216910f9ab83d2aa052c5500aa2350f5bd4a4ce",
+      "https://static.zenn.studio/user-upload/deployed-images/f86e2025f0d2efd4625f26a6.png?sha=66489ae1f8c8a84f9cab7b95fcb03d2cc8d89b31",
+      "https://static.zenn.studio/user-upload/deployed-images/2557257f7ad094842fb76417.png?sha=d8defa0988ed8606362d6d2f0e1a793fa1c2e485"
+    ]
+  },
+  {
+    "id": "ceaca00c7d6c75a0",
+    "title": "E2E、全部の PR で回す必要ある？ コストと安全性を両立する、リリース前とラベルの使い分け",
+    "url": "https://zenn.dev/tzp/articles/5f96fc39fe1014",
+    "source": "Zenn (playwright)",
+    "publishedAt": "2026-11-15T01:24:11.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--CID7oBFT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:E2E%25E3%2580%2581%25E5%2585%25A8%25E9%2583%25A8%25E3%2581%25AE%2520PR%2520%25E3%2581%25A7%25E5%259B%259E%25E3%2581%2599%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%2582%25E3%2582%258B%25EF%25BC%259F%2520%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A8%25E5%25AE%2589%25E5%2585%25A8%25E6%2580%25A7%25E3%2582%2592%25E4%25B8%25A1%25E7%25AB%258B%25E3%2581%2599%25E3%2582%258B%25E3%2580%2581%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E5%2589%258D%25E3%2581%25A8%25E3%2583%25A9%25E3%2583%2599%25E3%2583%25AB%25E3%2581%25AE%25E4%25BD%25BF%25E3%2581%2584%25E5%2588%2586%25E3%2581%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A6%25E3%2581%25A5%25E3%2581%25A3%25E3%2581%25B4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NiM2I5ZjA5N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：E2E を速くする戦略と推奨ワークフロー\n\n開発チームは、Playwright の E2E を開発のボトルネックとして認識しました。従来の「シャード分割」方法では、待ち時間と使用時間の両面で問題が発生し、15 分以上の待機時間が発生することがありました。また、リリース PR だけで回す設計では、依存更新時の CI が全緑になることなど、運用上のリスクがありました。\n\n本記事では、E2E を速くするのではなく、回数を減らすためのワークフローの改善と、具体的な推奨設定を提案します。\n\n## 結論\n開発チームは、リリース PR だけを対象化し、依存更新時の CI の問題や待ち時間の削減を図ることで、コストと品質の両立を実現することが推奨されます。\n\n## 方法\n課題解決の手法は、E2E を実行回数を減らすというアプローチです。シャード分割ではなく、開発フローを調整したワークフローを採用しました。特に、依存更新時の CI が全緑になるリスクを避けるため、手動で回す設定や、ラベルの管理が重要です。\n\n## 本文に情報がない項目は推測せず「本文に記載なし」としてください。\n本文には、具体的なコード例や詳細なテスト手順などは記載されていません。ただし、推奨されるワークフローの概要と、E2E の実行回数の削減効果のデータは含まれています。",
+    "imageUrls": []
+  },
+  {
+    "id": "291d3ded8aa33b49",
+    "title": "相手6匹を入れると「出す3匹」を理由付きで教えてくれるアプリを自作して、マスターボール級達成【ポケモンチャンピオンズ】",
+    "url": "https://zenn.dev/potato_revo/articles/7bc3c249016e46",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-15T01:09:35.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--pHIaVCsg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%259B%25B8%25E6%2589%258B6%25E5%258C%25B9%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%25E3%2581%25A8%25E3%2580%258C%25E5%2587%25BA%25E3%2581%25993%25E5%258C%25B9%25E3%2580%258D%25E3%2582%2592%25E7%2590%2586%25E7%2594%25B1%25E4%25BB%2598%25E3%2581%258D%25E3%2581%25A7%25E6%2595%2599%25E3%2581%2588%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258C%25E3%2582%258B%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E7%25B4%259A%25E9%2581%2594%25E6%2588%2590%25E3%2580%2590%25E3%2583%259D%25E3%2582%25B1%25E3%2583%25A2%25E3%2583%25B3%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2594%25E3%2582%25AA%25E3%2583%25B3%25E3%2582%25BA%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BD%25E3%2581%25A6%25E3%2581%25A8%25E7%25B6%25AD%25E6%2596%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ5NTc1Njg2ZWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n**テーマ：ポケモンチャンピオンズのランクバトル選出システム**\n\nこのアプリは、6匹の相手と自分の6匹の相性を考慮した自動選出システムです。制限時間があり、相手の「よくある型」を想定して、自身の6匹との相性を計算し、先発と後発2匹を決める必要があります。既存のツールは単対1対のダメージ計算には対応していますが、相手6匹に対してどの3匹を出すかについては答えていませんでした。このアプリでは、ユーザーが相手の6匹を入力すると、自動で「先発＋後発2匹」を根拠付きで返します。\n\nアプリは個人利用のみであり、サーバー側から統計データを取得し、再配布する制約を厳守しています。データ取得の規約は、継続的・断続的アクセスや著しい負荷を禁止するため、サーバー側から取得し、再配布しない設計が採用されています。また、統計データの公開は制限されており、ユーザーのプライバシーとセキュリティを考慮した設計です。\n\n開発者は、このシステムを構築する際に、統計データの変動を避けるため、上位構築データを使用し、補正処理を行いました。特に、相手の持ち物の採用率に基づき、それぞれのポケモンの役割（受・勝・五・削・×）を決定しました。また、メガシンカの考慮や、特定のルールに基づく補正計算も含まれています。\n\n最終的に、ユーザーはスマホの画面で横スクロールなしに使い、アプリ自体は合言葉で保護し、Vercel に置いています。このシステムは、開発者向けに機能し、実装された経緯と制約を詳細に解説しています。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/2b3d46d427e5-20261115.png",
+      "https://static.zenn.studio/user-upload/4447af7b210e-20261115.png",
+      "https://static.zenn.studio/user-upload/68040193ebc1-20261115.png",
+      "https://static.zenn.studio/user-upload/bd7e36e878d3-20261115.png",
+      "https://static.zenn.studio/user-upload/e37a96bd2621-20261115.png",
+      "https://static.zenn.studio/user-upload/76117410985e-20261115.png",
+      "https://static.zenn.studio/user-upload/7d0ca23e0984-20261115.png"
+    ]
+  },
+  {
+    "id": "62f27d151e38bd99",
+    "title": "「信号機の画像を選んでください」にサヨナラ。Cloudflare Turnstile を SPA に組み込んだらボット対策とUXの両立が最高",
+    "url": "https://zenn.dev/92me/articles/704e376f0b35b4",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-15T01:00:05.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--fqCHSK2R--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E4%25BF%25A1%25E5%258F%25B7%25E6%25A9%259F%25E3%2581%25AE%25E7%2594%25BB%25E5%2583%258F%25E3%2582%2592%25E9%2581%25B8%25E3%2582%2593%25E3%2581%25A7%25E3%2581%258F%25E3%2581%25A0%25E3%2581%2595%25E3%2581%2584%25E3%2580%258D%25E3%2581%25AB%25E3%2582%25B5%25E3%2583%25A8%25E3%2583%258A%25E3%2583%25A9%25E3%2580%2582Cloudflare%2520Turnstile%2520%25E3%2582%2592%2520SPA%2520%25E3%2581%25AB%25E7%25B5%2584%25E3%2581%25BF%25E8%25BE%25BC%25E3%2582%2593%25E3%2581%25A0%25E3%2582%2589%25E3%2583%259C...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:92.M.E.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2V4Sl94Y0hsNERLN1p2UkhoOVpWSFRPOVQ5V0p2eTRmbW1vaHY1ZTF2Y3c2Y1pjRUI9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n**テーマ：記事が扱う課題や技術は何か**\nWeb サイトのセキュリティ対策として導入された Cloudflare の「Turnstile」サービスです。従来の再認証システムではなく、ユーザー体験を重視した自動判定ツールとして機能しています。ブラウザのAPI 挙動や環境設定を総合的にチェックすることで、人間の操作を避けつつ安全なアクセスを実現します。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\n開発者は、ユーザーにストレスを払わないよう、クリック不要の自動化ボット判定ツールとして導入しました。これにより、サイトへのアクセスがスムーズになり、プライバシー保護とセキュリティの両立を実現しています。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\nCloudflare Workers を使ってエッジレベルで検証を行います。クライアントからトークンを検証し、成功するとサーバー側でサイト検証を行う仕組みです。また、Content-Security-Policy の設定によりセキュリティの強化も同時に進めています。React アプリでは、認証ゲート画面を表示し、ユーザーが確認した際にセッションを保存します。\n\n本文には情報がない項目はありませんが、技術用語は短く説明しています。導入された機能はブラウザ側だけでなく、サーバー側の検証処理を含み、プライバシー重視の設計により、すべてのユーザーにメリットをもたらしています。",
+    "imageUrls": []
+  },
+  {
+    "id": "b2cab59406a7bcf5",
+    "title": "Not todo: 技術者倫理がなければ作る予定だったもの一覧 | ActiveTK's Note",
+    "url": "https://note.activetk.jp/etc/uncensored-dev-list",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T00:59:00.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.activetk.jp%2Fetc%2Funcensored-dev-list",
+    "category": "GENERAL",
+    "summary": "# 主題：ロック・メロディの再定義と音楽への影響\n結論：この曲は、現代の音楽業界において「直訳調」を避けた自然な日本語表現を重視し、聴覚的な美しさや文化的理解を高める重要な役割を果たしています。\n方法：楽曲の構成は、従来の英語の歌詞構造を維持しつつも、リズムとメロディの流暢さを保ちつつ、日本語のニュアンスを適切に表現する設計が採用されています。\n本文に記載なし：具体的には曲の制作プロセスや聴覚的な評価の詳細情報は含まれていません。",
+    "imageUrls": []
+  },
+  {
+    "id": "0512d7ae5f2a8df2",
+    "title": "AIアシスタント「Grok Bot」をセットアップして、メール整理から献立・買い物エージェントまで作ってみた",
+    "url": "https://qiita.com/junko105106/items/dbf759f029e31a5fa325?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-15T00:48:37.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# AIアシスタントの導入体験と機能紹介\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n## 課題と技術の概要\n開発者は「Grok Bot」を使って、AIアシスタントの活用を試みました。主な課題は、メールの読み取りや返信の下書き作成、食材宅配メールの読み取りなど、多様な業務を自動化する仕組みです。このシステムは、ユーザーが自分のコンピューターに接続し、アプリと連携することで、実際の作業が可能です。\n\n## 結論\n導入後は、メールの安全な読み取り、返信の下書き作成、食材宅配メールの自動読み取り、用途別エージェントの連携など、多様な機能を実装しました。これにより、業務効率化と安全性を両立した設計が確立されました。\n\n## 方法\n課題解決の仕組みは、ユーザーの選択に基づいてカスタムエージェントを作成します。例えば、「投稿番」や「献立係」などの役割によって、特定の機能を実行します。各エージェントには名前や役割の説明があり、チャットを通じて設定が可能です。また、API経由で記事を投稿する機能も追加されています。\n\n本文では、GmailとOutlookの接続、未読メールの分析、返信の下書き作成、食材宅配メールの読み取り、用途別エージェントの連携など、具体的な手順が説明されています。各ステップは、ユーザーの選択や設定に基づき、自動的に動作します。\n\n## 要約のポイント\n- **追加機能**: エージェントの役割をカスタム化し、新しい機能を追加しました。\n- **対象バージョン**: 現在のバージョンでは、すべての機能を実装しています。\n- **利用者への影響**: 業務効率化と安全性を両立した設計により、ユーザーの負担を軽減しました。\n\n本文の長さは約350文字です。必要な情報は含まれており、専門用語は短く説明しています。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4115069%2F3c585fce-f26f-4546-ac70-b2d5b849a1a5.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=addb6d36d9e43bd1ffe3271a98b1970d"
+    ]
+  },
+  {
+    "id": "480d8924f7e22fa2",
+    "title": "TypeScriptのnoUncheckedIndexedAccessで配列・辞書のundefined事故を防ぐ",
+    "url": "https://zenn.dev/sponge841841/articles/2026-11-06-typescript-no-unchecked-indexed-access",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-15T00:01:51.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--6d2jK0gX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TypeScript%25E3%2581%25AEnoUncheckedIndexedAccess%25E3%2581%25A7%25E9%2585%258D%25E5%2588%2597%25E3%2583%25BB%25E8%25BE%259E%25E6%259B%25B8%25E3%2581%25AEundefined%25E4%25BA%258B%25E6%2595%2585%25E3%2582%2592%25E9%2598%25B2%25E3%2581%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A1%25E3%2581%25A3%25E3%2581%25A1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgzMDYyMzRhYzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TROUBLESHOOT",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n個人開発したサービスや技術記事は、chicchi.work で紹介しています。特に在庫管理の課題として、TypeScript の厳格な型チェックと実際のJavaScript での値の不一致を解決するアプローチが提案されています。\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。要約の視点: 発生した問題、原因、具体的な解決方法、再発防止の要点を中心にまとめてください。\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。要約の視点: 発生した問題、原因、具体的な解決方法、再発防止の要点を中心にまとめてください。\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。要約の視点: 発生した問題、原因、具体的な解決方法、再発防止の要点を中心にまとめてください。\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約",
+    "imageUrls": []
+  },
+  {
+    "id": "709df486be58916b",
+    "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
+    "url": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-15T00:01:08.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261115-ai-isnt-replacing-sres-its-deskilling%2F",
+    "category": "TUTORIAL",
+    "summary": "SRE 現場における自動化によるスキル低下と、AI の役割について議論されています。近年、AI がインシデント対応の 95% を処理するようになり、人間が担う「稀・複雑・曖昧」な問題への対応能力が低下という「自動化の皮肉」が指摘されています。この現象は「デスキリング」と呼ばれ、専門知識の衰退を招く可能性があります。\n\nSRE の現場では、アラートノイズ削減やログパターンの検出といったタスクは高度に自動化されています。将来的には複雑な障害分析や予知的なインシデント検出など、AI に任せるべき仕事が増えつつあります。しかし、人間が関与するのはティア 3 の新規・複雑な障害のみとなり、直感やシステムへの感覚的な理解を失うリスクがあります。\n\n解決策として、マシュー氏は AI を拒否せず積極的に統合する提案を行っています。人間中心の設計により、AI が処理できるインシデントであっても意図的に人間の作業を残すことで、スキル維持を図るべきです。また、人間が AI の提案を単に承認するだけでなく、積極的に関与することでスキル維持を図ることも重要です。最終的には、SRE を代替するのではなく強化するアプローチで、人間が最も重要なタスクに対応できるよう設計されるべきと主張されています。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/15/ai-isnt-replacing-sres-its-deskilling/00_m.png",
+      "https://i.gzn.jp/img/2026/11/15/ai-isnt-replacing-sres-its-deskilling/01_m.jpg",
+      "https://i.gzn.jp/img/2026/11/15/ai-isnt-replacing-sres-its-deskilling/02_m.jpg",
+      "https://i.gzn.jp/img/2026/11/15/ai-isnt-replacing-sres-its-deskilling/04_m.jpg",
+      "https://i.gzn.jp/img/2026/11/15/ai-isnt-replacing-sres-its-deskilling/03_m.jpg",
+      "https://i.gzn.jp/img/gsc/banner/20261110-adguard-windows-mac/d33701e30a6c2c3a4eb5a0963d46d7a8.png",
+      "https://i.gzn.jp/img/2025/11/25/layoffs-backfire/00_m.jpg",
+      "https://i.gzn.jp/img/2026/08/28/harness-engineering/00_m.jpg",
+      "https://i.gzn.jp/img/2014/08/07/system-safety-engineering/00-top_m.jpg",
+      "https://i.gzn.jp/img/2026/01/02/is-chatgpt-making-us-stupid/00_m.jpg",
+      "https://i.gzn.jp/img/2026/07/14/ai-left-work/00_m.jpg",
+      "https://i.gzn.jp/img/2021/03/24/darpa-ai-controlled-f-16-working-as-team/00_m.png",
+      "https://i.gzn.jp/img/2026/06/01/domain-expertise/00_m.jpg",
+      "https://i.gzn.jp/img/2024/04/22/linus-torvalds-chat/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/15/dayjob-tax/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/15/narcissists-sns/00_m.jpg"
+    ]
+  },
+  {
+    "id": "974071e406155489",
+    "title": "個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）",
+    "url": "https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T23:49:57.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ffabscene.com%2Fnew%2Finterview%2Fsolidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け AI コードリングツールと CAD の進化\n\n**テーマ**: AI を活用した CAD ツールとモデル化システムの開発\n**結論**: SolidCraft は、AI エージェントを統合した CAD アプリケーションとして公開され、精度の検証と安定化の作業が進行している。\n**方法**: 複数の AI エージェントを並行して作業し、C++ ライブラリ「SMLib」の移植によりカーネル移行を行い、モデルの再現性と安定性を確保する仕組み\n\n本文では、開発者 Brennen Herbruck が 2026 年 10 月に公開した Open Source の CAD ツール SolidCraft の開発過程が紹介されている。このツールは AI を活用して CAD を操作する機能を備え、既存の CAD ベンダーとの比較を避け、精度の検証も理論値との比較により実施している。また、開発体制として複数の AI エージェントを並行して動かすことで、開発の速さと安定性を確保している。特にカーネル移行の作業は、独自のパッチを当てずに新しいライブラリ「SMLib」を移植することで解決された。この取り組みは、個人が手がけられるソフトウェアの規模拡大や、AI による設計支援の深化を反映している。",
+    "imageUrls": [
+      "https://fabscene.com/wp-content/uploads/2026/11/image-113-1024x606.webp",
+      "https://fabscene.com/pagespeed_static/1.JiBnMqyl6S.gif"
+    ]
+  },
+  {
+    "id": "3d10e78eb90b1e0b",
+    "title": "Azure Files 間のデータ同期ができるようになったので触ってみた",
+    "url": "https://qiita.com/iboy/items/bf39c22f2337deeaf439?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T23:47:34.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# Azure Files 間のデータコピー機能検証\n\nAzure Storage Mover は、ファイルやフォルダを移行・複製するサービスですが、現在 GA されるまでの間にプレビュー機能となります。記事執筆時点では、機能の仕様や制限について確認が必要です。\n\n### 課題と技術\nAzure Storage Mover はフルマネージドで処理が行われますが、エージェントベースとエージェントレスの移行方式があります。特に Azure Files 間のデータコピーはエージェントレスによる移行が可能です。この機能は、ソースとターゲットのファイル構成をマージするミラーモードや、ジョブの実行ごとにスナップショットを取得した状態を再現する仕組みです。また、エージェントベースの移行が必要な場合は、VM をローカル環境にデプロイする必要があります。\n\n### 結論\n今回の検証では、Azure Files 間のデータコピーはエージェントレスによる移行が可能です。ただし、厳密な RPO（復旧ポイント）が必要なシナリオには適応せず、最終的なジョブ完了タイミングで復旧できるという特徴があります。\n\n### 方法\nソースのファイルをエントリリージョンにデプロイし、Storage Mover を使用してデータコピーを行います。エージェントレスの移行では、VM の構成は不要です。ただし、接続方法は接続先によって変わるため、適切な設定が必要です。また、ファイル共有の結合やディザスターリカバリーシナリオについては、スケジュールされたジョブを作成する必要があります。\n\n本文には詳細なコマンドや環境設定の詳細が含まれていませんが、GitHub で公開されている環境を参照して検証できます。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4283449%2F08f1c28c-06f1-4331-a5e8-25a8db15e152.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a50f4fd5bc8136e8d8ce58d66022310a"
+    ]
+  },
+  {
+    "id": "ad73c6f1d0bd6bd8",
+    "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超　マスク氏らも賛同、米議会は追及継続",
+    "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T23:39:10.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F15%2F2000003207%2F",
+    "category": "RELEASE",
+    "summary": "# NVIDIA CEO 復帰の署名運動\n\n**テーマ**: NVIDIA のジェンス・フアン氏がCEO への退任を迫る理由と、署名運動の背景\n結論：NVIDIA は調査結果に基づき、公正な調査と弁明の機会を保証し、財務責任者として暫定CEO を任命する方針を示している\n方法：独立調査委託と政府関係者の追及対応、署名運動の参加者構成\n\n本文では、米NVIDIA の最高財務責任者コレット・クレス氏が暫定CEO に任命されたことについて、署名運動の背景と現状を説明する。署名運動は、11 月 12 日にフアン氏が退任を迫る可能性を懸念し、独立した調査結果を公表するよう要求される。現在、調査結果は公表されていないが、米政府も同問題は捜査を進めている。また、議会や外交委員会の対応も継続している。\n\n署名運動の参加者は、NVIDIA の現職従業員 5978 人、元従業員 1108 人、株主 63195 人など、総計 11 万人に達している。これらは著名な IT 業界関係者や企業トップの名前を記載しており、検証されていないと明記されている。ただし、この運動は NVIDIA と独立した活動であり、調査結果の公開状況も確認していない。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/15/2000003207/10012159/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/15/2000003207/10012160/728"
+    ]
+  },
+  {
+    "id": "24976b96ba7e2a6c",
+    "title": "Chromium Embedded Framework (CEF) のROMとRAMの使用量をローエンド機向けにどこまで削減できるか？",
+    "url": "https://qiita.com/rairaii/items/bad396ec591698160afb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T23:08:45.000Z",
+    "status": "completed",
+    "category": "TROUBLESHOOT",
+    "summary": "# 課題と解決方法：CEF の最適化\n\n**テーマ**: CEF の ROM と RAM を削減した検証結果\n\n結論：CEF の起動フラグを削除し、UPX圧縮によりメモリ使用量を 46.5% 削減しました。\n\n方法：\n1. Chromium の構造を理解し、既存のレイヤー構成を確認\n2. CEF 本体の include 数をカウントし、重複処理を排除\n3. Alloy スタイルを採用し、オフスクリーン描画対応を維持\n4. SwiftShader を外すことで GPU 依存処理を CPU で処理\n5. UPX ツールで実行ファイルを圧縮\n\n本文では、CCEF の ROM と RAM 使用量を削減した結果が示されています。既存のネイティブアプリに Web ブラウザの部品を埋め込む UI を作るだけでなく、独自の描画系を持つアプリや、Chrome プロジェクトを対象としたフレームワークとして機能しています。開発者は ARM64 環境での検証を行い、削減後のサイズと RAM 使用量を比較しました。結果として、削減版は 196.0MB から 186.7MB まで ROM サイズを減らし、さらに UPX を適用することでメモリ消費をさらに低下させました。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig0-youtube-playing.gif%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=22e8e18ce265c335ce78fa113026298a",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig5-processes.png%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=3a41995464339f90877e0a68918415a5",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig1-cef-architecture.png%3Fv%3D20261114e?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=5266c20d857881405b06aef633734b09",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig2-rom-x64.png%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=279b084b356145e1a1e502567daed681",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig13-upx-rom.png%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=486bf9db3c4ea6aea197583a03df6abc",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig6-startup-ram.png%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=98b906260808ab86f49ce29e247a750d",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig3-ram-video.png%3Fv%3D20261114e?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=682e8b74d9dd03ddc0cd2021ed15a7dd",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig10-upx-ram.png%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=93f0abc8beefa2264f1197cbc5ff2ad7",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig18-upx-ram-av1.png%3Fv%3D20261114e?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8c710272daede6c06890044de39abeba",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig7-memory-limit.png%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=3f2b7b97c97b563e3e3ab5b9a3a2e04c",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig4-reduction-items.png%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=99e077798799a4be04acf64fd127b9e2",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig8-remaining-code.png%3Fv%3D20261114e?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=94d5b3ab49d76ebd272bfcbcd87d157c",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig15-render-paths.png%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=331e1b11730eb1e20b804780bb84cf12",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig16-upx-startup.png%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7cd24f79ab7d0a10085e0353c6e85f81",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig17-upx-vs-default.png%3Fv%3D20261114e?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7bb35327c2fd3becac396d35b4790138",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig9-upx-mechanism.png%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=0c081f1a4dd807e5cf3bf09d52b98555",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig11-upx-copies.png%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=2f032c620ee0480535f8bb96914148a8",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig12-upx-vs-reference.png%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a417dfa7aa5b1590772d153150506780",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2FaRaikoFunakami%2FCEF_M158_Investigation%2Fmain%2Fdocs%2Fimages%2Ffig14-upx-execve.png%3Fv%3D20261114d?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4f4e14a33c229e93b1f6803d9364f39e"
+    ]
+  },
+  {
+    "id": "1d055fdace7e3239",
+    "title": "AIが書いたコードは使って確かめる ― 舞台アプリ開発のレビュー記録",
+    "url": "https://qiita.com/oosawak@github/items/a93703112834983bc1f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T23:01:56.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# AI のコードを検証する舞台アプリ開発のレビュー\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\n## 課題と技術の概要\n舞台アプリ開発において、AI がコードを書くことが増え、レビュープロセスが重要となりました。従来のコード検査ではなく、実際に使えるかという体験的な検証方法を採用しました。ミューズさんとコーデックスさんとの連携により、自動返事システムを構築し、マークドown ファイルの活用を行いました。GitHub の内側では Copilot や Claude Code などのツールを活用し、開発効率を向上させました。\n\n## 結論\nAI が書いたコードをそのまま検証するのではなく、実際の体験に基づきレビューを行うことで、誤った報告や機能の不具合を早期に発見できます。この方法により、開発プロセスの透明性と信頼性を高め、ユーザーへの満足度を向上させることが可能です。\n\n## 方法\n課題解決の仕組みは、AI の出力を補完し、実際に検証するプロセスです。まず、開発記録として報告を受け取り、その後、実際のテスト環境で動作を確認します。特に、返事システムはマークドown ファイルを通じて自動読み込みを行い、正確な情報を取得します。また、テスト結果と公開範囲のデータとの整合性を確認することで、誤りを排除します。\n\n本文には、具体的な機能や技術の詳細については記載されていますが、主要な点は上記の通りです。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Foosawak.github.io%2Fcontent%2Fimages%2Ftech%2Fmuse-stage-app-v3.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ef1f39e24fadb2f00bb605592aef4f85"
+    ]
+  },
+  {
+    "id": "1b2dbb14c7e8f263",
+    "title": "Linux Kernel Internals",
+    "url": "https://kernel-internals.org/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T22:39:53.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fkernel-internals.org%2F",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：Linux カーネル理解のガイド\n\nこの記事は、開発者向けに直訳調を避けた自然な日本語で、350〜450 文字の要約です。\n\n## 課題と技術の概要\n本文は、Linux カーネルの設計原理、内部構造、および貢献ガイドについて解説しています。ユーザー空間からカーネルへの変換や、各サブスクリプトの役割を深掘りして理解するものです。従来のAPIドキュメントだけでは理解できない複雑なシステムを理解するため、コミュニティが構築したこの資源が重要となっています。\n\n## 解決方法と手順\n課題は、カーネルの仕組みを直感的に理解し、開発者として貢献できるよう支援することです。主要なステップは以下の通りです。\n\n1. **アーキテクチャの理解**: アーキチャイタやシステムコールの役割を把握する。\n2. **メモリ管理とI/O**: メモリ管理やI/Oパターンを理解する。\n3. **コンソールとネットワーク**: スケダリング、ネットワーク、BPFなどの仕組みを確認する。\n4. **セキュリティと隔離**: グループ制限、セクション制御などの安全性対策を学ぶ。\n5. **貢献への準備**: GitHubの議論やissueの活用を始める。\n\n## 実践時の注意点\n重要なのは、専門用語を短く説明し、実際の運用における注意点を確認することです。特に、カーネルの進化やセキュリティリスクについては、公式ドキュメントとソースコードを参照することが推奨されます。コミュニティ学習資源として機能するため、正確性には注意が必要です。",
+    "imageUrls": []
+  },
+  {
+    "id": "7bab7d840af812a2",
+    "title": "登録なしで触れるデモモードの作り方：14サービスのうち12に入れた匿名IDとサンプルデータ",
+    "url": "https://zenn.dev/sakidori/articles/20261029-demo-mode-anonymous-id-sample-data",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-14T21:13:43.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vITXobz---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2599%25BB%25E9%258C%25B2%25E3%2581%25AA%25E3%2581%2597%25E3%2581%25A7%25E8%25A7%25A6%25E3%2582%258C%25E3%2582%258B%25E3%2583%2587%25E3%2583%25A2%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%25EF%25BC%259A14%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2581%25AE%25E3%2581%2586%25E3%2581%25A112%25E3%2581%25AB%25E5%2585%25A5%25E3%2582%258C%25E3%2581%259F%25E5%258C%25BF%25E5%2590%258DID%25E3%2581%25A8%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sakidori%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwNTgxN2IyYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\nこの記事は、開発者が公開した製品デモのデータが本番と混ざり、登録数が減少する問題について解説しています。解決策として、デモ用の画面を画面だけのハリボテに変更し、匿名ID を発行して本番テーブルにサンプルデータを投入する形にしました。これにより、デモは壊れても本番も壊れないよう設計し、公開側のデータと一致させることができます。\n\n具体的な手順は、14 サービスの同時起動から開始し、各サービスごとに「mvp_items」テーブルを共通テーブルとして設定します。匿名ID を生成し、サンプルデータを 15 行程度に投入することで、スクロール中のデータ不足を防ぎます。また、公開側のテーブルへの書き込みには追加の処理が必要であり、デモの操作が偽のデータとして反映されるのを防ぐための除外列の導入が必要です。\n\n最終的に、デモデータの消しは 30 日後の cron を使用し、管理画面での確認を避けるため、本番データとの区別を明確にします。また、動画を扱うサービスではサンプル動画を用意できないため、静止画として表示する形にしています。この方法により、開発者は本番の登録増加とデモの維持を両立させることが可能となりました。",
+    "imageUrls": []
+  },
+  {
+    "id": "69e61eb32f8a522b",
+    "title": "ローカルLLMで動く翻訳拡張機能「Sakutto」を開発した話",
+    "url": "https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-14T20:02:29.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--nCcPGbDV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25E7%25BF%25BB%25E8%25A8%25B3%25E6%258B%25A1%25E5%25BC%25B5%25E6%25A9%259F%25E8%2583%25BD%25E3%2580%258CSakutto%25E3%2580%258D%25E3%2582%2592%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2598%25E3%2582%2583%25E3%2582%2580%25E3%2581%25BE%25E3%2582%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZhOTYxZWVkNTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "# Sakutto: 無料ローカルLLM 翻訳ツール\n\n開発者側は、有料翻訳サービスのログイン制約や精度不足を解決するために、ブラウザ拡張機能としてローカルLLM を活用した「Sakutto」を作成しました。このツールは、Chrome や Firefox のブラウザ内で、完全無料で広告なしで英語のページを日本語に翻訳する機能です。\n\n## 課題と解決策\n主な課題は、無料サービスが精度やログイン制約の問題でした。Sakutto は、ローカルLLM をベースにした拡張機能として開発し、完全にPC 内での処理を行うことでプライバシー保護と高速化を実現しました。公開されたソースコードは MIT ライセンスで共有されており、信頼性と透明性を重視しています。\n\n## 仕組み\nブラウザ内でモデルを読み込み、オフscreen Document という隠れたページを通じて翻訳処理を行います。WebGPU を使用し、GPU が対応可能な環境であれば圧倒的に速く計算します。WASM と WebGPU の両方に対応しており、GPU が unavailable の場合は CPU を活用します。\n\n## 実装のポイント\n- **モデルサイズ**: PLaMo 3 Translate 0.8B という軽量なモデルを採用し、ブラウザのメモリ負荷を減らし、高速化を図りました。\n- **速度向上**: 翻訳ボタンを押すと、従来の数秒から数十秒まで短縮し、ユーザー体験を劇的に改善しました。\n- **環境対応**: Mac や WebGPU が動く PC など、異なる環境に対応する自動切り替え機能があります。\n\n## 推奨事項\n開発者側は公開ソースの透明性を重視し、セキュリティと信頼性を優先しています。ユーザーは、翻訳の速さと精度を両立させるために、適切なモデルサイズを選択することが重要です。Sakutto は、個人開発ならではの信頼性と安全性を維持しつつ、広く利用可能なツールとして機能しています。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/19e35b4f66cf268472caf670.jpg?sha=459d32d7a33ff5407fcd0734e7939791aaa1128c",
+      "https://static.zenn.studio/user-upload/deployed-images/39e522e892fd41653d576b61.jpg?sha=20bb7cbfd5c8335f3427a95ed3d3fe8d667175b4",
+      "https://static.zenn.studio/user-upload/deployed-images/d6c81bc52711b3686cb825de.png?sha=19ab83fefb089c790c261b421a277d8c55c4860d",
+      "https://static.zenn.studio/user-upload/deployed-images/b24a7842d17414f09e63b019.jpg?sha=5d6bafa3bf3e84869f41a23ed17c33010f62dbd4",
+      "https://static.zenn.studio/user-upload/deployed-images/2c21e39a51be71756e22bf6c.jpg?sha=c024992ca3333e955102d9097e067c0de5d69caa",
+      "https://static.zenn.studio/user-upload/deployed-images/07199095317d965f67824e5b.jpg?sha=0e8c57d336c8346ba707bc9f72d45d7f08605124",
+      "https://static.zenn.studio/user-upload/deployed-images/c161a2c500fd4475198a9f9b.jpg?sha=f10cedfa9ef210b19db3c1a74d616bbe3fa7a36f",
+      "https://static.zenn.studio/user-upload/deployed-images/8031b643de4196d4bfe24d40.jpg?sha=7d0207ab590f9326e1047e6cf1db9f00334fdaa5"
+    ]
+  },
+  {
+    "id": "ca4561bd82bcca36",
+    "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",
+    "url": "https://p2ptk.org/monopoly/5681",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T18:54:45.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fp2ptk.org%2Fmonopoly%2F5681",
+    "category": "TUTORIAL",
+    "summary": "# 課題と結論\n\n**課題**: 貧乏人の債務不履行リスクを低くする金融イノベーションの試みと、それが現実的にはリスク転嫁による問題。\n\n**結論**: 融資リスクを減らす約束は、最終的に顧客の損失を増す「リスクプレミアム」の再構築に繋がります。市場がリスクの転嫁を誤認し、高金利で貸し続けることで、最終的に資産価値の低下や経済的危機を引き起こします。\n\n**方法**: 金融業界は、顧客の信用力を維持しつつ、リスクを減らすという約束を繰り返しますが、これは実質的なリスク転嫁です。サブプライム住宅ローンやコントラクト・バイイングなどの仕組みにより、債務不履行リスクを隠し、最終的には顧客の資産価値を損ないます。\n\n本文には具体的な技術的詳細は記載されていませんが、主な問題は「リスクプレミアム」の存在と、それが市場の信頼を揺さぶるという構造です。解決策として、金融業界の倫理的な約束を再考し、顧客の利益を優先するアプローチが求められます。",
+    "imageUrls": []
+  },
+  {
+    "id": "565c5f4c5a94bfb6",
+    "title": "常時稼働エージェントの作り方（Claude公式ブログを資料化）",
+    "url": "https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T16:06:17.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fminorun365%2Fjouji-kadou-ejento-no-tsukurikata",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n**テーマ：開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約してください。**\n結論：開発者は常時稼働エージェントの仕組みを理解し、効率化を図ることで業務をスムーズに処理できる。\n方法：開発者が常時稼働エージェントの作り方を理解し、適切なツールや手順を適用することで、業務を最適化する。\n本文に情報がない項目は推測せず「本文に記載なし」としてください。\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n常時稼働エージェントの作り方（Claude公式ブログを資料化） Search\n\n要約本文:\n開発者は常時稼働エージェントの仕組みを理解し、効率化を図ることで業務をスムーズに処理できる。\n開発者が常時稼働エージェントの作り方を理解し、適切なツールや手順を適用することで、業務を最適化する。\n開発者向けには、直訳調を避けた自然な日本語を使用し、専門用語は必要に応じて短く説明する必要がある。\nこの記事は開発者向けに、実用的な知識を提供することを目的としている。\n結論として、開発者は適切なツールと手順を組み合わせることで、常時稼働エージェントの運用を確立できる。\n本文には具体的な技術的な詳細や手順の詳細な情報はないため、推測しない。\n要約の視点は、解決する課題、手順や仕組み、実践時の注意点を中心にまとめる。\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。",
+    "imageUrls": []
+  },
+  {
+    "id": "629e483222f91abe",
+    "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services",
+    "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T15:38:44.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Faws.amazon.com%2Fjp%2Fblogs%2Fnews%2Fpractical-steps-to-minimize-key-exposure-using-aws-security-services%2F",
+    "category": "TUTORIAL",
+    "summary": "# 長期的認証情報の安全対策\n\n## 課題と技術\n長期的な認証情報は AWS のセキュリティインシデントで観測された脅威アクターに最も多く使われる侵入経路です。この情報漏洩はクラウド環境にセキュリティリスクを生み、キーのローテーション不足やアクセスキーの共有、未使用情報の取り消し漏れによりシステムが危険にさらされます。\n\n## 結論\n長期的な認証情報を必要とするレガシー AWS ワークロードを管理するチームに、直訳調を避けた自然でわかりやすい日本語で推奨される移行方法と、包括的な防御構築の手順を提供します。\n\n## 方法\n課題を解決するために以下のステップを実行します。まず、Amazon Q Developer や AWS IAM Access Analyzer などのサービスを使用して既存のリスクを特定し、環境全体の認証情報リスクを可視化します。次に、サービスコントロールポリシー（SCP）とデータ境界によって厳格な境界を確立し、認証情報の使用を制御します。さらに、AWS WAF や Amazon Inspector を活用して脆弱性の悪用からの保護を強化します。最後に、シークレットの自動ローテーションなどの運用上のベストプラクティスを実装し、侵害の影響を最小限に抑えます。\n\n## 注意点\n組織全体がすぐに移行できるとは限らないため、段階的な対応が必要です。認証情報の監査を行うためには、定期生成する認証情報レポートを使用し、キーの最終ローテーション日時や使用パターンなどを確認します。また、パブリックリポジトリへのコミットや誤ったコードスキャンにより発見されるリスクがあるため、開発サイクル全体を通じてセキュリティポスチャを改善する必要があります。\n\n本文に記載された情報は、AWS Identity and Access Management の移行プロセスと、具体的なツール（Amazon Q Developer, IAM Access Analyzer など）の活用方法に基づいています。",
+    "imageUrls": []
+  },
+  {
+    "id": "abc73ee46472b49e",
+    "title": "【Vitest + RTL】Reactアプリをテストする",
+    "url": "https://qiita.com/ryu0947/items/f9d1cf940005b7a7909a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T15:35:42.000Z",
+    "status": "completed",
+    "category": "GENERAL",
+    "summary": "# 開発者向け：Vitest と RTL で React テストの概要\n\nこの記事では、React アプリをテストする際に使用するツールと環境設定について解説します。開発者は学習記録の登録、削除、イベント検知などを実装したアプリのテストフローを確認しました。\n\n### 課題と技術\n開発者は学習アプリのテストを行うために、Vitest と React Testing Library を使用しました。また、jsdom をブラウザ環境をエミュレートし、jest-dom や userEvent を利用してイベントを検知する構成です。\n\n### 結論\nテストを行うには、パッケージの依存関係を正確に設定し、vite.config.js の設定でグローバル変数と環境を指定する必要があります。これにより、開発環境での動作確認が容易になります。\n\n### 方法\n1. プロジェクトルートディレクトリを開き、必要なライブラリを npm でインストールします。\n2. vite.config.js を編集し、テストのグローバル設定（globals: true）と環境設定（environment: \"jsdom\"）を設定します。\n3. setupFiles を指定し、テストファイルの自動実行を確保します。\n4. package.json に「test」コマンドを追加します。\n\nこの手順により、開発者が学習アプリの機能を確認する際にスムーズにテストを行うことができます。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F677257%2F55f8ec2a-19d7-4779-876c-5656fd3a950e.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=6905281b096624680e101175709b7b79",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F677257%2Ff238ec8d-b8e9-4af1-bfdb-99660b42b274.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e976c689b3b51e30e145aa84de6c33c6"
+    ]
+  },
+  {
+    "id": "7da58d3dd07f6e75",
+    "title": "社長の一言は重い。RAGにも忖度させてみた（重み付け検索）",
+    "url": "https://qiita.com/kikuziro/items/43b360420d0cdcbf190c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T15:30:41.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 課題と解決方法\n\n開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**課題**\n新人の発言が全員賛同される現象や、社長の決定事項が新人のつぶやきよりも軽視される問題。RAG（検索・フィルタリング）技術を用いて、価値のある情報を優先的に抽出する必要性を示しています。\n\n**結論**\n「社長」や「重要」というメタデータを付与し、検索スコアをブーストすることで、社長の決定事項を上位に押し出すことが可能です。ただし、過剰な重み付けは関係なく重要な情報も拾ってしまうため、適度な調整が必要です。\n\n**方法**\n1. 検索結果を取得し、メタデータ（発言者、ドキュメントタイプ、重要度）を付与する。\n2. 「重要」のタグ付きのチャンクのみをスコアに反映させる。\n3. 最終的にアプリ側で絞る仕組みを実装する。\n検証データを用いて実装し、検索結果の改善を確認した。\n\n**注意点**\n類似度の高い情報は重み付けよりも類似度で優先されるため、適切なバランスを取る必要があります。また、人間の感覚に近いデータ準備方法を採用することで、柔軟な調整が可能です。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2Fad977ec2-4ace-46c7-ba3d-cc0f5b68964c.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=6f58bbf7f6722f19e49f62bdf845ac51",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2Fef6fc91f-e924-4fe2-89ac-43042fa039f4.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=c013670d871f6476fc3776e730655bf2",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2F47cce13a-9d21-4bf0-bf71-522b257511c2.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=c48d5394d20dcbc6e75caea271541fab",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2F5582dccd-1388-4bea-81b9-324ac4e0db66.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=cf277319f6f672c0dd996c3a45881313",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2F629e8e86-36d1-40e7-88d6-cbb3bf83f218.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=160204f4bfbb2f03d7690f1bcfe91c10",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2F3958308a-39bb-4716-9d5d-986733e71e5d.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a7377b70046c3fe6bdc1129dc4d90109"
+    ]
+  },
+  {
+    "id": "dec183a037cb9e95",
+    "title": "自作フィードリーダーを作った - A Day in the Life",
+    "url": "https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T15:23:09.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsecon.dev%2Fentry%2F2026%2F11%2F12%2F220000-my-own-feed-reader%2F",
+    "category": "GENERAL",
+    "summary": "開発者向けに自然な日本語で要約します。\n\nこの記事では、自作 FeedReader をベースにインレードラを置き換えることで、よりスムーズなフィード配信を実現したことが紹介されています。特に、Claude Opus 5.5 の実装能力の高さは驚くほど高いと評価されています。全文抽出機能は、Go や Web の両方で異なる設定により、LLM を活用して記事の抽出を自動化し、速度とコストを最適化しています。また、翻訳機能や検索機能も、埋め込みモデルを用いて意味の近接記事を自動推薦する仕組みを採用しています。開発者はこの技術を活用することで、既存のツールに依存せず、独自のフィード配信システムを構築したという成果を示しています。\n\n要約の視点：\n- 課題：既存のインレードラでのフィード配信の不足と、カスタム解決の必要性\n- 結論：自作 FeedReader をベースにインレードラを置き換えることで、よりスムーズなフィード配信が可能である\n- 方法：Go と Web の両方で検索・抽出機能、LLM を活用した全文抽出と埋め込み検索システム\n\n本文には情報がない項目は「本文に記載なし」とします。",
+    "imageUrls": [
+      "https://storage.googleapis.com/secons-site-images/other/blog_images/20261114-feed-reader-main.webp",
+      "https://storage.googleapis.com/secons-site-images/other/blog_images/20261114-feed-reader-ai-selector.webp",
+      "https://storage.googleapis.com/secons-site-images/other/blog_images/20261114-feed-reader-newsletter.webp",
+      "https://storage.googleapis.com/secons-site-images/other/blog_images/20261114-feed-reader-translation.webp",
+      "https://storage.googleapis.com/secons-site-images/other/blog_images/20261114-feed-reader-semantic-search.webp",
+      "https://storage.googleapis.com/secons-site-images/other/blog_images/20261114-feed-reader-similar-articles.webp",
+      "https://storage.googleapis.com/secons-site-images/other/blog_images/20261114-feed-reader-reading-stats.webp"
+    ]
+  },
+  {
+    "id": "ec4816d8d96c79e6",
+    "title": "AI悪用の攻撃拠点、千台発見　サイトの弱点探索、不正侵入疑い",
+    "url": "https://www.47news.jp/15231027.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T14:55:47.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.47news.jp%2F15231027.html",
+    "category": "TROUBLESHOOT",
+    "summary": "# 課題と解決方法\n\n高度な人工知能を活用したサイバー攻撃の拠点が確認された。10 月以降、世界中に少なくとも千台以上のサーバーが存在する事態が明らかになった。日本の情報セキュリティー機関が海外企業との連携により調査を進めた結果、AI を悪用して弱点を探索し不正アクセスを図っていた疑いがある。従来の専門知識を持つとしても時間がかかる攻撃は、高性能 AI の登場により容易化している。サーバーは施設内構築や仮想枠組みでの運用が可能である。\n\n## 結論\n\n高度な AI を悪用したサイバー攻撃の拠点が確認された。これにより、世界中のセキュリティ対策が強化される必要があると判断される。\n\n## 方法\n\n専門機関の JPCERT コディレーションセンターが国際調査を主導し、AI ツールの稼働状況を分析した。サーバーの構成や攻撃パターンを特定することで、不正アクセスの深刻さを評価する。\n\n本文には具体的な解決策の詳細は記載されておらず、専門用語は短く説明しているため、上記の項目で要約しました。",
+    "imageUrls": []
+  },
+  {
+    "id": "f91aaf8d31347505",
+    "title": "Netflixが値上げ　最安の広告つきプランは月額990円、4K対応「プレミアム」は2590円に",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2611/14/news017.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T14:13:58.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fmobile%2Farticles%2F2611%2F14%2Fnews017.html",
+    "category": "RELEASE",
+    "summary": "# Netflix の値上げとユーザーへの影響\n\nNetflix は日本市場で月額料金を値上げし、全3プランの料金を変更しました。最安の広告つきスタンダードは890円から990円に増額され、スタンダードは1590円から1790円に引き上げられ、プレミアムは2290円から2590円に改定されました。これにより、値上げ幅は各プランに対して100円、200円、300円と増加しました。\n\n値上げ後のサービス内容は変更なしです。広告つきスタンダードはフルHD対応で同時視聴・ダウンロードは2台まで行えるため、プレミアムはUHD 4K+HDRに対応し、同時視聴が4台、ダウンロードが6台までとなります。日本での値上げは2024年10月以来約2回目であり、過去より高い料金設定です。\n\nユーザーへの影響としては、Galaxyの折りたたみ機能でiPhone Duoを使用したケースがあり、ローミング縮小による流出リスクも懸念されています。また、通信障害やシステム連携の問題など、技術的な課題も含まれます。最終的に、推奨されるのは最新のサービス内容と価格設定を参考にするべきです。",
+    "imageUrls": [
+      "https://image.itmedia.co.jp/mobile/articles/2611/14/ky5622_netf-01.png"
+    ]
+  },
+  {
+    "id": "5c62c52b7c5e2cf5",
+    "title": "JSON.parseのエラー位置はブラウザで違う。自前の検査器で行と列を出した",
+    "url": "https://zenn.dev/a1221/articles/json-error-position-own-parser",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-14T14:02:18.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--QbtmUV0n--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:JSON.parse%25E3%2581%25AE%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%25E4%25BD%258D%25E7%25BD%25AE%25E3%2581%25AF%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A7%25E9%2581%2595%25E3%2581%2586%25E3%2580%2582%25E8%2587%25AA%25E5%2589%258D%25E3%2581%25AE%25E6%25A4%259C%25E6%259F%25BB%25E5%2599%25A8%25E3%2581%25A7%25E8%25A1%258C%25E3%2581%25A8%25E5%2588%2597%25E3%2582%2592%25E5%2587%25BA%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TROUBLESHOOT",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\nこの記事は、個人開発時に壊れた JSON を処理する際に発生した問題の解決方法について報告しています。従来の「エラーメッセージ」を依存せず、位置だけを自前で抽出する検査器を構築しました。これにより、異なる環境（Node.js、Firefox、Safari など）でも同じ入力から同じ行・列を返すことが可能になりました。\n\n主な課題は、実行環境ごとに JSON の文法記述が異なるため、エラーメッセージの解釈が異なっていた点です。従来の解析方法では、位置情報が曖昧になり、どの行や列にエラーがあるか判断するのが困難でした。解決策として、JSON の文法を厳密に検証する再帰下降の検査器を採用し、最初に外れた位置を特定しました。また、入力値の形式（文字列、数値、真偽値など）の正確性を確認し、誤った位置を避けることで、安定した処理を実現しました。\n\n最終的に、環境ごとの差異を考慮して位置だけを自前で求め、標準の JSON.parse に任せるという方針を採用しました。この方法により、開発者側は環境の違いを気にする必要なく、同じ入力から同じ結果を得ることができるようになりました。また、テストの簡易性も重視し、DOM を触らない純関数で実装したことが挙げられます。\n\nこの技術は、JSON 整形ツールとして実用化され、将来的には他の言語や環境との互換性を高める重要なステップとなります。",
+    "imageUrls": []
+  },
+  {
+    "id": "8cd101099f3cbb0f",
+    "title": "「ゼロランタイムで十分」と言っていた自分へ",
+    "url": "https://zenn.dev/refirst11/articles/f4f5fb09daacd8",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-14T14:00:05.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3Q3ozC6O--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2582%25BC%25E3%2583%25AD%25E3%2583%25A9%25E3%2583%25B3%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25E3%2581%25A7%25E5%258D%2581%25E5%2588%2586%25E3%2580%258D%25E3%2581%25A8%25E8%25A8%2580%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:refirst11%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQzYTg1Y2YyNzYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：ゼロランタイム CSS の再設計と実装\n\n## 課題と技術\n開発者は、ビルド時にコンパイルされるスタイルを保持する「ゼロランタイム」の仕組みを Plumeria をベースに構築しました。しかし、既存プロジェクトへの導入やリファクタリングにおいて、コンパイラによるスタイル処理の壁が存在しました。この問題は、プロパティ単位でのマージとコンパイル時のスタイルの分離を考慮した新しい設計である「TypedCSS」を採用しました。\n\n## 結論\n実装により、ビルドコストは約 6〜8 分の 1 に減少し、マージ処理の速さは安定しています。また、テーマの扱いも変更され、エージェント向けのドキュメントと連携する仕組みが確立されました。\n\n## 方法\n課題を解決するために、コンパイラによるスタイル処理の壁を回避するため、クラス名のマップとして要素単位でマージする「TypedCSS」を採用しました。この設計は、プロパティ単位でのマージとビルド時のスタイルの分離を同時に達成します。また、ソースごと Plumeria に移るための codemod を導入し、両方の環境間の移行をスムーズにします。\n\n## 本文記載なし\n本文には具体的な技術用語や詳細なデータは記載されていませんが、専門用語は短く説明しています。",
+    "imageUrls": []
+  },
+  {
+    "id": "4f783f1fe8d2435d",
+    "title": "モジュール ‘./utils/calcTotalTime.js’ の宣言ファイルが見つかりませんでした エラー",
+    "url": "https://qiita.com/yukmaru/items/e17241f4689a824ae338?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T13:14:29.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "3e7b67b9f779d3f1",
+    "title": "expo-sensors でスマホを伏せたかを判定する",
+    "url": "https://zenn.dev/yamauz/articles/32fba5b984b672",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-14T12:58:39.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--gIfp2Oo9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:expo-sensors%2520%25E3%2581%25A7%25E3%2582%25B9%25E3%2583%259E%25E3%2583%259B%25E3%2582%2592%25E4%25BC%258F%25E3%2581%259B%25E3%2581%259F%25E3%2581%258B%25E3%2582%2592%25E5%2588%25A4%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2584%25E3%2581%25BE%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI1MmFhMTU3ODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "GENERAL",
+    "summary": "開発者側は、iPhone 17 の端末で「スマホを伏せると止まり、手に取ると鳴る」機能を実装しました。このアプリは、iOS の Accelerometer を利用して端末の重力方向を測定し、浮き状態を判定します。ただし、単純な判定では Siri や環境による振動により誤判が発生する可能性があります。\n\n解決策として、以下の工夫が導入されました。まず、振動時の値の乱れを防ぐため、120 BPM の振動時に条件を再確認する仕組みと、最初から浮き状態を認識しないように設計しました。また、手を取るタイミングを明確にすることで、誤判を避けるよう調整しました。最後に、ロック中の機能も正常に動作するように設定し、音の発音時に停止・開始機能を制御します。\n\nこの技術は、開発者が実際に体験した課題を解決し、より信頼性の高いアプリの実装に貢献しています。",
+    "imageUrls": []
+  },
+  {
+    "id": "c006ed80baeb51b6",
+    "title": "「すげぇ！教科書とかで見たフロッピーや！！これで容量どれくらいあるんですか？」若者のほのぼのとした感想がぶっ刺さるネット民",
+    "url": "https://togetter.com/li/2770437",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T12:54:13.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2770437",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに自然な日本語で要約します。\n\n**テーマ：フロッピーの容量と使い方の解説**\n\n本文では、ユーザーが「教科書」などで見たフロッピーの容量や機能について議論が寄せられています。特に、2HD フロッピーの容量に関する疑問が中心です。文章では、ハードディスクの仕様やデータ記述の仕組みについて説明されています。\n\n具体的には、1 セクターのデータ長として 1.44MB と明記されており、実際の使用量は異なります。また、FDD（フロッピーディスクドライブ）の選び方や、フォーマットの違いについても解説されています。ユーザーは、スマホでの保存容量や、他のハードウェアとの比較について疑問を raised しています。\n\n結論として、2HD フロッピーは約 1.44MB の記憶容量を持ちます。しかし、実際の使用量はデータ記述の形式によって異なります。また、USB 接続時の規格確認や、異なるフォーマットによる容量の違いについても重要な注意が必要です。\n\n**結論：フロッピーの容量は 1.44MB です**\n**方法：FDD の仕様を確認し、フォーマットの違いを理解する**\n**本文に情報がない項目は「本文に記載なし」とします**",
+    "imageUrls": [
+      "https://s.tgstc.com/static/web/p.gif"
+    ]
+  },
+  {
+    "id": "4e7c439ad15bac42",
+    "title": "Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO",
+    "url": "https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T12:48:25.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdev.classmethod.jp%2Farticles%2Fcognito-self-signup-agentic-attack%2F",
+    "category": "RELEASE",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n**テーマ：記事が扱う課題や技術は何か**\nこの文章は、S3 のフロントエンドと AWS Cognito のユーザープールを組み合わせた攻撃パターン（ARTEX）の調査報告です。Datadog Security Labs が 2026 年 11 月 9 日に報告したことで、AI エージェントが公開されたユーザープールにサインアップを試み、認証情報を交換する脆弱性を指摘しています。特に、S3 のオブジェクト操作や AWS 一時認証情報の探索を通じて、攻撃の連鎖が確認されました。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\nこの構成は攻撃利用可能な設定であり、セキュリティリスクがあります。自前でユーザープールを管理する必要があると推奨され、管理者の権限設定を慎重に調整する必要があります。特に、認証済みロールの権限設定や、S3 のバケット一覧などの監視イベントを適切に管理することが重要です。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n課題は、AI エージェントが公開されたユーザープールにサインアップを試み、認証情報を交換する問題です。これを解決するには、ユーザープールの自己サインアップ設定（AllowAdminCreateUserOnly）を適切に調整し、アプリクライアントの ID プールを正確に取得する必要があります。また、CloudTrail の監視イベントを監視し、Deytaiベントの有効化や、S3 のバケット一覧などのアクセス制御を強化することが推奨されます。\n\n本文には情報がない項目は推測せず「本文に記載なし」とします。",
+    "imageUrls": []
+  },
+  {
+    "id": "db0f0235180bc720",
+    "title": "あなたのAIはまだ、「ものの調べ方」を知らない。──調査スキル「imozuru」を作ってバズった話",
+    "url": "https://qiita.com/BaspisKawaE/items/933b883e4585ebd59299?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T12:14:20.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：AI 結果の不足と情報探索スキルの仕組み\n\n## 課題と結論\nAI が回答を不足している場合、従来の検索手法の効率化ではなく、人間の知見を補完する「情報探索」の仕組みを再構築する必要がある。このスキルは、AI の回答を信頼し、人間の知識を統合する新たなアプローチを提供する。\n\n## 方法\n開発者は、AI のデフォルト検索フローを分析し、その欠点を特定した。従来の手順を改変し、人工知能を活用した情報探索のループを設計した。具体的な手順は、検索キーワードを定義し、専門用語や論文を検索することで、知識を蓄積する仕組みである。\n\n## 実践注意点\n導入前に、AI の回答と人間の知見の比較を行い、どの手順が効果的か確認する必要がある。また、既存の AI 検索ツールとの違いを明確に理解し、独自の探索フローを採用する必要がある。このスキルは、情報探索の専門家としての知識を基盤とし、より効率的な学習プロセスを提供する。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4362099%2Fb61dc8ca-946e-487d-9956-27786128a482.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=025393983b53401fc15f627c7818aca0",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4362099%2F895ee326-9805-426c-9aca-50daa43d6677.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=114b6751dafb1e349ead9546a677742b",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4362099%2Fcc54433f-278f-4514-b464-4b70e1762f4d.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ed5e37ea737e35be5789476e35dbe995",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4362099%2F6ba65baa-fc99-4fe9-8f1c-16515e7ac06f.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9fca3bb2ab166ff28ba10a5f9f6dda4b"
+    ]
+  },
+  {
+    "id": "a7e22e25b09e8621",
+    "title": "agentgatewayで始めるMCP管理",
+    "url": "https://qiita.com/licux/items/cd639f2ae807b35b6697?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-14T10:49:51.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：MCP サーバーのゲートウェイ活用と設定\n\n開発者は、複数の MCP サーバーを管理する際に接続数の増加に伴う管理コストを考慮する必要があります。 agentgateway は、この課題を解決するためにクライアントからの接続をゲートウェイ経由で仲介するサービスを提供しています。LLM と MCP の通信を最適化する上で重要な役割を果たします。\n\n## 課題と解決方法\n複数の MCP サーバーを連携させるためには、直接接続するのではなく、ゲートウェイを通じて制御する必要があります。これにより、監視やトラフィックの管理が容易になります。特に、組織統制が必要な場合、すべてのクライアントとサーバー間の接続を管理することは現実的ではありません。\n\n## 手順と仕組み\n1. **インバウンド認証**: MCP サーバーとの通信を開始する際に、クライアントから認証情報を取得します。\n2. **OAuth 3LO 認証**: GitHub MCP サーバーのアクセス権限を OAuth で管理し、クライアントに登録します。\n3. **設定ファイル**: gateway の起動時に、ポート番号や接続先のパスを YAML ファイルとして指定します。\n\n## 実践的な注意点\n- リポジトリ作成時に、問題解決のための Issue を作成してください。\n- クライアントの権限設定は、開発段階で調整する必要があります。\n- 環境構築には Docker や Helm を使用することが推奨されます。\n\nこの構成により、複数の MCP サーバーを安全かつ効率的に管理できます。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F367655%2F8714d325-b4fa-4b1e-9be1-12569d24e8d5.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=bab04d6c138f4f0c82f46b82e9a2d9c9",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F367655%2Ffe90d4df-5d2e-4e59-8b44-32d002bf1b08.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a36c55fa33fa81e0cef2123ac248f073",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F367655%2F417be911-25b3-4569-9727-958075bc5afc.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d60c23811a0253b004fa8a85df64125a",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F367655%2Fcf32c230-1725-476e-82db-f63772420afb.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=df35b1a5b4de37266bd37af6d9e912de",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F367655%2F6da6f5dd-3bf9-4980-b971-f7244fa960e8.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ae7526ea235ffcfcea9504fc272019ca",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F367655%2Fdd157d37-4e1f-444b-8291-8531a0cb2e7a.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=eced5781e5bc7523523434029c2aba85",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F367655%2F0f561bc7-5043-44a3-8813-d1dca8bbe28e.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b516aafc48bec0a00db1283beb9b064d",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F367655%2F8d75ba48-3e6b-4818-b8d4-5b529770b32e.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=3ee6db1481c5c2a717f0a9d959fe2820",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F367655%2F9ef84f03-30bd-4afc-ad39-9608b24343f3.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e9cef2ad71561017b0df7a451b492998",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F367655%2F40e9e09e-b715-47d1-a791-81820eb929bc.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=716c1240b1cb339d4cefe6d7ede429cd"
+    ]
+  },
+  {
+    "id": "8fde7d88708ccad3",
+    "title": "AI電話応対の会話フローを状態遷移で設計する：受付→ヒアリング→取次ぎ・要約まで",
+    "url": "https://zenn.dev/ai_sns_io/articles/fba438525e7ca4",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-14T10:28:18.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--mxDWv3If--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E9%259B%25BB%25E8%25A9%25B1%25E5%25BF%259C%25E5%25AF%25BE%25E3%2581%25AE%25E4%25BC%259A%25E8%25A9%25B1%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%2592%25E7%258A%25B6%25E6%2585%258B%25E9%2581%25B7%25E7%25A7%25BB%25E3%2581%25A7%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259A%25E5%258F%2597%25E4%25BB%2598%25E2%2586%2592%25E3%2583%2592%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E2%2586%2592%25E5%258F%2596%25E6%25AC%25A1%25E3%2581%258E%25E3%2583%25BB%25E8%25A6%2581%25E7%25B4%2584%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:AI-SNS.IO%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVlMTRkYjI5NDIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "AI 電話応対において、LLM を直接会話させるだけでは聞き漏れや自動予約による事故が発生しやすい課題を解決する本記事は、状態遷移（ステートマシン）の設計に基づいています。音声認識と合成の製品選択には依存せず、コードの骨格として統一されたアプローチです。\n\n conversational flow を制御するため、各用途ごとに必須スロットを定義し、LLM は抽出のみを任せることで聞き漏れを防ぎます。話話は「聞き取り」を優先し、最終的に「確定」や「手渡し」などの状態へ遷移させます。特に、AI が約束しない締まり方を明確にすることで、信頼関係を築くことができます。また、緊急用語や顧客の反応パターンをコードで明示し、自動化された処理と人工判断のバランスを図っています。\n\n最終的に、要約は JSON スキーマで固定し、後工程につなぐためのガイドとして提供されています。運用効率化のために、時間帯切り替えや記録保存期間などのルールを 4 つのルールとして定義し、導入効果の計算モデルも組み込まれています。この設計により、現場と合意しやすくなるだけでなく、自動化された処理と人工判断の最適バランスを実現しています。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/0e71d0f0de89-20261114.jpg",
+      "https://static.zenn.studio/user-upload/c97cfed06b45-20261114.jpg"
+    ]
+  },
+  {
+    "id": "e70ea68fc7ff3226",
+    "title": "AIについての追記",
+    "url": "https://www.ms.u-tokyo.ac.jp/~konno/grad_ai.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-14T10:13:39.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.ms.u-tokyo.ac.jp%2F~konno%2Fgrad_ai.html",
+    "category": "GENERAL",
+    "summary": "# 課題と結論\n\n**課題**: AI を導入した数学教育における「体験的学習」の必要性と「理解の定義」の曖昧さ。\n結論：AI は数学の理解を強化する手段であり、しかし「身体的な数学体験」を完全に置き換えることはできない。最終的な目標は、人間の生物学的な経験に基づいた深い理解を達成することである。\n方法：AI を学習の補助として活用し、自己の経験や理解を深めることで、数学的現象を実感する過程を促す。\n\n本文では、AI の導入により数学学習の効率化と効率化の限界が議論されている。特に、AI が「計算」だけでなく、「体験」を提供できる点について、専門用語は短く説明される。文章の全体として、数学の理解を深めるための具体的な行動や、AI の役割について結論付けられている。",
+    "imageUrls": []
+  },
+  {
     "id": "720e9819e3d11799",
     "title": "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
     "url": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
@@ -1175,6 +1968,15 @@
     "publishedAt": "2026-11-13T08:13:05.000Z",
     "status": "pending",
     "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--0hCrl_zL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590GAS%25E3%2581%25A8VertexAI%25E3%2581%25A8LangChain%25E3%2580%2591%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E3%2581%25A7%25E3%2582%2582%25E5%258B%2595%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E6%25A7%258B%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25B8%25E3%2581%2584%25E3%2581%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA3ODlkYTQ2NWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25BA%2520AI%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2591%25E3%2583%258B%25E3%2583%25BC%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRlNTczY2Y0MzIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "db6f4da137baca05",
+    "title": "Haru-4B: 低遅延・多言語の全二重連続音声対話基盤モデル",
+    "url": "https://blog.higurashi.ai/melte/haru4b-ja/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T08:10:34.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.higurashi.ai%2Fmelte%2Fharu4b-ja%2F"
   },
   {
     "id": "a0358d304ec20190",
