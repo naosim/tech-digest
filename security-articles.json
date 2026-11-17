@@ -1,5 +1,26 @@
 [
   {
+    "id": "feac588080d7d2ff",
+    "title": "プリザンターにおける複数の脆弱性",
+    "url": "https://jvn.jp/jp/JVN02242982/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-17T06:00:00.000Z"
+  },
+  {
+    "id": "8d38031a3dedc78f",
+    "title": "エレコム製無線LANルータにおける複数の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU91615135/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-17T05:45:00.000Z"
+  },
+  {
+    "id": "3a146e7263ce8d2c",
+    "title": "エレコム製無線LANルータにおけるOSコマンドインジェクションの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU92504317/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-17T05:30:00.000Z"
+  },
+  {
     "id": "a7f4e20f04d00f6d",
     "title": "複数製品におけるmacOS（APFS）とのUnicode正規化不整合によるファイルアクセス制限回避の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU93605944/",
