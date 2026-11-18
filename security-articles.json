@@ -1,5 +1,194 @@
 [
   {
+    "id": "d45ed747bb9a7c7e",
+    "title": "Weekly Report: N-able N-centralに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#1",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "9b9028f39f60f569",
+    "title": "Weekly Report: ImageMagickを利用したアプリケーションに任意のファイルの読み書きなどにつながる脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#2",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "8ce7345ff00f95e7",
+    "title": "Weekly Report: Synology DiskStation Managerに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#3",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "491b7bfa28d7b7c9",
+    "title": "Weekly Report: 複数のApple製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#4",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "a870d16f8be0ad91",
+    "title": "Weekly Report: PostgreSQLに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#5",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "70fe8c66e82f5ceb",
+    "title": "Weekly Report: Apache HTTP Server 2.4に複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#6",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "d8c46efb5a2b0989",
+    "title": "Weekly Report: 複数のIntel製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#7",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "4f8ca0c12dedf2ed",
+    "title": "Weekly Report: Movable Typeにコードインジェクションの脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#8",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "03dd8127da6dc945",
+    "title": "Weekly Report: OpenSSLに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#9",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "7564fd8502ef9a90",
+    "title": "Weekly Report: React Server Componentsに任意のコード実行につながる脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#10",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "2354ed9894e58af1",
+    "title": "Weekly Report: Node.jsに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#11",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "51ca71d815d6b426",
+    "title": "Weekly Report: MongoDBに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#12",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "27331c0287dc2a56",
+    "title": "Weekly Report: 複数のPalo Alto Networks製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#13",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "2d88fbe1770456a2",
+    "title": "Weekly Report: Atlassian Confluence Data Centerに任意のコード実行の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#14",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "d0e8c97920ac3540",
+    "title": "Weekly Report: Gitに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#15",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "ad73009cfe95ab46",
+    "title": "Weekly Report: 複数のAdobe製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#16",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "10be754e626ad0f8",
+    "title": "Weekly Report: 複数のIvanti製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#17",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "4083f3fcb09c5444",
+    "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#18",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "180af52bdc0fe132",
+    "title": "Weekly Report: 複数のFortinet製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#19",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "9270f3ed9b54db22",
+    "title": "Weekly Report: Google Chromeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#20",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "672e0231cde91c1f",
+    "title": "Weekly Report: SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#21",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "8e366afe3f756d80",
+    "title": "Weekly Report: WebSAM WinShareにおける複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#22",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "89669ccb2beb5b69",
+    "title": "Weekly Report: KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#23",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "489769b07edfa015",
+    "title": "Weekly Report: JPCERT/CCが「インシデント調査報告書チェックリスト」を公開",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#24",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "5cb80a5eb1d86b26",
+    "title": "Weekly Report: 複数のマイクロソフト製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261118.html#25",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-18T00:15:00.000Z"
+  },
+  {
+    "id": "06d3b993325d0b05",
+    "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月17日）",
+    "url": "https://jvn.jp/vu/JVNVU96847970/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-18T00:00:15.000Z"
+  },
+  {
+    "id": "0407a222423db952",
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月17日）",
+    "url": "https://jvn.jp/vu/JVNVU99888632/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-18T00:00:00.000Z"
+  },
+  {
     "id": "feac588080d7d2ff",
     "title": "プリザンターにおける複数の脆弱性",
     "url": "https://jvn.jp/jp/JVN02242982/",
