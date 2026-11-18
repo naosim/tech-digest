@@ -1,5 +1,656 @@
 [
   {
+    "id": "d8dd4c89357cf3fb",
+    "title": "蒸気タービンとは？｜ターボ機械協会",
+    "url": "https://www.turbo-so.jp/turbo-kids5.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T07:23:00.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.turbo-so.jp%2Fturbo-kids5.html"
+  },
+  {
+    "id": "e514178af6197082",
+    "title": "Google「Gemini Notebook」、業務ツールを生成できる新機能",
+    "url": "https://japan.cnet.com/article/35254996/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T07:22:06.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254996%2F"
+  },
+  {
+    "id": "31c83777ac17cd74",
+    "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
+    "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T06:39:54.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fandoshin11%2Farticles%2Fba68b39ef9a8ce"
+  },
+  {
+    "id": "230c7235a5981185",
+    "title": "NVIDIA、CEO 交代に関するお知らせ",
+    "url": "https://blogs.nvidia.co.jp/blog/nvidia-announces-ceo-transition/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T06:39:50.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblogs.nvidia.co.jp%2Fblog%2Fnvidia-announces-ceo-transition%2F"
+  },
+  {
+    "id": "4861a62d04d580b4",
+    "title": "シャープ「AQUOS sense11」発表・26日発売、約157gの薄型ボディに6年セキュリティ更新対応",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2154453.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T06:33:06.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fnews%2F2154453.html"
+  },
+  {
+    "id": "96260051b6842a13",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 47",
+    "url": "https://qiita.com/maskot1977/items/eaf4d8c547c3cfe8d8bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-17T06:22:54.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "a831405bac7bcdb2",
+    "title": "耳で聞く！ システム設計 視点の 行動経済学 7",
+    "url": "https://qiita.com/maskot1977/items/6327d215b585169aaa64?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-17T06:07:47.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "44970b5b0da7b1b9",
+    "title": "マイクロソフトの幹部、大規模障害を引き起こした3つの原因を公表",
+    "url": "https://japan.zdnet.com/article/35254976/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T06:00:50.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.zdnet.com%2Farticle%2F35254976%2F"
+  },
+  {
+    "id": "9080f5da7d72099f",
+    "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい - Qiita",
+    "url": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T05:33:02.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Fnuco_d%2Fitems%2Fb279477cbcdbe5921abd"
+  },
+  {
+    "id": "5cdebc20b341356a",
+    "title": "ChatGPTやClaudeがMacを操作する時代に--Appleが「macOS 27.3」で対応強化",
+    "url": "https://japan.cnet.com/article/35254992/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T05:32:03.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254992%2F"
+  },
+  {
+    "id": "3888fe10ab442c60",
+    "title": "shadcn/ui × Tailwind CSS v4 移行ガイド ─ v3からの変更点と詰まりポイントを完全解説",
+    "url": "https://zenn.dev/correlate_dev/articles/shadcn-tailwind-v4",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-17T05:27:32.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--FEi9WHRA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:shadcn%252Fui%2520%25C3%2597%2520Tailwind%2520CSS%2520v4%2520%25E7%25A7%25BB%25E8%25A1%258C%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2520%25E2%2594%2580%2520v3%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AE%25E5%25A4%2589%25E6%259B%25B4%25E7%2582%25B9%25E3%2581%25A8%25E8%25A9%25B0%25E3%2581%25BE%25E3%2582%258A%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E5%25AE%258C%25E5%2585%25A8%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2583%25A8%25E3%2582%25B3%25E3%2582%25BF%25E3%2583%258A%25E3%2582%25AA%25E3%2583%25A4%25EF%25BD%259Ccorrelate%2520d...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B3%25E3%2583%25A9%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%2588%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E9%2596%258B%25E7%2599%25BA%25E9%2583%25A8%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q0YTQyMTFmOWQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "016a151ee7c8d71d",
+    "title": "GenBGTに「交通・宿泊だけ非公開」にする機能を追加",
+    "url": "https://zenn.dev/may04re/articles/a16ca08120dfac",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-17T05:25:52.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--UNs1aYLA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GenBGT%25E3%2581%25AB%25E3%2580%258C%25E4%25BA%25A4%25E9%2580%259A%25E3%2583%25BB%25E5%25AE%25BF%25E6%25B3%258A%25E3%2581%25A0%25E3%2581%2591%25E9%259D%259E%25E5%2585%25AC%25E9%2596%258B%25E3%2580%258D%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E6%25A9%259F%25E8%2583%25BD%25E3%2582%2592%25E8%25BF%25BD%25E5%258A%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:May%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxNTcwMGZkMmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "d2b2930444a759f1",
+    "title": "Google Project Zero、脆弱性の開示期限を段階的に30日へ短縮／AIで発見・悪用が高速化、パッチ展開の猶予や大半の特例を廃止",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2156900.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T05:08:15.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2156900.html"
+  },
+  {
+    "id": "87f7d195eb908dfb",
+    "title": "OpenAIが児童ポルノ検出ツールを開発し監視団体に提供開始",
+    "url": "https://gigazine.net/news/20261117-openai-child-safety/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T05:06:32.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261117-openai-child-safety%2F"
+  },
+  {
+    "id": "04c88f87154bdf60",
+    "title": "内製 Background Agent “haro”に アラート対応を任せたら 回すたびに賢くなっていった - LayerX エンジニアブログ",
+    "url": "https://tech.layerx.co.jp/entry/haro-alert-loop",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T04:20:36.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftech.layerx.co.jp%2Fentry%2Fharo-alert-loop"
+  },
+  {
+    "id": "6ef7e0b7cfaed940",
+    "title": "dbt + DuckDBでSQL集計をローカルで動かしてみる",
+    "url": "https://qiita.com/take-yoda/items/e24e62ba5a4ad4d84c0f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-17T04:09:18.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "5b8851a8c6f064c0",
+    "title": "「子孫へのツケ」は誰が受け取るのか——純債務・危機比較・世代間会計 : システム設計視点の行動経済学 (64)",
+    "url": "https://qiita.com/maskot1977/items/00673a33a7f6f0888ed9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-17T03:40:06.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "34ff9c6a72e6953d",
+    "title": "ドコモ通信障害 藤井総務相「大変遺憾」原因究明求める | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261117de76976",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T03:17:11.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261117de76976"
+  },
+  {
+    "id": "689a6e44bba1ae03",
+    "title": "越境ECの注文取消・住所変更を「倉庫のリリースポイント」で判定する状態設計メモ",
+    "url": "https://zenn.dev/commonlens/articles/35441399f5a168",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-17T03:17:01.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--O0EKjnQj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25B6%258A%25E5%25A2%2583EC%25E3%2581%25AE%25E6%25B3%25A8%25E6%2596%2587%25E5%258F%2596%25E6%25B6%2588%25E3%2583%25BB%25E4%25BD%258F%25E6%2589%2580%25E5%25A4%2589%25E6%259B%25B4%25E3%2582%2592%25E3%2580%258C%25E5%2580%2589%25E5%25BA%25AB%25E3%2581%25AE%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588%25E3%2580%258D%25E3%2581%25A7%25E5%2588%25A4%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%25E7%258A%25B6%25E6%2585%258B%25E8%25A8%25AD%25E8%25A8%2588%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Common%2520Lens%2520Insights%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0pLMjhSMVE3TWJDZWdXUmhMdDlwUHhCblpja1plNjdpTUpUdC0yN3QteWt1U3NBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "4b853a2faf40f4c8",
+    "title": "AI に書かせたテストは、どれだけ穴を見つけるのか。Claude Code・Codex・Gemini CLI のテストを変異テストで48回採点したら、95%以上を見抜き、仕様を渡すと点が下がった",
+    "url": "https://qiita.com/suwa_nobu/items/faf0d787a602cc5ec74c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-17T03:05:14.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e17dcaf931f380f4",
+    "title": "【初投稿】「最近どう？」を卒業しよう！180cm95kg・青髪・ヒゲ面のインフラ中間管理職が1on1で意識している11の工夫",
+    "url": "https://qiita.com/human_hub_T/items/439bda5ea9234b7d9013?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-17T02:34:02.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1901240ddb9cbc09",
+    "title": "LLMが出力した「壊れたJSON」を自動修復し、TypeScript型定義とJSON Schemaを即時生成するブラウザ完結ツールの実装",
+    "url": "https://zenn.dev/t_shamoji/articles/6a09a0d9b9586e",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-17T02:05:56.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ENFKOyVR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLM%25E3%2581%258C%25E5%2587%25BA%25E5%258A%259B%25E3%2581%2597%25E3%2581%259F%25E3%2580%258C%25E5%25A3%258A%25E3%2582%258C%25E3%2581%259FJSON%25E3%2580%258D%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E4%25BF%25AE%25E5%25BE%25A9%25E3%2581%2597%25E3%2580%2581TypeScript%25E5%259E%258B%25E5%25AE%259A%25E7%25BE%25A9%25E3%2581%25A8JSON%2520Schema%25E3%2582%2592%25E5%258D%25B3%25E6%2599%2582%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%25E3%2583%2596...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2582%2583%25E3%2582%2582%25E3%2581%2598%25E5%25A4%25AA%25E9%2583%258E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdhOTAwYjNlZDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "28a024ec48f5d229",
+    "title": "New Relicのユニットエコノミクスでビジネスの成長とクラウドコスト最適化を両立しよう！",
+    "url": "https://qiita.com/ashimada83/items/c609ed38e53225c1eba6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-17T01:08:34.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "00f4d2731ca824bd",
+    "title": "AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2156904.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T01:04:18.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2156904.html"
+  },
+  {
+    "id": "1ea366b612fb3bbf",
+    "title": "メルカリ×VercelのVPが実例をもとに、AI投資を語る。「AI Engineering Summit Tokyo 2026」追加登壇者を発表！ | ニュース | ファインディ株式会社(Findy Inc)",
+    "url": "https://findy.co.jp/4671/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T01:02:50.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ffindy.co.jp%2F4671%2F",
+    "category": "RELEASE",
+    "summary": "AI 投資におけるコスト管理と効果測定について、OpenAI の FDE とメルカリ×Vercel の対談セッションが決定しました。このカンファレンスでは、組織内の AI 導入・活用推進のニーズを踏まえ、特定の役割の調査を実施し、チームや組織への導入支援を重視するセッションを実行します。また、開発プロセスへの AI 活用と組織全体の AI 活用の展開について、実践的な事例を紹介します。\n\n参加者の約半数がチーム・組織への AI 導入・活用推進を担っていることが明らかになりました。これらの実装者やリーダーの役割を調査し、組織全体への AI 活用の戦略を提案するセッションを実施します。また、開発ツール選定やエージェント設計など、技術的な課題を解決するための具体的な方法と事例も提示されます。\n\n開催は 2026 年 12 月 14 日〜15 日まで行われ、オフラインおよび一部オンライン配信が行われます。参加者は企業属性や役職に合わせたセッションに参加できます。ファインディ株式会社は、開発ツールやエージェントの導入を検討するユーザーに対し、実際の経験に基づいたレビューを提供し、導入検討を支援するプラットフォームとして機能しています。",
+    "imageUrls": []
+  },
+  {
+    "id": "1bd9c5dcbb27fa0d",
+    "title": "Breaking change: Japanese Calendar minimum supported date corrected - .NET",
+    "url": "https://learn.microsoft.com/en-us/dotnet/core/compatibility/globalization/11/japanese-calendar-min-date",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T00:59:20.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fdotnet%2Fcore%2Fcompatibility%2Fglobalization%2F11%2Fjapanese-calendar-min-date"
+  },
+  {
+    "id": "30f0feceb4352a8b",
+    "title": "部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい",
+    "url": "https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-17T00:58:19.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "944ee292901ef791",
+    "title": "Google日本語入力が不満な人へ、Windows/Mac対応国産ソフト「もずきー」登場。遅延付きライブ変換とAI文脈補正を搭載、使うほど学習し自分好みに（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+    "url": "https://www.techno-edge.net/article/2026/11/17/5737.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T00:51:29.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.techno-edge.net%2Farticle%2F2026%2F11%2F17%2F5737.html"
+  },
+  {
+    "id": "1a2bcbc381d604b4",
+    "title": "Microsoft 365大規模障害、Outlookだけ復旧が遅れた理由とは　同社説明",
+    "url": "https://japan.cnet.com/article/35254971/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-17T00:08:33.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254971%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Microsoft 365 障害の根本原因と対策\n\n## 課題と技術\nMicrosoft 365 の大規模障害は、ネットワークゲートウェイの内部処理不具合と通信負荷の増加が重なり、 servers が応答不能に陥ったという問題です。この問題は、7 月に展開された修正プログラムに潜んでいた不具合と、通信パターンの変化、そしてサーバ容量の減少が重なった要因によるものです。\n\n## 結論\n障害は初期に解決しましたが、数カ月後表面化し、基盤全体の波及影響を及ぼしました。最終的には、従来の自動復旧や直前の切り戻しでは元に戻せなかったため、Microsoft は新しい処理を構築する方針を示しています。\n\n## 方法\n主な解決策として、通信負荷の増加とサーバー容量の減少を考慮した運用調整が行われました。特に Teams の通信パターンの変更により、主要なゲートウェイの接続が切り替わりました。また、基盤を複数の区画に分け、障害の波及を防ぐ仕組みが機能しないため、システム全体の復旧が困難になりました。最終的に、以前の正常な状態に戻す更新を作成し、順次サービスに戻り、再試行錯誤を行いました。\n\n本文には具体的な技術用語や詳細な手順は記載されていませんが、基本的な仕組みと対策の概要が述べられています。",
+    "imageUrls": [
+      "https://japan.cnet.com/storage/2026/11/17/0afb1b3f16fe1d5b59e550f5c44a0990/body-01.jpg"
+    ]
+  },
+  {
+    "id": "f145882f17634434",
+    "title": "Mermaidで頭打ちになった図を、自前SVGで描き直した（GitHub Actions）",
+    "url": "https://zenn.dev/a1221/articles/github-actions-diagram-custom-svg",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-16T23:45:35.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--6s2o2HxU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Mermaid%25E3%2581%25A7%25E9%25A0%25AD%25E6%2589%2593%25E3%2581%25A1%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E5%259B%25B3%25E3%2582%2592%25E3%2580%2581%25E8%2587%25AA%25E5%2589%258DSVG%25E3%2581%25A7%25E6%258F%258F%25E3%2581%258D%25E7%259B%25B4%25E3%2581%2597%25E3%2581%259F%25EF%25BC%2588GitHub%2520Actions%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "9a8e4edb4f2c2d3b",
+    "title": "フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか",
+    "url": "https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd",
+    "source": "Zenn (playwright)",
+    "publishedAt": "2026-11-16T23:00:05.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--xLpiDbX8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%2520logic%2520%25E3%2581%25A8%2520UI%2520%25E3%2581%25AF%25E3%2580%2581%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E8%25B2%25AC%25E4%25BB%25BB%25E7%25AF%2584%25E5%259B%25B2%25E3%2581%25A7%25E5%2588%2586%25E3%2581%2591%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:mizumoto%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2I3NDdiNWU1YTcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B9%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%259E%25E3%2583%258D%25E3%2582%25B8%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%2588KUA%2520%25E4%25BA%25AC%25E9%2583%25BD...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdjMzE3MTUwN2YuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "79805b3584e8b06c",
+    "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因　負荷増と容量減が重なり世界に波及",
+    "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T22:24:29.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F17%2F2000003245%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\n米Microsoftは、サーバーの負荷増加と処理能力低下により世界規模に連鎖したMicrosoft 365の大規模障害を公表しました。この障害は、ネットワークゲートウェイの機能性が低下し、通信が正常に回復するまでの時間がかかりました。\n\n## 方法\n\n主な問題は、特定の負荷条件下でのサーバー応答の欠如と、複数の要因の重なりによる問題です。\n1. **ロック競合**：複数の処理が同じ資源を取り合う不具合。\n2. **負荷増加**：独立したネットワークゲートウェイシステム間の切り替えによる通信パターンの変動。\n3. **サーバ容量の減少**：ゲートウェイのサーバ利用率が低下した原因。\n\nこれらの要因が重なり、自動化機能の限界を越え、 servers の80％以上が応答しなくなったという結果となりました。\n\n## 結論\n\nMicrosoft は、従来の自動復旧機能の限界を克服するため、グループ単位で切り離して更新と再起動を段階的に実施する戦略を採用しました。これにより、世界規模に連鎖した障害は再発しないよう対策を講じました。\n\n## 方法\n\n課題を解決するために、ネットワークゲートウェイの機能性を補強し、サーバーの容量を確保する戦略が採用されました。\n- 特定の負荷条件下でのサーバー応答の欠如を回避するため、新しい修正プログラムを導入しました。\n- 負荷増加を防ぐため、独立したゲートウェイシステム間の切り替えを管理します。\n- サーバー容量の低下を補うため、グループ単位で更新と再起動を行う方法を採用しました。\n\nこのアプローチにより、顧客への影響は最小化し、サービスへの信頼回復を図りました。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/17/2000003245/10012273/728"
+    ]
+  },
+  {
+    "id": "409f89909fdf3d41",
+    "title": "APEXlangでVibe Coding：ADBの機能を組み合わせて、都バスの運行を可視化してみた",
+    "url": "https://qiita.com/araidon/items/a18e9556db3297b7f790?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-16T22:19:10.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1ca35baa0b64773a",
+    "title": "AWSインシデント対応の段階的隔離戦略を考えてみた | DevelopersIO",
+    "url": "https://dev.classmethod.jp/articles/aws-incident-response-phased-isolation/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T22:02:59.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdev.classmethod.jp%2Farticles%2Faws-incident-response-phased-isolation%2F"
+  },
+  {
+    "id": "ce81fe17763ecbb8",
+    "title": "TypeScript で書くポジションサイズ計算(損切りから逆算する)",
+    "url": "https://zenn.dev/copytop/articles/c128986a665f8a",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-16T21:55:46.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s---UP9XsSY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:TypeScript%2520%25E3%2581%25A7%25E6%259B%25B8%25E3%2581%258F%25E3%2583%259D%25E3%2582%25B8%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25BA%25E8%25A8%2588%25E7%25AE%2597%2528%25E6%2590%258D%25E5%2588%2587%25E3%2582%258A%25E3%2581%258B%25E3%2582%2589%25E9%2580%2586%25E7%25AE%2597%25E3%2581%2599%25E3%2582%258B%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:diogenicious%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "# ポジションサイズの計算とリスク管理\n\nこの記事は、トレードの損切り戦略におけるポジションサイズを正確に計算する方法について解説しています。特に、口座の固定割合を失うリスクを避けるための計算式が提供されています。\n\n## 課題と解決方法\nポジションサイズの計算は、損切りの位置によってポジションの大きさを決定する重要な問題です。特に、入力のバリデーションや浮動小数点の扱いが正確に処理されることで、誤った計算を防ぐことができます。\n\n計算の仕組みは以下の通りです：\n- 損失計算式：riskAmount = account × riskPct / 100\n- 損失単位：lossPerCoin = |entry - stop|\n- ポジションサイズ：quantity = riskAmount / lossPerCoin\n- 決済通貨建て：notional = quantity × entry\n\nこの計算により、損切りまでの距離がポジションサイズを決めることができます。損切りがエントリーより下ならロング、上ならショートです。\n\n## 推奨方法と注意点\n1. **入力チェック**: account, entry, stop が正数であるか確認し、エラーを投与しないよう設計されています。\n2. **浮動小数点の注意**: 二進浮動小数点では精度が問題になるため、表示時に丸めるのではなく計算全精度で行います。\n3. **レバレッジの判断**: leverageNeeded を確認し、1を超える場合はポジションが大きくなりすぎないよう注意が必要です。\n\n## 重要な注意点\n- 流動性の薄い市場では価格が損切りを飛び越えることがあり、実際の損失は想定以上の大きくなります。\n- 計算結果は「予定した損失」ではなく「最大の損失」と解釈する必要があります。\n- この情報は投資助言ではありません。リスクの高い取引を行う場合は専門家のアドバイスを得ることをお勧めします。",
+    "imageUrls": []
+  },
+  {
+    "id": "91b2b8824e33e24e",
+    "title": "宇宙通信の容量限界を「光」で解決するNTT、衛星間通信や光地上局を開発へ　宇宙データセンターも",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2156875.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T21:51:05.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fnews%2F2156875.html",
+    "category": "RELEASE",
+    "summary": "# 宇宙通信の課題と解決策\n\nNTT は、地球観測と宇宙通信の両方を統合する「Space AIOWN構想」を実現する目標を掲げています。増加するデータ量とリアルタイム性の要求により、衛星間の通信容量と地上との安定化が課題となっています。この解決策は光通信技術を活用し、電波の帯域幅を数百GHzに拡張することで実現されています。\n\n## 課題と解決方法\n主な課題は「通信容量」と「天候の影響」です。8km/s の衛星移動速度によるリレー通信や、大気や雲による信号乱れを考慮する必要があります。NTT はパートナー企業と協力して「光地上局」を開発し、雲を通り抜けずに安定した通信を実現しています。また、APN（All Photonics Network）などのネットワーク制御技術も活用されています。\n\n## 影響と展望\n衛星間のデータ量が増大するにつれ、2033年には1日230PBになるという規模は予想されます。この技術により、災害時の即時対応や環境変化の把握が可能になります。さらに「宇宙データセンター」の開発や月面通信の研究も進められています。NTT 5社とのメガコンステレーション構想を通じて、持続的な宇宙インフラを構築する方針を示しています。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/sub_l.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/12_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/07_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/14_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/16_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/18_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/20_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/24_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/26_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/29_l.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/32_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/34_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/36_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/39_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/280_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/282_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/40_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/42_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/44_l.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/48_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/50_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/286_l.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2156/875/53_l.jpg"
+    ]
+  },
+  {
+    "id": "c5c6caed32c6e54a",
+    "title": "スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/17/030254",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T21:42:53.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F17%2F030254",
+    "category": "RELEASE",
+    "summary": "# 富岳不正アクセス対応と対策\n\n2026年11月16日に発生した「富岳」スーパーコンピューターの不正アクセス事件は、理化学研究所の運用系システムに外部第三者が侵入したことが明らかになりました。調査によると、利用者の認証情報とホームディレクトリファイルの一部を外部へ持ち出し、システムを改ざんし、二次被害が発生する可能性があります。\n\n対応として、運用システムは不審な通信を検知し、13 日午後 4 時不正アクセスの事実を確認し、14 日午後 10 時システムを隔離しました。さらに、14 日午前 4 時運用を停止し、利用者のログイン用公開鍵を無効化しました。\n\n情報の漏洩リスクについては、利用者の認証情報や研究データのファイルの一部が外部へ持ち出される可能性があり、これにより個人情報が漏洩する恐れがあります。また、企業や研究者への影響も深刻です。\n\n最終的に、運用再開の準備を進め、悪用されたソフトウェアの脆弱性を対処し、新たなセキュリティ対策を実装します。文部科学省は事実関係の究明を求め、早期復旧を要請しています。",
+    "imageUrls": [
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/p/piyokango/20261117/20261117092350.png"
+    ]
+  },
+  {
+    "id": "c2fb696d2a52dc81",
+    "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T21:39:31.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fcloud.google.com%2Fblog%2Ftopics%2Fthreat-intelligence%2Fagentic-threat-activity-crosses-a-significant-threshold",
+    "category": "RELEASE",
+    "summary": "# 課題と技術の概要\n\n現在、脅害者たちは生成型AIを自動化された多エージェントフレームワークとして運用し、攻撃のタイムラインを短縮します。Google Threat Intelligence Group と Mandiant は、この進化を調査しました。\n\n## 結論\n\n脅害者は自動的な作業フローと多エージェントフレームワークを活用し、機械速度での多段階侵入を実行しています。これにより、企業環境への影響は増大しており、セキュリティ対策の重要性が高まっています。\n\n## 方法\n\n脅害者はLLMとアグエントフレームワークを用いてパッチの逆転を自動化し、ネット上のサーバーへの攻撃を自動化します。また、金融的に motivated の脅害者はLLMJackingを通じてクラウド資源を盗み、AIモデルを販売する仕組みを利用しています。情報操作においては、状態主導的なグループや商業サービスを提供する企業などが同様の手法を採用しています。\n\n## 本文の要約\n\n本文では、Google のセキュリティ戦略について説明されています。多エージェントフレームワークの導入により、攻撃の速度と規模が劇的に増加しています。これにより、モデルレベルの保護策や継続的な監視体制が不可欠です。",
+    "imageUrls": [
+      "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_1_Multi-agent_LLM_offensive_framewo.max-2000x2000.jpg",
+      "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_2_LLM_maturity_timeline.max-2000x2000.jpg",
+      "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_3_Count_of_vulnerabilities_exploite.max-2000x2000.jpg",
+      "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_5_Usage_chart_showing_LLMJacking_ge.max-2000x2000.jpg",
+      "https://storage.googleapis.com/gweb-cloudblog-publish/images/Figure_6_APIMart_advertised_prices.max-1400x1400.png"
+    ]
+  },
+  {
+    "id": "12164c5066eb2706",
+    "title": "CMSなしで作ろう | あたらしいホームページのつくりかた",
+    "url": "https://tsukurikata.net/no-cms/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T19:44:37.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftsukurikata.net%2Fno-cms%2F",
+    "category": "GENERAL",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：サイト設計と CMS の選択について**\nサイト設計において、フレームワークや CMS をどのように選択すべきかについて、作者はヘッドレス CMS を好み、複雑な操作を回避する傾向を示しています。現在、自分で開発するケースも存在しますが、機能の複雑さが問題となっています。単機能の CMS を構築し、テキストや画像の更新のみを重視する方が、ユーザー体験を改善できると考えます。\n\n**結論：簡易的な設計と機能の切り捨て**\n作者は、過度に機能過多なシステムではなく、最低限の機能から始め、HTML と CSS で演出を行うべきだと主張しています。また、運用時に頻繁に更新する機能を切り離して、シンプルに構築することを推奨します。\n\n**方法：簡易的な技術と動的な更新**\n開発者は HTML と CSS をベースに構築し、HTMX を活用する可能性を考慮しています。React や Next.js などの複雑なフレームワークは、特定のユーザー層には使いこなせないため、運用時に機能だけを切り出して CMS 化を試みるのが有効であると見なしています。これにより、PC の操作を前提とした設計と、スマートフォンでの更新の解決策を両立させることが可能です。",
+    "imageUrls": [
+      "https://tsukurikata.net/no-cms/DSCF0489.webp"
+    ]
+  },
+  {
+    "id": "c9d32e8e24f25d17",
+    "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
+    "url": "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T19:25:09.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fnodejsnpmwebopenvessel.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：OpenVessel の導入と機能紹介\n\n**テーマ**: 開発者向けに Node.js をブラウザ上で直接実行するフレームワークの公開\n**結論**: OpenVessel は Web ブラウザ上で Node.js を動作させるための最小限の OS を提供し、Astro でサイト構築を簡易化します。\n**方法**: OpenVessel は Node.js の JavaScript を載せ、シェルコマンドや npm を使用して環境を構築する仕組みです。\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約してください。次の 3 項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\nOpenVessel は神戸ソフトが公開した Node.js をブラウザ上で直接実行するフレームワークです。従来の OS をベースにインメモリのファイルシステムやプロセスを動かす代わりに、Web ブラウザ上の Node.js をそのまま載せています。現在動作している Node.js のバージョンは 26 です。試験ではすべてパスしており、開発者にとって非常に便利な環境を提供しています。\n\nOpenVessel は Web サイトの構築を簡易化します。デモサイトでは、ファイル一覧、Markdown ファイル、Astro でレンダリングされた Web サイトの表示を見ることができます。真中の Markdown を書き換えると、動的に Web サイトに反映されることができます。シェルコマンドでプロセス表示やファイル一覧を利用し、npm を使ってパッケージをインストールできます。これにより、Node.js 環境を構築し、アプリケーション開発や動作確認をスムーズに行えます。",
+    "imageUrls": [
+      "https://www.publickey1.jp/2026/openvessel-oss01.png",
+      "https://www.publickey1.jp/2026/openvessel-oss02.png"
+    ]
+  },
+  {
+    "id": "4ece46ea4cddf695",
+    "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
+    "url": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T19:05:37.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fvmhyperlight-unikraft.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け MicroVM 発表\n\n## 課題と技術\n開発者は、Linux アプリケーションを再コンパイルや再ビルドせずにそのまま軽量かつセキュアなマイクロVMで実行できる技術を求めています。この技術は「Hyperlight-Unikraft」の構築により、アプリケーションの実行に必要な最小限の OS 機能のみを備えた「Unikernel」と、軽量な仮想マシンマネージャー「Hyperlight」を組み合わせたソフトウェアです。従来の実行系と組み合わせるには改変や再ビルドが必要でしたが、このソフトウェアは SDK を再コンパイルせずにそのまま組み込み可能です。\n\n## 結論\n開発者は、高性能かつセキュリティを重視したマイクロVMの構築に最適な技術を採用し、既存の Linux アプリケーションを無効化せず、軽量な環境内で安全に実行できることを推奨しています。これにより、スナップショットを活用した高速起動と高密度な運用が可能になります。\n\n## 方法\n課題解決の手法として、実行系（Python、Node.js、Java など）とマイクロVMの統合を実現します。特に、Wasm の高速起動を基に、スナップショットを活用した起動機能も追加しています。この技術は KVM や Hypervisor Platform をベースに実行可能であり、開発者向けに利用可能です。\n\n本文には補足された機能や拡張性に関する詳細情報は記載されていませんが、現状対応する実行系と主要な機能の概要をまとめました。",
+    "imageUrls": [
+      "https://www.publickey1.jp/2026/hyperlightunikraft-ann01.png",
+      "https://www.publickey1.jp/2026/hyperlightunikraft-ann03.png"
+    ]
+  },
+  {
+    "id": "ce8c9d4717f003cf",
+    "title": "位置情報「流出」のルート　売買されるあなたの居場所",
+    "url": "https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T18:59:13.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fvdata.nikkei.com%2Fnewsgraphics%2Flocation-data-leaks-route%2F"
+  },
+  {
+    "id": "b7ce1fcfaa0f8e64",
+    "title": "小規模店舗・サロンの予約二重ブッキングを SQLite 1分単位ロックと SHA-256 冪等キーで止める実装",
+    "url": "https://zenn.dev/pikuto/articles/reserveguard-sqlite-slot-lock-idempotent-booking",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-16T17:07:23.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--eAPG9SYV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25B0%258F%25E8%25A6%258F%25E6%25A8%25A1%25E5%25BA%2597%25E8%2588%2597%25E3%2583%25BB%25E3%2582%25B5%25E3%2583%25AD%25E3%2583%25B3%25E3%2581%25AE%25E4%25BA%2588%25E7%25B4%2584%25E4%25BA%258C%25E9%2587%258D%25E3%2583%2596%25E3%2583%2583%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%2520SQLite%25201%25E5%2588%2586%25E5%258D%2598%25E4%25BD%258D%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25A8%2520SHA-256%2520%25E5%2586%25AA%25E7%25AD%2589%25E3%2582%25AD%25E3%2583%25BC%25E3%2581%25A7%25E6%25AD%25A2%25E3%2582%2581%25E3%2582%258B%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2594%25E3%2582%25AF%25E3%2583%2588%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTE1mdXZvTGVlUFd2TUxDemZWREJIbXdQNDNZWS0wYzYwdU9DLV9LWW43TFBmR0hTcmc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：予約システムへの対策と技術解説\n\n小規模サロンや治療院向けの予約システムにおいて、UI の見た目よりも重要なのは、同時アクセスによる二重ブッキングや Webhook の再送問題です。本記事では、この課題を解決するための Node.js と Hono を組み合わせた検証済みモジュール「ReserveGuard」の実装パターンと、ブラウザでの公開デモを提案します。\n\n## 課題と解決方法\n同時アクセスで同じ枠に 2 件確定してしまうなどの二重ブッキングを防ぐため、SQLite の「リソース ID × 日付 × 分インデックス」の主キー表を構築し、トランザクション内で一意制約を張る方法を採用しました。また、清掃間の間隔も同じ占有分数に含めてロックすることで、後続の顧客への衝突を防ぐ対策も設けました。\n\n## 具体的な技術実装\n1. **連打・Webhook 再送の防衛**： SHA-256 の冪等キーを生成し、同一顧客・時刻の重複申込をエラーとして遮断します。\n2. **ハッシュ連鎖による変更証跡**：誰がいつ確定したかを追跡するため、イベント記録時に event_hash を連結して SHA-256 を保存します。\n3. **AI 補助の停止制御**：通信不能時は CANNOT_JUDGE と停止し、推測を避ける仕組みです。\n\n## 推奨される導入方法\n公開実機デモはブラウザで確認可能であり、導入出力見本レポートも提供されています。GitHub で編集提案が可能です。\n\n本文に記載された情報は、開発者向けに直訳調を避けた自然な日本語で要約しています。",
+    "imageUrls": []
+  },
+  {
+    "id": "24621dcc5b3440e5",
+    "title": "AI学習用途で古書大量注文か　Amazonでの在庫切れ、26年4月以降急増 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0451P0U6A101C2000000/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T17:06:21.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUC0451P0U6A101C2000000%2F",
+    "category": "TUTORIAL",
+    "summary": "# 課題と解決方法\n\n**課題**: エlectron Commerce（EC）サイト「アマゾン」において古書の大量注文が発生し、その原因はフランス企業や人材派遣大手の物流センターによる調査により判明した。また、2026 年は過去 2 年と比較して古書在庫切れタイトル数が 13 万件増加していることが発見された。この現象は人工知能（AI）の大規模学習用途における古書の利用可能性を懸念する要因となる可能性がある。\n\n**結論**: 企業や研究機関が、古書の活用を AI 学習に適用する必要があると主張し、その実現には自動化された自動発注システムへの移行が必要であることが示唆されている。\n\n**方法**: 解決策として、アマゾンなどの EC サイト上で古書の自動発注機能の導入や、関連事業者との連携による物流センターの連携が提案されている。また、出版大手や企業間のルール整備や、在庫管理システムの効率化など、多層面での対策が推奨される。\n\n本文には具体的な技術用語は含まれていないため、専門用語は短く説明している。要約の視点として、解決する課題と実践時の注意点を中心にまとめました。",
+    "imageUrls": [
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3826017004112026000000-1.jpg?ixlib=js-3.8.0&w=103&h=57&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.77&fp-y=0.52&fp-z=1&crop=focalpoint&s=0d62c5d6c7a1832efd763780b14387ba",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3826022004112026000000-1.jpg?ixlib=js-3.8.0&w=103&h=81&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=61c8af30cad85120793c577cd123339d",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3826072004112026000000-1.jpg?ixlib=js-3.8.0&w=103&h=85&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=5683d2f7a80b3996bf1f56a5531084ba",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252Ftopic%252F20031200-2-1.jpg%3Fauto%3Dformat%252Ccompress%26fit%3Dmax%26ch%3DWidth%252CDPR%26ixlib%3Djs-1.4.1%26s%3Dd54bb51d0a8424f1cf2878edf7eee384?ixlib=js-3.8.0&w=380&h=237&auto=format%2Ccompress&fit=crop&bg=FFFFFF&crop=faces%252Cedges&s=6b742f2e06e0fed354a1e45512348e7a",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3692750007102026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=6264c9b4ef132a40afa87b638028d45c",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3599159015092026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=269b376c5367cc029975cc847cc3af1a",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3603485015092026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.86&fp-y=0.24&fp-z=1&crop=focalpoint&s=8bcc4f073b564326ae354c3acc6e5176",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3661074030092026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=c1933f71f7ddcdeafa677b0512c49293"
+    ]
+  },
+  {
+    "id": "08c36bca86c9b280",
+    "title": "騒がしいAI姉妹を1つのDiscord Botに住まわせる設計：Webhookの身元確認・記憶スコープ・連鎖の止め方",
+    "url": "https://zenn.dev/aph31/articles/noisy-ai-sisters-architecture",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-16T15:44:59.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--qmzpfIzq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25A8%2592%25E3%2581%258C%25E3%2581%2597%25E3%2581%2584AI%25E5%25A7%2589%25E5%25A6%25B9%25E3%2582%25921%25E3%2581%25A4%25E3%2581%25AEDiscord%2520Bot%25E3%2581%25AB%25E4%25BD%258F%25E3%2581%25BE%25E3%2582%258F%25E3%2581%259B%25E3%2582%258B%25E8%25A8%25AD%25E8%25A8%2588%25EF%25BC%259AWebhook%25E3%2581%25AE%25E8%25BA%25AB%25E5%2585%2583%25E7%25A2%25BA%25E8%25AA%258D%25E3%2583%25BB%25E8%25A8%2598%25E6%2586%25B6%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25BB%25E9%2580%25A3%25E9%258E%2596%25E3%2581%25AE%25E6%25AD%25A2%25E3%2582%2581%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:aph31%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RjNDY0ZTgzNTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：TomoriBot の仕組みと課題\n\n## テーマ：記事が扱う課題や技術は何か\nTomoriBot は、複数の人格を持つ1つのDiscord Bot を設計したプロジェクトです。開発者は「1人のユーザーに1体のエージェント」の前提を維持しつつ、Webhook ID の確認、トリガーワードの管理、記憶の分離など3つの仕組みで複雑な問題を解決しています。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nこの仕組みは、複数のユーザーやチャット環境において、異なる人格と記憶を適切に管理し、互いに混同を防ぐことが可能です。ただし、複数人が参加するサーバーでは、記憶の共有リスクや管理コストが高まるため、個人向けのワークスペースや、役割別で設定されるBotを採用することが推奨されます。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n課題は、複数のユーザーが同じチャンネルに発言する際に、誰が発言したかを正確に判別し、それぞれの記憶を適切に管理することです。\n- **Webhook の確認**: メッセージの送信者名と人格を自動判定します。\n- **トリガーワードの管理**: 特定の単語を個人に割り当てる仕組みを導入しました。\n- **長期記憶の分離**: ユーザーの個人記憶とサーバーの記憶を別々に保存し、重複や漏れを防ぎます。\n\n本文では、Bredrumb が実装検証を進めていることが示されていますが、この仕組みは一般的なDiscordやSlackのチャット環境にも適用可能です。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/cf5256808a1237d009930c38.png?sha=098ed9b3d576dbdcb14164717be520bbc9ce0d07",
+      "https://static.zenn.studio/user-upload/deployed-images/0216058196e758d30c9d5db3.png?sha=2bbf471599874e498b70aedb22c987b552faa103"
+    ]
+  },
+  {
+    "id": "98270c712011cea5",
+    "title": "ConardLi/garden-skills",
+    "url": "https://github.com/ConardLi/garden-skills",
+    "source": "GitHub JavaScript Monthly Trending Repositories",
+    "publishedAt": "2026-11-16T15:33:48.625Z",
+    "status": "completed",
+    "imageUrl": "https://opengraph.githubassets.com/339e867a5da5300a04a4b5081f8334d3696eafaafdb22794631717174bd67a60/ConardLi/garden-skills",
+    "category": "RELEASE",
+    "summary": "# 開発者向け AI エンゲージメントスキルの紹介\n\nこの記事は、AI コードエージェント（Claude Code, Cursor など）に直訳調を避けた自然な日本語を提供する技術的なガイドです。主なテーマは、モデル API の利用方法や、クリエイティブな動画制作ツールとしての機能です。\n\n## 結論\n本記事は、開発者向けに AI エンゲージメントスキルを提供し、モデル API を活用しつつ、動画制作や Web ペpresentation を構築する技術を提案しています。\n\n## 方法\n課題として、AI エンゲージメントスキルの開発と運用について解説されています。具体的な解決方法は、`npx installskills CLI` を使用し、各プロジェクトのインストール手順を記載しています。また、モデル API の利用方法や、動画制作ツールとしての機能については、詳細な技術的な説明も含まれています。\n\n## 本文に情報がない項目は推測せず「本文に記載なし」としてください。\n要約の視点では、追加・変更された機能や対象バージョン、利用者への影響を中心にまとめています。ただし、本文には具体的な機能の変更やバージョン情報は記載されていません。",
+    "imageUrls": [
+      "https://camo.githubusercontent.com/c00cd6b7a27476269d0ec7681c43d64a6b5310254a2d6261dbde64be44f50de5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f436f6e6172644c692f67617264656e2d736b696c6c733f7374796c653d666c61742d73717561726526636f6c6f723d626c7565",
+      "https://camo.githubusercontent.com/1c0951ef75f55aae59c3eaa87c7b3a28712b2a222c468ce52638a2b39a9229ef/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f436f6e6172644c692f67617264656e2d736b696c6c733f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/eb338142a0d2efe17b6dfcc654b9159b3dd90dbecdaf2d9e0b15410de7c84548/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e3f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/f616f2dfdebafbc144faec888d492769d910062667c15ca2c60953d7da2a6550/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736b696c6c732d362d6f72616e67653f7374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/1787beed4fb9b6bb518f6199471b2493f256a9d01f158ec1169e09ff355649dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737065632d534b494c4c2e6d642d626c61636b3f7374796c653d666c61742d737175617265",
+      "https://github.com/ConardLi/garden-skills/raw/main/dist/imgs/covers/motion-showreel.webp",
+      "https://github.com/ConardLi/garden-skills/raw/main/dist/imgs/covers/web-video-presentation.webp",
+      "https://camo.githubusercontent.com/c2d238c392c0cb394134c372fed7d5b4ba0c4f1bea1255f7f28505474fa73964/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d766964656f2f67616c6c6572792e77656270",
+      "https://github.com/ConardLi/garden-skills/raw/main/dist/imgs/covers/web-design-engineer.webp",
+      "https://camo.githubusercontent.com/76ed913ef454ca6f3846633e3b2a0013deac8474da7a48b59b4951e78f493fed/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f6165736f702e77656270",
+      "https://camo.githubusercontent.com/5aec05be13537555fa21e343f753f3dba88c133996e001cad5f89f8ed5fb1617/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f6d756a692d6b656e79612d686172612e77656270",
+      "https://camo.githubusercontent.com/0d669b62e12a4aef7031c242d080323fdc853227a25babbc9b77c4b8f2ed7ce4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f6d6f6e6f636c652d6d6167617a696e652e77656270",
+      "https://camo.githubusercontent.com/9819a6ba99dd07d1ad40f0594bc016cc6475690b15994d908295c5d0f63600fe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f7374726970652d70726573732e77656270",
+      "https://camo.githubusercontent.com/e524f58b22171fe73e08a8720dc45518ee3f4946c06bbedb863801a69ad7b1ca/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f626c6f6f6d626572672d7465726d696e616c2e77656270",
+      "https://camo.githubusercontent.com/12e80e518c00bb89843768f5fbf2281e81e54bd1eaefb6c2e4b08cb896804a85/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f6c696e6561722e77656270",
+      "https://camo.githubusercontent.com/5f81271b9bd8a31efb8aa2f9b2f369b6bbe2875a2b4950b5bc81698309be81a4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f76657263656c2d6d6573682e77656270",
+      "https://camo.githubusercontent.com/b2555bb89fadd8331139ca629e8a2884803d066f5e0a388678b47bd6a9bebb17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f74756674652d64617461696e6b2e77656270",
+      "https://camo.githubusercontent.com/4b02ff41c802bda71d02989af2b558de1d66e7a3a260d74b5fd42f1875125dac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f6d69642d63656e747572792d6d6f6465726e2e77656270",
+      "https://camo.githubusercontent.com/febc7b9dc7d2be429682bb18552a6094e59547d0afec2fa0ca34ac66ab35aa6b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f79326b2d726574726f667574757269736d2e77656270",
+      "https://camo.githubusercontent.com/08ff6cc012fd814f79e4602640bd6dca33e36163d03a599ced32b8c39629d5a3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f626c6f6f6d626572672d627573696e6573737765656b2d7475726c65792e77656270",
+      "https://camo.githubusercontent.com/95747d9c4ee183a09970d2ebfd466616b57bbdb70775d9b447af24c31c522b34/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f617373657473406d61696e2f696d67732f7765622d64657369676e2f6163746976652d7468656f72792e77656270",
+      "https://github.com/ConardLi/garden-skills/raw/main/dist/imgs/covers/gpt-image-2.webp",
+      "https://camo.githubusercontent.com/db3d551cafb0d724840bc67f1d5d57c15b1d95ae27241ac7c285583ebc2e5289/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f65646974696e672d776f726b666c6f77732f6261636b67726f756e642d7265706c6163656d656e742f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/e7975d9e306bcd40398ec2566a5c63f725ad08bf75660429d137311f51f32ea3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f75692d6d6f636b7570732f636861742d696e746572666163652d7363656e652f332d7468756d622e77656270",
+      "https://camo.githubusercontent.com/507c3b95ca40d8e66871429c72ba365d87e4a919b83169848fef33bf2cb2fab5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f75692d6d6f636b7570732f6c6976652d636f6d6d657263652d75692f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/30ce15b759ab2373678b87ad237426cc6224334f20be2288fb37d12e14192555/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f75692d6d6f636b7570732f70726f647563742d636172642d6f7665726c61792f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/eaa997a88125e85bc3012819c2280af2d14badde75124bb6a62c152703f4a037/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f696e666f67726170686963732f62656e746f2d677269642d696e666f677261706869632f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/290a7aa314c1fce0a3d2a6e873bd2b5661acec5faff7816930bf70fe0ac96488/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f746563686e6963616c2d6469616772616d732f73797374656d2d6172636869746563747572652f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/34a80c58407716624b2a26948c745c96f507987e78c6f1deed4dfc915126afb8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f736c696465732d616e642d76697375616c2d646f63732f64656e73652d6578706c61696e65722d736c696465732f322d7468756d622e77656270",
+      "https://camo.githubusercontent.com/55662c4fbf174d6612566157d61ee63a8a0c8fdbce3fb6cd5cba7c933a2f0f79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f6d6170732f666f6f642d6d61702f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/978e0ce1383457311d7fe874263845c355dc84feb0408355fe62e63002941511/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f70726f647563742d76697375616c732f6578706c6f6465642d766965772d706f737465722f322d7468756d622e77656270",
+      "https://camo.githubusercontent.com/f952869a7533607c5fca97b964e92d0f01324b918c3e51e5db32664822cf0bfa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f61636164656d69632d666967757265732f6e657572616c2d6e6574776f726b2d6172636869746563747572652f322d7468756d622e77656270",
+      "https://camo.githubusercontent.com/5f3f56b38b680d5ac8c8d6ebd8198e8695181caa7c5cd11659fdb237ec13ff1f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f6272616e64696e672d616e642d7061636b6167696e672f636f736d657469632d7061636b6167696e672f312d7468756d622e77656270",
+      "https://camo.githubusercontent.com/2b6fa41389e8863b13547968acec6b8f0aab12d48d695575fb73a88786569f0f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f436f6e6172644c692f6770742d696d6167652d322d313031406d61696e2f7075626c69632f636173652f73746f7279626f617264732d616e642d73657175656e6365732f616e696d652d6b65792d76697375616c2f312d7468756d622e77656270",
+      "https://github.com/ConardLi/garden-skills/raw/main/dist/imgs/covers/beautiful-article.webp",
+      "https://github.com/ConardLi/garden-skills/raw/main/dist/imgs/covers/kb-retriever.webp"
+    ]
+  },
+  {
+    "id": "a2cd6b5274b1cf38",
+    "title": "スーパーコンピュータ「富岳」および「理究（りきゅう）」への不正アクセスによる個人情報漏えいの可能性について | 理化学研究所",
+    "url": "https://www.riken.jp/pr/news/2026/20261116_2/index.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T15:23:40.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.riken.jp%2Fpr%2Fnews%2F2026%2F20261116_2%2Findex.html",
+    "category": "RELEASE",
+    "summary": "理化学研究所の「富岳」スーパーコンピュータに不正アクセスが発生し、個人情報漏洩のリスクが指摘されました。調査によると、11 月 12 日に外部から不正アクセスが確認され、利用者の氏名、メールアドレス、認証情報を含むファイルやデータが流出する可能性があります。影響は最大 4,222 名（「富岳」）と 375 名（「理究」）の登録ユーザーに及ぶため、深刻な懸念を招きました。\n\n11 月 14 日、運用を停止しアクセスを遮断しました。調査結果では、外部のダッシュボードを通じて内部ネットワークへの侵入が判明し、システム改ざんや認証情報の持ち出しが確認されています。これにより、利用者の安全確保と情報保護対策が急務となります。\n\n理研は関係機関に状況を報告し、運用を再開するための再構築やセキュリティ対策を実施します。利用者は接続先のサービスで認証情報を無効にし、パスワードなどの不適切な情報を避けるよう注意を促しています。今後の調査結果の公表と、再発防止策の講じ込みが進められています。",
+    "imageUrls": []
+  },
+  {
+    "id": "c7ac9cd611bd4790",
+    "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+    "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T15:11:21.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fgatechnologies%2Farticles%2F8bdea59269eb10",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：QA AIプラットフォーム「GAQ」の導入と効果\n\n## 課題と解決方法\n開発チームとQAチームが分離している現状では、生産性低下と品質不確実性が問題となりました。開発スループットが爆発し、QA負荷が高まる一方で、テストの質がバラつくという循環的な悪循環を解消する仕組みを構築しました。\n\n## 結論\n「人が作業してAIが手伝う」のではなく、「AIが工程を回して、人が判断する」モデルを採用することで、生産性が向上し、品質安定化が実現しました。\n\n## 方法\nQA工程の12個のSkillを構築し、AIエージェントがテスト計画から品質レポートまでを自動実行します。結果はMarkdown形式でGitHubに保存し、Git運用をレクチャー会を通じて標準化する仕組みです。\n\n本文には具体的なツールや手順の詳細は記載されていますが、導入後の効果と今後のアクションについては、チーム内で継続的な学習と実践の重要性を強調しています。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/2598643696c0-20261113.png",
+      "https://static.zenn.studio/user-upload/1533f52a247f-20261113.png",
+      "https://static.zenn.studio/user-upload/fbf1fa63256e-20261113.png",
+      "https://static.zenn.studio/user-upload/ab4ec842a0e7-20261113.png",
+      "https://static.zenn.studio/user-upload/fa55d5abc069-20261113.png",
+      "https://static.zenn.studio/user-upload/9481d2274070-20261113.png",
+      "https://static.zenn.studio/user-upload/68aafe180981-20261113.png",
+      "https://static.zenn.studio/user-upload/f6f37145ade0-20261116.png",
+      "https://static.zenn.studio/user-upload/1ee612773bd5-20261113.png"
+    ]
+  },
+  {
+    "id": "71a8521e79f3f651",
+    "title": "CLAUDE.mdに書いたルールを、Claude Code Modsの関数で機械に守らせる",
+    "url": "https://zenn.dev/anikuma/articles/claude-code-mods-rule-guard",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-16T15:00:00.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--RpcSYX5Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CLAUDE.md%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E3%2580%2581Claude%2520Code%2520Mods%25E3%2581%25AE%25E9%2596%25A2%25E6%2595%25B0%25E3%2581%25A7%25E6%25A9%259F%25E6%25A2%25B0%25E3%2581%25AB%25E5%25AE%2588%25E3%2582%2589%25E3%2581%259B%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2583%258B%25E3%2582%25AF%25E3%2583%259E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyN2ZjOWVkMTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "0c6174a6d2aa1e64",
+    "title": "Teenage Engineering、今度はCDプレーヤーを作ってるっぽい | ギズモード・ジャパン",
+    "url": "https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T14:53:47.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.gizmodo.jp%2Farticle%2F2611-teenage-engineering-cd-player%2F",
+    "category": "RELEASE",
+    "summary": "# テーニージングの新しい製品発表\n\nTE（Teenage Engineering）は、音楽業界から離れず、CDプレーヤーへの転換を推進する新たな製品を発表しました。この製品にはピッチコントロールのVARISPEEDと、ジョイスティックやテンキーなどの機能を含む設計です。これにより、DJやサンプラーとの連携が可能になり、より多くのユーザーにアクセスできる可能性があります。\n\n開発者は、従来の音楽機器ではなく、演奏性と再生機能を併せ持つ新しいプレイヤーを提案しています。製品は、2.4GHz帯の認証とワイヤレス連携に対応しており、日本国内での技術適応も確認されています。特に、アメリカのラッパーDon Toliverが実際に製品を使用している事例も公開されており、市場への受け入れは期待されます。\n\n販売価格は、メディアジーンに還元されるため、購入者は注意が必要です。今後の開発やリリース情報は、より詳細な情報が必要となりますが、現在では確実と見られています。",
+    "imageUrls": [
+      "https://media.loom-app.com/loom/2026/11/16/5d11f6af-35d1-43d5-957f-bff785177b1b/original.jpg?w=800"
+    ]
+  },
+  {
+    "id": "f0a26bab7a97ecb9",
+    "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測　GTIGのAI脅威レポート",
+    "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T14:22:24.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F16%2F2000003244%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\nGoogle Threat Intelligence Group（GTIG）は、AI の悪用状況に関する四半期レポートを公開し、攻撃者が手作業の段階を超え、複数の AI エージェントを組み合わせて自律的な攻撃を行う新たな手法を明らかにした。この報告では、LLM を活用した自動化された分析システムが、セキュリティ対策の重要性を強調している。\n\n## 方法\n\n課題は、AI を利用した自動化された攻撃フレームワークである「exploit_agent」の存在と、その仕組みについて調査した。これにより、パッチ公開前後のソースコードを継続的に比較し、脆弱性を発見する仕組みが確立された。また、LLM を活用した偽のペルソナ作成やアカウント管理プラットフォームの開発も確認された。\n\n## 結論\n\nGoogle は、AI を悪用する攻撃手法を阻止するよう、Gemini の分類器やモデル強化など新しい技術を採用し、協力を拒否する方針を示している。ただし、防御側の負担を増やす可能性があるという懸念も指摘されている。\n\n本文には、具体的な技術用語の解説は含まれていないため、専門用語は短く説明したまま記載した。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/16/2000003244/10012267/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/16/2000003244/10012268/728"
+    ]
+  },
+  {
+    "id": "9159f87e463b22db",
+    "title": "スパコン「富岳」不正アクセス受け停止　利用者情報流出の恐れ | 毎日新聞",
+    "url": "https://mainichi.jp/articles/20261116/k00/00m/040/139000c",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T13:51:52.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20261116%2Fk00%2F00m%2F040%2F139000c",
+    "category": "TROUBLESHOOT",
+    "summary": "# 富岳スーパーコンピューターの不正アクセス問題と対応\n\n## 課題と原因\n2020 年 6 月 16 日、理化学研究所の「富岳」スーパーコンピューターが外部から不正アクセスを受けました。利用者は約 4,200 人分の情報や研究データが流出する恐れがあり、サーバー上の作業スペースに保存されていたファイルが漏れ出しました。また、内部ネットワークへの不正侵入も報告されています。\n\n## 結論\n理研は不正アクセスを受けた旨を通知し、富岳の運用を停止して調査を進めています。利用者は安全な環境で情報を共有する必要があります。\n\n## 方法\n1. **不正アクセス遮断**: 14 日午前 4 時半から外部アクセスを遮断し、運用を停止しました。\n2. **情報通知**: 15 日、利用者に対し不正アクセスを受けた旨のメールを送付しました。\n3. **調査**: 分析結果は確認のため再度呼びかけられています。\n\n## 再発防止の要点\nサーバー上の作業スペースに保存されていたファイルが漏れ出さないよう管理を徹底し、ログイン情報を厳格に守ります。また、内部ネットワークへの不正侵入を防ぐための対策も実施しています。",
+    "imageUrls": [
+      "https://cdn.mainichi.jp/vol1/2026/11/16/20261116k0000m040143000p/9.jpg?1",
+      "https://cdn.mainichi.jp/vol1/2026/11/16/20261116k0000m040144000p/9.jpg?1"
+    ]
+  },
+  {
+    "id": "80ef3a1bffe4c270",
+    "title": "【不動産テック】全国の競売・公売物件をGIS地図×AIで可視化する「Keibai-koubai」の設計解説",
+    "url": "https://zenn.dev/keibaikoubai/articles/keibai-koubai-gis-ai-2026",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-16T13:46:09.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--5tuvZ2Gi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E4%25B8%258D%25E5%258B%2595%25E7%2594%25A3%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2580%2591%25E5%2585%25A8%25E5%259B%25BD%25E3%2581%25AE%25E7%25AB%25B6%25E5%25A3%25B2%25E3%2583%25BB%25E5%2585%25AC%25E5%25A3%25B2%25E7%2589%25A9%25E4%25BB%25B6%25E3%2582%2592GIS%25E5%259C%25B0%25E5%259B%25B3%25C3%2597AI%25E3%2581%25A7%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E3%2580%258CKeibai-koubai%25E3%2580%258D%25E3%2581%25AE%25E8%25A8%25AD%25E8%25A8%2588%25E8%25A7%25A3%25E8%25AA%25AC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Keibai-koubai%2520Tech...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3drclg4YmkzSEI3b1hBU3VGOFdYLTlrclNON05QejhfdHdZQms3YWYzTXBWLVFGTT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TUTORIAL",
+    "summary": "# 不動産競売・公売市場のDXプラットフォーム開発\n\nこの記事は、日本の不動産市場における「不動産競売物件（BIT）」と「国税庁の公売物件」を効率よく分析するための新しい技術プラットフォームの開発について解説します。従来のデータ処理には、分散したPDFファイルや位置情報の曖昧さが課題となっており、これらを解決するために開発された「Keibai-koubai」システムが提案されています。\n\n## 課題と解決方法\n\n主な技術的課題は以下の3点に集約されます。\n1. **データ分散と非構造化**：管轄裁判所ごとにPDFファイルが分散しており、検索が困難です。\n2. **位置情報の視認性不足**：住所表記の揺らぎにより、地図上の直感的な比較が難しいです。\n3. **相場比較の難しさ**：売却基準価額と実際の相場との差を即座に判断することができません。\n\nこれらを解決するため、ブラウザ上で操作可能なGIS可視化プラットフォームとして開発しました。システム全体構成では、Next.jsベースのフロントエンドとLeaflet地図描画を採用し、国土交通省の公開データを連携しています。特に、「3点セット」のPDFファイルを自動解析し、構造を整理したデータを作成するAI技術も導入されています。\n\n## 結論\n\nこのプラットフォームは、専門的なデータ分析を一般の人々にも直感的に理解できる環境を目指しています。これにより、競売や公売市場の価格比較を容易にすることが可能になり、投資や購入の判断を支援する価値があります。\n\n## 方法\n\n課題を解決するために、以下の手順と仕組みが採用されています。\n- **データ正規化**：住所表記の統一とジオコーディングの安定化を処理パイプラインで行います。\n- **地図検索の最適化**：バウンディングボックスベースのマップ検索を行い、パフォーマンスを向上させます。\n- **AI解析の活用**：3点セットの要約と相場ギャップ算出を行うことで、割安度シグナルを抽出します。\n\n## 注意点\n\n導入前に、データ正規化の正確性とGISの精度について確認することが重要です。また、複数の物件が同一座標に存在する場合は、微細なジッターを適用することで視認性を保つ必要があります。",
+    "imageUrls": []
+  },
+  {
+    "id": "303e7b578f43198a",
+    "title": "AIバブル崩壊間近な現状、AIが人類を滅ぼせるわけねーだろ - サッとぶ",
+    "url": "https://kei-1010.hatenablog.com/entry/2026/11/16/120828",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-16T12:26:07.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fkei-1010.hatenablog.com%2Fentry%2F2026%2F11%2F16%2F120828",
+    "category": "GENERAL",
+    "summary": "# 開発者向け：自律進化ループの現実性再考\n\n**テーマ**: AI の完全自律進化ループは現実的ではない\n結論：「完全自律の自己進化ループ」は、数学的・物理的な壁と矛盾し、2030〜2050 年には不可能である\n方法：個別の技術要素が互いに矛盾し、物理的な製造タイムラインの壁を克服する必要がある\n\n本文では、AI 開発者向けに直訳調を避けた自然な日本語で要約します。\n\n人類滅亡という脅威論は現実を見えていないため、人間を介さない完全自律の自己進化ループ（RSI）を信じているのは稀です。結論から言うと、このループは 2030 年代には不可能であり、2050 年にも至ることはできません。なぜなら、個別の技術要素が数学的・物理的な壁で達成不可能であり、組み合わせても互いに矛盾してデッドロックに陥るからです。\n\n具体的には、自律 MLOps、破局的忘却の継続学習、検証器による評価軸の自己拡張、異種アーキテクチャ間の重み移植、連続潜在空間推論と世界モデルの統合、そしてギガワット級クラスタと半導体・物理実験の自動化という 6 つの技術要素が、それぞれ個別で解決できない問題です。特に、言語の圧縮ロスを避けるために必要な連続潜在空間と重み直接移植の組み合わせは、内部状態が完全なブラックボックスになり、バグや報酬ハッキングの検証と矛盾してデッドロックに陥る可能性があります。また、物理的な製造タイムラインの壁（EUV 露光装置の建設、半導体工場の建設など）も、AI の思考速度が 1 万倍になろうとしても、結晶の成長や大型建造物の物理的な工期は短縮されないため、人間を排除した自己完結型の物理インフラ増殖ループは現実的ではありません。\n\nしたがって、個別に見ても無難であり、組み合わせても喧嘩して詰んでいるという結論になります。開発者はこれらの技術要素を組み合わせることで、現実的な解決策を探す必要がありますが、現時点では達成不可能です。",
+    "imageUrls": []
+  },
+  {
     "id": "edb2d75ddabfa127",
     "title": "ECSマネージドインスタンスとNitro SandboxでDocker in Dockerして遊んでみる",
     "url": "https://qiita.com/har1101/items/b7d95297d9cdfe3dc245?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -325,6 +976,14 @@
       "https://mitsumame-pctr.c.yimg.jp/4jkl4CfYnbWoWyzD5J8BrTFHzPlzkKHRqanJDq70dMsAPy3vHp750raQRcLYdBuZHBqS-16rpWBzuzGqrHxYv8oeX-CUMSaTkulOpOGrrZIfP4X7woPm9mBYIN7LK4NdDlOKsvnn2sLzrN8fj5XqhlokEWiVOGjDoCfzbGNRuEQ=",
       "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFlbRKZtM9u5XWE0uy3m1LJtuOkIFxq9jFAR0HxRP6qHrojkV_-4-EWlaOi0ygkNFRSBLWdOtiecLS-bBz-K5Ad3-txF8eV_Sa4o1wy7JlvJvwcEq4VBf0bYiAXOmUCCvf3TZqXbcCem9xjlSVbpgR_EkL29vHXMNqAW-UL2wZSWgBHTM6G8DyI6w5Zk14Yb7CA=="
     ]
+  },
+  {
+    "id": "3432a0b32a8548cb",
+    "title": "Gemini Decisions による動画の判定",
+    "url": "https://qiita.com/kataoka_se_sionic/items/6bd2eb0b767b6e10fe6a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-16T09:05:26.000Z",
+    "status": "pending"
   },
   {
     "id": "24ae06882d9580fb",
@@ -774,6 +1433,14 @@
     "imageUrls": [
       "https://blog.recruit.co.jp/data/articles/ai-review-skills/img/example.png"
     ]
+  },
+  {
+    "id": "cc2e7c0d8a1cc20d",
+    "title": "Amazon Bedrock AgentCore Policyで実現するユーザー属性ベースのMCPツール認可",
+    "url": "https://qiita.com/mbear06/items/816e3a7c13875283c656?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-16T05:30:42.000Z",
+    "status": "pending"
   },
   {
     "id": "80681cb73ba09edb",
