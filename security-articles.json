@@ -1,5 +1,33 @@
 [
   {
+    "id": "f51087fa91561893",
+    "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
+    "url": "https://jvn.jp/jp/JVN29068051/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-19T05:00:00.000Z"
+  },
+  {
+    "id": "001d7eba8cef4856",
+    "title": "複数のRuijie Networks製品におけるOSコマンドインジェクションの脆弱性",
+    "url": "https://jvn.jp/jp/JVN28897261/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-19T03:00:00.000Z"
+  },
+  {
+    "id": "b554ceafeca62deb",
+    "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-11-18T15:00:00.000Z"
+  },
+  {
+    "id": "936977135e51360c",
+    "title": "NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-11-18T15:00:00.000Z"
+  },
+  {
     "id": "d128e4fe1a14328d",
     "title": "OpenJDKにおけるヒープベースのバッファオーバーフローの脆弱性",
     "url": "https://jvn.jp/vu/JVNVU99608534/",

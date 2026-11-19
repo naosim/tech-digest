@@ -1,14 +1,5 @@
 [
   {
-    "id": "10323d908697b653",
-    "title": "偽TikTokアプリによるスマートフォンの遠隔操作と不正決済についてまとめてみた - piyolog",
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/11/094815",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-11T01:21:35.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F11%2F094815"
-  },
-  {
     "id": "c648ef2123570c14",
     "title": "お客様の前に立つフロント人材になるために、技術以外の最小構成 | フューチャー技術ブログ",
     "url": "https://future-architect.github.io/articles/20261111a/",
@@ -3111,6 +3102,15 @@
     "category": "RELEASE",
     "summary": "# 開発者向け：Cloudflare Radar の Zero Wire 脆弱性フィードへの対応\n\n## 課題と技術\n2026年11月にCloudflare Radarから「Zero Wire」というインテリジェンスフィードが公開されました。これはWebアプリやランタイムなどの外向きのソフトウェアに焦点を当てたニュースブリーフィングです。本記事では、このフィードの自動判定仕組みと実装の課題を解説します。\n\n## 結論\nサーバーのバージョンを確認し、適切な対応策（更新や修正）を実行することで、ゼロウィールの影響を回避する仕組みが確立されました。\n\n## 方法\n1. **サーバーの棚卸し**: SSHでサーバーをアクセスし、OSやランタイムのバージョンを収集します。\n2. **機械判定**: RSSの CVE を公式データと比較し、導入バージョンが修正版かどうかをコードで判断します。\n3. **自動通知**: 対応が必要な場合はGitHub Actionsで通知を発出します。\n4. **評価ツール**: Claudeによるコード評価と、ゼロウィールのRSSを取得・確認を行います。\n\n## 補足\n本記事では、サーバーのバージョンを確認し、適切な更新や修正を行うことで、Zero Wireへの影響を回避する仕組みが確立されました。",
     "imageUrls": []
+  },
+  {
+    "id": "ce82773017a29503",
+    "title": "AI時代の要求管理ハンドブック",
+    "url": "https://www.ipa.go.jp/digital/kaihatsu/rqr7mi000000f5up-att/req-mgmt-hb.pdf",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-07T13:16:44.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.ipa.go.jp%2Fdigital%2Fkaihatsu%2Frqr7mi000000f5up-att%2Freq-mgmt-hb.pdf"
   },
   {
     "id": "61e64d83e22d231e",

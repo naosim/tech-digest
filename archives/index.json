@@ -4,13 +4,13 @@
       "file": "articles-0001.json",
       "count": 1000,
       "oldestPublishedAt": "2020-03-08T09:05:50.000Z",
-      "newestPublishedAt": "2026-11-11T01:21:35.000Z"
+      "newestPublishedAt": "2026-11-11T01:20:40.000Z"
     },
     {
       "file": "articles-0002.json",
-      "count": 616,
-      "oldestPublishedAt": "2026-11-11T01:30:08.000Z",
-      "newestPublishedAt": "2026-11-17T11:40:55.000Z"
+      "count": 667,
+      "oldestPublishedAt": "2026-11-11T01:21:35.000Z",
+      "newestPublishedAt": "2026-11-18T05:20:59.000Z"
     }
   ]
 }
