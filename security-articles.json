@@ -7,6 +7,13 @@
     "publishedAt": "2026-11-20T00:30:00.000Z"
   },
   {
+    "id": "54fc16f639eea662",
+    "title": "PHPの脆弱性対策について（2026年11月）",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261120.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-11-19T15:00:00.000Z"
+  },
+  {
     "id": "f51087fa91561893",
     "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
     "url": "https://jvn.jp/jp/JVN29068051/",
