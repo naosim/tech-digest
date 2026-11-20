@@ -1,5 +1,12 @@
 [
   {
+    "id": "b0ee0db98388b68c",
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
+    "url": "https://jvn.jp/vu/JVNVU92814490/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-20T00:30:00.000Z"
+  },
+  {
     "id": "f51087fa91561893",
     "title": "ブラウザ拡張機能「Win Bird 授業支援」におけるクロスサイトスクリプティングの脆弱性",
     "url": "https://jvn.jp/jp/JVN29068051/",
