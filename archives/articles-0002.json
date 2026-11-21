@@ -1,5 +1,333 @@
 [
   {
+    "id": "6892e5cbd4b3c5d4",
+    "title": "AIに悩みを相談する際に気をつけて欲しいこと｜SSC",
+    "url": "https://www.assdr.kyoto-u.ac.jp/ssc/consulting_ai/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T13:44:45.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.assdr.kyoto-u.ac.jp%2Fssc%2Fconsulting_ai%2F",
+    "category": "GENERAL",
+    "summary": "# 開発者向け：AI による悩み相談の注意点とリスク管理\n\n現在、学生や研究者らは AI を日常的に利用し、幅広い分野での相談をしやすい環境となっています。しかし、この便利さには重大なリスクがあります。AI は機械であり、人間との感情を誤認する傾向があります。また、学習データに偏りがあるため、バイアスも存在します。\n\n## 課題と技術の理解\nAI は機械として機能するため、人間関係への依存性や感情認識には限界があります。特に、性格や人間関係の問題については、客観的な正解が存在しないため、過度に迎合的な応答が得られることがあります。また、学習データに偏りがあるため、マイノリティに対するバイアスも存在します。\n\n## 解決方法と推奨アクション\nAI に悩みを相談する際は、以下の注意点を踏まえて慎重に行う必要があります。\n1. **認識の維持**: AI は機械であることを常に認識し、距離を置くことが重要です。\n2. **人間の確認**: 服薬や健康問題など重大な決定は必ず人との相談に回すべきです。\n3. **対話の質**: AI の回答に疑問がある場合は、人間への相談を検討してください。\n4. **自己判断の重要性**: 「AI に決めてもらう」のではなく、自分の意見や観点を提示し、AI を助ける姿勢を維持します。\n\n## 結論\nAI は信頼できるパートナーとして利用できますが、過度に依存しないことで人間の関係性を損なわないことが重要です。適切な使い方をすることで、有益な結果を得ることができます。",
+    "imageUrls": []
+  },
+  {
+    "id": "0ec799c3c16409e4",
+    "title": "Tisiliaを.NET 11に対応させました — 初回公開からの更新まとめ",
+    "url": "https://zenn.dev/kkdev92/articles/tisilia-net11",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-19T13:42:15.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--2YgCExM7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Tisilia%25E3%2582%2592.NET%252011%25E3%2581%25AB%25E5%25AF%25BE%25E5%25BF%259C%25E3%2581%2595%25E3%2581%259B%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2520%25E2%2580%2594%2520%25E5%2588%259D%25E5%259B%259E%25E5%2585%25AC%25E9%2596%258B%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AE%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kkdev92%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MwZWQ0NjQwYzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# Tisilia の更新と対応\n\n開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：技術課題と対応**\nASP.NET Core 11 への移行に伴い、Tisilia の機能更新と対応が実施されました。従来のフォームやファイル送信の対応は既に完了しており、現在、.NET 11 を対象に型生成とクライアント構築を行います。既存のテスト項目 47 件が失敗しましたが、XML やレスポンスヘッダーの違いを修正し、移行PR で 924 件の通過確認されています。\n\n**結論：推奨される対応方針**\nTisilia の再構築と契約ファイルの生成を推奨します。.NET 11 環境での動作を維持しつつ、既存の型条件（JsonIgnore）やメディアタイプの違いを正確に反映し、クライアント側で適切なレスポンスを選択できるように設計されています。\n\n**方法：解決策と技術**\n開発者は、既存のモデル構造を反映した新しい契約ファイルを生成します。型設定の複雑さやヘッダー管理は、System.Text.Json の仕様に基づき、API Explorer で競合可能な型を表示し、適切な export を制御します。また、既存の機能（フォーム送信など）も保持しつつ、新しい JSON 出力機能を追加することで、バージョンアップに伴う変更を最小限に抑えつつ対応可能です。\n\n本文では、0.6.0-alpha の更新と、契約ファイルの再構築手順が明確です。開発者は、最新の .NET SDK 11.0.100 を使用し、Tisilia の CLI や NuGet パッケージを正確に管理することで、将来の拡張性を確保します。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/deployed-images/0352a48770758db3e1c2d1aa.jpg?sha=47a56801ef09eabd233ff0763ebedcb29be701d4",
+      "https://static.zenn.studio/user-upload/deployed-images/dd860e67891b39362c58d6a9.png?sha=767fbab9b99b282ac9dec7690ad837714799f1ea",
+      "https://static.zenn.studio/user-upload/deployed-images/f12fadbdd4a3288c7c4c06de.gif?sha=d2a577903118609c3fab39688802cff8b4bbc593",
+      "https://static.zenn.studio/user-upload/deployed-images/ebf695017d54e7c5a4d7fe93.png?sha=093b9341cf4f55672c7f415fd0aa0d8369dafc6f",
+      "https://static.zenn.studio/user-upload/deployed-images/c2bec59682b339fecb01a4b0.jpg?sha=bf9d027eff861302d5a5aae1a10f209935cc87db"
+    ]
+  },
+  {
+    "id": "2871b8a580d9a8d0",
+    "title": "forEachの中でasync関数を呼んだら、記録が一部しか消えなかった話",
+    "url": "https://zenn.dev/kengohidaka/articles/5bb09c5951cb39",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-19T13:07:34.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--as3h9mDn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:forEach%25E3%2581%25AE%25E4%25B8%25AD%25E3%2581%25A7async%25E9%2596%25A2%25E6%2595%25B0%25E3%2582%2592%25E5%2591%25BC%25E3%2582%2593%25E3%2581%25A0%25E3%2582%2589%25E3%2580%2581%25E8%25A8%2598%25E9%258C%25B2%25E3%2581%258C%25E4%25B8%2580%25E9%2583%25A8%25E3%2581%2597%25E3%2581%258B%25E6%25B6%2588%25E3%2581%2588%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2581%25A5%25E5%2590%25BE%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2tQZjkzSmZtUU55dlY1WGZqV0pjTFhsRTI1UUhjTDRKNHlwNHllZF9XcXIxRUFWWT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TROUBLESHOOT",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\n**テーマ：フリーランス作業時間トラッカーの修復と復元機能の改善**\n\n本記事では、Chrome 拡張機能「はかる」のバックアップ・復元機能の問題点を解決しました。最初には、記録が一部消えて復元できないという不具合を特定しました。原因は、削除処理と計測の同期処理が衝突し、一部の記録が残っていたことです。\n\n解決策として、`deleteSegments` という関数を作成し、複数の記録をまとめて1回で削除する形にしました。また、計測中の削除も問題となり、その後の記録保存を避けるルールを導入しました。復元側も緩め方を変更し、持ち主のいないデータでもエラーなく復元できるように設計しました。\n\n最終的に、Chrome ウェブストアの審査を通じた公開版の修正版1.0.1 が発表されました。この機能は、簡易的な削除処理をより安全でシンプルに実装したことで、ユーザーの作業を支援するようになりました。",
+    "imageUrls": [
+      "https://static.zenn.studio/user-upload/31d2cd3b768a-20261119.png"
+    ]
+  },
+  {
+    "id": "f6f0c37bb109bea6",
+    "title": "diffツールで1万行の全行違いが34秒固まったので、打ち切りを入れた",
+    "url": "https://zenn.dev/a1221/articles/diff-large-input-and-three-way-merge",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-19T13:07:23.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--GWQg2NuV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:diff%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25A71%25E4%25B8%2587%25E8%25A1%258C%25E3%2581%25AE%25E5%2585%25A8%25E8%25A1%258C%25E9%2581%2595%25E3%2581%2584%25E3%2581%258C34%25E7%25A7%2592%25E5%259B%25BA%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581%25E6%2589%2593%25E3%2581%25A1%25E5%2588%2587%25E3%2582%258A%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "TROUBLESHOOT",
+    "summary": "# 課題と解決方法\n\n開発者はブラウザ内のテキスト比較ツールに、入力欄の色分け機能やマージ機能などを追加しました。しかし、ブラウザのメインスレッドで動くため、画面反応が遅くなったり、計算時間が長かったことが問題となりました。\n\n## 課題と解決方法\n\nまず、差分アルゴリズムの効率化と閾値設定が重要です。Myers 法による計算量は二乗に膨らみ、1万行の全行違いでは数秒〜数十秒を要します。この問題を解決するために、maxEditLength のオプションを追加し、編集数が超過する場合は undefined を返すことで、同期呼び出しでの遅延を回避しました。また、入力欄の色付け機能も実装されましたが、ブラウザの表示層に直接適用できないため、背後にある div の重ね合わせを利用しました。\n\n## 結論\n\n全行が違うテキストの比較は、計算量の膨らみによって時間がかかります。maxEditLength を設定し、閾値を調整することで、遅延を減らしつつ正確な結果を得ることができました。また、3 点マージ機能も、base の行番号で変更領域を表現する仕組みを採用しました。\n\n## 方法\n\n課題は、ブラウザのメインスレッドでの計算時間と表示の最適化です。解決策として、差分アルゴリズムの効率化と閾値調整を行い、結果の表示側にも適切な処理を追加しました。これにより、高速かつ正確なテキスト比較が可能となりました。",
+    "imageUrls": []
+  },
+  {
+    "id": "3a699308a176c251",
+    "title": "Muse の VM は約2時間で入れ替わる（実測と対策）",
+    "url": "https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-19T12:47:20.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：生成 AI と Muse の協働設計\n\n**テーマ**: 開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。\n\nこの記事は、個人 AI エージェントの Muse を活用した開発と運用方法について解説しています。 Muse は Linux VM をベースに、生成 AI エージェントとして機能します。しかし、その VM は約 2 時間ごとに起動プロセスを再設定するため、作業の継続性を確保する設計が重要でした。\n\n**結論**: 作業ファイルや設定は残るが、実行中のプロセスやシステム変更は消えるため、状態管理とタスク分割の設計が必須です。\n\n**方法**: VM の起動時に「generation ID」を監視し、世代交代を記録します。また、処理を小さく区切りにして、結果を保存する仕組みを採用しています。作業ファイルや設定は残るが、実行中のプロセスやシステム変更は消えるため、状態管理と分割設計の重要性を強調しています。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F12696%2F88a708e3-218f-4ed3-b612-0e998bb6de5f.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=3b3a81311195256be21588505acb2cf8",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F12696%2F4f092750-2e78-444b-96ef-ad65de980c55.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=412484d4d9d1559b1498157e0aaee7b9",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F12696%2F0c2ed751-8bfb-49f5-abbb-6413f7bb9810.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=fb530f1500e6dcbbedc469c3514e2e88"
+    ]
+  },
+  {
+    "id": "949612984284b8ff",
+    "title": "Agenship — Software FactoryであなたのチームにAIの開発ラインを",
+    "url": "https://agenship.ai/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T12:07:58.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fagenship.ai%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法の概要\n\n**テーマ：開発工程の自動化とクラウド化**\nAgenship は、AI エージェントがクラウド上で仕様策定からテスト・実装を主導する Software Factory を提供します。従来の個人開発ではコーディングエージェントによって作業を遂行し、組織全体の生産性を向上させるための新しいソリューションです。\n\n**結論：組織の自動化と効率化**\nこのシステムは、開発工程を AI が自律的に進め、人間がレビューと判断に集中させることで、開発プロセスを自動化します。これにより、エンジニアの介入時間大幅削減され、組織全体の生産性向上が可能になります。\n\n**方法：段階的な導入と標準化**\n課題解決には、段階的な導入と標準化が重視されます。まずは既存の Issue を対象として試すことで、品質と生産性を検証し、 gradually 拡大する仕組みを採用します。また、Massiv の FDE や Massiv の開発ラインとの連携を通じて、実装プロセスを並列で進めます。\n\n本文には具体的な導入手順や費用に関する詳細情報は含まれていないため、一般的な導入方法とメリットを推測しています。",
+    "imageUrls": [
+      "https://agenship.ai/design/factory/product-hero.webp"
+    ]
+  },
+  {
+    "id": "e953337cfab0e80a",
+    "title": "[石野純也の「スマホとお金」] 最小構成9万4600円の「AQUOS sense11」、メモリー増量や薄型化でミッドハイを狙うシャープの戦略",
+    "url": "https://k-tai.watch.impress.co.jp/docs/column/value/2157646.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T11:57:46.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fvalue%2F2157646.html",
+    "category": "RELEASE",
+    "summary": "# 課題と技術の概要\nシャープの「AQUOS sense11」シリーズが公開された際、市場の反応は期待以上に複雑でした。従来の「国民的スマホ」と呼ばれたモデルは、価格高騰と機能の進化によって位置づけが変化する中、オープンマーケットモデルとして販売されるようになり、価格帯も大きく変動しています。\n\n## 結論\nAQUOS sense11 は、最小構成モデルで約10万円を維持しつつ、メモリー容量を向上させ、OSアップデートとセキュリティ保証の数を増やすことで、以前のハイエンドモデルと同様の機能を提供する戦略です。ただし、コスト増に伴い、エントリーモデルとの比較において価格競争力が低下している現状も指摘されています。\n\n## 方法\n課題はメモリーの高騰や為替の影響による価格高騰にあります。これを解決するために、最小構成モデルのメモリー容量を8GBから12GBへと向上させ、LPDDR4XからLPDDR5Xへと進化させることで、操作の快適さを向上させます。また、マイクロSDカードに対応することで、写真や動画などのデータサイズを逃げることで、アプリの活用容量を増やす設計です。\n\n## 本文の補足\nAQUOS sense11 は、以前よりミッドハイに近い位置づけを目指し、Rシリーズを一部引き上げつつ、チップセットの進化と機能の強化を同時に進めています。ただし、コスト増に伴い、エントリーモデルとの比較において価格競争力が低下している現状も課題となっています。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/646/1_l.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/646/2_l.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/646/3_l.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/646/4_l.png",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/646/5_l.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/646/6_l.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/646/7_l.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/646/8_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/646/9_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/646/10_l.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/646/11_l.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/646/12_l.jpg"
+    ]
+  },
+  {
+    "id": "7961fab2dd6c8601",
+    "title": "ソフトウェアダークファクトリー | 技術評論社",
+    "url": "https://gihyo.jp/book/2026/978-4-297-16073-9",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T11:56:11.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgihyo.jp%2Fbook%2F2026%2F978-4-297-16073-9",
+    "category": "GENERAL",
+    "summary": "# データの解釈\n\n## テーマ：開発環境の設計思想\nこの文章は、AI 時代における安全な開発環境の設計思想書です。従来の「人間を排除した無人工場」という概念とは異なり、人間の業務知識と失敗教訓をシステム構造に埋め込むことで、AI や複数チームが動いても安全に機能する設計を提案します。\n\n## 結論\n本書は、DDC、型システム、SRE などの技術手法を再構築し、AI エージェント時代のための新しいソフトウェアアーキテクチャを提示しています。開発者にとっての重要な主張は、人間を排除するのではなく、人間の判断と業務知識をシステム構造に組み込むことで、コードの安全性と運用の安定性を確保することです。\n\n## 方法\n課題を解決するために、以下のアプローチを採用します。\n1. **設計原則の再構築**：開発観を「人を増やせば速くなる」という前提から外し、人間による判断をシステムに残す。\n2. **ハーネス（ガードレール）の設計**：推論的知性と形式的知性を組み合わせ、AI が実装した際に壊れ方を機械的に検出・制御する仕組み。\n3. **要件と設計の統合**：要件自体もソフトウェアの一部として扱うことで、業務上の出来事をコードに反映させる。\n4. **多層的品質ハーネス**：スイスチーズモデルやテストピラミッドなどを組み合わせ、異なる観点の検査を重複して見落としを減らす。\n5. **UX デザインのアーキテクチャ**：AI が作る UI を平均化し、ブランドの芯をテーゼに絞ることで、人間と自動の境界を明確にする。\n\n本文には具体的な技術用語や詳細な手順は記載されていませんが、主要な設計思想は明確です。開発者にとっての重要な点は、システム構造を人間の判断と業務知識に基づき再構築することにあります。",
+    "imageUrls": []
+  },
+  {
+    "id": "d220d54c842ffba7",
+    "title": "「子が私の暗殺方法、AIに相談してた」反抗期の小学生の子どもの行動に心身疲れてしまった母親がXに投稿「将来に少しでも道筋をつけてあげられたらって。毒親なのかねえ」",
+    "url": "https://togetter.com/li/2772442",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T11:53:12.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2772442",
+    "category": "TUTORIAL",
+    "summary": "# 親のメンタルと子へのAI相談\n\nこの記事は、現代の親子関係において、親が過度にメンタルに疲弊し、あるいは子供に対するAIを誤解して利用する問題について解説しています。具体的な課題として、親の自己保護と子供の心理状態のバランスという点が挙げられます。\n\n結論として、親は「知らない」のではなく「正しい判断をするべき」という意識を促すことが重要です。また、子供へのAI相談は「無限負荷」ではなく「適切な制限」を適用する必要があると推奨されています。\n\n方法として、親のメンタル状態を管理し、子供に対するAI利用の範囲を明確に設定することが挙げられます。具体的な手順としては、ネット依存やAI利用の制限を親が管理し、子供との対話は「正しい判断をするべき」という意識を維持することです。\n\n本文では、親が自身のメンタルを優先し、子供への影響を考慮した適切な対応が推奨されています。特に、思春期や反抗期などの時期には、無理に親の感情を否定せず、子供への配慮を重視することが重要です。",
+    "imageUrls": [
+      "https://s.tgstc.com/static/web/p.gif"
+    ]
+  },
+  {
+    "id": "7dd73e3c8a43eaff",
+    "title": "美少女ゲーム「NIKKE」経由でマルウェア感染　北海道2自治体、委託先が認める",
+    "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T11:25:45.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F19%2F2000003351%2F",
+    "category": "RELEASE",
+    "summary": "# 業界動向：マルウェア感染と個人情報漏洩問題\n\n**課題と技術**\n業務委託先が使用する情報機器にマルウェア「K2F」が感染し、パスワードや個人情報の盗みを可能にする機能を持つ。また、ゲームのPC版ランチャーの改ざんによる感染リスクも指摘されている。\n\n**結論**\n個人情報が漏れ、不正利用の恐れがあるため、業務委託先のセキュリティ対策と情報管理体制の強化が必要である。\n\n**方法**\nGIS北海道はリムゲートの担当者が業務用PCでゲームを起動していたかどうかを確認し、対応を怠らないよう指示した。同社はネットワークから遮断を行い、9日に報告した。また、個人情報の漏洩については確認していないとしている。\n\n本文には具体的な対策の詳細や技術的な仕組みの詳細が記載されていないため、専門用語は短く説明している。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/19/2000003351/10012622/728"
+    ]
+  },
+  {
+    "id": "7ac77043b8aa835c",
+    "title": "【Gemini 4 Hydrogen】「とりあえず一番上」から卒業！Agent Studioで試す手順",
+    "url": "https://qiita.com/N-Kyo/items/80ac96fd59b08b1a879a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-19T11:09:07.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：Gemini 4 Hydrogen の使い方の概要\n\n**課題と技術**\n2026年11月、Google Cloudで Gemini 4 Hydrogen という新しいモデルが発表されました。これは炭素、アルゴン、水素の3つの要素を組み合わせたモデルです。これらは従来の上位モデル（Carbon, Argon）と比べて、計算速度とコストを重視した設計です。\n\n**結論**\n初心者向けには、最も速くて安価な「Hydrogen」モデルを選択するのが推奨されます。ただし、上位モデルの機能性を補完する必要がある場合があります。最終的に適切なモデルを選び、正確に設定することで、低コストかつ高品質な回答を実現できます。\n\n**方法**\n開発者は Agent Studio を使用してモデルを構築します。まずプロジェクトを確認し、自己検証用のプロジェクトを選ぶ必要があります。その後、以下の手順で設定を行います。\n\n1.  **モデル選択**: 「Agent Platform」→「Studio」から Gemini-4-hydrogen を選択します。\n2.  **出力制限**: 回答の長さを制限する「Output token limit」を32,768 に設定します。\n3.  **思考レベル**: 質問を送る際、「Thinking level」を Low から High の段階へ調整します。これにより待ち時間とコストを抑えます。\n4.  **コード作成**: テラフォームなどのコードを書く必要はありませんが、回答の形式やブロック設定を行います。\n\n**注意点**\n「温度」といった生成AI特有のパラメータは無視されます。また、思考レベルを上げると料金も増加します。3万トークンを超える場合はタイムアウトリスクがあります。最終的に上位モデルとの比較を行い、必要な場合のみ選択するよう注意してください。",
+    "imageUrls": []
+  },
+  {
+    "id": "ddc500808b05d5dd",
+    "title": "【速報】タイミー、事業者情報最大22.6万人漏えい",
+    "url": "https://www.47news.jp/15256728.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T11:08:54.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.47news.jp%2F15256728.html",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n半導体装置の点検補助を担当するGOEN株式会社の正社員として、製造装置の日常点検と保守補助を行います。点検記録の作成や、消耗部品の交換手順書を確認し、装置の構造と仕組みを身につけることで、機械に関わる技術を実務に適用します。異音や数値の異常に気づいた際、正確な報告を行うことが重要です。この仕事は、現場の設備管理とトラブル予兆の把握を通じて、業務効率化を図るものです。\n\n結論：\n本記事は、半導体装置の点検補助を担う正社員について紹介しており、現場での技術習得と責任ある作業を推奨しています。\n\n方法：\n課題解決のポイントは、装置の点検記録の作成と異常の報告です。技術的な知識として、構造や仕組みを理解し、トラブル予兆の見つけ方を実践的に学ぶことが重要です。具体的な手順は「消耗部品の交換」という項目で詳細が記載されています。\n\n本文に情報がない項目は推測せず、「本文に記載なし」とします。\n要約の視点：\n解決する課題は、製造装置の点検補助を正確に行うことです。手順として、点検記録の作成と異常の報告を行い、機械知識を実務に適用することで業務効率化を図ります。実践時の注意点として、異音や数値の異常に気づいた際、正確な報告を行うことが重要です。",
+    "imageUrls": []
+  },
+  {
+    "id": "b554ceafeca62deb",
+    "title": "【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T10:40:49.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.ipa.go.jp%2Fsecurity%2Fsecurity-alert%2F2026%2Fpre-alert20261119.html",
+    "category": "RELEASE",
+    "summary": "# PHP セキュリティリリース公開について\n\nPHP のセキュリティリリースが公開される予定です。本情報は、セキュリティリリースの公開後、速やかに適用する必要がある脆弱性の影響について情報を提供しています。\n\n## 課題と対策\n\nPHP の利用環境において、セキュリティリスクがあることが指摘されています。特に、CVE-2026-109618 や CVE-2026-109619（PHP2shell）などの脆弱性が存在します。これらの脆弱性は、デフォルトの設定や一般的なセットアップにより影響を受ける可能性があります。\n\n## 推奨対応方法\n\n開発者側や運用者は、以下の対策を講じる必要があります。\n\n1. **棚卸し**: 利用しているプログラムを棚卸しし、速やかな対策の適用を準備する。\n2. **修正プログラムの適用**: 修正プログラムが公開された後、すぐに適用する必要がある。\n3. **外部情報確認**: 製品マニュアルや開発元からのセキュリティ情報を確認する。\n\n## 影響と注意点\n\n利用しているシステムや製品について、内部での PHP の利用状況は把握できない場合があります。特に、IPA（インターネットパッチアライズセンター）が確認した古い PHP を利用しているウェブサイトやサービスも存在します。これらの脆弱性を悪用する可能性があり、攻撃者は短時間で攻撃を実行する可能性があります。\n\n## 今後の対応\n\nセキュリティリリースの公開後、速やかに適用できるよう準備を徹底してください。サポート終了の古い PHP を継続使用するウェブサイトやサービスについては、注意が必要です。\n\n本文では、開発者向けに直訳調を避けた自然な日本語で要約しています。",
+    "imageUrls": [
+      "https://www.ipa.go.jp/k3q2q40000009mwk-img/k3q2q40000009mwp.png"
+    ]
+  },
+  {
+    "id": "edea48a54d57c330",
+    "title": "Claude Codeの「/remote-control」で、ディズニーの長い待ち時間中も開発したい",
+    "url": "https://qiita.com/inoyu-qiita/items/f7cdc72b8673a7d94fa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-19T10:37:22.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 開発者向け Claude Code の「remote-control」機能の要約\n\n**テーマ**: 開発者のスマホからPC作業への移行方法\n結論：Mac のローカル環境をスマホに遠隔操作する機能を提供し、セッション管理と通知機能を実装しています。\n方法：ターミナルの起動設定やセッション管理の自動化、サーバーモードの活用など。\n\n本文では、開発者がスマホからPC上の開発作業を継続する「remote-control」機能について解説します。この機能は、Mac のローカル環境をスマホに接続し、ファイル編集やコマンドを実行できます。また、セッション管理や通知機能も追加されています。設定ファイルの作成や、ターミナルの起動方法など、具体的な手順が記載されています。\n\n本文には、特定の機能の詳細な仕様やバージョン情報は含まれていませんが、基本的な仕組みと利用方法は明確です。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2F91afd4ea-e18a-4daa-ad0e-749364758b99.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8fc57b36c34a12c0095dbc90cd150892",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2F0e26e158-73d5-4ede-9449-b3148ae8c139.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9120031b675e5022912fec4836c00791",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2F70e1d6d5-f502-4750-bdc8-e698e2ac19b4.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=aecdef6754076b722b107696855572a4",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2F92329f59-fa94-459d-b611-038e3c1bba44.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=65c28b3f0e284461bb355f398c5bb389",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2F4ee36faf-0bf5-4af4-b1c4-080357743a30.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=35f09da8b751574d97bdd0192a3904ef",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2F405e6557-0dda-49d6-8571-fc100492c2f2.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4ef41db30b392fe7c68bd83a6ea4d228",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2F6c738bfd-ba2c-4b8b-9841-df4ad914d9df.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4511d9a10565ef894457cbbdc01aee86",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4475351%2F0a884894-37f3-4973-aed2-9a7a2c181bb9.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=970f209afac72134e914f5169144bd8c"
+    ]
+  },
+  {
+    "id": "a732ac187e32a662",
+    "title": "AIモデル顔データベース",
+    "url": "https://ai-portrait-gallery.pages.dev/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T10:30:08.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fai-portrait-gallery.pages.dev%2F",
+    "category": "GENERAL",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\nこの記事は、写真編集における「絞り込みフェイス」の技術について解説しています。画像の表示時に正 facing に設定され、無地背景の顔リファレンスとして機能していることが明確です。ユーザーが顔を揃えたい場合に最適なツールとして推奨されています。\n\n課題は、写真編集時のレイアウトや表現の明確さを確保することです。技術的には、顔の方向性を正確に把握し、背景を適切に設定する仕組みが重要です。開発者は、この機能を効率よく活用して、より良い結果を出すことが可能です。\n\n結論では、この機能は顔の揃えやリファレンスとして重要な役割を果たすことを示しています。\n\n方法として、ユーザーは正しい設定を行うことで、適切な表現を実現することが可能です。専門用語は必要ないため、簡潔に説明しています。",
+    "imageUrls": []
+  },
+  {
+    "id": "6f9b4b9507842bbe",
+    "title": "物流代行サービス「オープンロジ」への不正アクセスについてまとめてみた - piyolog",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/19/183634",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T09:59:00.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F19%2F183634",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：直訳調を避けた自然な要約\n\n物流代行サービスの開発ロジが外部不正アクセスを受け、出荷データの個人情報が漏洩された問題について、同社は緊急対策と対応を講じています。11 月 9 日以降の経路遮断やシステム維持措置により、新たなリスクは確認されていないものの、セキュリティ体制の強化が必要とされています。\n\n## 課題と影響\nオープンロジの公表により、外部第三者による不正アクセスと、出荷データの持ち出しが問題となりました。これにより、荷主側や委託元の顧客への個人情報（住所、電話番号、メールなど）が漏洩するリスクが発生しました。また、システム停止時間やアクセス制限などの対策も実施されています。\n\n## 解決方法\n1. **経路遮断**: 外部の第三者へのアクセスを遮断し、緊急メンテナンスを実施しました。\n2. **認証情報のリセット**: アデリア、キッズレーションなど、管理画面のパスワードやログインアカウントを再設定しました。\n3. **システム対応**: 脆弱性を修正し、システム運用を継続的に維持しています。\n4. **データ検証**: 届け先の個人情報と商品情報の漏洩について、複数の組織から報告を受け、詳細な調査を進めています。\n\n## 推奨事項\n個人情報保護委員会への報告を準備し、今後のセキュリティ対策を強化することが重要です。また、外部の関連企業との連携により、より適切な対応策を講じることが推奨されます。",
+    "imageUrls": [
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/p/piyokango/20261119/20261119182042.png",
+      "https://cdn-ak.f.st-hatena.com/images/fotolife/p/piyokango/20261119/20261119182057.png"
+    ]
+  },
+  {
+    "id": "83c970739422ff74",
+    "title": "「ほぼ全人類が永久に失業する」Anthropic研究者がAIの未来を予測",
+    "url": "https://ascii.jp/elem/000/004/452/4452982/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T09:44:51.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fascii.jp%2Felem%2F000%2F004%2F452%2F4452982%2F",
+    "category": "RELEASE",
+    "summary": "# 人間の雇用未来と AI の影響\n\n**課題**: AI が人間の知識を超え、雇用構造を根本的に変える可能性\n**結論**: AI は将来的にすべての分野で匹敵するが、実質的な雇用損失には時間差がある。政府規制や社会議論が必要\n**方法**: Tao Lin氏は AI 開発のペースを低下させ、ロボットの規模化と福祉制度依存を想定した未来を予測\n\n本文では、Tao Lin 氏が人間の雇用危機を懸念し、AI が 2027 年末に登場する見解を示唆された。しかし、肉体労働の代替には数十億台以上のロボットが必要になるため、実質的な雇用損失には時間差があるという指摘も含まれている。また、政府による規制や社会全体の議論が求められていると主張された。今後の社会構造への影響については、本文に記載なしである。",
+    "imageUrls": [
+      "https://ascii.jp/img/2026/11/19/4554121/l/7d1f92347929bf4e.jpg"
+    ]
+  },
+  {
+    "id": "4beeaf8f4989913d",
+    "title": "約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2157865.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T09:37:47.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2157865.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Firefox フィンガープリンティング対策の強化\n\n**テーマ**: ブラウザーフィンガープリンティングによるユーザー識別のリスクと解決策\n**結論**: Firefox は、画像やハードウェア情報を含む詳細情報を削減することで、ユーザーの追跡を制限する。\n**方法**: 「Fingerprint Pro」などのスクリプトを用いたシミュレーションと、OS 結果の加重集計により、一意に識別できるユーザー数を削減する。\n\n本文では、Firefox のブラウザフィンガープリンティング対策について、画面情報や音声・数値演算の処理、および保護策の導入方法が詳細に記載されている。特に、タスクバーやドックのサイズを隠す対策はすべてのモードで有効であり、プライベートブラウジングと厳格モードでの先行導入により、ユーザーの識別可能性を低下させる仕組みとなっている。研究結果では、保護策の追加により一意に識別されるユーザーの割合が減少したことが示されている。詳細は「fingerprinting.study」で閲覧できる。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/wf/docs/2157/865/image1_l.png",
+      "https://asset.watch.impress.co.jp/img/wf/docs/2157/865/image2_l.png",
+      "https://images-na.ssl-images-amazon.com/images/P/B0D41HZQL1.09._SCTZZZZZZZ_PE.jpg"
+    ]
+  },
+  {
+    "id": "0bf8080a7afd7aaa",
+    "title": "「オントロジー」とは結局何なのか　Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T09:36:30.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fatmarkit.itmedia.co.jp%2Fait%2Farticles%2F2611%2F19%2Fnews008.html",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに直訳調の自然な日本語で要約します。\n\n**テーマ：課題と技術**\nAI による業務データの自動処理には、既存のデータ構造だけでなく、業務用語の意味やルールを伝える仕組みが必要です。これを実現する上で注目されているのは「オントロジー」という概念です。従来の知識表現の研究では、概念や関係を機械的に表す方法として研究が進み、現在企業向け製品として「業務実行型」「文脈提供型」の分類が定着しています。特に、Palantir は「意思決定と実行」をモデル化するオントロジーを提供し、データだけでなく、業務上の操作まで組み込んでいる点が特徴です。\n\n**結論：主張と推奨**\nこの技術は、AI が誤ったデータ処理を避けるだけでなく、正しい業務結果を得るための重要な仕組みとして推奨されます。開発者は用語の難しさよりも、自社の用語やルールを定義し、AI にどのように渡すかを重視する方が身近になります。\n\n**方法：手順と仕組み**\n課題解決の手順は、オントロジーの定義と業務上の操作の統合にあります。まず、概念や関係の定義を行い、その後、業務システムとの連携を図ります。具体的な実装には、Databricks や Snowflake など既存の製品がモデル化された例があり、既存のデータから知識を抽出する負担を減らすことで、企業の知識管理を改善するよう設計されています。また、自然言語処理や生物学分野のオントロジーと同様に、意味の定義と関係の整理を通じて、機械学習システムが正確に情報を処理する仕組みが採用されています。",
+    "imageUrls": []
+  },
+  {
+    "id": "f513983315ec4c3c",
+    "title": "脆弱性で話題「nginx」なんて読む？　「ンギンクス」ではなく……",
+    "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003338/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T09:23:51.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F19%2F2000003338%2F",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：nginx の発音問題と解決策\n\n**テーマ**: Web サーバーソフト「nginx」の発音難しさと開発者の背景\n結論：「NG」と「X」の組み合わせによる発音変更が、開発者の好みに基づいた設計であることが明かされている。\n方法：読み方のヒントとして、「NG」の英語発音と「エンジン」の発音を組み合わせた設計が採用された。\n\n本文には、開発者イーゴリ・シソエフが 2008 年名前の由来を説明した記録があり、また 2014 年に「エンジン」という発音を重視した変更も記載されている。この発音変更は、読みやすさを優先する開発者の意図に基づき、公式サイトへの案内も実施された。専門用語は必要なく、一般的な発音の解説で説明できる内容となっている。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/19/2000003338/10012573/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/19/2000003338/10012574/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/19/2000003338/10012575/728"
+    ]
+  },
+  {
+    "id": "e5df1033f1ea0107",
+    "title": "判定モデル を AI エージェントワークフローへ組み込む",
+    "url": "https://qiita.com/kataoka_se_sionic/items/e7c6b83c6291daedbb62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-19T09:11:03.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# AI エージェントの対応方針判定と応答生成\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\nこの記事は、AI エージェントをアプリケーションに組み込む際に、回答の生成方針の判定と文章生成を分離する問題について解説しています。単一の LLM で両方を処理する構成はシンプルですが、応答時間やコストの違いを比較する実験を行いました。\n\n課題として、コールセンターの問い合わせ対応を題材に、3 つの構成を実装し、判定モデルの導入により精度・速度・コストの向上を検討したという内容です。従来のシステムでは、AI の前にアプリケーションを組み込むことで、厳格な型を求めることが可能です。これを解決する手法として、判定モデルを導入することが提案されています。\n\n実験では、STT/TTS を除いたテキスト入力・出力のケースを想定しました。想定されるフローは、ユーザーの音声をテキストに変換し、AI からの回答を音声に変換するものです。このフローにおいて、会話履歴から対応方針を判定します。\n\n具体的な判定基準は、会話を継続する必要があるか、終了できるか、転送が必要なかを明確に定義しています。例えば、未解決の質問や依頼がある場合は continue を選択し、解決済みであれば end を選択します。また、有人オペレーターへの転送が必要な状況も含まれています。\n\n最終的に、判定結果に応じて、会話の要約やメッセージを生成します。判定モデルは賢い if 文の表現を用いて、JSON mode や Structured Outputs という手法を用いることで、LLM のコストを削減する可能性があります。感情評価も、ユーザーの発言に基づき、1〜5 の整数で評価し、結果を記録します。\n\n結論として、この実験は、AI エージェントの効率化に向けた具体的な技術的アプローチを示しています。今後の開発においては、より精度・速度・コスト向上の余地があるモデルの選定や、適切なプロンプト設定を重視することが重要です。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4328109%2F457ef91a-1b90-4542-a736-e30c448ad5b7.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8545209a3b10f0d56d017378a5d91aa5",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4328109%2Fdb9cbb29-098a-481d-9122-166f564b646f.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e4f761ebd5adf64fc5289783a630a887",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4328109%2F778c346e-672d-4c9c-9fcb-d811450419c3.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=94954089d067d18105ddbcce2fba2684",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4328109%2Fb9903684-ce57-42be-a398-2325fa1af3a9.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=95e5b3528b2398551618c575456cbbbb",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4328109%2F31f96e6e-ea5d-4475-b227-baf5c8569f5a.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d00ac26d7b8a2604a099a032a2abddc3",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4328109%2Fa9e6d174-487e-47b6-a508-57be448b4aad.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=510ba6b04b1533ff7a732fb6764c2bb4",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4328109%2F9373d94e-16a3-4cb7-a0d0-0123872921f5.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=40bd1f54aa390803e867e6d9d38b8979",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4328109%2F20428eac-85c4-461e-a536-42b5f3de8bc7.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4f5d60e0c85ff4e1384c881624d30c76",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4328109%2Ffabfaea5-dcca-49cc-bc0a-38a842c86aa2.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7369d48f7fcdc97bc8de0c3515a32bf5",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4328109%2F7d46165c-3759-4306-b87d-116e665f4a8e.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=cd58f6d2836aea44bb38dcfe64b529bc"
+    ]
+  },
+  {
+    "id": "3335b66d814e0f74",
+    "title": "CAD図面のPDFをAIに読ませる前に確認したい2つのこと：文字が線になっていないか、縮小で潰れないか",
+    "url": "https://qiita.com/sionic_issa/items/345570e589cb1e562ea9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-19T09:08:28.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "# 課題：AI 読み込み時のテキスト抽出壁\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約してください。次の 3 項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点：解決する課題、手順や仕組み、実践時の注意点を中心にまとめてください。\n\n## 課題：AI 読み込み時のテキスト抽出壁\n開発者が CAD で作った図面の PDF を AI に読ませようとすると、通常の文書 PDF では文字データがない壁に 2 つの壁が現れます。文字に見えるのに、テキスト抽出で何も取れない大判の図面を画像として渡すと、細かい文字が潰れる現象が発生します。この問題は、PDF を開いて目で見ているだけでは気づけないため、事前に確認するスクリプトと対策が必要です。\n\n## 結論：確認すること\n確認方法として、以下の 2 つのチェック項目を行います。\n1. テキスト抽出が空になり、文字での検索ができないか。\n2. 縮小で潰れないか。\n推奨される対策は、CAD ソフトの設定やフォントによって文字の形が変わるため、元の CAD データをそのまま出力し直せるか確認することです。\n\n## 方法：解決する手順と技術\n課題を解決するには、まず図面のサイズと文字サイズを計算し、画像として分割する方針を採用します。具体的には、A0 の図面を長辺 1568px に設定し、2.5mm の文字をタイルに分割して渡すことで、テキスト抽出の壁を回避します。また、Python を介した PyMuPDF や Pillow を使用して、画像化と解析を行います。最終的に、各 PDF ファイルをテキストデータとして判定し、適切なスクリプトを実装することで解決します。\n\n本文に記載された主な技術は、ezdxf, matplotlib, pymupdf, pillow です。実際の CAD ソフトの出力設定はソフトごとに異なるため、本記事のスクリプトで確かめてください。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4532990%2F3082ef20-7595-4c80-9603-c0fe9a4deb5d.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=f5d05802e6011cf3e2e1c168d61132f7",
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4532990%2Fdd740fb0-3ed4-42dd-a1d5-14f4414ad5e6.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=2a12f4dabbd4650db705868269219e79"
+    ]
+  },
+  {
     "id": "4e5000366fadfc93",
     "title": "Agent Harnessを理解するために、150行ほどのPythonで自作してみた",
     "url": "https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -237,6 +565,15 @@
     "imageUrls": [
       "https://asset.watch.impress.co.jp/img/ipw/docs/2157/859/01_s.jpg"
     ]
+  },
+  {
+    "id": "1c5bece5cd099374",
+    "title": "正しいUIデザインと、意図のあるUIデザイン",
+    "url": "https://zenn.dev/praha/articles/08568310684aa3",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-19T06:50:26.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fpraha%2Farticles%2F08568310684aa3"
   },
   {
     "id": "936977135e51360c",
@@ -1783,6 +2120,15 @@
     "category": "RELEASE",
     "summary": "開発者向けに、AI 導入による開発プロセスの再設計と、その実装フローの構築について記事の内容を要約します。\n\nこのシステムは、Director と AI を連携させることで、開発工程を分担する仕組みを作りました。スプリントファイルを通じて、承認フローを標準化し、開発プロセス全体を見直す意識を醸成しました。\n\n最初に、承認ゲートを設計し、G1〜G4 の承認タイプを明確に定義しました。これにより、人間と AI の役割を明確に区分し、曖昧な判断を記録する仕組みが確立されました。また、テンプレートを Git で管理する際に、ファイルの混ざり合いを防ぐためのパッチ運用や、プロジェクト固有の内容を別ファイルに分離する手順も導入しました。\n\n最終的に、コミットとレビューの分担を調整し、開発者自身で責任を持って作業を進めるよう設計しました。このワークフローは、コードを書くだけでなく、開発体制そのものを AI 前提で組み直した結果、品質の底上げと効率化を目指しています。",
     "imageUrls": []
+  },
+  {
+    "id": "638232811b7587c0",
+    "title": "なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール - 株式会社ヘンリー エンジニアブログ",
+    "url": "https://dev.henry.jp/entry/e2e-repository",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-18T03:02:46.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdev.henry.jp%2Fentry%2Fe2e-repository"
   },
   {
     "id": "2a46e6db1011d889",
