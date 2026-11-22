@@ -1,5 +1,357 @@
 [
   {
+    "id": "fd10ed9851150190",
+    "title": "丸井G、顧客情報延べ1733万件が漏洩　委託先に不正アクセス - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC209MW0Q6A121C2000000/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T10:38:11.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUC209MW0Q6A121C2000000%2F",
+    "category": "RELEASE",
+    "summary": "丸井グループは、延べ1733万件の顧客情報が漏洩したと発表。この問題は、委託先のプレイドサービス「KARTE」に不正アクセスが被害を及ぼしたことで発生した。ECサイト利用者とクレジットカード利用者の個人情報や管理番号が流出していることが確認された。また、退会者の情報も含まれており、約6万件はさらに詳細な個人情報を漏洩している可能性があるという状況である。現在、二次被害の確認については確認されていないため、対策の重要性を重視する必要があると見なされる。\n\n結論：\nこの事件では、顧客情報の漏洩が発生し、二次被害のリスクが高まっています。企業側は適切なセキュリティ対策を講じ、顧客保護を確保することが重要である。\n\n方法：\n不正アクセス防止策の導入と、クレジットカード情報管理の強化が推奨される。また、システム間のアクセス遮断や、データ流出の監視体制の整備も必須となる。\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。",
+    "imageUrls": [
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3915184020112026000000-1.png?ixlib=js-3.8.0&w=333&h=200&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=831aad72e3672e9e2109703a525c06d1",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3847205009112026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=4868b6b6fc2d5e98f5a20f5892574798",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3831786005112026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=2c880d74e8a2568c0edf866f26bb8571",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3898958018112026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=8699349f94d08fa4557c72ddbc69f0d5",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3894028017112026000000-2.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=d8d3dd591db91f1db15aba77614e654d"
+    ]
+  },
+  {
+    "id": "d31a5f731b699a15",
+    "title": "AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功",
+    "url": "https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T10:11:37.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261120-large-language-model-can-rewrite-itself%2F",
+    "category": "RELEASE",
+    "summary": "# AI の自己書き換え技術の発見と応用\n\nAI モデルのウェイトを分析し、追加学習なしで書き換える「Self-Rewriting」手法が研究された。Alibaba の Qwen3.5 を基にした実験では、数学問題に対する性能向上や回答の制限問題を解決した。従来の勾配降下法や誤差逆伝播を使用せず、内部状態を比較してウェイトの一部を書き換える方法を採用した。結果として、270 億パラメーターのモデルは 57.2% から 63.8% の性能向上を示し、画像認識タスクでの修復も有効だった。しかし、他のモデルでは性能悪化や破損修復が必要となり、規模によって能力が異なることが指摘された。研究チームは破損したモデルの修正方法を実証し、数学問題だけでなく画像認識タスクでも効果的であることが確認された。最終的に、AI の自己改善に向けた一歩として位置づけられ、将来的にはより大きな計算環境での学習が可能になる可能性がある。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/20/large-language-model-can-rewrite-itself/00_m.png",
+      "https://i.gzn.jp/img/2026/11/20/large-language-model-can-rewrite-itself/01_m.jpg",
+      "https://i.gzn.jp/img/2026/11/20/large-language-model-can-rewrite-itself/02_m.jpg",
+      "https://i.gzn.jp/img/2026/11/20/large-language-model-can-rewrite-itself/03_m.jpg",
+      "https://i.gzn.jp/img/2026/11/20/large-language-model-can-rewrite-itself/04_m.jpg",
+      "https://i.gzn.jp/img/2023/06/04/large-language-model-paper/00_m.png",
+      "https://i.gzn.jp/img/2026/02/04/alibaba-qwen3-coder-next/00_m.jpg",
+      "https://i.gzn.jp/img/2025/04/30/bamba-ibm-ai/00_m.jpg",
+      "https://i.gzn.jp/img/2025/11/28/deepseek-math-v2/00_m.png",
+      "https://i.gzn.jp/img/2026/07/10/prismml-iphone-apple-qwen/00_m.jpg",
+      "https://i.gzn.jp/img/2023/06/03/qlora-finetuning-llm/00_m.png",
+      "https://i.gzn.jp/img/2024/01/17/stable-code-3b/00_m.jpg",
+      "https://i.gzn.jp/img/2025/06/20/ai-self-adapting-language-model/00_m.png",
+      "https://i.gzn.jp/img/2026/11/20/uk-government-apple-secret-encryption-order/00_m.jpg",
+      "https://i.gzn.jp/img/2026/11/20/headline/00_m.png"
+    ]
+  },
+  {
+    "id": "7b8d213306239ab7",
+    "title": "【速報】三井住友銀で情報漏えい、最大1400万件",
+    "url": "https://www.47news.jp/15262461.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T10:10:25.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.47news.jp%2F15262461.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：ニュース速報の誤情報対策と業務支援\n\n記事は、2026 年 11 月において、共同通信の「プレイド」がデータセンター建設を認めず、情報漏え事件が発生したという事実を報告しています。この事故により、業務委託先のサービスが不正アクセスを受けたことが明らかになりました。これにより、企業や個人にとって重要な個人情報保護と業務継続への懸念が高まっています。\n\nまた、同社は SNS 運用スタッフの募集を推進し、若手社員やキャリア形成を目的とした人材を採用しています。特に、IT 知識がない者でも指導を受けながら始められる環境を提供し、月給 30 万円〜50 万円などの給与を付与しています。\n\n最終的に、誤情報の対策と業務支援の両方を重視する方針を示しています。",
+    "imageUrls": [
+      "https://img.cf.47news.jp/static/bnr/bnr_google_preferred_pc.png",
+      "https://img.cf.47news.jp/static/corporate-banner/kyodo.png",
+      "https://img.cf.47news.jp/public/photo/9cb2d4fe6bb89bf17fb4afa198d0ecdf/photo.jpg",
+      "https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png",
+      "https://img.cf.47news.jp/public/photo/1c28c15accc4c853dcc325bb736f6721/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/639deee3223b597dd5c624d08da0f997/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/de79fb930167f4987fb4dc120d9b3bed/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/23beede7afd08570a92ba5e2c1f476eb/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/835db51d49343456a564e445554793fa/photo.jpg",
+      "https://img.cf.47news.jp/static/special/nihonservice/300x250.jpg",
+      "https://img.cf.47news.jp/static/special/env_fukushima/300x250.jpg",
+      "https://img.cf.47news.jp/static/special/nayami_sodan/300x250.jpg",
+      "https://img.cf.47news.jp/public/photo/a05fc804bbd801326e0be77bef2bbf0f/photo.png",
+      "https://img.cf.47news.jp/public/photo/83a601b76260e0be71b95d9d3afcbb33/photo.jpg",
+      "https://img.cf.47news.jp/public/photo/390065ac4fcd73b9c4d3f00a57ffe51b/photo.jpg"
+    ]
+  },
+  {
+    "id": "7b3cf260c9eb856a",
+    "title": "POS端末700台超がマルウェア感染、Windowsの脆弱性悪用でカード情報100万件超が流出",
+    "url": "https://news.mynavi.jp/techplus/article/20261120-5367457/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T09:57:14.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.mynavi.jp%2Ftechplus%2Farticle%2F20261120-5367457%2F",
+    "category": "TROUBLESHOOT",
+    "summary": "# 課題と解決方法：クレジットカード情報窃取防止\n\nこのサイバー攻撃は、20 か国以上の国家で発生し、700 台以上の POS 端末に感染したことで、100 万枚を超えるクレジットカード情報を窃取しました。攻撃の元点として、Windows の共通ログファイルシステム（CLFS）の権限昇格脆弱性 CVE-2024-49138 を悪用しました。この脆弱性は、マルウェアがシステム権限を取得し、顧客決済時にカード情報を継続的に収集する仕組みでした。\n\n解決策として、セキュリティ更新プログラムを適用することが重要であり、管理者は少なくとも 1 年 9 カ月までにソフトウェアを更新していないことが確認されています。また、攻撃のソースコード分析では、開発者の氏名も発見されたため、毎月のセキュリティ更新が有効であることが示唆されました。\n\n再発防止の要点として、管理パネルを調査し、特定されたサーバは閉鎖されていることと、研究者のアクセスを検知した可能性があるという点を確認する必要があります。被害はブラジルに集中しており、利用者は取引明細の不審性を確認し、金融機関に相談することが推奨されます。企業には、業務への影響を懸念する端末や長期間運用している機器へのセキュリティ更新状況の確認が求められます。",
+    "imageUrls": []
+  },
+  {
+    "id": "4222e87089517110",
+    "title": "第8回 自分のトレードルールを「言葉」で書き出してAIに渡すコツ",
+    "url": "https://qiita.com/oanda2/items/9726cd47ac45a905e63a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-20T09:40:37.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8c9611e940499ab5",
+    "title": "AWS STS announces GetScopedCredentials to scope down permissions at runtime - AWS",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sts-getscopedcredentials/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T09:32:05.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Faws.amazon.com%2Fabout-aws%2Fwhats-new%2F2026%2F11%2Fsts-getscopedcredentials%2F"
+  },
+  {
+    "id": "0b85b7eb3aafcd9c",
+    "title": "政府の内部資料流出か、基幹システムに不正アクセス　デジタル庁発表：朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T09:31:39.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.asahi.com%2Farticles%2FASVCN30WCVCNULFA01NM.html",
+    "category": "RELEASE",
+    "summary": "デジタル庁は基幹システムに不正アクセスがあり、政府の内部資料が漏洩した可能性を警告している。この問題は、GSS（ガバメントソリューションサービス）内のファイル共有サービスについて検知されたものである。調査結果では、7 月 30 日～11 月 12 日の間に不正アクセスがあったと見なされている。機密性 2 の情報は秘密文書ではないが、一般に開示される情報を含んでいるため、個人情報が含まれている可能性があるという懸念が強い。GSS は 2021 年から導入された政府共通のネットワーク環境を構築するシステムであり、現在約 15 万人の職員で使用されている。原子力規制庁も同様のシステムを使用しているものの、核物質防護に関する情報は別システムで扱っていると見なされている。今後の対応は、警察や専門家との協力を通じて被害の全容把握を目指す予定である。\n\n結論：デジタル庁は基幹システムへの不正アクセスによる情報漏洩を懸念し、調査結果に基づき対策を講じる必要があると主張している。\n\n方法：GSS のファイル共有サービスを利用する職員が個人情報を含まれている可能性を考慮し、外部の専門家との協力体制を構築する。また、原子力規制庁との連携も検討される可能性がある。\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。",
+    "imageUrls": [
+      "https://profile-image.kraken.asahi.com/3a40b031c97cda0b896b90c372e6bb1b952e17731fd18416a1a5837e32cd6522"
+    ]
+  },
+  {
+    "id": "a270360b5ef9c8a0",
+    "title": "必死で資料を作った会議、上役の「直近のセキュリティ危機は大丈夫なのか」って質問に上司が「あなたが予算を減らしたのでダメです」って返して15分で終わった",
+    "url": "https://togetter.com/li/2772854",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T09:29:14.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2772854",
+    "category": "GENERAL",
+    "summary": "# 開発者向け：資料の活用と上司との関係性\n\nこの記事では、開発者向けに直訳調を避けた自然な日本語で要約します。\n\n**テーマ**: 開発者にとってのセキュリティ危機対応と資料利用について\n\n**結論**: 資料は上司の主張に反するものではないが、上役の態度や組織構造の影響を受け、適切な運用が必要であることが明かされている。\n\n**方法**: 資料利用の誤解を解消し、上司との対話を通じて正しい判断を下すようアドバイスを提供している。\n\n本文では、開発者たちが資料利用において困った状況について、具体的な事例と解決策が提示されている。セキュリティ危機や組織構造の問題点に触れ、上役の態度やチーム内の意見の重要性を強調する。最終的には、資料の活用を適切に行うことで、自身の立場を守り、組織全体への貢献を図ることを推奨している。専門用語は必要なく、具体的な事例と解決策を明確に説明した結果、開発者にとっての課題と対策が理解できるようになっている。",
+    "imageUrls": [
+      "https://s.tgstc.com/static/web/p.gif"
+    ]
+  },
+  {
+    "id": "819f35b7c0183b0a",
+    "title": "「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】",
+    "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T09:26:32.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fserial%2Fyajiuma%2F2158241.html",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：PHP セキュリティアップデートの脆弱性修正\n\n**テーマ**: PHP のセキュリティアップデートにおける URL スキームの問題\n結論：HTTPS:// や httpS:// の大文字化が暗号化を避けるべきであるため、自動リダイレクトを無効化する必要がある\n方法：ファイル取得関数やストリームラッパーにスキームを小文字に揃えることで、暗号化されたデータを流さないよう対策\n\n本文には、PHP のセキュリティアップデートにおける URL スキームの問題が詳細な説明されています。特に、HTTPS:// や httpS:// の末尾の「S」が大文字になっていると、TLS で暗号化されず、パスワードや認証トークンなどのデータを平文で送る脆弱性が指摘されています。この問題は CVE-2026-128064 と追跡されており、高リスクであるため注意が必要です。修正版は v8.6.0 のみで実施されていますが、既存のバージョンでも対応策を推奨しています。アプリケーション開発者は、URL を適切に処理するよう、スキームを小文字に揃えるなどの対策を適用する必要があります。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/wf/docs/2158/241/image1_l.png",
+      "https://images-na.ssl-images-amazon.com/images/P/B0HFL9YJY9.09._SCTZZZZZZZ_PE.jpg"
+    ]
+  },
+  {
+    "id": "1c12ea2ed1f2a4fe",
+    "title": "職業訓練でHTMLを学んだ後にSES会社に入社、Javaとphpの開発経験ありと経歴詐称でPythonの現場に送り込まれ、初日にリーダーから「君何ができんの？」と詰められた話",
+    "url": "https://togetter.com/li/2772850",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T09:24:55.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2772850",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け：SES の経歴詐称問題と対策\n\n**テーマ：SES の経歴詐称問題と対策**\nSES はITエンジニアの資格証明サービスですが、業界では「多重下請け構造」により経歴詐称を強要する傾向があります。これにより、開発者や転職者が不利な状況に陥りやすくなっています。\n\n**結論：経歴詐称は違法であり、損害賠償リスクがあります**\n企業から強制される経歴詐称は、民事裁判で被告として訴われることがあり、最高裁の判例では明確化されています。これにより、開発者や転職者は自身の権利を失う危険性があります。\n\n**方法：強要された時の対処法と判断基準**\n1. **証拠収集**: 強制された書類や記録を保存し、関連する裁判書類を確認します。\n2. **弁護士相談**: 専門家の助言を得て、法的な対応策を検討します。\n3. **断り方検討**: 契約や業務内容に基づき、合理的な拒絶を提案します。\n\n本文には具体的な解決手順の詳細は記載されていませんが、弁護士相談や証拠保存が重要です。この問題については、専門家の助言を強く推奨します。",
+    "imageUrls": [
+      "https://s.tgstc.com/static/web/p.gif"
+    ]
+  },
+  {
+    "id": "7e6ffbabcd566b31",
+    "title": "「画面を奪わずにスマホ実アプリを動かす」個人AIエージェントの設計メモ（コネクタ型・クラウドブラウザ型との比較）",
+    "url": "https://qiita.com/mateohq/items/980dd24ede7f8bf38b7c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-20T08:41:58.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "259705825f12538e",
+    "title": "Claude Code が調べずに「ありません」「できません」と答えるのを Stop フックで差し戻す(道具を1回も呼んでいない返事だけを止める)",
+    "url": "https://qiita.com/takamatt_ai/items/043da9bb50a9136d38b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-20T08:39:14.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f5d1f29e3c25373d",
+    "title": "緊縮の痛みは成長に変わるか——実証的に棄却された仮説が政策に残り続ける認知設計 : システム設計視点の行動経済学 (66)",
+    "url": "https://qiita.com/maskot1977/items/96098e2d0016cf85e7e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-20T08:33:47.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "c30a8541183c1b9b",
+    "title": "はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog",
+    "url": "https://developer.hatenastaff.com/entry/2026/11/20/162322",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T08:33:42.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdeveloper.hatenastaff.com%2Fentry%2F2026%2F11%2F20%2F162322"
+  },
+  {
+    "id": "b38b917332f93f34",
+    "title": "Lantern DSSE開発者の奮闘記",
+    "url": "https://qiita.com/shinkusanagi/items/7fbcf5302fb0e8eb98c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-20T08:23:15.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1138bb8763379fd1",
+    "title": "オンプレミスAIエージェントの二重実行と記憶劣化を防ぐ：ZeroOS（PostgreSQL 12状態リース）と LongMemOS（約3.1MB）の設計",
+    "url": "https://qiita.com/derekwang8866/items/533681c013a98058359e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-20T07:52:21.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "ed0aaae4e7d8f9da",
+    "title": "プレイド「KARTE」の情報漏洩2200社　サービス停止で20億円の赤字へ - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC204SK0Q6A121C2000000/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T07:48:01.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUC204SK0Q6A121C2000000%2F",
+    "category": "RELEASE",
+    "summary": "プレイドはカルテの不正アクセス被害を調査し、約 2200 社に被害が拡大したと発表した。この情報はマーケティング支援サービスとして利用される企業へ提供されるようになり、売上高や利益を大幅に低下させる可能性がある。また、契約終了後の顧客データも含まれており、漏洩の規模は計 570 社以上であり、重複を含む場合は 2220 社に上ると発表された。サービス再開予定で、停止期間中の料金は請求しないという対策も導入された。\n\n結論として、企業での記事共有や会議資料への転載・複製など利用サービスの安全性を確保することが重要であることが示唆される。\n\n方法として、企業側は情報漏洩の規模を把握し、契約終了後の顧客データを提供する仕組みを採用する必要があると見なされる。技術的には、サービス再開に伴い顧客データの提供プロセスが再確認されるよう設計されている。\n\n本文に記載された情報は不足しているため、推測として、サイバー攻撃手口の巧妙化や防衛策に関する最新の記事も参照すべきである。",
+    "imageUrls": [
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3912330020112026000000-1.jpg?ixlib=js-3.8.0&w=638&h=399&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=b3dbdca5cd73d9a73153fec1be03f9eb",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252Ftopic%252Fog%252F21071204-1.jpg%3Fixlib%3Djs-2.3.2%26auto%3Dformat%252Ccompress%26fit%3Dmax%26ch%3DWidth%252CDPR%26s%3D5b9164fb4c4933f2a11531243cb92555?ixlib=js-3.8.0&w=380&h=237&auto=format%2Ccompress&fit=crop&bg=FFFFFF&crop=faces%252Cedges&s=b1b87086834e0af3854034b9115f4e8b",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3913056020112026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=7f2bf5d9881b0f50d4edc62342112f12",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3894028017112026000000-2.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=d8d3dd591db91f1db15aba77614e654d",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3915583020112026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=ddffc6a28e63c41ab28d59908e6fdedb",
+      "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3900967018112026000000-1.jpg?ixlib=js-3.8.0&w=201&h=125&auto=format%2Ccompress&fit=crop&bg=FFFFFF&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=f4e23bae2d400f48ec29044e07ed2415"
+    ]
+  },
+  {
+    "id": "21f6d1f1078c994d",
+    "title": "スーパーコンピュータ「富岳」および「理究（りきゅう）」への不正アクセスに関する調査状況について（第2報） | 理化学研究所",
+    "url": "https://www.riken.jp/pr/news/2026/20261120_1/index.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T07:45:40.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.riken.jp%2Fpr%2Fnews%2F2026%2F20261120_1%2Findex.html",
+    "category": "RELEASE",
+    "summary": "# 富岳・理究の不正アクセス調査結果と対応方針\n\n## 課題と技術\n理研計算科学研究センターが運用するスーパーコンピュータ「富岳」および「理究」への不正アクセス調査結果を報告します。調査は AI を活用したログ解析により、侵入者のアクセス痕跡を特定しました。特に、外部システム接続用の認証情報や秘密鍵の持ち出しが確認されたことが重要です。\n\n## 結論\n漏えいた可能性がある利用者情報は 4,222 名と確認されていますが、悪用行為については確認できません。しかし、二次被害防止のため、関連する認証情報の無効化と再発行を推奨します。運用再開の時期は公開サービスと管理用ネットワークの分離により再発防止策を講じられています。\n\n## 方法\n調査結果に基づき、以下の対応を行います。\n1. **漏えいたユーザーへの連絡**: 個別に鍵の無効化と再発行を依頼。\n2. **サーバー証拠保全**: 侵害確認されたサーバーの証拠保存を進め、専門調査を実施。\n3. **外部システム接続の確認**: SSH 秘密鍵等の持ち出しを確認し、二次被害防止のため対応。\n4. **警察協力**: 埼玉県警と兵庫県警に報告を行う予定。\n5. **改革プラン**: 公開サービスと管理用ネットワークの分離により再発防止策を講じ、研究機関として調査を行う。\n\n本文には具体的な技術用語や詳細な手順は記載されていませんが、一般的なログ解析と認証情報の管理方法に基づき対応しています。",
+    "imageUrls": []
+  },
+  {
+    "id": "9a54aa5c2c725f01",
+    "title": "AIにコードレビューを頼んだら、仕込んだ脆弱性をいくつ見つけるか実験してみた",
+    "url": "https://qiita.com/Machida-03/items/feaa1fc101e83d09110a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-20T07:44:43.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "1fbb496e0b93b4e4",
+    "title": "TSMCやサムスン、対中半導体出荷を一部停止　AIチップの米輸出規制で - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN200HL0Q6A121C2000000/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T07:34:24.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOGN200HL0Q6A121C2000000%2F"
+  },
+  {
+    "id": "7bb29c82084b57c1",
+    "title": "国産AIノエトラ支援、半導体高騰で8000億円膨張　国の負担重く - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA164VE0W6A111C2000000/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T07:33:21.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUA164VE0W6A111C2000000%2F"
+  },
+  {
+    "id": "7d8dc1bd783c20f6",
+    "title": "当社グループが利用するクラウドサービスの委託先への不正アクセスによる情報流出の可能性について",
+    "url": "https://about.mercari.com/press/news/articles/20261120_incidentreport/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T07:28:26.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fabout.mercari.com%2Fpress%2Fnews%2Farticles%2F20261120_incidentreport%2F",
+    "category": "TROUBLESHOOT",
+    "summary": "# 開発者向け：クラウドサービス不正アクセス対策\n\n**テーマ：記事が扱う課題や技術は何か**\n企業側が利用するクラウドサービスに不正アクセスによる情報流出のリスクが発生したことが確認されました。この問題は、Notion社とFireworks社間の接続設定および認証情報の管理が要因となっています。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\n現時点では、対象記録に含まれる個人情報は漏洩された可能性がありますが、対応措置により影響は軽減されています。企業側は、適切な認証情報の無効化と再発行を行い、接続を遮断し、個人情報保護委員会への報告を行うべきです。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n調査結果に基づき、Fireworks社との接続を遮断し、対象記録の削除を行います。認証情報の無効化と再発行を実施し、個人情報を保護するための措置を講じます。また、チャット機能の制限や外部サービスの利用方法の見直しを進めています。\n\n本文に情報がない項目は推測せず「本文に記載なし」とします。要約の視点として、発生した問題、原因、解決策、再発防止の要点をまとめました。",
+    "imageUrls": []
+  },
+  {
+    "id": "068b46e67fadc4cc",
+    "title": "家のPull型世代バックアップをランサム想定で攻撃シミュレーションして、1行直した",
+    "url": "https://qiita.com/Yu-muimi/items/9ed058ed915564e670df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-20T07:20:42.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "d0dcdd27eae2b485",
+    "title": "ドンキのAI社員「近藤あい」が正式デビュー　販促POPや動画で活躍へ　運営元「すでに裏に20人ぐらいいる」",
+    "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T06:50:06.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F20%2F2000003369%2F",
+    "category": "RELEASE",
+    "summary": "公開されたニュースでは、パン・パシフィック・インターナショナルホールディングス（PPIH）は生成AIを活用したAI社員「近藤あい」を公式デビューさせた。従来の販促作業の時間やコストを大幅に削減し、リスクを低減する方針であることが明確である。社内では既存のPOPや動画制作にAI技術を積極的に導入しているが、店頭の販売現場ではまだ活用されていない現状が指摘されている。開発チームは約1年半かけて設計したキャラクターを構築し、若者層のニーズを考慮した自然な口調と表情を再現した。これにより、顧客への信頼感を高める販促手段として導入される予定である。今後の展開については、同社内部で第2のキャラクターの構想も検討されているが、まずは1人を育成する方針を確立している。\n\n結論：PPIHは従来の販促作業の効率化とリスク削減を目指し、生成AIを活用したAI社員「近藤あい」を正式に導入する。\n\n方法：社内開発チームは生成AIモデルを用いてキャラクターのデザインと性格設定を行うが、販売現場での活用にはまだ不足しているため、店舗内のPOPや動画制作にAI技術を積極的に導入する方針である。また、開発チームは約20人の候補者を検討し、まずは1人を育成する方針を確立している。",
+    "imageUrls": [
+      "https://www.itmedia.co.jp/news/article/image/2611/20/2000003369/10012682/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/20/2000003369/10012684/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/20/2000003369/10012683/728",
+      "https://www.itmedia.co.jp/news/article/image/2611/20/2000003369/10012686/728"
+    ]
+  },
+  {
+    "id": "c067587671bcd1b4",
+    "title": "AIコーディングで本格的なプロダクト開発をするために知っておきたいこと",
+    "url": "https://qiita.com/ditchcrimson/items/0b312db230db8d0bb566?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-20T06:41:20.000Z",
+    "status": "completed",
+    "category": "GENERAL",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\n**テーマ：AI コーディングの実装における課題と解決策**\n\n最近のコーディングエージェントは、人間がコードを書く作業を自動化し、短時間でアプリ開発を可能にしています。しかし、この効率性は実質的なプロダクト開発には限界があります。AI が意図しない実装を生成するリスクや、コードの一貫性、テストの確保、レイヤー構造の管理など、重要な課題があります。\n\n本文では、AI コーディングを実際のプロダクト開発に活用する際に重要となるポイントを 6 つの観点からまとめました。まず、LLM が非決定的な振る舞いを示すため、コードの一貫性を維持するツールやプロンプトの設計が不可欠です。また、プロンプトの量を増やすだけでは問題解決にはなりません。環境を整えることで、ルールとテストの整合性を確保することが重要です。\n\n次に、AI の報告を信頼せず、実際のコマンドを実行して結果を確認する必要があることが示されています。また、レイヤー構造の明確化や結合テストの重視、コメントの重要性など、各ステップで適切な対策が推奨されます。最終的に、開発環境の構築と正確な確認を通じて、安全かつ品質の高いコードを生成することが重要です。",
+    "imageUrls": []
+  },
+  {
+    "id": "7b3ea09dee2ea826",
+    "title": "「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ",
+    "url": "https://plaid.co.jp/news/20261120/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T06:33:24.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fplaid.co.jp%2Fnews%2F20261120%2F"
+  },
+  {
+    "id": "62b8a32ea71c62b9",
+    "title": "メモリ圧縮を使えばCPUの処理能力を少し犠牲にするだけでメモリ使用量を大幅に削減できる",
+    "url": "https://gigazine.net/news/20261120-memory-compress/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T06:24:44.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261120-memory-compress%2F"
+  },
+  {
+    "id": "59cb0869963b5dbf",
+    "title": "日本の法律をGitで管理してみた。法改正を `git diff` で追跡できる「houritsu」を作った",
+    "url": "https://qiita.com/bactay511/items/bc2958e730df68c49643?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-20T06:21:48.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "0315d65237ad5775",
+    "title": "GeminiがMacを代わりに操作可能に　アプリやファイルをまたぐ作業も自動化",
+    "url": "https://japan.cnet.com/article/35255218/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T06:19:30.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35255218%2F",
+    "category": "TUTORIAL",
+    "summary": "# 開発者向け Gemini の導入方法と運用\n\n**テーマ：技術課題と解決方法**\nGoogle は、Mac の「Gemini」にユーザーの作業を自動化する機能を追加した。従来の文章指示ではなく、GUI を操作する機能を実装することで、ファイルやウェブサイトの閲覧、フォーム記入などの複雑な作業を簡化した。 Gemini はユーザーの画面とは分離し、チャット内のライブプレビューで進捗を確認可能である。利用者はアプリへのアクセス許可を個別に設定し、実行中の作業は一時停止可能である。\n\n**結論：推奨される運用方針**\n導入には「Appleシリコン」と「macOS Sequoia 15.0」のMac と個人用 Google アカウントの契約が必要である。特に米国での提供が開始され、日本での発表は現時点でない。ユーザーは作業を指示し、結果を記録する必要があるため、アプリやファイルの指定を正確に行うことが推奨される。\n\n**方法：手順と仕組み**\nGemini はユーザーの作業画面とは分離して動作する。作業を指示すると、ファイルやウェブサイトの閲覧が自動進行する。重要な作業は一時停止可能であり、承認が必要な段階がある。また、複数の画面で繰り返している作業はまとめて指示できるため、ダッシュボードやフォルダー内のファイルを参照し、結果を収集する仕組みである。利用者は「Appleシリコン」と「macOS Sequoia 15.0」のMac を搭載する必要がある。\n\n**本文記載なし：注意点**\n日本での提供時期については、現時点で発表されていないため、導入には米国での運用を優先すべきである。また、特定のアプリへのアクセス許可はユーザーが選択する必要があるため、設定の正確さが重要である。",
+    "imageUrls": []
+  },
+  {
     "id": "8408b912a9093d79",
     "title": "AI に作らせた Skill を「期待値」で評価する",
     "url": "https://qiita.com/rioriver/items/17308685b10b3a413427?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -465,6 +817,14 @@
     "category": "RELEASE",
     "summary": "# 開発者向け PostgreSQL 19 の主な変化と機能\n\n**テーマ**: 開発者向けに直訳調を避けた自然な日本語で要約\n\n結論：PostgreSQL 19 は管理と開発を簡素化し、データの安定性とパフォーマンスを向上させます。\n\n方法：\n- REPACK コマンドにより表のスペースを解放し、読み書きを無影響にします。\n- pg_plan_advice と pg_stash_advice の拡張子を導入し、計画の安定化と最適化を支援します。\n- 自動アウタバクシムを強化し、パラレルワークを制御し、優先順位を調整します。\n- 再構築の障害を回避し、論理的リプリカッションを自動的に開始します。\n\n本文には追加機能やバージョン変更の詳細は記載されていませんが、既存の機能と新しい拡張子を組み合わせることで、開発者にとってよりスムーズな運用が可能です。これにより、データ管理の効率化とシステム全体の安定性が確保されます。",
     "imageUrls": []
+  },
+  {
+    "id": "91794f7647bfed17",
+    "title": "「QAエンジニアってどんな仕事？」｜現役エンジニアが語るQAのリアル｜QAエンジニア・H執筆",
+    "url": "https://qiita.com/Oursship/items/b63fa21532f340fa467d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-19T16:53:27.000Z",
+    "status": "pending"
   },
   {
     "id": "d074dc0a0aea5295",
