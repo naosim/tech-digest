@@ -1,32 +1,5 @@
 [
   {
-    "id": "c648ef2123570c14",
-    "title": "お客様の前に立つフロント人材になるために、技術以外の最小構成 | フューチャー技術ブログ",
-    "url": "https://future-architect.github.io/articles/20261111a/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-11T01:20:40.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ffuture-architect.github.io%2Farticles%2F20261111a%2F"
-  },
-  {
-    "id": "8ac0cf1366519b79",
-    "title": "「iCloud」で朝から障害　「ログインできない」ユーザー混乱、メールやカレンダーも",
-    "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-11T01:07:25.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F11%2F2000003090%2F"
-  },
-  {
-    "id": "ce4b7d0e6c441604",
-    "title": "Fireworks AI incident",
-    "url": "https://www.notion.com/ja/security/advisories/security-incident-involving-a-third-party-ai-vendor",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-11T00:55:24.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.notion.com%2Fja%2Fsecurity%2Fadvisories%2Fsecurity-incident-involving-a-third-party-ai-vendor"
-  },
-  {
     "id": "f334b5dcd9727547",
     "title": "予定どおりに進まない育児を、どう回す？エンジニアが家庭で実践する、夫婦どちらか1人でも回る仕組み - レバテックLAB",
     "url": "https://levtech.jp/media/detail_961/",
@@ -1139,6 +1112,15 @@
     "source": "Qiita Popular",
     "publishedAt": "2026-11-09T13:46:47.000Z",
     "status": "pending"
+  },
+  {
+    "id": "6f8924debe2244ce",
+    "title": "Rust で疎ボリュームのライブラリ brodo を Claude Code と作った",
+    "url": "https://zenn.dev/akahmys/articles/454a729a00401f",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-09T13:21:56.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fakahmys%2Farticles%2F454a729a00401f"
   },
   {
     "id": "6bff4ad6666c6d9d",
@@ -12966,6 +12948,15 @@
     "status": "pending"
   },
   {
+    "id": "30bda1935545a72c",
+    "title": "Just Use Postgres!|マイナビブックス",
+    "url": "https://book.mynavi.jp/ec/products/detail/id=153264",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-10-06T04:39:55.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fbook.mynavi.jp%2Fec%2Fproducts%2Fdetail%2Fid%3D153264"
+  },
+  {
     "id": "71f1cd333c38a5c9",
     "title": "もう検索エンジンに戻れない",
     "url": "https://anond.hatelabo.jp/20260930202455",
@@ -13036,6 +13027,15 @@
     "publishedAt": "2025-03-26T02:44:29.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpocket-id.org%2F"
+  },
+  {
+    "id": "520605c64a832051",
+    "title": "Google が実践する最先端の SRE",
+    "url": "https://sre-magazine.net/articles/7/aoto/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2025-03-24T09:45:20.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsre-magazine.net%2Farticles%2F7%2Faoto%2F"
   },
   {
     "id": "d193f8ef02d4f76f",
