@@ -1,31 +1,5 @@
 [
   {
-    "id": "f334b5dcd9727547",
-    "title": "予定どおりに進まない育児を、どう回す？エンジニアが家庭で実践する、夫婦どちらか1人でも回る仕組み - レバテックLAB",
-    "url": "https://levtech.jp/media/detail_961/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-11T00:22:59.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Flevtech.jp%2Fmedia%2Fdetail_961%2F"
-  },
-  {
-    "id": "934ac69898d0d8b6",
-    "title": "IBM TechXchange 2026（アトランタ）見聞感録！ - May the Bob be with us -",
-    "url": "https://qiita.com/numafuji_iguazu/items/4fb7b06514ef62b9e65e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-11T00:07:53.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "9a62711673527d6a",
-    "title": "電子チケットサービス「teket」への不正アクセスについてまとめてみた - piyolog",
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/11/075305",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-11T00:02:14.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F11%2F075305"
-  },
-  {
     "id": "b92d83d9ba804ecc",
     "title": "Playwright を Bun に移す前に確認したい 3 つのこと。メモリは半分、挙動は 6 つ違った",
     "url": "https://zenn.dev/nabeyan_dev/articles/fsfn-playwright-bun-test-runner",
@@ -751,6 +725,15 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.gizmodo.jp%2Farticle%2F2610-audio-technica-monitor-headphone-fps%2F"
   },
   {
+    "id": "2ce7dc79c98a565f",
+    "title": "AMS Trusted Remediator でコスト最適化とセキュリティ修復を自動化する | Amazon Web Services",
+    "url": "https://aws.amazon.com/jp/blogs/news/optimize-cost-and-automate-security-remediation-with-ams-trusted-remediator/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T02:20:38.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Faws.amazon.com%2Fjp%2Fblogs%2Fnews%2Foptimize-cost-and-automate-security-remediation-with-ams-trusted-remediator%2F"
+  },
+  {
     "id": "f5198e500c13abad",
     "title": "個人情報流出ニュースが怖いので、パスワード対策をガチで見直してみた",
     "url": "https://qiita.com/koshiro_esaki/items/22b7e355068ac0dad571?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -850,6 +833,15 @@
     "publishedAt": "2026-11-10T00:17:51.000Z",
     "status": "completed",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fserial%2Fyaaiwatch%2F2154854.html"
+  },
+  {
+    "id": "3ea34bc61c1835b0",
+    "title": "GitHub - google-gemini/gemini-api-cli: An (experimental) CLI for the Gemini API",
+    "url": "https://github.com/google-gemini/gemini-api-cli",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T00:04:23.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithub.com%2Fgoogle-gemini%2Fgemini-api-cli"
   },
   {
     "id": "266edbb884cf6daa",
@@ -12973,6 +12965,15 @@
     "publishedAt": "2026-09-21T06:40:25.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwtrclred.io%2Fja%2Fposts%2F29"
+  },
+  {
+    "id": "70f457ffbaee0001",
+    "title": "かつて数学を学んでいたエンジニアがAIと数学について思うこと",
+    "url": "https://zenn.dev/339/articles/8efd1f1baec355",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-09-16T02:22:40.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2F339%2Farticles%2F8efd1f1baec355"
   },
   {
     "id": "014dfefa7c2b1dfa",

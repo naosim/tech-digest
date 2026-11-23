@@ -1,5 +1,288 @@
 [
   {
+    "id": "5f9080296993d701",
+    "title": "Safari で contentEditable に focus() するとページ先頭へ飛ぶ問題の対処まとめ",
+    "url": "https://zenn.dev/qqpann/articles/safari-contenteditable-focus-scroll-jump",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-21T17:35:33.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--gAxdrDzZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Safari%2520%25E3%2581%25A7%2520contentEditable%2520%25E3%2581%25AB%2520focus%2528%2529%2520%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A8%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8%25E5%2585%2588%25E9%25A0%25AD%25E3%2581%25B8%25E9%25A3%259B%25E3%2581%25B6%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25AE%25E5%25AF%25BE%25E5%2587%25A6%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258D%25E3%2581%2586%25E3%2581%258D%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA5YjlmNGNjN2EuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Safari のタスク編集時の自動スクロール問題と解決策\n\n## テーマ：記事が扱う課題や技術は何か\nSafari でタスクの最後の行に Enter を押すと、ページが先頭へ飛ぶ現象が発生しました。これはブラウザによる自動スクロールの制御により発生する問題です。特にタッチ端末ではキーボードの追従まで止まることが問題となります。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nこの問題は、Safari の Web 開発機能設定や、focus() の処理を適切に行う必要があります。自動テストでは再現できないため、実際の環境での目視確認が必要であり、開発者は対応策を実装する必要があります。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n課題は、Safari で focus() を実行した際に自動的にページトップへスクロールする問題です。これを解決するには、focus() の後に scrollY を固定し、元の位置に戻す処理が必要です。また、タッチ端末ではキーボードの追従を遮断する必要があります。\n\n具体的な解決方法は以下の通りです：\n1. focus() を実行した後、scrollY を固定して元の位置へ戻す処理を実装します。\n2. タッチ端末（pointer: coarse）ではキーボードの追従を止める必要があります。\n3. 自動テストでは再現できないため、実際の環境での目視確認が必須です。\n\n## 本文に情報がない項目は推測せず「本文に記載なし」としてください\n本文には具体的なコード例や詳細なテスト手順が含まれていません。しかし、基本的な解決策の概要は明確に述べています。",
+    "imageUrls": []
+  },
+  {
+    "id": "06753430cbee1634",
+    "title": "AIで開発を速くするだけでは、会社の生産性は上がらない？",
+    "url": "https://qiita.com/kskwtnk/items/99eccfba0ae76ce6f87a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-21T17:35:02.000Z",
+    "status": "completed",
+    "category": "GENERAL",
+    "summary": "開発現場における AI の導入は、開発速度の向上だけでなく、会社全体の生産性向上に大きな影響を及ぼす可能性があります。しかし、研究や調査によると、開発能力の向上だけでは結果が出ないという隔たりがあることが示唆されています。本文では、開発組織と事業全体の連携を重視する考え方を提案します。\n\nAI の導入による開発現場の変化について、開発能力の向上を活かすためには成果に至るまでの流れと制約を重視する必要があります。特に、インフロー・ストック・アウトフローというモデルを用いて、仕事の受け渡しと滞留を調べることが重要です。例えば、営業が契約書や合意内容を法務に依頼する場面において、情報の正確性と確認待ちの時間により、最終的な成果の量が変わる可能性があります。\n\n売上・利益の改善には、開発だけでなく、契約審査や導入プロセスの効率化も不可欠です。結果として、開発部門の生産性を向上させるだけでなく、全体の業務フローを最適化することで、組織全体の収益成長につながることが示唆されています。この観点から、開発セクションを閉じずに会社全体の仕事の流れを重視する姿勢が推奨されます。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F214677%2Ff6253a15-28d4-4f5b-9424-811d851e00c0.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7ef0ad9516b55cff382b7f99b4df4c7d"
+    ]
+  },
+  {
+    "id": "fd0c6b38b45d9750",
+    "title": "Steamの登録料$100と手数料30%をゼロに！30言語＆29通貨換算対応のゲーム配信ストア『Zteam』を個人開発した",
+    "url": "https://zenn.dev/mcp/articles/6b8f51b13c099b",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-21T16:31:05.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ZRrejntu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Steam%25E3%2581%25AE%25E7%2599%25BB%25E9%258C%25B2%25E6%2596%2599%2524100%25E3%2581%25A8%25E6%2589%258B%25E6%2595%25B0%25E6%2596%259930%2525%25E3%2582%2592%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25AB%25EF%25BC%258130%25E8%25A8%2580%25E8%25AA%259E%25EF%25BC%258629%25E9%2580%259A%25E8%25B2%25A8%25E6%258F%259B%25E7%25AE%2597%25E5%25AF%25BE%25E5%25BF%259C%25E3%2581%25AE%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E9%2585%258D%25E4%25BF%25A1%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A2%25E3%2580%258EZteam%25E3%2580%258F%25E3%2582%2592%25E5%2580%258B%25E4%25BA%25BA...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mcp%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFNWa09nd08xdGpacmFxekd0MXFuVXNjbzVtTm1jSTdzY1VkMkM0dmVMekVmZVB3PXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# Zteam の開発と機能\n\nZteam は個人開発者向けに無料のゲーム公開プラットフォームとして開発されたオープンソースプロジェクトです。従来のSteam Direct への登録費や審査期間を回避し、ブラウザ対応の即プレイを実現しています。GitHub リポジトリでは MITライセンスで公開されており、開発者向けには5つの技術知見を提供します。\n\n## 課題と解決方法\n\n個人開発者はSteamへの登録費15,500円以上のハードルを克服するため、Zteam を開発しました。従来のプラットフォームは審査期間や手数料を高く設定しており、収益の30%を徴収する仕組みです。Zteam はこれらを回避し、登録後30日間の自動公開と0%の手续费を実現します。また、AI安全審査とウイルス検査によりセキュリティを確保しています。\n\n## 主な機能と特徴\n\nZteam はブラウザ対応のHTML5/WebGLで即起動可能です。多通貨対応（29通貨）と自動換算機能により、海外プレイヤーの通貨表示をリアルタイムに反映します。外部販売プラットフォームとの直結化により、手数料0%を実現し、開発者への還元も徹底しています。\n\n## 推奨される活用方法\n\n個人開発者は「Zteam」の5つの技術知見をコード付きで応用できます。価格設定はデフォルト無料ですが、有料作品には外部販売ページへの直結機能があります。この機能は海外プレイヤーの通貨表示を自動的に処理し、ユーザー体験を向上させます。",
+    "imageUrls": [
+      "https://res.cloudinary.com/zenn/image/fetch/s--4Ez9NkAv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://zteam.6u.workers.dev/qiita/01_hero_storefront_ja.png?_a=BACMTiAE",
+      "https://res.cloudinary.com/zenn/image/fetch/s--5uTyqQn5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://zteam.6u.workers.dev/qiita/05_faq_steam_comparison.png?_a=BACMTiAE",
+      "https://res.cloudinary.com/zenn/image/fetch/s--huDH49af--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://zteam.6u.workers.dev/qiita/03_publish_pricing_booth.png?_a=BACMTiAE",
+      "https://res.cloudinary.com/zenn/image/fetch/s--L0HAfMjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://zteam.6u.workers.dev/qiita/02_lang_picker_30flags.png?_a=BACMTiAE",
+      "https://res.cloudinary.com/zenn/image/fetch/s--wxNLN5_X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://zteam.6u.workers.dev/qiita/04_game_detail_aether.png?_a=BACMTiAE",
+      "https://res.cloudinary.com/zenn/image/fetch/s--PGpbOKbT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://zteam.6u.workers.dev/qiita/06_web_playable_aether.png?_a=BACMTiAE"
+    ]
+  },
+  {
+    "id": "de6a6b768afb5e74",
+    "title": "Lean verification of the Riemann Hypothesis",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-21T16:27:12.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fleanprover-community.github.io%2Fblog%2Fposts%2Friemann-hypothesis%2F",
+    "category": "RELEASE",
+    "summary": "# 課題と結論\n\nこの記事は、レントアルポゲが公開したライブラリで、リマンハッパス定理の証明を示しています。 Lean と Mathlib の両方のコミュニティが検証し、証明の正確性について正式に認めています。コードは Mathlib に依存しており、17 百万行のコードを構成しています。\n\n## 方法\n\nこの証明の正確性は、以下のチェックにより確認されました。\n- Mathlib の RiemannHypothesis とアルポゲの証明が一致していることが確認された。\n- 独立したツール（comparator と con-leche）による検証により、論理の誤りがないことを保証した。\n- 複数のチェックツールで証明を再確認し、誤りがないことを示した。\n\n## 結論\n\nこのライブラリは、数学的な証明の信頼性を担保する重要な資産となっています。コミュニティの協力により、新しい数学的アイデアの理解と発展に貢献しています。\n\n要約本文:\nレントアルポゲが公開した Lean ライブラリは、17 百万行のコードで、リマンハッパス定理の証明を示しています。この証明は Mathlib との整合性が確認されており、独立したチェックツールによる検証により信頼性が高まっています。ライブラリは Mathlib に依存しており、開発者はこの証明を信頼して利用できます。",
+    "imageUrls": []
+  },
+  {
+    "id": "6c4a35935c06b99a",
+    "title": "【演習ノック編】JavaScript/TypeScript 50本ノック - 配列・非同期・型・zod",
+    "url": "https://zenn.dev/kipcop/articles/f35-vue-35x1-js-ts-knock",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-21T16:20:32.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--gYPw5s4v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E6%25BC%2594%25E7%25BF%2592%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25E7%25B7%25A8%25E3%2580%2591JavaScript%252FTypeScript%252050%25E6%259C%25AC%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%2520-%2520%25E9%2585%258D%25E5%2588%2597%25E3%2583%25BB%25E9%259D%259E%25E5%2590%258C%25E6%259C%259F%25E3%2583%25BB%25E5%259E%258B%25E3%2583%25BBzod%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:k.ike%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzB5X0dHdXdYN0R2NUdXamlMU0FaLTI5OHhBcFBSLW9pMEhMY2lEZ2dBSHVVdDdESHM9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け ノックの演習編要約\n\nこのノックは JavaScript の基礎を基に、非同期処理と型記述の基礎を学ぶための第1弾の演習編です。コードを実行し、自身の理解を「書ける」よう設計されています。姉妹シリーズのバックエンド編にも同様の構成があり、Vue のコード構造を理解する上で重要な知識となります。\n\n## 課題と解決方法\n課題は各レベルごとに独立して解決し、手元の環境（Node.js 20, TypeScript 7.0 など）で実行します。主要な解決方法は以下のステップです。\n\n### 変数と関数の基礎\n変数の宣言法（const と let）の使い分けと、再代入の判断基準を学ぶ必要があります。\n\n### 配列操作とモジュール\n配列の操作や、map や filter を使って要素を処理する技術を習うことができます。\n\n### 非同期処理\nJavaScript の型が一致しない場合のエラー防止と、演算子の優先順（文字列 vs 数値）を理解する知識が必要です。\n\n### TypeScript の基礎\n型記述の導入と、実装時のエラーハンドリングを学ぶ必要があります。\n\n## 結論\nこのノックは、基礎的なコード構造と処理手法を理解し、実際の開発時に適切に運用できる能力を高めるためのトレーニングです。各レベルの課題を解決することで、より堅牢なコードを書く技術を養うことができます。\n\n## 方法\n1. 環境準備：Node.js 20 以上と必要なパッケージ（typescript, zod, tsx）をインストールします。\n2. 各レベルのコードを実行し、結果を確認します。\n3. 解答の分析を行い、自身の理解を深めるために問題文を読み直します。\n\nこのノックは、基礎的な技術知識を補強する重要なトレーニングとなります。",
+    "imageUrls": []
+  },
+  {
+    "id": "af98b201e617c36b",
+    "title": "なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一されてない..",
+    "url": "https://anond.hatelabo.jp/20261122011458",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-21T16:15:51.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fanond.hatelabo.jp%2F20261122011458",
+    "category": "GENERAL",
+    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\nこの記事では、セルフレジの使い方が煩わしくなる理由と、開発者への推奨について解説されています。主な課題として、複雑なUIによる操作難易度や、多様なアプリとの混同、あるいはシステム間の統一性不足が挙げられます。特に、タッチパネル注文機能やポイントカード登録などのポップアップ画面は戸惑わせる要因となります。また、ゲームやSNSの類似機能との比較において、明確な記号や暗黙知の理解力が不足していることが指摘されています。\n\n解決策として、UI の統一化や標準化を推奨します。例えば、車のシフトレバーや決済方法の共通化を例示し、明確な指示を伝えることで混乱を防ぐことが重要です。また、開発者側は、ユーザーの年齢や経験度に応じて適切なアプリを選択するよう注意すべきであるとしています。最終的には、シンプルで直感的な設計を採用することで、顧客の満足度を高めることが期待されます。",
+    "imageUrls": []
+  },
+  {
+    "id": "0bac8ddf3f6c6734",
+    "title": "自分のPCで動く日本語AIアシスタント『ヤタ』を作った",
+    "url": "https://zenn.dev/koheip/articles/yata-local-ai-assistant",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-21T15:45:57.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Tyw9Epco--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25AEPC%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259EAI%25E3%2582%25A2%25E3%2582%25B7%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2588%25E3%2580%258E%25E3%2583%25A4%25E3%2582%25BF%25E3%2580%258F%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:koheip%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnVtMDBHamZWdDMxRS12bVNuOW9GTlpsWnhURTFWNnJQZDJ6dzgxSzJlNE5LUmZ2Uk49czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "GENERAL",
+    "summary": "# ZEN 大学開発の「ヤタ」プロジェクト\n\n**テーマ**: AI エージェント開発における個人化とセキュリティのバランス\n**結論**: 個人PC上で動作する自律型アシスタントとして、安全確認と記憶保存を重視した設計が採用された。\n**方法**: Python3.11以上のバックエンドとReactベースのUIを基に、Grok Bot からClaudeモデルを用いたループシステムで、ツール呼び出しと記憶管理を統合した。\n\n本文では、開発者は「自分のPCで動作し、必要な時だけ手を動ける」アシスタントを個人開発した。チャット機能に加え、検索やメール送信、スケジュール管理など、日本のサービスとの連携を構築する設計を重視した。特に、外部サービスの操作は必ずユーザーの許可を得る仕組みを採用しており、セキュリティとプライバシーを考慮したアーキテクチャが採用された。\n\n開発の過程では、Grok Bot の概念に基づき、モデルをClaudeに仕上げた。ツール定義やリスク管理の仕組みも、後述のループシステムで実装された。最終的に、ローカルAIモデルの活用や、完全オフラインモードの機能など、開発者にとって重要な技術的ポイントが整理された。",
+    "imageUrls": []
+  },
+  {
+    "id": "f109b1c72dd434c2",
+    "title": "クイズの順位を公平にする：正解数＋タイムのタイブレークと計測区間",
+    "url": "https://zenn.dev/quizmytree/articles/2f2f5cbdff86dd",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-21T15:01:26.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--W8_po43D--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AF%25E3%2582%25A4%25E3%2582%25BA%25E3%2581%25AE%25E9%25A0%2586%25E4%25BD%258D%25E3%2582%2592%25E5%2585%25AC%25E5%25B9%25B3%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259A%25E6%25AD%25A3%25E8%25A7%25A3%25E6%2595%25B0%25EF%25BC%258B%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25E3%2581%25AE%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25AF%25E3%2581%25A8%25E8%25A8%2588%25E6%25B8%25AC%25E5%258C%25BA%25E9%2596%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Quiz%2520My%2520Tree%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvcS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法：友だち理解度クイズの順位計算設計\n\nこの記事では、友だち理解度クイズのランキングシステムを設計した重要なポイントを解説します。従来の「同点なら速い方上位」のタイブレークは実務で壊れやすいため、サーバー側の時間計測ルールと比較キーの明確化が提案されています。\n\n主要な課題は、手紙作成や記録時間の影響による順位歪みです。サーバー側で正確な時刻を記録し、開始・終了の定義を統一することで、公平性を確保します。また、1 問 1 回という制約下では、サーバー側の時間計算と一意制約の組み合わせにより、再読み込みによる破綻を防ぐ設計が採用されています。\n\n最終的な設計は、正解数を基準とし、回答中の所要時間を第 2 キーとして設定します。同点処理や手紙作成は計測外に留め、サーバー側の権威を持つことで順位計算の安定性を保ちます。この仕組みは季節イベントだけでなく、社内クイズや学習アプリにも適用可能です。仕様の実例を参照することで、より正確な運用が可能です。",
+    "imageUrls": []
+  },
+  {
+    "id": "d22b1820a2c930cd",
+    "title": "【備忘録】Copilotハーネスでcomputer useをざっくり解説 ― 12月のプレビュー前に全体像を整理",
+    "url": "https://qiita.com/Tadataka_Takahashi/items/42d15e487df873a51283?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-21T14:51:39.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "d4dc954e32ddc07e",
+    "title": "D言語の更新まとめ 2026年8月版（dmd 2.113.0）",
+    "url": "https://qiita.com/lempiji/items/ad328661ffa305976f40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-21T14:27:07.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# D言語の更新まとめ\n\nD言語の公式コンパイラである dmd が 2026 年 8 月 17 日にリリースされました。このバージョンは、従来の保守的なアプローチを避けた自然でわかりやすい日本語で開発者向けに提供された重要なアップデートです。\n\n## 課題と解決方法\n\n開発者は、静的解析と動的検査の両面からポインタを扱うコードの問題を見つけやすくする新しい機能を実装しました。特に実験的なデータフロー解析や実行時の null ポイント参照の検査が追加されました。これにより、既存のコードの安全性を確保しつつ、新しい機能もスムーズに導入できます。\n\n## 主な変更点と影響\n\n更新版には、16 件の主要な変更と 82 件の GitHub Issue の修正が含まれています。重要な変更点は以下の通りです：\n\n- **デフォルト値の設定**：C 形式ビットフィールドでデフォルト値を指定できるようになりました。\n- **安全性強化**：nullability と truthiness を解析する実験的な Fast DFA が追加されました。\n- **インライン化支援**：一定の条件を満たす pragma(printf) 呼び出しを @safe から利用できるようになりました。\n- **型推論改善**：静的配列の長さを $ で推論できるようになりました。\n\n## 推奨される対応策\n\n開発者は、既存のコードを再構築しない限り、新しい機能を利用できますが、いくつかの注意点があります。特に、引数ファイル内の空白を含む行や、関数テンプレートの引数推論でデリゲート内の型リストが展開されない問題など、古いコードとの互換性確認が必要です。また、Windows や macOS の環境下でのコンパイラクラッシュリスクも考慮する必要があります。\n\n## 今後の展望\n\n2.113.0 は、GC と スレッド処理については補足される予定です。今後のバージョン更新は、より安全かつパフォーマンスを向上させるための継続的な進化を期待されます。\n\n---\n本文の長さは約 400 文字です。",
+    "imageUrls": []
+  },
+  {
+    "id": "f045cf0ac92191ca",
+    "title": "メールアドレス宛に荷物を送る時代は来るのか ～ 認証・本人確認・物流・決済に広がるゼロトラストとレジリエンス",
+    "url": "https://qiita.com/carol0226/items/ed8741b1e779c39bb52b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-21T14:24:05.000Z",
+    "status": "completed",
+    "category": "RELEASE",
+    "summary": "# 課題と解決方法：ゼロトラストとレジリエンスの再定義\n\n## テーマ：記事が扱う課題や技術は何か\n近年、個人情報流出やシステム利用停止などのインシデントが増加し、従来の「防御」中心の対策では限界を突いています。セキュリティの観点から、認証強化だけでなく、個人確認や物流、個人情報管理の領域まで広がり、AI エージェントによる自律的な運用と、業務システムの代替手段への移行が検討されています。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nインシデントの発生リスクをゼロに抑えることは不可能であり、防御の延長線上でどう備えるかという問いが重要です。AI エージェントを活用した自律的な運用と、業務の代替手段への移行を重視する「ゼロトラスト」の運用限界を認め、経営判断としてリスク管理と責任の所在を明確にする必要があります。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n課題はセキュリティ強化と業務継続のバランスです。認証基盤の専門 IdP（Microsoft Entra External ID）を活用し、個人認証の仕組みを専門化します。同時に、AI エージェントによる自律的な防御運用や、業務システムへの代替手段の導入を検討し、データ最小化の原則に基づき個人情報を管理する方針を示しています。\n\n本文には情報がない項目はありませんが、具体的な技術用語は短く説明しています。",
+    "imageUrls": [
+      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F1619637%2Fb94f2b92-5f52-4180-8eed-9573295e80d9.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=28af9fbd85315155cc5dd41949b3177e"
+    ]
+  },
+  {
+    "id": "add8387e71a3a01d",
+    "title": "無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能",
+    "url": "https://gigazine.net/news/20261121-wyrmrss/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-21T14:01:09.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261121-wyrmrss%2F",
+    "category": "RELEASE",
+    "summary": "# WyrmRSS の導入と機能\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n## テーマ：記事が扱う課題や技術は何か\n2026 年 11 月 21 日、無料のオープンソース RSSリーダー「WyrmRSS」が公開されました。このツールはウェブサイトの更新情報を自動的に収集し、ブラウザやデスクトップアプリ、セルフホスト環境で利用可能です。特に YouTube や Reddit の動画再生機能も備え、複数のプラットフォームに対応しています。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nWyrmRSS は、ニュースサイトやブログの最新情報を自動収集するツールとして推奨されます。フィルタリング機能や外部サービスとの連携、そしてセルフホストでの多端末共有など、柔軟な運用が可能です。特に、フィルター設定により特定のコンテンツを抽出し、必要な情報だけを取得できます。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\nインストールは easy 手順で、Docker を使用してセルフホスト環境構築します。登録したフィードやチャンネルを自動検出し、フィルタリング機能により必要な情報を抽出します。Webhook や RSSHub の連携も備え、外部サービスへの通知やデータインポート・エクスポートが可能です。\n\n本文には情報がない項目は推測せず「本文に記載なし」とします。要約の視点では、追加機能やバージョン、利用者への影響を中心にまとめました。",
+    "imageUrls": [
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/00_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/08_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/09_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/10_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/11_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/12_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/13_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/14_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/15_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/16_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/17_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/18_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/19_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/20_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/21_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/22_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/23_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/25_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/26_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/01_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/02_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/03_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/04_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/05_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/06_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/07_m.png",
+      "https://i.gzn.jp/img/2026/11/21/wyrmrss/27_m.png"
+    ]
+  },
+  {
+    "id": "659c7ba28c2dea0d",
+    "title": "\"リーマン予想の証明\"の検証は現在どこまで進んでいるか｜加藤文元",
+    "url": "https://note.com/katobungen/n/n9c2bb939b9c7",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-21T13:55:02.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fkatobungen%2Fn%2Fn9c2bb939b9c7",
+    "category": "RELEASE",
+    "summary": "# 論文発表：リーマン予想証明の正式確認\n\n**テーマ**: 論文発表：リーマン予想証明の正式確認\n結論：この研究は、Levent Alpöge氏のコードによるリーマン予想の証明を正式に確認し、その信頼性を評価した結果を示している。\n方法：Sutherland氏の検証記録に基づき、175,187 モジュールのコードをコンパイルし、複数の独立カーネル（nanoda、con-leche、lean4lean）を用いて検証を遂げた。\n\n本文には情報がない項目は「本文に記載なし」とします。要約では、11 月 20 日 16:43 UTC で Lean 4.33.1 と Mathlib を使用し、すべてのモジュールのコンパイルが完了しました。その後、18 時間 17 分後、leanchecker が全モジュールのカーネル再検査を完了し、拒否されたモジュールは 0 件でした。さらに、Rust 製カーネルと独立実装の con-leche が証明データ全体を受理し、最終的に 21 日 6 時 19 分頃、lean4lean の再検査も成功しました。検証結果では、誤った証明やバグによる問題点については、すでに非常に低い確率で解決されたことが示されています。また、数学的な証明項の一致性に関するチェックも成功し、リーマン予想の正しい証明として認められています。",
+    "imageUrls": []
+  },
+  {
+    "id": "5c9060cdd35a56ec",
+    "title": "54分かかったCIをブラウザテストの4分割で23分にした。2週間後は26分前後に戻った",
+    "url": "https://zenn.dev/nishi0001/articles/ci-browser-test-split-54-to-23",
+    "source": "Zenn (playwright)",
+    "publishedAt": "2026-11-21T13:24:49.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--LhElIqZe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:54%25E5%2588%2586%25E3%2581%258B%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259FCI%25E3%2582%2592%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE4%25E5%2588%2586%25E5%2589%25B2%25E3%2581%25A723%25E5%2588%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2580%25822%25E9%2580%25B1%25E9%2596%2593%25E5%25BE%258C%25E3%2581%25AF26%25E5%2588%2586%25E5%2589%258D%25E5%25BE%258C%25E3%2581%25AB%25E6%2588%25BB%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E8%25A5%25BF%25E5%258E%259F%25E4%25B8%2580%25E8%25BC%259D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlFEVlNTc0dVbDBHZFhJaUFBTUdmVEx6VEhUUHBYcm92OVRzT3VQV3VIR3FUbF9WX3o9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+    "category": "RELEASE",
+    "summary": "# 開発者向け：Web アプリの CI チェックフローの改善提案\n\n**テーマ**: Web アプリの CI チェックフローとブラウザテストの効率化について\n\n**結論**: 分割したワークフローを採用することで、テスト時間の増加は減少し、失敗時の記録も減らしました。ただし、必須チェックの管理には注意が必要です。\n\n**方法**: PR の各段階を別々のジョブに分割し、結果を統合する構成を採用しました。Playwright の設定により、1 本が失敗しても残りの作業は続けます。最終的に「チェック成功」かつ「ブラウザテスト成功」の両方が必要となる条件を設定し、失敗時のスクリーンショットとトレースを記録します。\n\n本文では、分割前のワークフローのコメントに記録が残っていた部分や、実際のデータに基づき、新しいジョブ構成を提案しています。ただし、公式の記述から起こりうべき対策として推奨されています。",
+    "imageUrls": []
+  },
+  {
+    "id": "a8a624c8c09795aa",
+    "title": "新宿駅で財布を忘れて家に帰れない女の子から「PayPay1000円分を現金で交換して貰えませんか？」とお願いされ、「返さなくていいよ」と1000円あげたら喜ばれず戸惑っていた",
+    "url": "https://togetter.com/li/2773268",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-21T12:31:59.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2773268",
+    "category": "TROUBLESHOOT",
+    "summary": "# 課題と解決方法：PayPay 詐欺の対策\n\n**結論**\nPayPay の残高を現金で交換する依頼から誘発された詐欺被害を防ぐことが重要です。個人情報を流出させないよう注意が必要です。\n\n**方法**\nスマホを乗っ取る偽アプリや、電話での連絡を行い、PayPay の情報を抜き取る行為を避ける必要があります。具体的な対策として、スマホのセキュリティ設定や、知らぬ人の連絡先を確認し、不正な請求を拒否することが推奨されます。\n\n**本文記載なし**\n本文には、具体的な詐欺手法の詳細や再発防止の具体的な手順は記載されていません。そのため、一般的な対策として「スマホのセキュリティ設定」や「知らぬ人の確認」などを推測しています。",
+    "imageUrls": [
+      "https://s.tgstc.com/static/web/p.gif"
+    ]
+  },
+  {
+    "id": "b88976c32d55f91f",
+    "title": "[AI-Driven Modernization] 既存コードからAIエージェント向けの仕様書を起こす「Reverse Spec Flow」を公開しました | Amazon Web Services",
+    "url": "https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-21T12:08:39.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Faws.amazon.com%2Fjp%2Fblogs%2Fnews%2Faidm-introducing-reverse-spec-flow%2F",
+    "category": "RELEASE",
+    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\n**テーマ：AI-Driven Modernization のアプローチと技術スタックの更新**\n\nAWS Japan は、AI エージェントによる移行作業を支援する「AI Modernization Flow（AIMF）」と、仕様書がない古くないアプリへの対応を支援する「Reverse Spec Flow（RSF）」の両方を公開しました。今回は、既存のフレームワークや技術の都合が仕様書に反映されず、コードから読み取れない部分の漏れを解決する RSF を紹介します。\n\n**結論：仕様書に基づいた再構築と確認プロセスの重要性**\nAI エージェントによる仕様書作成は、誤りやハルシネーションを避けるため、厳密な検証プロセスが必要です。実装事実の層と業務本質の層を明確に区分し、コードとの矛盾を記録することで信頼性を確保します。\n\n**方法：5 段階の検証フローと動的確認**\nRSF は、ソースコードを一度に読み込むのではなく、各段階で解析対象のコミットやアーキテクチャを固定し、根拠付きの仕様書を作成します。最終的にゲートチェックスクリプト（gates.sh）による点検により、誤りや欠落を除外します。また、仕様書にはファイルのIDを付け、必要な部分だけを参照する機能も追加しました。\n\n本文では、AI エージェントが自動確認を行うのではなく、人間の検証が必要な場面は明確に定義されています。このプロセスは、業務ロジックの変換や技術スタックの更新を支援し、信頼性の高い移行作業を実現します。",
+    "imageUrls": [
+      "https://d2908q01vomqb2.cloudfront.net/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f/2026/11/20/fig1_approach_new-1.png",
+      "https://d2908q01vomqb2.cloudfront.net/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f/2026/11/20/fig2_phases.png",
+      "https://d2908q01vomqb2.cloudfront.net/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f/2026/11/20/fig3_deliverable.png"
+    ]
+  },
+  {
+    "id": "51ca2e12e49f4865",
+    "title": "情報漏えいを公表しないリスクの要点整理",
+    "url": "https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-21T11:51:38.000Z",
+    "status": "completed",
+    "category": "GENERAL",
+    "summary": "業務におけるセキュリティ動向の透明化において、情報漏えいの公表は現在「義務化された報告」としての義務と、「世間公開」の自由な範囲で混同されやすい状況です。個人情報保護委員会の報告件数は増加しており、政府が緊急対策を講じつつも、報道発表まで義務化されていない現状が課題となっています。\n\n特に、二重恐喝やリークサイトという新たな攻撃手法が標準化された結果、従来の「秘密」を公開する前提が崩れ、攻撃者がデータを公開することでリスクを最大化する傾向にあります。これにより、漏えいそのものよりも隠蔽の形で報道されるケースが増加し、責任の所在が明確になりにくくなっています。開発者は、この状況下では報告義務と公開基準を事前に文書化し、調査完了後の公表フローを明確化することが推奨されます。\n\n結論として、現状の制度上の混同は継続するものの、攻撃者の常態化により前提が崩れ、より明確な判断基準が必要となります。今後の対策には、CSIRT だけでなく広報や法務層の合意を含めた公開基準の具体化を行うことが重要です。",
+    "imageUrls": []
+  },
+  {
+    "id": "f241aa5c5461fdb4",
+    "title": "グーグルのGemini Notebook、資料を操作可能なWebサイトへ変換可能に",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2157164.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-21T11:39:45.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fnews%2F2157164.html",
+    "category": "RELEASE",
+    "summary": "米グーグルは Web 版の Gemini Notebook を拡張する機能を追加し、18 歳以上のユーザーを対象に展開しています。チャット欄に「make me a site」を入力することで、作業や学習のための内容の説明を受け取り、自動でサイトを作成する機能を実装しました。利用例として、視覚的な資料作成やプロジェクト管理ツールなど、具体的な活用ケースが示されています。また、化学資料の分析や四半期の売上実績の確認など、多様な用途に対応する操作可能な画面も提供されています。生成されたサイトは新しいタブで開くことで、他のユーザーにも共有可能になります。モバイルアプリ版のリリースも近い時期に予定されています。",
+    "imageUrls": [
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/164/09_l.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/164/01_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/164/02_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/164/03_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/164/04_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/164/05_m.jpg",
+      "https://asset.watch.impress.co.jp/img/ktw/docs/2157/164/06_m.jpg"
+    ]
+  },
+  {
+    "id": "4edbd443f0a0511b",
+    "title": "ウィークリー新着いいねランキング【毎週更新】",
+    "url": "https://qiita.com/figueiredoluiz/items/d54695be04d1e533b05b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-21T10:56:29.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n本記事は、直近7日間の投稿記事をランキング付けし、AI エージェントの活用について解説しています。特に、開発コストの低下やコードレビューの効率化など、実務的なメリットが強調されています。また、具体的なツールや機能例（RAG スクリプト、AWS 構成図など）も紹介されており、技術的な知識が必要な方にも参考になる内容となっています。\n\n結論として、AI エージェントを適切に導入することで、開発コスト削減と生産性向上が見込めることが示されています。\n\n方法として、Python のコード自作や AWS の構成図の作成など、具体的な手順を示唆しています。また、実装時の注意点として、特定のツールとの連携や誤解を防ぐための確認も推奨されています。\n\n本文には、専門用語は必要とありますが、一般的な概念を簡潔に説明しています。最終的な推奨は、開発者向けに適切なツールを活用し、効率化を図ることです。",
+    "imageUrls": []
+  },
+  {
+    "id": "aaf8920bceb4660a",
+    "title": "【フロントエンド】デイリー新着いいねランキング【毎日更新】",
+    "url": "https://qiita.com/figueiredoluiz/items/c33336da7d1bb7b1dc88?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-21T10:53:45.000Z",
+    "status": "completed",
+    "category": "TUTORIAL",
+    "summary": "開発者向けに自然な日本語で要約します。\n\nこの記事は、6Go のユーザーリストを公開し、直訳調を避けた自然な表現を推奨しています。投稿履歴のランキング基準として、直近 24 時間の投稿記事を集計し、いいね数の多い順に上位を提示しています。特に「フロントエンド」タグに関連する生成 AI や LLM の関連記事も注目されています。\n\n結論として、開発者向けに簡潔で読みやすく、専門用語は必要でないよう調整した文章を作成することが推奨されます。投稿履歴の管理やランキング基準の理解を明確にすることで、適切なコンテンツを選択できるようになります。\n\n方法としては、直訳調を避けた自然な日本語の表現を採用し、ユーザーの関心を喚起する構成が重要です。具体的な技術的な詳細は、記事内容に基づき補足せず、必要な場合のみ説明します。\n\n本文には情報がない項目は推測せず「本文に記載なし」とします。要約の視点として、解決する課題は開発者向けに自然な表現を提案することです。手順や仕組みは、投稿履歴の管理やランキング基準の理解に基づいています。実践時の注意点も、簡潔で読みやすく構成されています。",
+    "imageUrls": []
+  },
+  {
     "id": "66339e6941578f15",
     "title": "GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.",
     "url": "https://github.com/mitaku/andon",
@@ -179,6 +462,14 @@
     "category": "RELEASE",
     "summary": "# 開発者向け Web バリアント解説と技術概要\n\nWeb バリアントの採用戦略は、Next.js(App Router) をベースに TypeScript 型を基にしたスタックを採用しています。サーバーとクライアントを1つのコードベースで構築し、セキュリティとパフォーマンスを重視する設計です。\n\n## 結論\nこのアプローチは、安全性と柔軟性を両立させることで、課金システムや環境変数の管理を簡素化できます。ただし、`use client` の境界を適切に管理することが重要です。\n\n## 方法\n課題解決の手法として、静的解析とテストの層を明確に分離しています。\n- **静的解析**: `pnpm lint && pnpm typecheck` を使用し、型チェックを行います。\n- **テスト**: `pnpm test` でテストランナー（Vitest）を採用し、Playwright を使用する。\n- **セキュリティ対策**: Server Actions を直接呼び出し、 secrets をクライアント側から読み込むことを避けるため、`server-only` パッケージを使用します。\n\n本文には、具体的な機能追加や対象バージョンの情報は記載されていませんが、一般的なベストプラクティスとして推奨されています。\n\n## 本文に情報がない項目は推測せず「本文に記載なし」としてください\n要約の視点では、追加機能や変更された機能については、本文の構成から推測できません。ただし、基本的な技術構造と運用方法については正確に記述しています。",
     "imageUrls": []
+  },
+  {
+    "id": "9f69158468c70e56",
+    "title": "AIに任せた仕事が散らからなくなった。LinearとDotsで個人開発を進めてみた",
+    "url": "https://qiita.com/Tachiuo/items/dde9afe6a6d2a3aa8618?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-21T06:44:18.000Z",
+    "status": "pending"
   },
   {
     "id": "417168b6b067bb05",
@@ -10631,6 +10922,15 @@
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Ftsutorm%2Fitems%2Fc9ab1e1c64474c341d77"
   },
   {
+    "id": "b9b86c232069259e",
+    "title": "SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話",
+    "url": "https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T14:28:19.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fnaokisuzuki27%2Farticles%2Fcb1a5ac0e23763"
+  },
+  {
     "id": "d31019f1706c6aef",
     "title": "人間＋AIを「チーム」としてプロセスを再設計する",
     "url": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
@@ -11224,6 +11524,15 @@
     "publishedAt": "2026-11-13T02:33:31.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2155574.html"
+  },
+  {
+    "id": "bc7a57929d2a525b",
+    "title": "AWS Emulator を使用してローカルで AWS に対してアプリケーションをテストする | Amazon Web Services",
+    "url": "https://aws.amazon.com/jp/blogs/news/test-your-applications-against-aws-locally-with-aws-emulator/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-13T02:20:46.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Faws.amazon.com%2Fjp%2Fblogs%2Fnews%2Ftest-your-applications-against-aws-locally-with-aws-emulator%2F"
   },
   {
     "id": "c83f28a4964a6818",
@@ -13928,5 +14237,31 @@
     "publishedAt": "2026-11-11T00:55:24.000Z",
     "status": "completed",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.notion.com%2Fja%2Fsecurity%2Fadvisories%2Fsecurity-incident-involving-a-third-party-ai-vendor"
+  },
+  {
+    "id": "f334b5dcd9727547",
+    "title": "予定どおりに進まない育児を、どう回す？エンジニアが家庭で実践する、夫婦どちらか1人でも回る仕組み - レバテックLAB",
+    "url": "https://levtech.jp/media/detail_961/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T00:22:59.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Flevtech.jp%2Fmedia%2Fdetail_961%2F"
+  },
+  {
+    "id": "934ac69898d0d8b6",
+    "title": "IBM TechXchange 2026（アトランタ）見聞感録！ - May the Bob be with us -",
+    "url": "https://qiita.com/numafuji_iguazu/items/4fb7b06514ef62b9e65e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-11T00:07:53.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "9a62711673527d6a",
+    "title": "電子チケットサービス「teket」への不正アクセスについてまとめてみた - piyolog",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/11/075305",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-11T00:02:14.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F11%2F075305"
   }
 ]
