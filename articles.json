@@ -1,5 +1,257 @@
 [
   {
+    "id": "ffa2fe8b9c4da4cc",
+    "title": "Ruby で学ぶ Windows システムプログラミング",
+    "url": "https://www.hsbt.org/slide/20261121-SendaiRubyKaigi03/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T07:39:41.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.hsbt.org%2Fslide%2F20261121-SendaiRubyKaigi03%2F"
+  },
+  {
+    "id": "81349dc738545b4f",
+    "title": "月に3度の障害……揺らぐドコモの信頼　通信品質が安定しない理由は？",
+    "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003405/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T06:48:05.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F24%2F2000003405%2F"
+  },
+  {
+    "id": "acc56dfda7437aa5",
+    "title": "Lean で始める契約プログラミング - エムスリーテックブログ",
+    "url": "https://www.m3tech.blog/entry/contract-programming-in-lean",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T05:30:32.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.m3tech.blog%2Fentry%2Fcontract-programming-in-lean"
+  },
+  {
+    "id": "1e44eb48be951b46",
+    "title": "New Relic の公式スキルを活用し、自然言語からダッシュボードを作成する",
+    "url": "https://qiita.com/seamoooooo/items/79f7ba11e0787ac2427b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-24T05:07:59.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f3d4199acadd782c",
+    "title": "女子中学生が発明した「海底のゴミ箱」、マイクロプラの96%を生まれる前に食い止める | ギズモード・ジャパン",
+    "url": "https://www.gizmodo.jp/article/2611-underwater-trash-can-microplastics/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T04:24:03.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.gizmodo.jp%2Farticle%2F2611-underwater-trash-can-microplastics%2F"
+  },
+  {
+    "id": "01eae944d5dbaac4",
+    "title": "情報流出で防犯グッズ人気　スタンガンや催涙スプレー　専門店は10月半ばから売上増（テレビ朝日系（ANN）） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/289856b29924107c57be29f591207023b9d43409",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T04:08:35.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.yahoo.co.jp%2Farticles%2F289856b29924107c57be29f591207023b9d43409"
+  },
+  {
+    "id": "1a02514d688c05b5",
+    "title": "耳で聞く！ システム設計 視点の 行動経済学 11",
+    "url": "https://qiita.com/maskot1977/items/2a22cacd7c95880ae412?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-24T03:41:09.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e86e7bb5eebfdcc2",
+    "title": "「松屋」の一人負けなのか？「吉野家」「すき家」と明暗を分けた既存店売上、その差はどこにあるのか #エキスパートトピ（三輪大輔） - エキスパート - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/expert/articles/c6b02eabde817393055dacbd810b748a6637ae39",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T03:38:59.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.yahoo.co.jp%2Fexpert%2Farticles%2Fc6b02eabde817393055dacbd810b748a6637ae39"
+  },
+  {
+    "id": "19e1e43b7d5fcfc6",
+    "title": "生成AI着せ替え体験 2026秋田編の振り返り＠JAWS FESTA 2026 in AKITA",
+    "url": "https://qiita.com/riz3f7/items/0cd185d945286ebe9192?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-24T03:17:14.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "f0a2bd65eacd6b86",
+    "title": "カップヌードルミュージアムに行った報告をXにアップしたら12時間ロック、「合意のない裸の描写を禁止するルールに違反しています」とのこと…「ヌード」ルがダメらしい",
+    "url": "https://togetter.com/li/2774298",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T02:51:04.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2774298"
+  },
+  {
+    "id": "31f579517a8524dd",
+    "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 51",
+    "url": "https://qiita.com/maskot1977/items/a8fa11767cc4829ed18c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-24T02:49:20.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "4f5acfa473d55c1c",
+    "title": "ずんだもん、公式の画像生成AI用「LoRA」を公開　権利元が語る“絵師に迷惑をかけない”試み",
+    "url": "https://kai-you.net/article/97231",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T02:35:37.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fkai-you.net%2Farticle%2F97231"
+  },
+  {
+    "id": "9b75503ecb736064",
+    "title": "Oracle AI Database Private Agent Factory 26.7 を 26.10 へ Upgrade してみてみた",
+    "url": "https://qiita.com/shirok/items/1bcbbca66f02ffb718ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-24T02:33:17.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "4942ebc0de37f012",
+    "title": "Windows アプリにコード署名する：証明書の取得から SSL.com eSigner での署名まで",
+    "url": "https://qiita.com/sugumura/items/5027cc1f6e1fc008607d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-24T02:07:57.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "5c1bc7aa6d863910",
+    "title": "まもなく日本初上陸！さいたまMOVIXの「シネマLEDスクリーン」ってナンだ!?",
+    "url": "https://av.watch.impress.co.jp/docs/topic/2156536.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T01:49:06.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fav.watch.impress.co.jp%2Fdocs%2Ftopic%2F2156536.html"
+  },
+  {
+    "id": "e0ebfbcd9a304ebe",
+    "title": "EC2からBedrockを利用してみた",
+    "url": "https://qiita.com/akahoshi718/items/e29fe738890bba7754cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-24T01:47:09.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8efb02c7555d6dfe",
+    "title": "Anthropic、プルリクエストをAIが処理する新機能「Claude Ship」を発表",
+    "url": "https://japan.zdnet.com/article/35255314/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T01:16:51.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.zdnet.com%2Farticle%2F35255314%2F"
+  },
+  {
+    "id": "833861ed7dd13a89",
+    "title": "【ブラックフライデーで買いたいUdemyのAI関連講座】Claude Code、MCP、ハーネス設計など、AIとコーディングエージェントを「使いこなす」ための人気講座をまとめてレビュー！ - はてなニュース",
+    "url": "https://hatenanews.com/articles/2026/11/24/093000",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T00:49:11.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fhatenanews.com%2Farticles%2F2026%2F11%2F24%2F093000"
+  },
+  {
+    "id": "5f2df0248b290ca4",
+    "title": "月額1000円台のVPSで“自分専用AIテスト環境”を作れる！　さくらのVPS＋さくらのAI Engine＋OpenCodeでゲーム開発に挑戦【イニシャルB【特別編】】[Sponsored]",
+    "url": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2126965.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T00:27:02.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Finternet.watch.impress.co.jp%2Fdocs%2Ftopic%2Fshimizu_sp%2F2126965.html"
+  },
+  {
+    "id": "4306ae350dfd111e",
+    "title": "Museに後れを取るアップルとグーグル　AIエージェント戦争のジレンマ【西田宗千佳のイマトミライ】",
+    "url": "https://www.watch.impress.co.jp/docs/series/nishida/2158551.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T00:16:14.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.watch.impress.co.jp%2Fdocs%2Fseries%2Fnishida%2F2158551.html"
+  },
+  {
+    "id": "9381e5d31d5fa7d1",
+    "title": "品質を積み上げられるようにする",
+    "url": "https://speakerdeck.com/goyoki/building-up-of-quality",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-23T23:53:24.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fgoyoki%2Fbuilding-up-of-quality"
+  },
+  {
+    "id": "978ea61e559cb6db",
+    "title": "情報量が4倍のQRコードを作ろう",
+    "url": "https://qiita.com/reipandada/items/17496db6ac5f64a5e61a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-23T23:48:24.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "66bc8877a67d8440",
+    "title": "はてブのAndroidアプリからPR記事や広告を消す非公式パッチ「Hoshiori」を更新。コメント詳細から記事を開けるようにした",
+    "url": "https://anond.hatelabo.jp/20261124083126",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-23T23:34:00.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fanond.hatelabo.jp%2F20261124083126"
+  },
+  {
+    "id": "559fe977b0f04a79",
+    "title": "Claudeを上位モデルに替えたら、max_tokensの余裕がほとんど残っていなかった",
+    "url": "https://zenn.dev/snape_works/articles/claude-thinking-max-tokens-headroom",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-23T23:33:21.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--8dRygniy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25E3%2582%2592%25E4%25B8%258A%25E4%25BD%258D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AB%25E6%259B%25BF%25E3%2581%2588%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581max_tokens%25E3%2581%25AE%25E4%25BD%2599%25E8%25A3%2595%25E3%2581%258C%25E3%2581%25BB%25E3%2581%25A8%25E3%2582%2593%25E3%2581%25A9%25E6%25AE%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:SNAPE%2526Co.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS25hNVBxanc2Zmh3eUx3Q3VaU1piY0NwNTdqM01tRjVrX0FOVGkwNEhxV0tzbEZidjA9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "5fcbda67a478a472",
+    "title": "筆算エンジン:テストケースで筆算の「正解」を決める",
+    "url": "https://zenn.dev/yoshidam/articles/hissan-fixtures",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-23T23:16:59.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ZLQ0Wv5d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25AD%2586%25E7%25AE%2597%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25B3%253A%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E7%25AD%2586%25E7%25AE%2597%25E3%2581%25AE%25E3%2580%258C%25E6%25AD%25A3%25E8%25A7%25A3%25E3%2580%258D%25E3%2582%2592%25E6%25B1%25BA%25E3%2582%2581%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2588%25E3%2581%2597%25E3%2581%25A0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EzYWM5ODRiYzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "319b4e08e86838a3",
+    "title": "GASにExpressのようなMiddlewareを実装してみた",
+    "url": "https://zenn.dev/tiger_oshima/articles/gasboost-middleware-runtime",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-23T23:03:46.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--kcubnyot--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GAS%25E3%2581%25ABExpress%25E3%2581%25AE%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AAMiddleware%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Taiga%2520Oshima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk5qMmwySlVPV1dxUzRJWWpHRXB5X2RBTlBuRURYdnlOSEJrRUI1ZGs1ZkFpRFB3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "8e865c5197aab321",
+    "title": "NASAの夜間光と国土地理院の標高で、全国5,000か所の「360°の星空」をシミュレーションする",
+    "url": "https://zenn.dev/soratotent/articles/horizon-simulation",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-23T23:00:05.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--dnLSae15--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:NASA%25E3%2581%25AE%25E5%25A4%259C%25E9%2596%2593%25E5%2585%2589%25E3%2581%25A8%25E5%259B%25BD%25E5%259C%259F%25E5%259C%25B0%25E7%2590%2586%25E9%2599%25A2%25E3%2581%25AE%25E6%25A8%2599%25E9%25AB%2598%25E3%2581%25A7%25E3%2580%2581%25E5%2585%25A8%25E5%259B%25BD5%252C000%25E3%2581%258B%25E6%2589%2580%25E3%2581%25AE%25E3%2580%258C360%25C2%25B0%25E3%2581%25AE%25E6%2598%259F%25E7%25A9%25BA%25E3%2580%258D%25E3%2582%2592%25E3%2582%25B7%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259D%25E3%2582%2589%25E3%2581%25A8%25E3%2583%2586%25E3%2583%25B3%25E3%2583%2588%25E7%25B7%25A8%25E9%259B%2586%25E9%2583%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk5ZTYyMzhhM2YuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "99d7b6639a39a152",
+    "title": "リーマン予想の証明がコード生成に投げかける示唆について",
+    "url": "https://qiita.com/yuji-arakawa/items/30e448c50701d00e81e1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-23T22:59:48.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "c7fa496c1c63f261",
+    "title": "MacBookやMagic Trackpad 2に搭載されている触覚フィードバック用エンジンを高速振動させ音声を発生させることができる「No Speaker」が公開。",
+    "url": "https://applech2.com/archives/20261124-no-speaker-macbook-trackpad-haptic-audio.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-23T22:47:34.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fapplech2.com%2Farchives%2F20261124-no-speaker-macbook-trackpad-haptic-audio.html"
+  },
+  {
     "id": "a2e33f24c0d9c4a0",
     "title": "Playwrightのclick()が効かない！動的フォームの罠に3時間溶かしてDOM直操作（evaluate）で突破した話",
     "url": "https://zenn.dev/df_blogger/articles/playwright-dynamic-dom-workaround",
@@ -25,6 +277,15 @@
     "publishedAt": "2026-11-23T21:20:45.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2158462.html"
+  },
+  {
+    "id": "5f442ea5fe0e8077",
+    "title": "Cloudflare Web Analytics が計測されない原因：CSP が弾いていた2つのスクリプト",
+    "url": "https://zenn.dev/sakidori/articles/20261106-cloudflare-web-analytics-csp-blocked",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-23T21:14:15.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--OPOKzzb3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloudflare%2520Web%2520Analytics%2520%25E3%2581%258C%25E8%25A8%2588%25E6%25B8%25AC%25E3%2581%2595%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E5%258E%259F%25E5%259B%25A0%25EF%25BC%259ACSP%2520%25E3%2581%258C%25E5%25BC%25BE%25E3%2581%2584%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F2%25E3%2581%25A4%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2597%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sakidori%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkwNTgxN2IyYTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
     "id": "66f4d76f5fe6da5d",
@@ -71,6 +332,14 @@
     "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--zIrtci-w--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Vitest%25E3%2581%25AE%25E4%25BC%25BC%25E3%2581%259F%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E9%259D%2599%25E7%259A%2584%25E8%25A7%25A3%25E6%259E%2590%25E3%2581%25A7%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2581%25A6test.each%25E3%2581%25AB%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Luiz%2520Figueiredo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzcwZjc1ZTdiZWQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
+    "id": "f2945313cdbf652e",
+    "title": "erasableSyntaxOnlyの対応",
+    "url": "https://qiita.com/J-T_ky2g/items/64629d7ae38f8feae15e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-23T15:12:41.000Z",
+    "status": "pending"
+  },
+  {
     "id": "37252cef65dcdd3d",
     "title": "iPhoneに乗り換えてでも使う価値があるかも!?　新型センサー搭載「Apple Watch Series 12」を使ってみた",
     "url": "https://k-tai.watch.impress.co.jp/docs/review/2157103.html",
@@ -107,6 +376,15 @@
     "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--I5KT7Q5L--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25BB%25A2%25E8%2581%25B7%25E3%2582%2592%25E8%25A6%2596%25E9%2587%258E%25E3%2581%25AB%25E5%2585%25A5%25E3%2582%258C%25E3%2581%259F%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AA%25E3%2582%25AA%25E4%25BD%259C%25E6%2588%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%259D%25E3%2583%25B3%25E9%25AA%25A88080%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2ZINE9XelNhdThwbWdMclNFQmVqYzNxcGRSWkRzaUd4eF9UY05pQUNUWTgzZU02ST1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   },
   {
+    "id": "2eb1be701a28320a",
+    "title": "NTT 研究所の正体 - IOWNとNTTの研究所",
+    "url": "https://endecl.hatenablog.com/entry/2026/05/04/223141",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-23T13:46:51.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fendecl.hatenablog.com%2Fentry%2F2026%2F05%2F04%2F223141"
+  },
+  {
     "id": "d3f980d93bf650c2",
     "title": "Vite + React に Vitest と React Testing Library を導入してテストを書くまで",
     "url": "https://qiita.com/Tukirukiki/items/45afa7dde5361301015c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -120,6 +398,14 @@
     "url": "https://qiita.com/nagi-0106/items/3d25d8f2f5e5e16bcccd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "source": "Qiita Popular",
     "publishedAt": "2026-11-23T13:41:11.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "8f2fd08153cab39f",
+    "title": "【AWS】Lambda Web FunctionsのPythonランタイムが使えるようになったのでDjango製Webアプリで試してみた！",
+    "url": "https://qiita.com/kuracchi_enj/items/bc6fb6161b211951217d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-23T13:15:43.000Z",
     "status": "pending"
   },
   {
@@ -148,6 +434,15 @@
     "publishedAt": "2026-11-23T11:49:03.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjpwinsup.github.io%2Fblog%2F2026%2F08%2F05%2FActiveDirectory%2FPromotionAndDemotion%2Fwindows-server-2016-ad-migration-considerations%2F%3Futm_source%3Dchatgpt.com"
+  },
+  {
+    "id": "6bc3adf46758a64d",
+    "title": "ブラックフライデー先行セール！「Google AI Plus/Pro」最大50%引き",
+    "url": "https://jetstream.blog/2026/11/23/google-ai-plus-pro-black-friday-early-sale-2026/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-23T11:01:16.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjetstream.blog%2F2026%2F11%2F23%2Fgoogle-ai-plus-pro-black-friday-early-sale-2026%2F"
   },
   {
     "id": "b9daecdb6589e38c",
@@ -437,6 +732,15 @@
     ]
   },
   {
+    "id": "0170e792ce4844eb",
+    "title": "コードを書くコストが下がった今、ソフトウェアエンジニアリングの価値はどこにあるのか - Qiita",
+    "url": "https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-23T01:45:02.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Ffigueiredoluiz%2Fitems%2F1d6751643b84db67812e"
+  },
+  {
     "id": "b5fff10a24f34a3b",
     "title": "IBM Bob でUbuntu公式ドキュメントのMCPサーバーを開発",
     "url": "https://qiita.com/duelist2020jp/items/ea1b645197af4bf7e78c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -699,514 +1003,6 @@
     "imageUrls": [
       "https://c.tgstc.com/75363cd4ee9ca7709a6626b4051298bde202323e.jpeg",
       "https://s.tgstc.com/static/web/p.gif"
-    ]
-  },
-  {
-    "id": "b3f245d59865ca25",
-    "title": "MCP EventsをMastraとMCPJam CLIで試してみる",
-    "url": "https://zenn.dev/cdata_japan/articles/1206f32306fd34",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-22T14:43:46.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--qQ5gbi53--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MCP%2520Events%25E3%2582%2592Mastra%25E3%2581%25A8MCPJam%2520CLI%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:T.Kato%2520%2540CData%25EF%25BD%259CAI%25C3%2597%25E3%2583%259E...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQxMWVlYjk5YTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:CData%2520Software%2520Japan%2520...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2MTgzYzkxN2UuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "TUTORIAL",
-    "summary": "# 開発者向け：CData MCP Events の仕組みと運用手順\n\n**課題**: 仕様を見ているだけでは実際にイベントが手元に届くか確認できない問題。\n\n**結論**: MCP の公式拡張「MCP Events」の仕組みを理解し、サーバー側でイベントを定義し、クライアント側でリスト・パッスル・ポール・Webhook を順に操作することで、サーバー側の絞り込み機能を利用できます。\n\n**方法**:\n1. **環境準備**: Node.js と npm を使用し、MCPJam CLI をインストール。\n2. **サーバー設定**: `stdio` 版の最小サーバーを構築し、`post.published` イベントを定義。\n3. **イベント処理**: `server.events.emit('post.published', ...)` でイベントを発火させる。\n4. **クライアント操作**:\n   - `list`: イベント一覧を確認。\n   - `push`: site='zenn' を指定してサーバーのイベントを取得。\n   - `poll`: 75 秒間待機でイベントを取得。\n   - `webhook`: Streamable HTTP 版を適用し、認証済み呼び出し元を設定。\n\n本文では個人での試行結果を示しており、公式見解ではありませんが、実装の基礎となる手順を整理しました。",
-    "imageUrls": [
-      "https://static.zenn.studio/user-upload/8c5f0f1b1cf6-20261122.png"
-    ]
-  },
-  {
-    "id": "dfc6455d49723027",
-    "title": "useReducerで実現する、堅牢で拡張可能なスプシ風コンポーネント設計",
-    "url": "https://speakerdeck.com/arfes0e2b3c/jsconf2026-yata?slide=12",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T14:39:59.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Farfes0e2b3c%2Fjsconf2026-yata%3Fslide%3D12",
-    "category": "TUTORIAL",
-    "summary": "# JSCon 2026：業務アプリケーションの体験設計と堅牢性\n\nビジネスアプリケーションのライバルは、既存のシステムとは異なる体験を必要とする課題があります。スプレッドシートやバックエンドの複雑さを避けるため、共通コンポーネントの設計が重要となります。\n\n開発者は、JSConf 2026 で「スプシ風コンポーネント」を構築し、堅牢性と拡張性を重視しました。このアプローチにより、ユーザー体験は統一され、システム運用の負担が軽減されます。特に、バックエンド API の設計において、状態管理と履歴処理の共通処理を明確にすることで、リスクを解決できます。\n\n開発チームは、既存の複雑なシステムを再設計し、新しい機能や拡張性を追加する際に整合性を保つための実装を徹底しました。これにより、業務アプリケーションのライバルとして、ユーザー体験を統一した堅牢なソリューションを提供することが可能となりました。",
-    "imageUrls": []
-  },
-  {
-    "id": "d1b703958379bf26",
-    "title": "この時代に、なぜ技術カンファレンス・勉強会に行くのか｜Subaru Nakamura(varu3)",
-    "url": "https://note.com/varu3/n/n4476366008f8",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T14:37:53.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fvaru3%2Fn%2Fn4476366008f8",
-    "category": "GENERAL",
-    "summary": "# 開発者向け：オンラインとオフラインイベントの比較と戦略\n\n## 課題と技術\n開発者はオンラインと対面イベントのメリットとデメリットを比較し、自身の興味や学習目的に合わせて最適な環境を選ぶ必要があると結論づけた。特に、動画やスライドの公開状況や移動コストの影響を考慮した検討を行った。\n\n## 結論\nオンラインでの学習は効率が良いものの、対面のやり取りを通じて新たなアイデアや技術的発見を得られることが重要である。CNDW2026 の運営では、オフラインイベントの価値を再認識し、コミュニティ構築や対話の重要性を重視した施策を実施した。\n\n## 方法\nオンラインセッションは動画視聴やスライド読み込みにより、移動コストと時間費を削減できるが、対面での会話を通じて「不確実性」や新しい技術要素の発見が可能である。CNDW の運営では、スペースの確保やイベント企画の多様化、コミュニティの温かさの醸成など、具体的な施策を講じたと記載されている。\n\n本文には明確な推奨される戦略は存在しないため、開発者自身の状況や興味に基づき自主的な選択を行うべきと推測された。",
-    "imageUrls": [
-      "https://assets.st-note.com/img/1795315515-IvaMREm81iQcXpKTynw9F6hr.png?width=1200",
-      "https://assets.st-note.com/img/1795319305-yTd6BvOoRNfV4gMSaEmZxeFA.jpg?width=1200",
-      "https://assets.st-note.com/img/1795319404-TYRt18hPmpIklaVde46F0uO5.jpg?width=1200",
-      "https://assets.st-note.com/img/1795319477-bJmtpOxqZMRXg51BfPAjvWls.png?width=1200"
-    ]
-  },
-  {
-    "id": "d55ff37d857dd966",
-    "title": "MCPの最新機能！「MCP Events」の仕組みと対応状況を整理する",
-    "url": "https://zenn.dev/cdata_japan/articles/50f59e3bb4017a",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-22T14:11:19.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--oim3kwwj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MCP%25E3%2581%25AE%25E6%259C%2580%25E6%2596%25B0%25E6%25A9%259F%25E8%2583%25BD%25EF%25BC%2581%25E3%2580%258CMCP%2520Events%25E3%2580%258D%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2581%25A8%25E5%25AF%25BE%25E5%25BF%259C%25E7%258A%25B6%25E6%25B3%2581%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:T.Kato%2520%2540CData%25EF%25BD%259CAI%25C3%2597%25E3%2583%259E...%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQxMWVlYjk5YTUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:CData%2520Software%2520Japan%2520...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2MTgzYzkxN2UuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "RELEASE",
-    "summary": "# 課題と解決方法\n\nCData のWeb開発チームの加藤氏は、AI エージェントに「新着メールが来たら知らせて」「障害が出たら調べて」と頼む標準的な仕組みを提案しました。これまでの MCP はリクエストドリブンでしたが、サーバー側で起きたイベントを自動的に受け取る標準的アプローチを missing していたのです。\n\n## 結論\n2026-11-19 に公開された「MCP Events」拡張は、サーバー側で起きたイベントをクライアントが引数つきで購読し、カーソルから再開できる公式拡張です。これにより、AI に依頼していない時に起きる新しいイベントを受け取ることが可能になります。\n\n## 方法\nMCP Events は3つの配信方式を採用します。\n1. **Poll（events/poll）**：クライアントがリクエストとレスポンスの往復で取りに行く方式。\n2. **Push（events/stream）**：購読ごとに長い接続を1本張る方式。\n3. **Webhook（events/subscribe）**：https のコールバック URL を登録し、サーバーから署名つきで POST してもらう方式。\n\nこれらの仕組みは、カーソルを管理するクライアント側で管理することで、一度止まっても続きから再開できます。ただし、購読を始める前の過去イベントは取れません。\n\n## 本文の補足\n既存の通知や Tasks の線引きを明確にしています。特に、サーバー側のイベント対応方式の仕様は、SEP-3415 という拡張の仕様書で詳細な説明されています。実装例として、OpenAI のドキュメントや、Mastra のフレームワークなどが採用されています。",
-    "imageUrls": [
-      "https://static.zenn.studio/user-upload/97039b5e06b0-20261122.png",
-      "https://static.zenn.studio/user-upload/59f7a1ffffcc-20261122.png",
-      "https://static.zenn.studio/user-upload/1cf66b064227-20261122.png",
-      "https://static.zenn.studio/user-upload/e0745d3e2ca5-20261122.png"
-    ]
-  },
-  {
-    "id": "ede4d7516c76ff16",
-    "title": "2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま",
-    "url": "https://note.com/cgbeginner/n/n5856d402f125",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T13:51:31.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fcgbeginner%2Fn%2Fn5856d402f125",
-    "category": "TUTORIAL",
-    "summary": "# 数学証明の時代へ：AI が証明を確立した\n\n**テーマ**: AI が解決する難問の証明プロセスと技術\n**結論**: 人間が理解できない数学証明は、AI がチェックすることで論理的に正しいことを事前に確定させ、人類の思考の限界を超えた時代を到来している。\n**方法**: Lean のプログラミング言語を用いたコードベースの検証システムと、数学者による厳密な確認プロセス\n\n本文では、2026 年 11 月 21 日に世界が「シンギュラリティ」に突入したという現象が明らかになった。この出来事には、AI が解決する難問の証明を事前に確立する新しい技術と仕組みが導入された。特に、リーマン予想という数学的な問題について、独立検証チームおよびアルポーゲ氏による公開されたコードが確認された。\n\n従来の論文形式では人間が読める形にまとめる必要があるが、この場合は約 1,700 万行の Lean のコードで書かれたシステムである。このコードは計算過程を自動チェックする仕組みにより、飛躍や誤りがないことを保証する。しかし、コードの正確性は人間の理解を超えており、人間が理解できない範囲の理論も証明された。\n\nこれにより、人類の思考の総量には原理的な限界があることが明確になった。以前は数学者たちの協力が約 50 本以上の論文を積み上げ、1 万人の時間と知識を足し合わせる分業で解決した例も存在するが、現在では人間が理解できない規模の理論同士が絡み合い、人類の頭の中で解ける範囲を超えてしまう。\n\nこの結果、AI が証明の正確性を事前に確認する時代が訪れた。未来において、人間が理解できる範囲を超えた理論を再構築する可能性も示唆される。しかし、その過程には人間の思考の限界や計算資源の制約が伴うことが予想される。",
-    "imageUrls": []
-  },
-  {
-    "id": "43814e1bd91979ce",
-    "title": "google.script.runをTypeScriptで型安全にするまでの実装裏話",
-    "url": "https://zenn.dev/tiger_oshima/articles/gasboost-typesafe-rpc-internals",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-22T13:28:50.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--iM811E_d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:google.script.run%25E3%2582%2592TypeScript%25E3%2581%25A7%25E5%259E%258B%25E5%25AE%2589%25E5%2585%25A8%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%25E8%25A3%258F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Taiga%2520Oshima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk5qMmwySlVPV1dxUzRJWWpHRXB5X2RBTlBuRURYdnlOSEJrRUI1ZGs1ZkFpRFB3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "TUTORIAL",
-    "summary": "# 開発者向け：Google Apps Script の型安全設計\n\n## テーマ：記事が扱う課題や技術は何か\nGoogle Apps Script の HTML Service に利用する `google.script.run` をクライアント側で呼び出す際に、サーバー側の関数型とクライアント側の型が一致しない問題が発生します。これにより、成功・失敗のコールバックが誤りになります。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\n開発者は、この型不一致を解決するために、`@gasboost/app` と `@gasboost/client` を使用し、サーバー側の型情報をクライアント側にも伝達する仕組みを実装しています。これにより、型エラーを避けることで、安全な RPC 通信を実現できます。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n1. **型情報の蓄積**: `AppsScript` クラスのジェネリクスに、登録された関数とハンドラ型のペアを保存し、`call()` をオーバーロードします。\n2. **RPC契約の生成**: `InferAppsScript` を使用して、登録された関数名とハンドラ型を RPC 契約として生成します。\n3. **クライアント側の型チェック**: フロントエンドの IDE で呼び出す際に、サーバー側の型が補完され、不正な呼び出しはエラーとして検出されます。\n4. **データ変換**: サーバー側で `Date` オブジェクトを JSON の String に変換することで、通信後の値の型を適切に処理します。\n\n本文では、これらの仕組みを通じて、サーバー側の型定義をクライアント側にも正確に反映し、型安全な RPC を実現しています。",
-    "imageUrls": [
-      "https://static.zenn.studio/user-upload/deployed-images/9f95f084fed59426344f3fa5.gif?sha=a0ac78cda3798ffb2a70757beadf39f0feee2ec1",
-      "https://static.zenn.studio/user-upload/deployed-images/d7ecd6293c035303b17622de.gif?sha=9ee276385a98e40deafdf88b06dd36fc69873c49"
-    ]
-  },
-  {
-    "id": "eb76140342640f52",
-    "title": "「理不尽な死」をアルゴリズムで防ぐ：2D弾幕における安全地帯の幾何的不変条件とテスト設計",
-    "url": "https://zenn.dev/cliffy/articles/a3f55476dba1a1",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-22T13:06:43.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--CMhELurj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E7%2590%2586%25E4%25B8%258D%25E5%25B0%25BD%25E3%2581%25AA%25E6%25AD%25BB%25E3%2580%258D%25E3%2582%2592%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25B4%25E3%2583%25AA%25E3%2582%25BA%25E3%2583%25A0%25E3%2581%25A7%25E9%2598%25B2%25E3%2581%2590%25EF%25BC%259A2D%25E5%25BC%25BE%25E5%25B9%2595%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E5%25AE%2589%25E5%2585%25A8%25E5%259C%25B0%25E5%25B8%25AF%25E3%2581%25AE%25E5%25B9%25BE%25E4%25BD%2595%25E7%259A%2584%25E4%25B8%258D%25E5%25A4%2589%25E6%259D%25A1%25E4%25BB%25B6%25E3%2581%25A8%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Cliff255%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y3ODdiOTI0MWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "TROUBLESHOOT",
-    "summary": "# 難易度設計の数学的保証と検証方法\n\n開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n## 課題と解決方法\n「被弾した瞬間、100% 自身の操作ミスだと納得できる」という絶妙な幾何学的バランスが、難易度を維持する鍵です。しかし、プレイヤーの操作ミスやゲーム内のバグにより、このバランスを壊す可能性があり、自動検証システムを導入しました。\n\n## 解決方法\n課題は、自機（Soul）の当たり判定と攻撃シーケンスの防衛構造を数学的に厳密に定義することです。\n1. **境界線の計算**: 自機サイズ（16px）と知覚マージン（8px）の合計で、プレイヤーがすり抜けるための最小スリット幅を計算し、過小値を排除します。\n2. **防御的バリデータ**: 攻撃シーケンスを記述する際に、特定の乱数シード時の隙間を避けるためのファクトリを経由させます。\n3. **ヘッドレステスト**: ブラウザの動作を再現しない純粋な座標更新ロジックで、60fps のループで検証を行います。\n\n## 再発防止の要点\n「難易度」と「誠実さ」を両立させることで、ゲームは長く愛されるものになります。\n*   **隙間設計**: 自機サイズ＋知覚マージンが保証された幅を基準にします。\n*   **ルリズム**: 状態変化と同時に攻撃がヒットするのではなく、安全地帯の確認を優先します。\n*   **自動検証**: バリデーションとテストを組み合わせることで、プレイヤーの操作ミスやバグによる失敗を防ぎます。\n\nこの設計により、極限の密度の中でプレイヤーの操作ミスに納得できる難易度を実現しています。",
-    "imageUrls": []
-  },
-  {
-    "id": "78b27afc371a70cf",
-    "title": "AWS Lambda MicroVMsで動作するWebサーバからAmazon Auroraにアクセスする",
-    "url": "https://qiita.com/neruneruo/items/ca9f94a6883fd78ea49c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-22T12:53:52.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "28d2e1c94558640a",
-    "title": "AndroidスマホがWindows PCのサブ画面に？マイクロソフトが新機能 - すまほん!!",
-    "url": "https://smhn.info/202611-microsoft-link-to-windows-extend-display-android-second-screen",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T12:29:53.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsmhn.info%2F202611-microsoft-link-to-windows-extend-display-android-second-screen",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：Mac や Samsung の Sidecar と Windows PC の連携機能\n\n## 結論\nMicrosoft は Android 向けアプリ「Link to Windows」に「Extend display」機能を開発中としており、古いタブレットをノート PC のサブ画面として利用する可能性を示しています。\n\n## 方法\n拡張ディスプレイ機能は、スマホの画面を PC のデスクトップ部分に転送する仕組みです。この機能は専用パッケージ「phone_as_display.v1」で動作し、H.264 や HEVC などの動画圧縮技術や画面のレイアウトも記録されています。接続中は「Extend display · %1$s」という表示コントロールが設定可能です。\n\n## 本文に情報がない項目\n本文には具体的なバージョン数や利用者への影響に関する詳細なデータは記載されていません。",
-    "imageUrls": []
-  },
-  {
-    "id": "e60bc0943d4890ce",
-    "title": "手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます",
-    "url": "https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-22T11:56:55.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：AI 記事の直訳調を避ける方法\n\n**テーマ**: 技術と課題\nこのブログでは、AI を導入した記事が品質低下する問題について解説します。読者が AI の文章を避けるための具体的な手順を提案しています。\n\n**結論**: 文章の品質を保ち、人間の手で修正し、AI の偏りを排除することが重要です。\n**方法**: Claude Code と Opus 5.5 を使用し、スキルで AI の癖を潰します。\n1. **準備段階**: ハネスとモデルの性能を考慮し、スキルの導入を行います。\n2. **構成設計**: アニメーションや HTML ツールを活用して構成案を作成。\n3. **検証プロセス**: AWS 環境でのトークン交換を行い、情報の削りを行います。\n4. **フィードバック**: Qiita そっくりのプレビューで読みながらしゃべり、AI の余計な表現を指摘。\n5. **学習**: 学習させることで、今後の文章の品質を向上させます。\n\n本文では、読者の時間を節約しつつ、専門用語は短く説明しています。重要な情報は本文に記載されていますが、詳細な手順についてはコメントで確認してください。",
-    "imageUrls": [
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F1633856%2F47bb451a-86c5-4cfb-a4a2-c11a4601a950.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=79b69b9c0091849e4da670bb9a32fe30",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F1633856%2F6437cf06-0e16-4bab-9622-66a1c0ed7976.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=1df0e45db4d3f9a6d69d56212630184d",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F1633856%2Fa3eff1cd-f438-4da2-9c18-1dac5fdf530f.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9c7a6cb3812fcabce6fffa4201ea506e",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F1633856%2F0cab76e7-5b3a-4884-aac5-eed97e323413.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4535af7e14efee05122578ee10287e7f"
-    ]
-  },
-  {
-    "id": "66c8ead0d4b0748a",
-    "title": "うわっ…私の記事、スロップすぎ…？（見出しだけ本気出すプロンプト7選）",
-    "url": "https://qiita.com/kikuziro/items/0c54614c1db8afa5abb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-22T11:34:22.000Z",
-    "status": "completed",
-    "category": "TUTORIAL",
-    "summary": "# AI スロップのバナー作成方法\n\nこの記事では、AI スロップという表現が誤解されやすい問題について定義を避けるためのプロンプトを提示します。文章には具体的な技術的な詳細は記載されていませんが、一般的な理解に基づき、簡易な設定が可能です。\n\n## 課題と解決方法\nAI スロップの認識を防ぐために、視覚的に「人工的」な表現を避け、自然な日本語の文章をベースに作成する必要がある。特に章タイトルや見出しを動的に生成する際に、CSS のアニメーション機能を利用することで、動きのあるデザインを実現する。\n\n## 技術の仕組み\n1. **SVG 作成**: 各要素（タイトル、章番号）を 1 枚の SVG ファイルに保存し、動きを CSS の `@keyframes` で設定する。\n2. **GIF 生成**: 画像をフレームとして処理し、ffmpeg を使用して 15fps のループ GIF を作成する。\n3. **テストと調整**: Playwright で動作確認を行い、画面の表示や読み込み速度を確認する。\n\n## 実践的な注意点\n- サイズは 1920×240px、容量は 2MB 以下に設定し、文字サイズは 140〜160px。\n- 章番号はタイトルの左側にコンパクトに収める必要がある。\n- 動きの周期を全体サイズの約数にするため、計算を正確に行う。\n- 実時録画やフレームワークの調整により、視覚的な問題を防ぐ。\n\nこの方法により、AI のような印象を与える表現を避けることが可能となり、記事の質を向上させることができます。",
-    "imageUrls": [
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2Ffb3822a4-c7ab-4937-86ec-98a677bef07d.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8fb49a637ba2b60b88795d2565db6cb0",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2F83259620-073c-4c31-b360-c0f1988e9996.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=521bc779f4a998b07605a5031a569a5b",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2F70fa661b-5f11-4cbf-975b-e37a5528abbb.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=6b24978ac7fd722591c39f113749561f",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2Fdae7c577-cf21-4292-8072-e119ccb82e05.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=3dd90ce91e0c88d43548facc2077d0b0",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2F871a15f0-f59f-4eba-a1c0-9e4b79f1a8d5.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=eb7366f24f8b1df62e8959f693cd341b",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2F7ca5d7a5-33fe-4c3e-b7a5-5519590ee532.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=145ed7998624d1af3e63e3d999c6e479",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2F46e41cbf-337e-47fd-adfb-8eb0800d6335.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8ff7d486d503e216306a4ac070f843c8",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2Fc91e5b3e-bf83-4c18-b5f0-134362e6f11a.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=089447baea85bed803c6f3fe429acc68",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2F2b771098-4375-4e64-806c-b844a73d4894.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=b29ca4cafd18308330728b9a184b648e",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2933489%2Fadf90f5a-7513-4768-978e-7318c962c199.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a6e3b6ffd21d20c90c442fd32e503c83"
-    ]
-  },
-  {
-    "id": "c5caf92ffdf19a84",
-    "title": "リリースしたで終わらない。 観測できるフロントエンド開発",
-    "url": "https://speakerdeck.com/yamakenji24/20261122-jsconf2026-lt-kenji-yamashita",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T11:10:48.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fyamakenji24%2F20261122-jsconf2026-lt-kenji-yamashita",
-    "category": "RELEASE",
-    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\nこの記事は、開発者向けに直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\n**テーマ：記事が扱う課題や技術は何か**\n開発者は、リファインメント段階での観測方法や、開発時の検証サイクルの準備、定期観測会による検証を重視しました。これにより、エンジニア自身が仮説検証の当事者として機能し、ユーザーの課題解決を明確に理解できるようになりました。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\n開発者は、リリース直後の指標を追うことで早期発見を可能にし、改善の仮説をより明確に導き出しました。これにより、ユーザーの行動分析や表現の分かりやすさを向上させることが目標となりました。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n課題は、開発時の検証サイクルの加速化と、定期観測会による仮説の生成です。具体的な技術は、AB テストの早期終了や、指標を追うことで迅速に結果を得る仕組みであり、ユーザーの行動分析を通じて改善の方向性を提案します。\n\n本文には情報がない項目はありませんが、上記の3項目で要約しました。",
-    "imageUrls": []
-  },
-  {
-    "id": "4aa9f843f79e8c76",
-    "title": "Claude Code 2.1.330入門、plugin install --jsonは失敗も1行のJSONで返す",
-    "url": "https://qiita.com/kai_kou/items/24d6e9acaf593968f8d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-22T11:09:45.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "9617e2f20582c859",
-    "title": "筆算エンジン:式をマス目のデータにする設計",
-    "url": "https://zenn.dev/yoshidam/articles/hissan-engine-design",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-22T11:08:53.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3g7yFQ_z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25AD%2586%25E7%25AE%2597%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25B3%253A%25E5%25BC%258F%25E3%2582%2592%25E3%2583%259E%25E3%2582%25B9%25E7%259B%25AE%25E3%2581%25AE%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2588%25E3%2581%2597%25E3%2581%25A0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EzYWM5ODRiYzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "TUTORIAL",
-    "summary": "小学生向けの筆算計算エンジン開発について、この記事は言語間の違いを考慮し、マスのデータを JSON Schema で統一した設計を採用しました。まず、入力された式を「繰り上がり」や「部分積」のステップとして処理し、結果をマスごとに表示します。これにより、国による書き方や計算法の違いを避けることができます。\n\n主要な機能は、入力値を文字列として受け取り、1 桁ずつ計算して結果を出力する仕組みです。また、Vue・React・Angular の3 つのフレームワーク間で同じデータを共有する設計が採用されています。最終的に、テストケースにより共通の型チェックを行うことで、異なる言語間の誤差を解消します。\n\nこの設計は、学習者の理解を向上し、コードの可読性を確保するために重要視されています。開発者は、各ステップの処理と出力形式を明確に定義し、ADR（設計記録）として記録したことで、後から見直す際の理由も把握できます。",
-    "imageUrls": []
-  },
-  {
-    "id": "cf7284171802b301",
-    "title": "【React個人開発-JISOU課題1】学習記録アプリを作る過程で詰まったところと解決策",
-    "url": "https://qiita.com/polymetisoutis/items/be7eb3814ad8006be3aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-22T10:40:17.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "開発者向けに簡易的な学習記録アプリの作成を完了しました。プロジェクトは Vite をベースに Windows で開発し、ソース監視機能（Polling）を導入して即時反映を実現しました。また、React のコンポーネント分割におけるプロパティの譲渡方法や state リフトアップの概念を解説した内容も含まれています。このアプリは学習記録の基礎となる簡易的なツールとして機能し、ユーザーの進捗を視覚化する機能も追加しました。開発環境の構築と既存のコード構造を維持しつつ新しい機能を統合する技術的アプローチが採用されています。本文に記載なしです。",
-    "imageUrls": [
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F2448893%2Facf19a58-d7c6-4c1d-b994-4c799933c3f9.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d59e0d941f22567c3884a9009563182a"
-    ]
-  },
-  {
-    "id": "e788fe301e71cb08",
-    "title": "数行の変更でDockerビルドを最大91%高速化～GitLab CIの実行基盤を社内40リポジトリに展開するまで～",
-    "url": "https://speakerdeck.com/picopico/suukou-no-henkou-de-docker-o-saidai-91-kousokuka",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T10:21:35.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fpicopico%2Fsuukou-no-henkou-de-docker-o-saidai-91-kousokuka",
-    "category": "RELEASE",
-    "summary": "# Docker ビルドの直訳調を避けた自然な要約\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\n本文では、Docker ビルドの構築速度向上について、キャッシュと構築プロセスの改善について解説されています。特に、`buildkitd` を使用した構築方法により、CI/CD 環境での効率化が実現されています。\n\n主な課題は、キャッシュの導入やレイヤーキャッシュの弱点です。従来の Dockerfile の構造をベースに、キャッシュをローカル SSD に保存することで、転送コストを削減できます。また、GitLab と Google Cloud や GKE の構築環境では、この手法を適用することで、スパンごとのパフォーマンスを最適化しています。\n\n最終的に、構築時間 Shortening 87.9s から約 48.4s まで大幅に短縮され、IOPS による性能向上も確認されています。これにより、開発者向けにはより高速で安定したビルド環境が提供されるようになりました。",
-    "imageUrls": []
-  },
-  {
-    "id": "44d79e44c86856e3",
-    "title": "Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ",
-    "url": "https://note.com/yamac_/n/n198bdc344c64",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T10:08:35.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fyamac_%2Fn%2Fn198bdc344c64",
-    "category": "RELEASE",
-    "summary": "# 課題と解決方法：Docker Sandboxes の導入\n\n開発者向けに直訳調を避けた自然な日本語で要約します。\n\n## 課題と技術\n\nAI コーディングエージェント（Claude Code、Codex）の安全な環境構築が困難でした。従来の Dockerfile やファイアウォール設定は複雑で、認証やIP の考慮が必要でしたが、現在では自動確認のシステムがデフォルトになり、不安感が増しています。特に、AI Agent が判断ミスで重要なファイルを消去したり、ファイルを送信する問題が発生するリスクがあります。\n\n## 結論\n\n「Docker Sandboxes（sbx）」を採用することで、安全な環境を確保できます。Docker のコンテナとは異なる MicroVM で isolated 動作し、セキュリティ設計が標準装備されています。これにより、企業レベルでも安心に業務を継続できます。\n\n## 方法\n\n課題解決の具体的な手順と技術の仕組みを説明します。\n\n1. **インストール**: Windows 環境で Docker スベックス（sbx）をインストールします。\n2. **設定**: Balanced のネットワークポリシーを設定し、開発用の接続先を許可します。\n3. **実行**: サンドボックス内のコマンドを実行し、ファイルの読み書きや認証処理を行います。\n4. **管理**: CLI で複数のサンドボックスを管理し、起動・停止の操作を簡易化します。\n\n本文では、Docker の機能と sbx の違い、ネットワークポリシーの設定方法、認証情報の管理について詳細な手順と実体験を記載しています。",
-    "imageUrls": [
-      "https://assets.st-note.com/img/1795303100-4CeOTMvUnsD6jGxY3dBzQLhF.png?width=1200",
-      "https://assets.st-note.com/img/1795303132-IAGlb1vJfrDCSQxeNjZLi4oU.png?width=1200",
-      "https://assets.st-note.com/img/1795294078-2zwf7c0yH84oLPiDnSENmJsr.png?width=1200",
-      "https://assets.st-note.com/img/1795248460-syalFetqKPYDhU7bouQO1cAk.png?width=1200",
-      "https://assets.st-note.com/img/1795294966-NeRnuVKg8wfaE43HZUF5opOD.png?width=1200",
-      "https://assets.st-note.com/img/1795298933-DzYUsWrNHA3XJ6CikhVgfm5b.png?width=1200",
-      "https://assets.st-note.com/img/1795300761-VZ3jtnOC2KGJHzaYksb6NBmX.png?width=1200"
-    ]
-  },
-  {
-    "id": "1598e3a346bc2c8e",
-    "title": "タワーレコード 不正アクセスで約1100万件の個人情報流出 | NHKニュース",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261122de79936",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T10:00:18.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261122de79936",
-    "category": "TROUBLESHOOT",
-    "summary": "# 課題と解決方法\n\n「タワーレコード」が顧客個人情報を流出させたというサイバー攻撃は、企業運営の信頼性を脅かす重大な問題です。この問題は、個人情報の漏�れによる被害拡大と社会的な不安定化に直結します。\n\n## 結論\n\n対策として、二次被害を防ぐためには、福島県など地域の宿泊客帰宅開始や孤立対策を徹底し、情報漏�れの防止策を講じる必要があります。また、AI の影響や経済環境の変化についても深掘り調査を行うことが重要です。\n\n## 方法\n\n具体的な解決方法は、以下のステップで進めます。\nまず、被害発生後の対応として、個人情報の保護と二次被害防止を行います。これには、福島県など地域の宿泊客帰宅開始や孤立対策の実施が不可欠です。さらに、企業運営の信頼性を高めるため、サイバー攻撃対策の徹底と情報漏�れの防止策の講じることが求められます。\n\n本文に記載された情報は「タワーレコード」の個人情報流出についてのみあります。他の課題や解決方法については、記事内容から推測できません。",
-    "imageUrls": [
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79936/20261122de79936_E0000201170_1_l.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79904/20261122de79904_E0000201167_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/morenews/20261018de61119_E0000086259_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79781/20261122de79781_E0000201053_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79777/20261122de79777_E0000200695_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79817/20261122de79817_E0000200936_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/morenews/20261120de79222_E0000196311_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77620/20261118de77620_E0000187792_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261104de70389/20261104de70389_E0000195064_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78318/20261119de78318_E0000191662_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78171/20261119de78171_E0000193594_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77369/20261117de77369_E0000189709_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78590/20261119de78590_E0000198273_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76380/20261116de76380_E0000183529_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76403/20261116de76403_E0000180682_1_s.jpg",
-      "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79544/20261121de79544_E0000201746_1_l.jpg",
-      "https://news.web.nhk/weather/tenki/tenki_02.jpg"
-    ]
-  },
-  {
-    "id": "0b458cf3356bb95c",
-    "title": "Lean 4 + Python Differential Testing — 技術解説スライド",
-    "url": "https://kazunori279.github.io/lean4-tictactoe-test/slides_ja.html",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T09:24:05.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fkazunori279.github.io%2Flean4-tictactoe-test%2Fslides_ja.html",
-    "category": "TUTORIAL",
-    "summary": "# 開発者向け：自然な日本語で350〜450文字の要約\n\n## テーマ：課題と技術\n開発者は、従来の Unit Test が想定外を見逃す品質ギャップを解決するために、Python の Property-Based Testing（PBT）と Lean 4 の実行可能な仕様（Executable Specification）を組み合わせてテスト戦略を採用しました。これにより、数学的に厳密な保証が可能になります。\n\n## 結論：推奨方法\n「Test Oracle」の問題を解消し、数学的保証と実務のスイートスポットを両立させることで、信頼できる自動検証システムを実現します。特に、Lean 4 の高速な評価速度と Python の柔軟性を組み合わせることで、大規模なシステム開発に最適です。\n\n## 方法：解決手順\n1. **PBT 導入**: Hypothesis を使用し、数千のランダム入力を自動生成し、性質を検証します。\n2. **境界値探索**: 空配列や極端な数値など、人間が想定しない入力を自動探索します。\n3. **Lean 4 補完**: 実行可能な仕様と証明を結合し、Test Oracle の問題を解決します。\n4. **実装活用**: AWS Cedar や FinTech プロジェクトなど、実際のシステムで検証を行います。\n\n本文では、従来のテスト方法の限界と、この新しいアプローチのメリットが明確に説明されています。",
-    "imageUrls": []
-  },
-  {
-    "id": "ea5ee3c911d1cd71",
-    "title": "Jevって高速らしい。じゃあ、一文字ずつ文章を書かせてもLLMより速いのけ？",
-    "url": "https://qiita.com/ryosuke_ohori/items/532719a37f9a1965b1c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-22T09:14:05.000Z",
-    "status": "completed",
-    "category": "TUTORIAL",
-    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で要約します。\n\n株式会社ulusageの技術ブログ生成AIは、直訳調を避けた自然な日本語での回答を実現する仕組みを実証しました。従来のLLMでは、1文字ずつ選択して文章を完成させる必要があるため、処理時間が長くなる傾向にあります。しかし、TypeSafeの意思決定モデルJevを使用することで、一文字ずつ選択し、中央値0.211秒で最初の文字が現れることで、生成LLMより約1.7秒速く日本語の返信を書けることが確認されました。\n\nこの技術は、API通信の効率化と、直訳による誤解を避けることで、ユーザーへの応答速度を向上させます。実験では、1文字ずつ選択するJevと、OpenAIのLunaやGeminiのDecision APIを用いて比較しました。結果的に、Jevは高速かつ正確な回答を提供し、他のモデルも最終回答には影響しないという結論が導かれました。\n\n具体的な実装方法として、APIの選択条件を調整し、候補の生成プロセスを制御することで、直訳調を避けた自然な日本語の返事を実現できます。この技術は、開発者向けに適用可能であり、既存のシステムを効率化する上で重要な役割を果たします。",
-    "imageUrls": [
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2Fc4b5a509-dbeb-4efd-9150-f28e52404406.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=cf0ec2eb1878f7e5f20dbfff99bfed7b",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2F6a0ca5b2-8102-4cd4-ac3a-687e6951d872.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=9562299e9b606ce2b9c62be43215aee8",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2Ffe3ea648-59c0-476c-ab07-7f84110145d2.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=2ff6767a746350324fdeb47ee71ac3ae",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2F5937be65-33e5-45cf-94ab-3dcfa9c5e76e.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=c5a968d64c86775024ac57081a597459",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2F9283f888-4523-478e-906e-e4ca562d76da.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e9730c71d59e43cb14c5a65abd127adb",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2F4272c8d6-e3ba-4adb-8880-cbecd2e5a2d8.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=43de2dcb7a4b3fa409ec72dd8a95c573",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2F96dfe5d3-f252-4829-9123-bbc190d1cbaa.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=fe958a3bae6c2e24bee342f8ae65c02d",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2Fb4dabd42-ee41-45b4-a86a-e862eb3ad83a.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=15a9576faedcd4438c3dfebddc224b35",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2F5dcb73ab-8607-4257-bfd1-6a9ec16422fc.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=f86d7ff88c9d4e9145a30efbf63d1440",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2F8f483d28-866a-4cbe-ab5e-c71264f3b9ed.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=410fd584988c70c953038b85670b81c2",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2F4963e478-28d1-47f8-a4fe-5c310b5c3173.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=4a05ada412c3f1c0b243e88a85c9150c",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2Fcd9fdb27-43ff-465a-bdc1-56413b315461.gif?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=272eda07197e52c301bf0ccb9c3a9aeb",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2F745a0225-ec23-4860-bb8f-5f684a84461e.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=a121d932430ef37acf8e1eeec2441855",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2Fdc0704d3-35fc-4e8d-81b9-0406c69665f1.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=3eb8f21938a2a7d63f8069a8e4f2bd5c",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3770896%2F637c61e0-7fee-4b19-be84-5d0231f2bb9e.jpeg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=5cf267f0d3f381b5918bf73f362575a2"
-    ]
-  },
-  {
-    "id": "3a9445831c1f95c0",
-    "title": "リーマン予想のLean形式検証とは？Claudeと独立証明チェッカーの仕組み",
-    "url": "https://qiita.com/sponge841841/items/22a73af83a4e3528e6bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-22T09:09:38.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "# 数学証明の検証と AI の役割\n\n**結論**: 形式化された命題と複数の独立した証明チェッカーにより、リーマン予想の証明が確認されましたが、AI は証明の正確性を保証するものではありません。\n\n**方法**: 開発者側は AI を候補作成や定義の検討に活用し、Mathlib の定義と検証器を構築します。MIT の公開記録では、175,187 モジュールのコンパイル成功と、複数の検査器の実行結果が整理されています。ただし、検証は段階的に行われ、ソース内の悪意のある処理や依存関係の確認が必要です。\n\n**本文**: 開発者はグループ旅行アプリやアパレルブランドなど、実務的な成果を生成しています。しかし、数学分野では「証明」の定義と検証方法が重要です。リーマン予想は、複素平面上の零点が実部が 1/2 になるという主張です。この主張は計算機が厳密に確認できる形式証明として、MIT の検証記録により根拠が得られました。しかし、AI が証明を書くこと自体は正しい証明を保証するものではありません。最終的に、テスト・型検査・形式検証が意図した仕様を確認している必要があります。一般化リーマン予想の検証結果もまだ不完全です。開発者は AI を活用しながら、検証設計を厳密化し、実務に持ち帰えるチェックリストを作成しました。",
-    "imageUrls": []
-  },
-  {
-    "id": "eaf8044479f780f0",
-    "title": "アラフィフのおっさんが、初めて服をオーダーした話 (2)",
-    "url": "https://anond.hatelabo.jp/20261122180151",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T09:05:46.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fanond.hatelabo.jp%2F20261122180151",
-    "category": "GENERAL",
-    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\nテーマ：ジャケットのサイズ選びと注文方法について\n\n結論：無理にサイズを強制せず、自分の体型に合わせてオーダーすることで快適な服を選びることが推奨されます。\n\n方法：ChatGPT を活用し、専門的な相談を通じてサイズデータを収集し、店舗のシステムで登録する。その後、店舗のスタッフに対して具体的な要望（素材、色など）を伝えることで、最適な生地を選ぶことができます。\n\n本文に情報がない項目は推測せず「本文に記載なし」とします。\n\n要約：\nアラフィフの「おっさん」がジャケットを購入した事例から、サイズ選びの重要性が明確化された。従来のサイズ制約ではなく、自分の体型に合わせてオーダーすることで快適な服を選びることが推奨される。ChatGPT を活用し、専門的な相談を通じてサイズデータを収集し、店舗のシステムで登録する。その後、具体的な要望（素材、色など）を伝えることで、最適な生地を選ぶことができる。最終的に、自分の体型に合ったジャケットを購入することで、身体への違和感や快適感が改善されるという体験が紹介された。",
-    "imageUrls": []
-  },
-  {
-    "id": "999e27e5488d4b3a",
-    "title": "ドキュメントにない答えを残す：オープンソースのサポートツール「answerLoops」",
-    "url": "https://qiita.com/pitaspot/items/ee92f922136762ca1985?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-22T09:05:12.000Z",
-    "status": "completed",
-    "category": "TUTORIAL",
-    "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\n**テーマ：開発者向けのオープンソース AI サポートツール「answerLoops」の仕組みと課題**\n\nこのツールは、開発者コミュニティの質問を集め、AI が知識ベースから回答を作成し、その品質を評価するループを構築しています。導入効果の具体的な数字は公開されていませんが、実用性は確認できます。\n\n**結論：自動化された知識ベースの活用により、人間の確認が必要な質問への対応と、既存の知識の再活用**\n\n課題は、AI が回答の質を基準に自動返信を行うことと、既存の知識ベースの検索機能の統合です。解決方法は、質問に対して複数の経路で情報を取り込み、最終的に適切な回答を作成する仕組みです。\n\n**方法：知識ベースの導入と運用手順**\n\n1.  **質問への対応**: 質問が来ると、AI が知識ベースから回答を下書きします。\n2.  **評価プロセス**: 「自信度」と「質問への答えきれているか」を採点します。\n3.  **自動返信の制御**: 初期状態はオフで、基準を満たした回答のみが自動送付されます。\n4.  **知識ベースの構築**:\n    *   **既存のデータ**: ドキュメントファイルやGitHubなどの情報を導入します。\n    *   **個人の情報**: 手書きでの保存と公開化が可能です。\n    *   **検索機能**: 質問を検索し、該当する記事を追加します。\n5.  **運用の中心**: 答えのない質問を見つけることで、適切な記事を探すことが重要です。\n\n**本文に情報がない項目は推測せず「本文に記載なし」とします。**\n\nこの仕組みにより、企業や個人事業主は、人間が出力した知識を AI に読み込め、効率化を図ることができます。自動化されたシステムは、将来の技術トレンドとして重要視されます。",
-    "imageUrls": [
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4519310%2F2c4cd82c-a98d-4654-9e85-92290a8c8529.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=2de59b1a05e5aec26e91f95f3ff965d6",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4519310%2F0771d552-835f-402e-855d-8cdd0f6a5673.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8bc2e15a3b5e3afa386d016c7f4ed742",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4519310%2Feb52e1c3-bef2-4867-962d-d08884ecdbc7.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=8e03629c74d2294e426c093b457b217f",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4519310%2F35c25e4a-78d3-4685-9f9b-c522cf01557a.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e071e6fd5443af64419e84139e58fd0e",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F4519310%2F72139d9b-f8a1-47f5-a37c-e9b4e5b3ea38.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=6857fc1a79c2d4f3d8bb4920c3b2743a"
-    ]
-  },
-  {
-    "id": "a594cd42ef3153f2",
-    "title": "脆弱性の「CVSS 9.8」って結局なに？CVSSの読み方をちゃんと理解する - Qiita",
-    "url": "https://qiita.com/heki-dm/items/77ecaacd592d1c4459df",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T09:00:16.000Z",
-    "status": "pending",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Fheki-dm%2Fitems%2F77ecaacd592d1c4459df"
-  },
-  {
-    "id": "55f3a991f0c1d267",
-    "title": "zodのスキーマにz.url()を足すとテスト11本は通るのに本番が壊れる。テストとフォームで渡す値が違った",
-    "url": "https://zenn.dev/matsutake_prgrm/articles/tests-passed-with-a-value-the-app-never-sends",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-22T09:00:10.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Mp3NsNMH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:zod%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%259E%25E3%2581%25ABz.url%2528%2529%25E3%2582%2592%25E8%25B6%25B3%25E3%2581%2599%25E3%2581%25A8%25E3%2583%2586%25E3%2582%25B9%25E3%2583%258811%25E6%259C%25AC%25E3%2581%25AF%25E9%2580%259A%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25AB%25E6%259C%25AC%25E7%2595%25AA%25E3%2581%258C%25E5%25A3%258A%25E3%2582%258C%25E3%2582%258B%25E3%2580%2582%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25A8%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25A7%25E6%25B8%25A1%25E3%2581%2599%25E5%2580%25A4%25E3%2581%258C%25E9%2581%2595%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BE%25E3%2581%25A4%25E3%2581%259F%25E3%2581%2591%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmYjg0Y2M2ZjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "GENERAL",
-    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\n**テーマ：フォームの URL 項目の形式チェック問題と解決策**\n\nこの記事は、フォームの URL 項目に形式チェックを追加した際の課題と、その解決方法を解説しています。開発側が AI の検出結果に基づき、既存テストの対応を調整しました。最初には、テストの値を省略（undefined）や空文字のみで渡すことが標準でしたが、アプリ側との不一致により問題が発生しました。\n\nz.zod 4 の union を使用し、URL の形式チェックと空文字の許容を両立させる必要があります。特に、テストの値が正しい場合でも、形式チェックが走って落ちるリスクがあります。この問題は、テストの設計やスキーマ側の設定によって複雑化しているため、将来的には統一された処理が必要です。\n\n結論として、テストの値を正確に受け取る仕組みと、形式チェックの独立性を確保する設計が推奨されます。開発側は、テストの準備とスキーマの調整を連携させ、将来のシステム構築において同じ形で踏むべきという認識を得ました。\n\n方法では、z.zod 4 の union を使用し、URL の入力値を処理し、形式チェックの失敗を防ぐためのロジックを設計しました。また、テストの書き方やスキーマ側の設定を考慮し、実装の正確性を確保するよう調整を行いました。最終的に、テストの値が正しい場合でも、形式チェックの誤りにならないよう設計した解決策が採用されました。",
-    "imageUrls": []
-  },
-  {
-    "id": "0cf87da51d7ec555",
-    "title": "プラガブルで宣言的なソフトウェアファクトリーを支えるTypeScript",
-    "url": "https://speakerdeck.com/timakin/definitive-and-pluggable-software-factory",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T08:57:45.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Ftimakin%2Fdefinitive-and-pluggable-software-factory",
-    "category": "RELEASE",
-    "summary": "開発者向けに、直訳調を避けた自然な日本語で要約します。\n\nこの記事は、モデルの構築と運用における重要なステップと設定を説明しています。プロジェクトは「orchestrator」として複数の段階（プラン、実装、 deliver）を構成しており、各段階には役割と役割の定義が含まれています。また、クラウドプロバイダーである Cloudflare を使用したルートリングシステムも採用されています。\n\n導入された plugin には、mockup と implement のものがあり、それぞれの設定は明確に定義されています。特に、標準的なステップ ID は GitHub ドraft プロジェクトに指定されており、バージョン管理や依存関係の確認を重視しています。また、モデルの構築には「fable」などの重要な要素が含まれており、効率的な運用を目指しています。\n\n本文に記載されている情報は、機能の追加や対象バージョン、利用者への影響について明確に記述されています。専門用語は短く説明し、重要な情報を保ちつつ、文章の長さに合わせて要約しています。",
-    "imageUrls": []
-  },
-  {
-    "id": "187db45559bbee38",
-    "title": "【ざっくり理解】Microsoft Copilot harnessとは？ GitHub Copilotとの関係と3つの使い方",
-    "url": "https://qiita.com/Tadataka_Takahashi/items/0e080490d149df4e6255?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-22T08:53:17.000Z",
-    "status": "pending"
-  },
-  {
-    "id": "6d73accac356fe91",
-    "title": "おやつ屋「六花亭」が不正アクセス、クレカのセキュリティコードまで流出→最上位のやらかしなのに誠実さを感じてかあまり荒れていない……なぜ他社にこれができないのか？",
-    "url": "https://togetter.com/li/2773676",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T08:52:11.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2773676",
-    "category": "TROUBLESHOOT",
-    "summary": "六花亭オンラインショップの不正アクセスにより、顧客の個人情報（クレジットカード情報など）が流出する懸念が示されています。調査によると、対象期間中約8,000件の顧客に影響があり、改ざんされたプログラムによって入力された情報が外部に送信される可能性があります。現時点ではサイトを停止し、個人情報保護委員会へ報告しています。\n\n対策として、対象顧客への個別連絡を行い、クレジットカード利用明細の確認や不審な連絡への注意を促します。また、顧客の安全を最優先に、再発行手続きや情報漏洩防止の体制強化を検討する方針を示しています。調査結果に基づき、今後の対応は継続し、セキュリティ体制を強化することで再発を防ぐことを目指しています。\n\n本文には具体的な解決方法や技術の詳細説明はありませんが、停止措置と外部専門機関の助言のもとでのセキュリティ体制強化が推奨されています。",
-    "imageUrls": [
-      "https://s.tgstc.com/static/web/p.gif"
-    ]
-  },
-  {
-    "id": "636176eba07637ff",
-    "title": "Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita",
-    "url": "https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T08:32:43.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Fyamamoto_a_genee%2Fitems%2F76562c5c80032ad9e962",
-    "category": "TUTORIAL",
-    "summary": "# 開発者向け AI コードツールとの違いと解決法\n\nAI コードツールを組み合わせることで、LLM の出力を自動化する仕組みが重要となっています。このプロセスは「モデル」と「 Harness」の組み合わせとして捉えられます。LLM は文章やコードの生成を行うモデルですが、外部ファイルやプロセスへのアクセスを可能にするためには、適切な Harness を必要とします。\n\n## 課題と解決方法\n\n開発者は、同じ LLM を使って精度や使い方が異なる現象を説明する必要があります。その理由には、LLM の周囲にある「Agent Harness」という仕組みが関与するからです。この harness は、モデルの出力を実際の行動につなげる実行・制御の仕組みです。\n\n### 具体的な手順\n\n1. **ツール呼び出しの実装**: LLM が外部環境やファイルを読み書きする機能を定義します。\n2. **許容リストの構築**: 安全なコマンドのみを許可し、危険な命令を拒否します。\n3. **状態管理**: 作業の進捗や履歴を記録し、状態を維持します。\n\n### 実践的な注意点\n\n実装は標準ライブラリだけで済むことが多いですが、安全性と可観測性を重視する必要があります。特に、外部環境へのアクセス制限や、許可リストの厳格な設定は重要です。\n\n## 結論\n\nLLM と Harness の組み合わせにより、自動化されたコード処理が可能になります。ただし、厳密な定義とは異なる用語の範囲を考慮し、文脈によって解釈が異なります。正確な実装には、ツール呼び出しと状態管理の両方を同時に考慮する必要があります。\n\n## 方法\n\n1. **モデル**: LLM を使用します。\n2. ** Harness**: ファイル読み書き、コマンド実行、権限管理などの機能を実装します。\n3. **フロー**: LLM がツールを要求し、Harness が実行し、結果を記録するループを行います。\n\nこの仕組みは、コードの自動化と安全性を両立させる重要な技術です。",
-    "imageUrls": []
-  },
-  {
-    "id": "eb6f64323ec33f22",
-    "title": "【登壇レポート】「Business-JAWS #0 キックオフ！」でAIBの練習問題をAIに作らせて感じた気づきを話してきました！",
-    "url": "https://qiita.com/yosuke-suzuki/items/668b75e7f1ae9be15d99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-22T08:29:25.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "# 課題と技術の概要\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\n## 課題と技術の概要\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文に情報がない項目は推測せず「本文に記載なし」としてください。重要な情報を保ち、専門用語は必要に応じて短く説明してください。本文が短い場合は記事にない情報を補わず、本文の長さに合わせてください。挨拶や前置きは不要です。\n要約の視点: 追加・変更された機能、対象バージョン、利用者への影響を中心にまとめてください。\n\n## 結論\nビジネス課題解決を学ぶための資格として、AWS Certified AI Business Strategist（AIB）を受試する推奨される。エンジニアとビジネス側の両方の立場の理解を促進し、実務での業務導入に役立つスキルを得る。\n\n## 方法\n「AWS Certified AI Business Strategist」の受験体験記を基に、AIによる問題解決の仕組みと、業務との連携の重要性を解説するLT（学習者トーク）が実施された。具体的な課題は、営業や事業部門のリーダーへの対応、モデル選定におけるコストと効果のバランスを議論した。\n\n本文の要約内容：\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約してください。次の3項目をこの順番で、指定した見出しを使って書いてください。\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\n本文に情報がない項目は推測せず「本文に記載なし",
-    "imageUrls": [
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3843906%2F205cd134-1000-4cf7-9979-717472a13b1d.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=dbff7f105ab0ade6ea387125afd52661",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3843906%2F7d35410e-6ac9-4a89-8d95-d4ea829974fb.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=808917da42463248138f4d5602b7604c",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3843906%2F794bb3ca-c6ca-4d11-89a7-07abd8401384.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=cb2758705d807c4175866ec2993ccd21",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3843906%2Fd575c69b-f176-4ff3-be5c-3e785dff8665.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d984454d3f4913b69c089b9bb0262751",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F3843906%2F94438735-8c2b-45e9-8bd5-396837e7990e.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=94b8ab33f0c5e18234daa54944355317"
-    ]
-  },
-  {
-    "id": "51d39be8f720025f",
-    "title": "【個人開発】推し祭壇を投稿するアプリを作ってみた【React / TypeScript / Supabase】",
-    "url": "https://qiita.com/ko1_tktn/items/75fdcc2a4b7c824f2a6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-22T08:01:43.000Z",
-    "status": "completed",
-    "category": "GENERAL",
-    "summary": "個人開発において、推し祭壇の記録アプリ「OSHI-SAIDAN」を開発しました。これは写真とその日の気持ちのメモを統合したギャラリーとして機能します。公開デモでは、一覧から気になる祭壇を選び、詳細画面で写真とメモを読み返すことができます。ユーザーは自身の保存先（Supabase）にデータを保存し、URL を共有して公開する仕組みです。\n\n開発過程では、MVP の設計を明確にし、複雑な作業の範囲を視覚化しました。しかし、完成までの道のりが長くあり、モチベーション維持に課題がありました。特に題材選びの難しさも指摘されました。最終的に、ユーザー体験のフローと開発プロセスの可視化を重視し、より簡潔なリリース戦略を策定しました。\n\nこのプロジェクトは、個人開発者にとって、技術的な実装だけでなく、開発過程の管理や課題解決の重要性を再認識させる重要な経験となりました。",
-    "imageUrls": [
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fkooooo1tktn%2Foshi-saidan%2F0340a80870ffcd649c46ae18c49aa9b0eaaf195b%2Fdocs%2Fimages%2Fsetup%2Fapp-home.jpg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=0f01ebdbfa5e4ec23d65156a353685d8",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fkooooo1tktn%2Foshi-saidan%2F0340a80870ffcd649c46ae18c49aa9b0eaaf195b%2Fdocs%2Fimages%2Fsetup%2Fapp-detail.jpg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=5856a7d2e6e0380c649c7517d1de8b71",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fraw.githubusercontent.com%2Fkooooo1tktn%2Foshi-saidan%2F0340a80870ffcd649c46ae18c49aa9b0eaaf195b%2Fdocs%2Fimages%2Fsetup%2Fapp-new.jpg?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=91f38c27e1c2eea1c1b6c69bc7122897",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2FReact-19-087EA4?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=89caea54d8ae0ae3799ec554a5e81339",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2FTypeScript-3178C6?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=6e8abea42ff6ed0954206711a7ab132a",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2FVite-7-646CFF?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=c996c7310459743e9d0c8b7715a61c6f",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2FNode.js-22-417E38?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=d1ddb83a3b1762d0810b8095441ea208",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2FChakra_UI-v2-287F80?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=16475b575e8b39601c9c4ab3d1b947b4",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2FReact_Router-B52B33?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ab3fdaecea8073a04c9b36b81a2b0786",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2FReact_Hook_Form-B52C65?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ff66f77d2790cb4e5583ced0686c8e95",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2FTanStack_Query-A63632?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=ea762fd8993878f7f216f3e88c0023d0",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2FSupabase-287C58?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e1981c0f65d2eba3b45ad4aacb920bd4",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2FFirebase_Hosting-A95800?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=381b08c110a3d8fdb8da06132c09279b",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2FJest-99425B?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=e84672a21765697e1adee3993f1e3e89",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2FReact_Testing_Library-A83232?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=f3f6a159d4817b5bb37e094d8e8de744",
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fimg.shields.io%2Fbadge%2FGitHub_Actions-2466BB?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=1d0612d2db8e61e8540c101632cbe5ad"
-    ]
-  },
-  {
-    "id": "9c5d8165a63170ad",
-    "title": "AIと実機デバッグで挑む、MSX1〜V9990・V9968（Geo3D）対応ゲーム開発のリアル",
-    "url": "https://qiita.com/Kan0n/items/98b2c561c967ed207860?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-22T07:49:47.000Z",
-    "status": "completed",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：直訳調を避けた自然な要約\n\n開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450文字を目安に要約します。\n\n**テーマ：記事が扱う課題や技術は何か**\nこの記事は、Kanonというレトロハード開発プロジェクトの最新成果として、次世代VDP V9968との互換性デバッグとGeo3D機能の活用について解説しています。また、AIを活用したレトロハード開発の現実解を提案しています。\n\n**結論：記事が伝える主張、結果、または推奨は何か**\n開発者たちは、歴代の実機から最新のVDP環境まで跨ぐ設計を徹底し、互換性デバッグとGeo3D機能の活用を通じて、AIを活用したレトロハード開発の効率化を実現することを推奨しています。\n\n**方法：課題をどう解決するか、技術がどう動くか、どのように使うか**\n課題は、歴代ハードウェア（MSX1〜V9990）と次世代FPGA（V9968）間の描画モデルの違いや、実機検証におけるタイミング制約の理解です。解決策として、抽象化レイヤーの粒度を「スプライト更新」などに変換し、VDPコマンド完了待ちの正確なポーリング、そしてGeo3D機能の活用を徹底しています。また、AIを活用する際は、仕様を明文化して役割分担を明確にするのが推奨されています。\n\n本文には必要な情報はすべて含まれています。特に重要な技術用語は短く説明しています。要約の視点では、追加・変更された機能、対象バージョン、利用者への影響を中心にまとめています。",
-    "imageUrls": []
-  },
-  {
-    "id": "3693fd95a39617a8",
-    "title": "ここまで情報漏洩してもGoogle、Amazon、Apple辺りがやらかしていないのは流石では？→漏洩させている側がサイバー攻撃用にクラウドを使っているからできない説が浮上",
-    "url": "https://togetter.com/li/2773653",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-22T07:09:49.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2773653",
-    "category": "RELEASE",
-    "summary": "# 課題と結論\n\nこの記事は、Google Cloud Storage を悪用したフィッシング詐欺の手口を解説しています。検出戦略や実際のキャンペーンの概要が紹介されています。\n\n## 方法\n\nセキュリティ対策として、Google Cloud Integration Application のインフラストラクチャを活用し、メールフィルターを回避する手法が採用されています。これにより、クレデンシャルの盗難を隠蔽し、巧妙な詐欺組織を形成しています。\n\n## 結論\n\nGoogle Cloud を利用した攻撃は、Microsoft 365 のログイン情報を盗み出す危険性があります。検出戦略や具体的なキャンペーンの詳細については、記事で詳しく説明されています。\n\n本文には、具体的な対策方法や被害の詳細が記載されており、専門用語は必要ありません。",
-    "imageUrls": [
-      "https://s.tgstc.com/static/web/p.gif"
-    ]
-  },
-  {
-    "id": "9f60a34004b6017f",
-    "title": "日付に左右されないテストにする：Vitest と Playwright の page.clock",
-    "url": "https://zenn.dev/takahkok0812/articles/d6b26f71011c42",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-22T06:52:27.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--sBSRlCW3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2597%25A5%25E4%25BB%2598%25E3%2581%25AB%25E5%25B7%25A6%25E5%258F%25B3%25E3%2581%2595%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25EF%25BC%259AVitest%2520%25E3%2581%25A8%2520Playwright%2520%25E3%2581%25AE%2520page.clock%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:takahkok0812%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVl4RjMwc0QxMkNHZTdQUm9NODVVU3R4cGxNbkpIbndaR2hwS3puY0VleUJLaVJRPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "TUTORIAL",
-    "summary": "美容室予約アプリのテスト開発において、日付に左右されない正確な検証方法を解説しました。開発PCと CI（GitHub Actions）のタイムゾーン差を考慮し、引数として現在時刻を指定するよう改修し、グローバル設定やブラウザ側の設定を徹底しました。また、予約ルール判定の基準日回数を調整し、本番環境との一致性を確保するテストスクリプトを追加しました。\n\nこのアプローチにより、開発PCと UTC の両方の環境で安定したテストが可能となりました。特に「現在時刻を引数」という設定は、時計を動かさないためテストの安定性を保証します。また、ブラウザのタイムゾーン設定や、テストファイル内の時間計算ロジックの統一化が重要となります。本番のサーバーとの一致を確保するため、予約ルールの判定基準も UTC に統一し、レビュー結果を改善する対策として適用されました。\n\n最終的に、開発PCと CI の両方の環境で同じ結果を得られるよう、テストファイル内の時間設定や、ブラウザ側のタイムゾーン指定を徹底しました。これにより、日付の誤差によるテスト失敗を防ぐことができます。また、本番のサーバーとの一致性を確保するため、予約ルール判定の基準日を回数を調整し、両方の環境で同じ結果を得るよう設計しました。\n\nこの方法により、開発者向けに自然でわかりやすい日本語で、具体的なコード改修とテスト戦略を説明した記事です。",
-    "imageUrls": []
-  },
-  {
-    "id": "bf38cc7d36cda933",
-    "title": "サイトビルダーにSearch Consoleを実装してみた",
-    "url": "https://zenn.dev/sixth13/articles/9710d506b86cc1",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-22T06:51:12.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Qm5bfP7h--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25ABSearch%2520Console%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:sixth%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pnZ2drOVRfRDlzLWpNeFpSVW9VTjR0dkU0aVdWcHFLUXVRTE5ieVE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "TUTORIAL",
-    "summary": "# 開発者向け：Search Console の対応手順と対策\n\n**テーマ**: 検索コンソールの空応答とクリック数管理の課題\n**結論**: 公開サイトでの登録処理を自動化し、日別合計と端末別データを集計することで、正確なクリック数と順位情報を取得できる仕組みが確立された。\n**方法**: 公開ドメイン登録、Google API の token 取得、検索・ analytics API の設定、日別合計の計算処理\n\n本文では、Search Console の返答が空になった際にクリック数がゼロになるリスクについて、開発者向けに解決策を解説します。公開サイトでの登録処理を自動化することで、管理画面への折れ線がゼロになるよう対策が取れます。また、Google の仕様に基づき、日別合計と端末別データの正確な収集方法を推奨しています。\n\n登録処理は、公開ドメインの確認や予約の完了までを一度に済ませることで、設定の保存が取り消されなくなるため、管理画面の表示が安定します。検索結果の確認には、Google の公式 API を使用し、URL プレフィックスと検証タグを正確に登録する手順が明確です。\n\n日別合計の計算には、選択期間の開始日から終了日までデータを抽出し、上位 20 件のみを保存する仕様があります。また、表示回数の違いによる順位計算の落とし穴を避けるため、平均掲載順位と実装された値を別々に処理します。端末別の応答も統合して合計値を計算することで、すべてのデータが正確に反映されます。\n\n運用側は、登録済みサイトを再度投入する際、日別合計と選択期間の上位項目を点検し、適切な予約を行う必要があります。これにより、検索コンソールの異常やクリック数 discrepancies を防止できます。",
-    "imageUrls": [
-      "https://static.zenn.studio/user-upload/885b9d69a59d-20261122.png",
-      "https://static.zenn.studio/user-upload/0d8588f3b9c0-20261122.png",
-      "https://static.zenn.studio/user-upload/bf9c3799c08d-20261122.png"
     ]
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "747ad7ec8e010cb1",
+    "title": "Zoraxyにおける複数の脆弱性",
+    "url": "https://jvn.jp/jp/JVN84156789/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-24T03:00:00.000Z"
+  },
+  {
+    "id": "a45caf1261912674",
+    "title": "VMware製品の脆弱性対策について(CVE-2026-123890)",
+    "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261124.html",
+    "source": "IPA 重要なセキュリティ情報",
+    "publishedAt": "2026-11-23T15:00:00.000Z"
+  },
+  {
     "id": "b0ee0db98388b68c",
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月19日）",
     "url": "https://jvn.jp/vu/JVNVU92814490/",

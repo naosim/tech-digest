@@ -1,30 +1,5 @@
 [
   {
-    "id": "5f9080296993d701",
-    "title": "Safari で contentEditable に focus() するとページ先頭へ飛ぶ問題の対処まとめ",
-    "url": "https://zenn.dev/qqpann/articles/safari-contenteditable-focus-scroll-jump",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-21T17:35:33.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--gAxdrDzZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Safari%2520%25E3%2581%25A7%2520contentEditable%2520%25E3%2581%25AB%2520focus%2528%2529%2520%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A8%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8%25E5%2585%2588%25E9%25A0%25AD%25E3%2581%25B8%25E9%25A3%259B%25E3%2581%25B6%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25AE%25E5%25AF%25BE%25E5%2587%25A6%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258D%25E3%2581%2586%25E3%2581%258D%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA5YjlmNGNjN2EuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "RELEASE",
-    "summary": "# 開発者向け：Safari のタスク編集時の自動スクロール問題と解決策\n\n## テーマ：記事が扱う課題や技術は何か\nSafari でタスクの最後の行に Enter を押すと、ページが先頭へ飛ぶ現象が発生しました。これはブラウザによる自動スクロールの制御により発生する問題です。特にタッチ端末ではキーボードの追従まで止まることが問題となります。\n\n## 結論：記事が伝える主張、結果、または推奨は何か\nこの問題は、Safari の Web 開発機能設定や、focus() の処理を適切に行う必要があります。自動テストでは再現できないため、実際の環境での目視確認が必要であり、開発者は対応策を実装する必要があります。\n\n## 方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n課題は、Safari で focus() を実行した際に自動的にページトップへスクロールする問題です。これを解決するには、focus() の後に scrollY を固定し、元の位置に戻す処理が必要です。また、タッチ端末ではキーボードの追従を遮断する必要があります。\n\n具体的な解決方法は以下の通りです：\n1. focus() を実行した後、scrollY を固定して元の位置へ戻す処理を実装します。\n2. タッチ端末（pointer: coarse）ではキーボードの追従を止める必要があります。\n3. 自動テストでは再現できないため、実際の環境での目視確認が必須です。\n\n## 本文に情報がない項目は推測せず「本文に記載なし」としてください\n本文には具体的なコード例や詳細なテスト手順が含まれていません。しかし、基本的な解決策の概要は明確に述べています。",
-    "imageUrls": []
-  },
-  {
-    "id": "06753430cbee1634",
-    "title": "AIで開発を速くするだけでは、会社の生産性は上がらない？",
-    "url": "https://qiita.com/kskwtnk/items/99eccfba0ae76ce6f87a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-    "source": "Qiita Popular",
-    "publishedAt": "2026-11-21T17:35:02.000Z",
-    "status": "completed",
-    "category": "GENERAL",
-    "summary": "開発現場における AI の導入は、開発速度の向上だけでなく、会社全体の生産性向上に大きな影響を及ぼす可能性があります。しかし、研究や調査によると、開発能力の向上だけでは結果が出ないという隔たりがあることが示唆されています。本文では、開発組織と事業全体の連携を重視する考え方を提案します。\n\nAI の導入による開発現場の変化について、開発能力の向上を活かすためには成果に至るまでの流れと制約を重視する必要があります。特に、インフロー・ストック・アウトフローというモデルを用いて、仕事の受け渡しと滞留を調べることが重要です。例えば、営業が契約書や合意内容を法務に依頼する場面において、情報の正確性と確認待ちの時間により、最終的な成果の量が変わる可能性があります。\n\n売上・利益の改善には、開発だけでなく、契約審査や導入プロセスの効率化も不可欠です。結果として、開発部門の生産性を向上させるだけでなく、全体の業務フローを最適化することで、組織全体の収益成長につながることが示唆されています。この観点から、開発セクションを閉じずに会社全体の仕事の流れを重視する姿勢が推奨されます。",
-    "imageUrls": [
-      "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F214677%2Ff6253a15-28d4-4f5b-9424-811d851e00c0.png?ixlib=rb-4.1.1&auto=format&gif-q=60&q=75&s=7ef0ad9516b55cff382b7f99b4df4c7d"
-    ]
-  },
-  {
     "id": "fd0c6b38b45d9750",
     "title": "Steamの登録料$100と手数料30%をゼロに！30言語＆29通貨換算対応のゲーム配信ストア『Zteam』を個人開発した",
     "url": "https://zenn.dev/mcp/articles/6b8f51b13c099b",
@@ -376,6 +351,15 @@
     "category": "RELEASE",
     "summary": "開発者向けに直訳調を避けた自然な日本語で要約します。\n\nこの記事は、小さな店舗オーナー向けの AI を設計した「確認待ちの記憶」機能について解説しています。AI が先週の価格表を再度読み取った際に、オーナーが確認しないように設計されました。この機能は、テキストのみを読み取り、候補として商品や営業時間などを付けます。パスワードや個人情報などは最初に3言語で捨てられ、既存の記憶と矛盾しないよう上書きしません。\n\n開発者自身もテスト結果に失敗した例を報告しています。例えば、「一文で返信」のルールが保存されたり、AI の発言がオーナーの発言とは異なるものを判定したりしました。また、会話ログの大半は AI が書いているため、誰が言ったかを確認する必要があります。コードの詳細と作らないもの（確信度スコアなど）は全文に留められます。\n\n結論として、設定ページではなく会話の中で判断する仕組みを採用し、論理的なルールを維持することが重要です。これにより、AI の発言を正確に処理し、顧客への誤解を防ぐことができます。",
     "imageUrls": []
+  },
+  {
+    "id": "6e7e8a6b1cd215d8",
+    "title": "マクドナルド公式アプリのデータベースへの不正アクセスに関するお知らせとお詫び | マクドナルド公式",
+    "url": "https://www.mcdonalds.co.jp/company/info/261120a/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-21T09:09:54.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.mcdonalds.co.jp%2Fcompany%2Finfo%2F261120a%2F"
   },
   {
     "id": "1a98175d99bad8fc",
@@ -1690,6 +1674,15 @@
     "source": "Qiita Popular",
     "publishedAt": "2026-11-20T08:39:14.000Z",
     "status": "pending"
+  },
+  {
+    "id": "c5be09a1387a29c8",
+    "title": "AIエージェントを騙す：一見安全だが危険なGitHubリポジトリをAIエージェントにセットアップさせてみた（インターンシップ体験記） - NTT docomo Business Engineers' Blog",
+    "url": "https://engineers.ntt.com/entry/202610-offsec-intern/entry",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-20T08:35:00.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fengineers.ntt.com%2Fentry%2F202610-offsec-intern%2Fentry"
   },
   {
     "id": "f5d1f29e3c25373d",
