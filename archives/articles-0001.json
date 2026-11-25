@@ -1,14 +1,5 @@
 [
   {
-    "id": "b92d83d9ba804ecc",
-    "title": "Playwright を Bun に移す前に確認したい 3 つのこと。メモリは半分、挙動は 6 つ違った",
-    "url": "https://zenn.dev/nabeyan_dev/articles/fsfn-playwright-bun-test-runner",
-    "source": "Zenn (playwright)",
-    "publishedAt": "2026-11-10T23:46:49.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--DQ8hwb1Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%2520%25E3%2582%2592%2520Bun%2520%25E3%2581%25AB%25E7%25A7%25BB%25E3%2581%2599%25E5%2589%258D%25E3%2581%25AB%25E7%25A2%25BA%25E8%25AA%258D%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25203%2520%25E3%2581%25A4%25E3%2581%25AE%25E3%2581%2593%25E3%2581%25A8%25E3%2580%2582%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E3%2581%25AF%25E5%258D%258A%25E5%2588%2586%25E3%2580%2581%25E6%258C%2599%25E5%258B%2595%25E3%2581%25AF%25206%2520%25E3%2581%25A4%25E9%2581%2595%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%258A%25E3%2583%2599%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdhZmMyZTkyYWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-  },
-  {
     "id": "14a7357d5144fb7d",
     "title": "“年内入試”での生成AI活用めぐり大学の対応分かれる　 | NHKニュース",
     "url": "https://news.web.nhk/newsweb/na/nd-20261111de73858",
@@ -13019,6 +13010,15 @@
     "publishedAt": "2026-04-15T21:37:34.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fsasadango28%2Farticles%2Fclaude-code-harness-engineering-20260415"
+  },
+  {
+    "id": "6633d5d1b454e559",
+    "title": "A2UI",
+    "url": "https://a2ui.org/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2025-11-10T22:17:38.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fa2ui.org%2F"
   },
   {
     "id": "d53c80fef52feecc",

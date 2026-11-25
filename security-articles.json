@@ -1,5 +1,33 @@
 [
   {
+    "id": "27f48998350e3ffc",
+    "title": "Apache Tomcatにおける複数の脆弱性（2026年11月19日）",
+    "url": "https://jvn.jp/vu/JVNVU92527429/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-25T06:00:00.000Z"
+  },
+  {
+    "id": "75584b461ddf4603",
+    "title": "源内Webにおけるサーバサイドリクエストフォージェリの脆弱性",
+    "url": "https://jvn.jp/jp/JVN78929433/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-25T03:00:00.000Z"
+  },
+  {
+    "id": "9af66b3b17c36f5c",
+    "title": "OpenSSLにおける脆弱性に対するアップデート（2026年11月24日）",
+    "url": "https://jvn.jp/vu/JVNVU95723901/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-25T00:00:15.000Z"
+  },
+  {
+    "id": "f24745f8acc78a37",
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年11月24日）",
+    "url": "https://jvn.jp/vu/JVNVU93291989/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-25T00:00:00.000Z"
+  },
+  {
     "id": "747ad7ec8e010cb1",
     "title": "Zoraxyにおける複数の脆弱性",
     "url": "https://jvn.jp/jp/JVN84156789/",

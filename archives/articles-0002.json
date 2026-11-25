@@ -1,24 +1,5 @@
 [
   {
-    "id": "fd0c6b38b45d9750",
-    "title": "Steamの登録料$100と手数料30%をゼロに！30言語＆29通貨換算対応のゲーム配信ストア『Zteam』を個人開発した",
-    "url": "https://zenn.dev/mcp/articles/6b8f51b13c099b",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-21T16:31:05.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ZRrejntu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Steam%25E3%2581%25AE%25E7%2599%25BB%25E9%258C%25B2%25E6%2596%2599%2524100%25E3%2581%25A8%25E6%2589%258B%25E6%2595%25B0%25E6%2596%259930%2525%25E3%2582%2592%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25AB%25EF%25BC%258130%25E8%25A8%2580%25E8%25AA%259E%25EF%25BC%258629%25E9%2580%259A%25E8%25B2%25A8%25E6%258F%259B%25E7%25AE%2597%25E5%25AF%25BE%25E5%25BF%259C%25E3%2581%25AE%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E9%2585%258D%25E4%25BF%25A1%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A2%25E3%2580%258EZteam%25E3%2580%258F%25E3%2582%2592%25E5%2580%258B%25E4%25BA%25BA...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mcp%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFNWa09nd08xdGpacmFxekd0MXFuVXNjbzVtTm1jSTdzY1VkMkM0dmVMekVmZVB3PXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "RELEASE",
-    "summary": "# Zteam の開発と機能\n\nZteam は個人開発者向けに無料のゲーム公開プラットフォームとして開発されたオープンソースプロジェクトです。従来のSteam Direct への登録費や審査期間を回避し、ブラウザ対応の即プレイを実現しています。GitHub リポジトリでは MITライセンスで公開されており、開発者向けには5つの技術知見を提供します。\n\n## 課題と解決方法\n\n個人開発者はSteamへの登録費15,500円以上のハードルを克服するため、Zteam を開発しました。従来のプラットフォームは審査期間や手数料を高く設定しており、収益の30%を徴収する仕組みです。Zteam はこれらを回避し、登録後30日間の自動公開と0%の手续费を実現します。また、AI安全審査とウイルス検査によりセキュリティを確保しています。\n\n## 主な機能と特徴\n\nZteam はブラウザ対応のHTML5/WebGLで即起動可能です。多通貨対応（29通貨）と自動換算機能により、海外プレイヤーの通貨表示をリアルタイムに反映します。外部販売プラットフォームとの直結化により、手数料0%を実現し、開発者への還元も徹底しています。\n\n## 推奨される活用方法\n\n個人開発者は「Zteam」の5つの技術知見をコード付きで応用できます。価格設定はデフォルト無料ですが、有料作品には外部販売ページへの直結機能があります。この機能は海外プレイヤーの通貨表示を自動的に処理し、ユーザー体験を向上させます。",
-    "imageUrls": [
-      "https://res.cloudinary.com/zenn/image/fetch/s--4Ez9NkAv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://zteam.6u.workers.dev/qiita/01_hero_storefront_ja.png?_a=BACMTiAE",
-      "https://res.cloudinary.com/zenn/image/fetch/s--5uTyqQn5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://zteam.6u.workers.dev/qiita/05_faq_steam_comparison.png?_a=BACMTiAE",
-      "https://res.cloudinary.com/zenn/image/fetch/s--huDH49af--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://zteam.6u.workers.dev/qiita/03_publish_pricing_booth.png?_a=BACMTiAE",
-      "https://res.cloudinary.com/zenn/image/fetch/s--L0HAfMjG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://zteam.6u.workers.dev/qiita/02_lang_picker_30flags.png?_a=BACMTiAE",
-      "https://res.cloudinary.com/zenn/image/fetch/s--wxNLN5_X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://zteam.6u.workers.dev/qiita/04_game_detail_aether.png?_a=BACMTiAE",
-      "https://res.cloudinary.com/zenn/image/fetch/s--PGpbOKbT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://zteam.6u.workers.dev/qiita/06_web_playable_aether.png?_a=BACMTiAE"
-    ]
-  },
-  {
     "id": "de6a6b768afb5e74",
     "title": "Lean verification of the Riemann Hypothesis",
     "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
@@ -14256,5 +14237,14 @@
     "publishedAt": "2026-11-11T00:02:14.000Z",
     "status": "completed",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpiyolog.hatenadiary.jp%2Fentry%2F2026%2F11%2F11%2F075305"
+  },
+  {
+    "id": "b92d83d9ba804ecc",
+    "title": "Playwright を Bun に移す前に確認したい 3 つのこと。メモリは半分、挙動は 6 つ違った",
+    "url": "https://zenn.dev/nabeyan_dev/articles/fsfn-playwright-bun-test-runner",
+    "source": "Zenn (playwright)",
+    "publishedAt": "2026-11-10T23:46:49.000Z",
+    "status": "completed",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--DQ8hwb1Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%2520%25E3%2582%2592%2520Bun%2520%25E3%2581%25AB%25E7%25A7%25BB%25E3%2581%2599%25E5%2589%258D%25E3%2581%25AB%25E7%25A2%25BA%25E8%25AA%258D%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25203%2520%25E3%2581%25A4%25E3%2581%25AE%25E3%2581%2593%25E3%2581%25A8%25E3%2580%2582%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E3%2581%25AF%25E5%258D%258A%25E5%2588%2586%25E3%2580%2581%25E6%258C%2599%25E5%258B%2595%25E3%2581%25AF%25206%2520%25E3%2581%25A4%25E9%2581%2595%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%258A%25E3%2583%2599%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdhZmMyZTkyYWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
   }
 ]
