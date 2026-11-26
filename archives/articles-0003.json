@@ -1,5 +1,332 @@
 [
   {
+    "id": "6f586c56c7087572",
+    "title": "34年目の秀丸エディタと、AIの距離感　「正直皆どんな目的で使ってるかよく分かりません」 - レバテックLAB",
+    "url": "https://levtech.jp/media/detail_973/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-25T00:58:54.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Flevtech.jp%2Fmedia%2Fdetail_973%2F"
+  },
+  {
+    "id": "7d6bbd1e8181aeb2",
+    "title": "国会図書館の軽量AI-OCR「NDLOCR-Lite」がv2.0に、読書バリアフリーを目指す機能強化／異体字包摂、表の構造化、「PyPI」経由でのインストールにも対応",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2158877.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-25T00:50:47.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2158877.html"
+  },
+  {
+    "id": "4327b85872bb29de",
+    "title": "地上波テレビの全番組を「ネットで同時・見逃し配信」、総務省が提案　2040年までに",
+    "url": "https://japan.cnet.com/article/35255356/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-25T00:43:52.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35255356%2F"
+  },
+  {
+    "id": "88b57868bcf7c12a",
+    "title": "C言語が危険なのではない。コンピュータが危険なのだ - keroxpのScrapbox",
+    "url": "https://scrapbox.io/keroxp/C%E8%A8%80%E8%AA%9E%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%80%82%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A0",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-25T00:40:46.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fscrapbox.io%2Fkeroxp%2FC%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%258C%25E5%258D%25B1%25E9%2599%25BA%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2582%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2594%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%258C%25E5%258D%25B1%25E9%2599%25BA%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25A0"
+  },
+  {
+    "id": "92f2ae7495f70ffa",
+    "title": "生成 AI で時間は本当に減ったのか 減った時間で何を生んだのか",
+    "url": "https://qiita.com/Takashi_Masumori/items/78a8d6589e7429d029d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-25T00:31:30.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "909c9545f4a31e64",
+    "title": "高木浩光＠自宅の日記 - 「氏名は含まれておりません」では済まない——KARTE事件で漏れた行動の記録は誰の個人データか",
+    "url": "http://takagi-hiromitsu.jp/diary/20261124.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-25T00:26:29.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=http%3A%2F%2Ftakagi-hiromitsu.jp%2Fdiary%2F20261124.html"
+  },
+  {
+    "id": "1551159a21c21632",
+    "title": "米中に次ぐAI国家確立へ 政府案 - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/pickup/6603868",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-25T00:15:13.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.yahoo.co.jp%2Fpickup%2F6603868"
+  },
+  {
+    "id": "3afd16609b757453",
+    "title": "Claude APIに社内文書を渡す前に：契約・学習・保存の確認順と、送信前に伏せるTypeScript実装",
+    "url": "https://zenn.dev/aikyoju_lab/articles/aikyoju-2026-11-005",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-25T00:11:33.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--hYQQ_qEo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520API%25E3%2581%25AB%25E7%25A4%25BE%25E5%2586%2585%25E6%2596%2587%25E6%259B%25B8%25E3%2582%2592%25E6%25B8%25A1%25E3%2581%2599%25E5%2589%258D%25E3%2581%25AB%25EF%25BC%259A%25E5%25A5%2591%25E7%25B4%2584%25E3%2583%25BB%25E5%25AD%25A6%25E7%25BF%2592%25E3%2583%25BB%25E4%25BF%259D%25E5%25AD%2598%25E3%2581%25AE%25E7%25A2%25BA%25E8%25AA%258D%25E9%25A0%2586%25E3%2581%25A8%25E3%2580%2581%25E9%2580%2581%25E4%25BF%25A1%25E5%2589%258D%25E3%2581%25AB%25E4%25BC%258F%25E3%2581%259B%25E3%2582%258BTypeScript%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2582%25A4%25E6%2595%2599%25E6%258E%2588%25E3%2581%25A8%25E3%2581%25BE%25E3%2581%25AA%25E3%2581%25B6%25E3%2581%25AEAI%25E6%2595%2599%25E5%25AE%25A4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjMzY2ZmM4MWYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "94de8760b9fc1913",
+    "title": "GASのグローバル関数をViteで自動生成する仕組み",
+    "url": "https://zenn.dev/tiger_oshima/articles/gasboost-vite-global-functions",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-24T23:54:36.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--xosBGWKw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GAS%25E3%2581%25AE%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25AB%25E9%2596%25A2%25E6%2595%25B0%25E3%2582%2592Vite%25E3%2581%25A7%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Taiga%2520Oshima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk5qMmwySlVPV1dxUzRJWWpHRXB5X2RBTlBuRURYdnlOSEJrRUI1ZGs1ZkFpRFB3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "18d89a386711e99f",
+    "title": "我々はもう少し、Googleに怒っていいと思う",
+    "url": "https://blog.tinect.jp/?p=91593",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T23:52:07.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.tinect.jp%2F%3Fp%3D91593"
+  },
+  {
+    "id": "933fe9221d00b96c",
+    "title": "E2Eの「同じ表示が2つ」を.first()で通したら、アプリの画面が二重に積まれていたのを8日間見逃した話",
+    "url": "https://zenn.dev/itaraiguma/articles/e2e-first-hid-duplicate-tabs",
+    "source": "Zenn (playwright)",
+    "publishedAt": "2026-11-24T23:50:08.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Y_SMXufC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:E2E%25E3%2581%25AE%25E3%2580%258C%25E5%2590%258C%25E3%2581%2598%25E8%25A1%25A8%25E7%25A4%25BA%25E3%2581%258C2%25E3%2581%25A4%25E3%2580%258D%25E3%2582%2592.first%2528%2529%25E3%2581%25A7%25E9%2580%259A%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%25AE%25E7%2594%25BB%25E9%259D%25A2%25E3%2581%258C%25E4%25BA%258C%25E9%2587%258D%25E3%2581%25AB%25E7%25A9%258D%25E3%2581%25BE%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2581%25AE%25E3%2582%25928%25E6%2597%25A5%25E9%2596%2593%25E8%25A6%258B%25E9%2580%2583%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:IT%25E3%2582%25A2%25E3%2583%25A9%25E3%2582%25A4%25E3%2582%25B0%25E3%2583%259E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFlZmMxMmY2MTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "f513e43beadc70cd",
+    "title": "三重県警 小学校元講師 AI生成の児童ポルノ画像所持で追送検 | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261124de80746",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T23:37:15.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261124de80746"
+  },
+  {
+    "id": "e0deb0ef72b2b8df",
+    "title": "ずっしり重い新型ウォークマン　歴代最高65万円なぜここまで高級化：朝日新聞",
+    "url": "https://www.asahi.com/articles/ASVCN2QXSVCNULFA01XM.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T23:35:54.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.asahi.com%2Farticles%2FASVCN2QXSVCNULFA01XM.html"
+  },
+  {
+    "id": "bb5be7c5a2bb498c",
+    "title": "CDKでDynamoDBとLambdaを構築してCRUD APIを作る",
+    "url": "https://zenn.dev/gnc_tech/articles/f850281acf897b",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-24T23:35:18.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--MH_s-vx6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CDK%25E3%2581%25A7DynamoDB%25E3%2581%25A8Lambda%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2597%25E3%2581%25A6CRUD%2520API%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Ryoichi%2520Izumi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYzM2UzNzEzODUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25B0%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25AB%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B3%25E3%2582%25A2%2520%25E6%259C%2589%25E5%25BF%2597%25E3%2582%25B3%25E3%2583%259F%25E3%2583%25A5%25E3%2583%258B...%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RhNTNlMmI1NzkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "3043273be421426b",
+    "title": "AI時代の実践・形式検証入門",
+    "url": "https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/edit?slide=id.p1",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T23:23:30.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM%2Fedit%3Fslide%3Did.p1"
+  },
+  {
+    "id": "7d416651459d755b",
+    "title": "QuartzとSpringのcronは別物だった。曜日の番号と日・曜日のOR/AND",
+    "url": "https://zenn.dev/a1221/articles/quartz-spring-cron-differences-implementation",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-24T23:06:59.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--HfWrbyi3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Quartz%25E3%2581%25A8Spring%25E3%2581%25AEcron%25E3%2581%25AF%25E5%2588%25A5%25E7%2589%25A9%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25E3%2580%2582%25E6%259B%259C%25E6%2597%25A5%25E3%2581%25AE%25E7%2595%25AA%25E5%258F%25B7%25E3%2581%25A8%25E6%2597%25A5%25E3%2583%25BB%25E6%259B%259C%25E6%2597%25A5%25E3%2581%25AEOR%252FAND%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:devtoolkits.app%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkY2RlMmQ0ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "3dc3813aa139d65b",
+    "title": "【大原雄介の半導体業界こぼれ話】 プロセッサが完成しないまま逝ったTachyumと、静かに幕を引いたTransferJet",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/2158648.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T22:18:50.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fcolumn%2Ftidbit%2F2158648.html"
+  },
+  {
+    "id": "22e96704fe5275aa",
+    "title": "個人開発 with AI",
+    "url": "https://zenn.dev/holygrail/scraps/dec6ae85d06b4f",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T22:02:28.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fholygrail%2Fscraps%2Fdec6ae85d06b4f"
+  },
+  {
+    "id": "5ccb6956093a990f",
+    "title": "楽天証券、顧客からの預かり資産残高168万件漏洩　性別や国籍も - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUB24AXS0U6A121C2000000/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T21:28:35.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUB24AXS0U6A121C2000000%2F"
+  },
+  {
+    "id": "ca3ead78612b6759",
+    "title": "AI時代の実践・形式検証入門",
+    "url": "https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T21:16:53.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM%2Fmobilepresent%3Fslide%3Did.p1"
+  },
+  {
+    "id": "6472d46168a44a41",
+    "title": "Claude Code の /ship を図解する",
+    "url": "https://zenn.dev/peoplex_blog/articles/claude-code-ship",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T18:03:40.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fpeoplex_blog%2Farticles%2Fclaude-code-ship"
+  },
+  {
+    "id": "cb22df3bdba1dc7b",
+    "title": "ChordTube - YouTube の曲のコード進行・キー・BPM",
+    "url": "https://chordtube.net/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T18:01:23.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fchordtube.net%2F"
+  },
+  {
+    "id": "bb4963db81c314f8",
+    "title": "BASIC-M25ソース・リスト全28章読解メモ：MZ-2500 BASICインタプリタの内部構造",
+    "url": "https://qiita.com/yunkya2/items/cfb5dd1ad30dd46e240f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-24T16:49:05.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e6fba1dfcee871f7",
+    "title": "AWS、DynamoDB互換データベースをローカルマシンで構築可能にするオープンソース「ExtendDB」がバージョン1.0に到達",
+    "url": "https://www.publickey1.jp/blog/26/awsdynamodbextenddb10.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T16:30:34.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fawsdynamodbextenddb10.html"
+  },
+  {
+    "id": "8adb937887119ea8",
+    "title": "jQuery 4.1正式版がリリース、内部実装をquerySelectorAllに統一でより高速に。jQuery 3.x系最後となるjQuery 3.8も同時リリース",
+    "url": "https://www.publickey1.jp/blog/26/jquery_41queryselectoralljquery_3xjquery_38.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T16:30:31.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fjquery_41queryselectoralljquery_3xjquery_38.html"
+  },
+  {
+    "id": "3f16769615d74c0f",
+    "title": "ロシア軍の死者４９万人超か、サイバー攻撃による流出データは「本物」と英報道…「５分に１人」戦死の計算",
+    "url": "https://www.yomiuri.co.jp/world/20261124-GYT1T00383/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T15:56:25.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.yomiuri.co.jp%2Fworld%2F20261124-GYT1T00383%2F"
+  },
+  {
+    "id": "80a43d64bdfeff6a",
+    "title": "Rails（Sidekiq＋Selenium）経験者向け：Node.jsのBullMQ＋Playwrightでバッチ処理を組むときのハマりどころ",
+    "url": "https://qiita.com/jinxin4869/items/7771db4dccb7ddf3ac4a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-24T15:37:54.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "e9fa74c5960c2354",
+    "title": "ECR/S3からのimage pullの仕組みを深掘りする",
+    "url": "https://qiita.com/har1101/items/a6e5f0d2039bd0932511?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-24T15:28:45.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "b37360a24677c153",
+    "title": "[スタパ齋藤のApple野郎] レトロパソコンな見た目がたまらんッ!!!「HAGiBiS」のディスプレイつきUSB-Cハブが楽しい!!",
+    "url": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2158744.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T15:12:12.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Fcolumn%2Fstapaapple%2F2158744.html"
+  },
+  {
+    "id": "45c01c65f7258bf4",
+    "title": "【入門】MCP（Model Context Protocol）とは？仕組みから自作サーバーまで",
+    "url": "https://zenn.dev/paku0219/articles/b8457aeba45d84",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-24T14:45:38.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--gGGEQWBn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%2585%25A5%25E9%2596%2580%25E3%2580%2591MCP%25EF%25BC%2588Model%2520Context%2520Protocol%25EF%25BC%2589%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2581%258B%25E3%2582%2589%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B4%25E3%2582%2584%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FmOWYyMjdmZTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "7e4ba63426da710d",
+    "title": "学習記録アプリをSupabaseでDB化とGithabActionでCI/CD化して、FirebasHostingにデプロイしVitestでテストまで作成",
+    "url": "https://qiita.com/Tukirukiki/items/b5e37737535ce5fe3e86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-24T14:29:16.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "9dbb1b4e125d8186",
+    "title": "二度読みしない工夫で、爆速CSSが誕生した🚀",
+    "url": "https://zenn.dev/anionix/articles/f6b25b3058a210",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-24T13:59:05.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--BqxHU1H0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BA%258C%25E5%25BA%25A6%25E8%25AA%25AD%25E3%2581%25BF%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E5%25B7%25A5%25E5%25A4%25AB%25E3%2581%25A7%25E3%2580%2581%25E7%2588%2586%25E9%2580%259FCSS%25E3%2581%258C%25E8%25AA%2595%25E7%2594%259F%25E3%2581%2597%25E3%2581%259F%2520%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%2520inari%25E9%25AE%25A8%2520%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDh0V2ZtdmJaR0h1NWJfdGVfeWdNclBpd2dEc0xUMGtpWF83Z2NwSjFUUS1OZ1N5aTI9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "76f80c6a2ca8976b",
+    "title": "Reactはここまで変わった！ メモ化・Effect・アニメーションの最新事情 - ICS MEDIA",
+    "url": "https://ics.media/entry/261119/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T13:57:53.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fics.media%2Fentry%2F261119%2F"
+  },
+  {
+    "id": "040227457284e7ba",
+    "title": "はてブで投資系のブクマにスター付けまくってる謎のアカウント",
+    "url": "https://anond.hatelabo.jp/20261121084231",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-24T13:49:03.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fanond.hatelabo.jp%2F20261121084231"
+  },
+  {
+    "id": "88e0c505d817c82e",
+    "title": "cdkd deploy実行した時のリソースごとのデプロイ時間見たいなぁ...ん？見れるんかいっ！",
+    "url": "https://qiita.com/kuracchi_enj/items/2e911d5a8b1253dd4b6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+    "source": "Qiita Popular",
+    "publishedAt": "2026-11-24T13:46:10.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "952b14f8431312e5",
+    "title": "ぼくのかんがえたさいきょうの言語をAIに作らせたら3日でセルフホストした話",
+    "url": "https://zenn.dev/ts1/articles/0472a973160b5b",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-24T13:41:35.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--JBH7R3Oa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25BC%25E3%2581%258F%25E3%2581%25AE%25E3%2581%258B%25E3%2582%2593%25E3%2581%258C%25E3%2581%2588%25E3%2581%259F%25E3%2581%2595%25E3%2581%2584%25E3%2581%258D%25E3%2582%2587%25E3%2581%2586%25E3%2581%25AE%25E8%25A8%2580%25E8%25AA%259E%25E3%2582%2592AI%25E3%2581%25AB%25E4%25BD%259C%25E3%2582%2589%25E3%2581%259B%25E3%2581%259F%25E3%2582%25893%25E6%2597%25A5%25E3%2581%25A7%25E3%2582%25BB%25E3%2583%25AB%25E3%2583%2595%25E3%2583%259B%25E3%2582%25B9%25E3%2583%2588%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ts1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXQwTXF4RW1rendLTWpRUTlsZm5JS0ptYkMzWWcyaUp5MkF2SEVXVGduYk5aRURWekY9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "2df72b7b07ffb4c0",
+    "title": "PCパーツを「読む」から「見て分かる」へ：React＋Phaserで作るドット絵UI",
+    "url": "https://zenn.dev/shige7000/articles/1fe13d53024678",
+    "source": "Zenn (TypeScript)",
+    "publishedAt": "2026-11-24T13:08:48.000Z",
+    "status": "pending",
+    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--hnwOIla9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PC%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2584%25E3%2582%2592%25E3%2580%258C%25E8%25AA%25AD%25E3%2582%2580%25E3%2580%258D%25E3%2581%258B%25E3%2582%2589%25E3%2580%258C%25E8%25A6%258B%25E3%2581%25A6%25E5%2588%2586%25E3%2581%258B%25E3%2582%258B%25E3%2580%258D%25E3%2581%25B8%25EF%25BC%259AReact%25EF%25BC%258BPhaser%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2583%2589%25E3%2583%2583%25E3%2583%2588%25E7%25B5%25B5UI%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2595%25B7%25E6%25B4%25B2%25E6%25B8%25AF%25E7%2594%25BA%25E9%259B%25BB%25E6%25B0%2597%25E5%25B7%25A5%25E4%25BA%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ZjODk2OTBhMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
     "id": "71c4837a2350c57c",
     "title": "当社お客様の情報漏えいに関するお詫びとお知らせ（第2報）:楽天証券",
     "url": "https://www.rakuten-sec.co.jp/web/info/info20261124-04.html",
@@ -1261,6 +1588,15 @@
       "https://cdn.buymeacoffee.com/uploads/project_updates/55361/2026/11/22/151926_1795360766569_Screenshot_20261123_at_0.19.14.png.png",
       "https://cdn.buymeacoffee.com/uploads/project_updates/55361/2026/11/22/152040_1795360840208_Screenshot_20261123_at_0.20.29.png.png"
     ]
+  },
+  {
+    "id": "2cb05ef7d823659e",
+    "title": "日本語サイトで指定しておきたいCSS 2026年版 - Qiita",
+    "url": "https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-23T10:33:25.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Ftofu_frontend%2Fitems%2F6a1bb7d80a58736eef0e"
   },
   {
     "id": "c19d554af7e8927c",

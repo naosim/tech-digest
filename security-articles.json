@@ -1,5 +1,173 @@
 [
   {
+    "id": "95cf81b357712051",
+    "title": "Androidアプリ「東京消防庁公式アプリ」におけるパストラバーサルの脆弱性",
+    "url": "https://jvn.jp/jp/JVN16383801/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-26T03:00:15.000Z"
+  },
+  {
+    "id": "5f18983dc8838fb9",
+    "title": "baserCMSにおける複数の脆弱性",
+    "url": "https://jvn.jp/jp/JVN25972114/",
+    "source": "JVN 新着・更新情報",
+    "publishedAt": "2026-11-26T03:00:00.000Z"
+  },
+  {
+    "id": "f9dd71240d77151c",
+    "title": "Weekly Report: 複数のPalo Alto Networks製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#1",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "075ee6e8f5b76e89",
+    "title": "Weekly Report: Synology DiskStation Managerに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#2",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "a70b127379252310",
+    "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#3",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "fe7eaa63a716252a",
+    "title": "Weekly Report: IBM Guardium Data Protectionに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#4",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "f71bba2b6a821812",
+    "title": "Weekly Report: UniFi Access Applicationに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#5",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "453317288314695f",
+    "title": "Weekly Report: Rubyに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#6",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "209765e7c92399b3",
+    "title": "Weekly Report: Drupal coreに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#7",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "a3a9f72be443b73b",
+    "title": "Weekly Report: 複数のSplunk製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#8",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "86783f67737fef95",
+    "title": "Weekly Report: 複数のASUS製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#9",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "ee36d9065ccfaa53",
+    "title": "Weekly Report: 複数のF5製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#10",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "0da653e458d35d1d",
+    "title": "Weekly Report: ILIASに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#11",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "8684907ca4476dac",
+    "title": "Weekly Report: Firefoxに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#12",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "accf0a1ffc9c9203",
+    "title": "Weekly Report: プリザンターに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#13",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "94fa29de37d23bc0",
+    "title": "Weekly Report: AutoSys Workload Automationに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#14",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "679d2227f4a8e03a",
+    "title": "Weekly Report: Google Chromeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#15",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "dd420e2596ed0553",
+    "title": "Weekly Report: 複数のOracle製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#16",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "1ce2e47908e74881",
+    "title": "Weekly Report: 複数のAtlassian製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#17",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "0b6c183479dc8c40",
+    "title": "Weekly Report: GitLabに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#18",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "9cf373f8799774bf",
+    "title": "Weekly Report: ONLYOFFICE Docsに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#19",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "fc2bd9de31094fa2",
+    "title": "Weekly Report: Apache Shiroに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#20",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "19e7ee39178c6dee",
+    "title": "Weekly Report: nginxにおける複数の脆弱性（CVE-2026-123007など）について",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#21",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
+    "id": "02cffacee08d732e",
+    "title": "Weekly Report: 認証を有効にしていないNode-REDに悪意ある制御フローが登録される問題（CVE-2026-58115）について",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr261126.html#22",
+    "source": "JPCERT/CC 注意喚起・緊急報告・Weekly Report",
+    "publishedAt": "2026-11-26T00:24:00.000Z"
+  },
+  {
     "id": "27f48998350e3ffc",
     "title": "Apache Tomcatにおける複数の脆弱性（2026年11月19日）",
     "url": "https://jvn.jp/vu/JVNVU92527429/",
