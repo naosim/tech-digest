@@ -1,17 +1,5 @@
 [
   {
-    "id": "de6a6b768afb5e74",
-    "title": "Lean verification of the Riemann Hypothesis",
-    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-21T16:27:12.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fleanprover-community.github.io%2Fblog%2Fposts%2Friemann-hypothesis%2F",
-    "category": "RELEASE",
-    "summary": "# 課題と結論\n\nこの記事は、レントアルポゲが公開したライブラリで、リマンハッパス定理の証明を示しています。 Lean と Mathlib の両方のコミュニティが検証し、証明の正確性について正式に認めています。コードは Mathlib に依存しており、17 百万行のコードを構成しています。\n\n## 方法\n\nこの証明の正確性は、以下のチェックにより確認されました。\n- Mathlib の RiemannHypothesis とアルポゲの証明が一致していることが確認された。\n- 独立したツール（comparator と con-leche）による検証により、論理の誤りがないことを保証した。\n- 複数のチェックツールで証明を再確認し、誤りがないことを示した。\n\n## 結論\n\nこのライブラリは、数学的な証明の信頼性を担保する重要な資産となっています。コミュニティの協力により、新しい数学的アイデアの理解と発展に貢献しています。\n\n要約本文:\nレントアルポゲが公開した Lean ライブラリは、17 百万行のコードで、リマンハッパス定理の証明を示しています。この証明は Mathlib との整合性が確認されており、独立したチェックツールによる検証により信頼性が高まっています。ライブラリは Mathlib に依存しており、開発者はこの証明を信頼して利用できます。",
-    "imageUrls": []
-  },
-  {
     "id": "6c4a35935c06b99a",
     "title": "【演習ノック編】JavaScript/TypeScript 50本ノック - 配列・非同期・型・zod",
     "url": "https://zenn.dev/kipcop/articles/f35-vue-35x1-js-ts-knock",
@@ -14246,5 +14234,14 @@
     "publishedAt": "2026-11-10T23:46:49.000Z",
     "status": "completed",
     "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--DQ8hwb1Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Playwright%2520%25E3%2582%2592%2520Bun%2520%25E3%2581%25AB%25E7%25A7%25BB%25E3%2581%2599%25E5%2589%258D%25E3%2581%25AB%25E7%25A2%25BA%25E8%25AA%258D%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25203%2520%25E3%2581%25A4%25E3%2581%25AE%25E3%2581%2593%25E3%2581%25A8%25E3%2580%2582%25E3%2583%25A1%25E3%2583%25A2%25E3%2583%25AA%25E3%2581%25AF%25E5%258D%258A%25E5%2588%2586%25E3%2580%2581%25E6%258C%2599%25E5%258B%2595%25E3%2581%25AF%25206%2520%25E3%2581%25A4%25E9%2581%2595%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%258A%25E3%2583%2599%25E3%2582%2584%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdhZmMyZTkyYWMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+  },
+  {
+    "id": "14a7357d5144fb7d",
+    "title": "“年内入試”での生成AI活用めぐり大学の対応分かれる　 | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261111de73858",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T23:39:29.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261111de73858"
   }
 ]

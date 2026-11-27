@@ -1,14 +1,5 @@
 [
   {
-    "id": "14a7357d5144fb7d",
-    "title": "“年内入試”での生成AI活用めぐり大学の対応分かれる　 | NHKニュース",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261111de73858",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-10T23:39:29.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261111de73858"
-  },
-  {
     "id": "8ee4caa8bc65ed2e",
     "title": "Google、「Gemini 4 Carbon」提供開始--AstraやFable対抗の最上位AI",
     "url": "https://japan.cnet.com/article/35254674/",
@@ -13082,5 +13073,14 @@
     "publishedAt": "2020-03-08T09:05:50.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Fetaroid%2Fitems%2Fb1024c7d200a75b992fc"
+  },
+  {
+    "id": "07dc3f292cfd8e8d",
+    "title": "サーバー作成直後に設定しておくべき初期セキュリティ設定",
+    "url": "https://manual.sakura.ad.jp/vps/support/security/firstsecurity.html",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2017-03-01T06:01:53.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmanual.sakura.ad.jp%2Fvps%2Fsupport%2Fsecurity%2Ffirstsecurity.html"
   }
 ]
