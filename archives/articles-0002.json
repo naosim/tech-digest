@@ -1,17 +1,5 @@
 [
   {
-    "id": "6c4a35935c06b99a",
-    "title": "【演習ノック編】JavaScript/TypeScript 50本ノック - 配列・非同期・型・zod",
-    "url": "https://zenn.dev/kipcop/articles/f35-vue-35x1-js-ts-knock",
-    "source": "Zenn (TypeScript)",
-    "publishedAt": "2026-11-21T16:20:32.000Z",
-    "status": "completed",
-    "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--gYPw5s4v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E6%25BC%2594%25E7%25BF%2592%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25E7%25B7%25A8%25E3%2580%2591JavaScript%252FTypeScript%252050%25E6%259C%25AC%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%2520-%2520%25E9%2585%258D%25E5%2588%2597%25E3%2583%25BB%25E9%259D%259E%25E5%2590%258C%25E6%259C%259F%25E3%2583%25BB%25E5%259E%258B%25E3%2583%25BBzod%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:k.ike%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzB5X0dHdXdYN0R2NUdXamlMU0FaLTI5OHhBcFBSLW9pMEhMY2lEZ2dBSHVVdDdESHM9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-    "category": "RELEASE",
-    "summary": "# 開発者向け ノックの演習編要約\n\nこのノックは JavaScript の基礎を基に、非同期処理と型記述の基礎を学ぶための第1弾の演習編です。コードを実行し、自身の理解を「書ける」よう設計されています。姉妹シリーズのバックエンド編にも同様の構成があり、Vue のコード構造を理解する上で重要な知識となります。\n\n## 課題と解決方法\n課題は各レベルごとに独立して解決し、手元の環境（Node.js 20, TypeScript 7.0 など）で実行します。主要な解決方法は以下のステップです。\n\n### 変数と関数の基礎\n変数の宣言法（const と let）の使い分けと、再代入の判断基準を学ぶ必要があります。\n\n### 配列操作とモジュール\n配列の操作や、map や filter を使って要素を処理する技術を習うことができます。\n\n### 非同期処理\nJavaScript の型が一致しない場合のエラー防止と、演算子の優先順（文字列 vs 数値）を理解する知識が必要です。\n\n### TypeScript の基礎\n型記述の導入と、実装時のエラーハンドリングを学ぶ必要があります。\n\n## 結論\nこのノックは、基礎的なコード構造と処理手法を理解し、実際の開発時に適切に運用できる能力を高めるためのトレーニングです。各レベルの課題を解決することで、より堅牢なコードを書く技術を養うことができます。\n\n## 方法\n1. 環境準備：Node.js 20 以上と必要なパッケージ（typescript, zod, tsx）をインストールします。\n2. 各レベルのコードを実行し、結果を確認します。\n3. 解答の分析を行い、自身の理解を深めるために問題文を読み直します。\n\nこのノックは、基礎的な技術知識を補強する重要なトレーニングとなります。",
-    "imageUrls": []
-  },
-  {
     "id": "af98b201e617c36b",
     "title": "なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一されてない..",
     "url": "https://anond.hatelabo.jp/20261122011458",
@@ -14243,5 +14231,14 @@
     "publishedAt": "2026-11-10T23:39:29.000Z",
     "status": "completed",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261111de73858"
+  },
+  {
+    "id": "8ee4caa8bc65ed2e",
+    "title": "Google、「Gemini 4 Carbon」提供開始--AstraやFable対抗の最上位AI",
+    "url": "https://japan.cnet.com/article/35254674/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T23:32:37.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254674%2F"
   }
 ]
