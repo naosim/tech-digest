@@ -1,14 +1,5 @@
 [
   {
-    "id": "071546147fe21fd6",
-    "title": "おやすみ、インターネットの時代",
-    "url": "https://wirelesswire.jp/2026/11/94886/",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-10T23:02:09.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwirelesswire.jp%2F2026%2F11%2F94886%2F"
-  },
-  {
     "id": "e15daf70ed3e3b66",
     "title": "HTML-in-Canvasでページトランジションするライブラリを作った - マルシテイア",
     "url": "https://blog.amagi.dev/entry/vfx-js-transitions",
@@ -12956,6 +12947,15 @@
     "publishedAt": "2026-09-10T10:10:12.000Z",
     "status": "pending",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgithubnext.com%2Fprojects%2Fchopin%2F"
+  },
+  {
+    "id": "c12e5ad1c6aa835d",
+    "title": "YAPC::Asia Tokyo 2010 Keynoteを観た - 生涯未熟",
+    "url": "https://syossan.hateblo.jp/entry/2026/09/08/093000",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-09-08T00:57:41.000Z",
+    "status": "pending",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fsyossan.hateblo.jp%2Fentry%2F2026%2F09%2F08%2F093000"
   },
   {
     "id": "2325358d2c0981dc",

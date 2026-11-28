@@ -1,17 +1,5 @@
 [
   {
-    "id": "af98b201e617c36b",
-    "title": "なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一されてない..",
-    "url": "https://anond.hatelabo.jp/20261122011458",
-    "source": "はてなブックマーク IT 人気記事",
-    "publishedAt": "2026-11-21T16:15:51.000Z",
-    "status": "completed",
-    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fanond.hatelabo.jp%2F20261122011458",
-    "category": "GENERAL",
-    "summary": "開発者向けに、直訳調を避けた自然でわかりやすい日本語で350〜450 文字を目安に要約します。\n\nテーマ：記事が扱う課題や技術は何か\n結論：記事が伝える主張、結果、または推奨は何か\n方法：課題をどう解決するか、技術がどう動くか、どのように使うか\n\nこの記事では、セルフレジの使い方が煩わしくなる理由と、開発者への推奨について解説されています。主な課題として、複雑なUIによる操作難易度や、多様なアプリとの混同、あるいはシステム間の統一性不足が挙げられます。特に、タッチパネル注文機能やポイントカード登録などのポップアップ画面は戸惑わせる要因となります。また、ゲームやSNSの類似機能との比較において、明確な記号や暗黙知の理解力が不足していることが指摘されています。\n\n解決策として、UI の統一化や標準化を推奨します。例えば、車のシフトレバーや決済方法の共通化を例示し、明確な指示を伝えることで混乱を防ぐことが重要です。また、開発者側は、ユーザーの年齢や経験度に応じて適切なアプリを選択するよう注意すべきであるとしています。最終的には、シンプルで直感的な設計を採用することで、顧客の満足度を高めることが期待されます。",
-    "imageUrls": []
-  },
-  {
     "id": "0bac8ddf3f6c6734",
     "title": "自分のPCで動く日本語AIアシスタント『ヤタ』を作った",
     "url": "https://zenn.dev/koheip/articles/yata-local-ai-assistant",
@@ -14240,5 +14228,14 @@
     "publishedAt": "2026-11-10T23:32:37.000Z",
     "status": "completed",
     "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35254674%2F"
+  },
+  {
+    "id": "071546147fe21fd6",
+    "title": "おやすみ、インターネットの時代",
+    "url": "https://wirelesswire.jp/2026/11/94886/",
+    "source": "はてなブックマーク IT 人気記事",
+    "publishedAt": "2026-11-10T23:02:09.000Z",
+    "status": "completed",
+    "imageUrl": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwirelesswire.jp%2F2026%2F11%2F94886%2F"
   }
 ]
